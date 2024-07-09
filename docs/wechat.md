@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-08, **4D Contrastive Superflows are Dense 3D Representation Learners**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2407.06190v1](http://arxiv.org/abs/2407.06190v1), Code: **[https://github.com/xiangxu-0103/superflow](https://github.com/xiangxu-0103/superflow)**
+- 2024-07-08, **PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**, Jinhua Zhang et.al., Paper: [http://arxiv.org/abs/2407.06109v1](http://arxiv.org/abs/2407.06109v1), Code: **[https://github.com/labshuhanggu/perldiff](https://github.com/labshuhanggu/perldiff)**
+- 2024-07-08, **Physics-Informed Machine Learning Towards A Real-Time Spacecraft Thermal Simulator**, Manaswin Oddiraju et.al., Paper: [http://arxiv.org/abs/2407.06099v1](http://arxiv.org/abs/2407.06099v1)
+- 2024-07-08, **RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**, Sarah Elmahdy et.al., Paper: [http://arxiv.org/abs/2407.06016v1](http://arxiv.org/abs/2407.06016v1)
+- 2024-07-08, **Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**, Aaron Lohner et.al., Paper: [http://arxiv.org/abs/2407.05910v1](http://arxiv.org/abs/2407.05910v1)
+- 2024-07-08, **Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**, Yaozong Gan et.al., Paper: [http://arxiv.org/abs/2407.05814v1](http://arxiv.org/abs/2407.05814v1)
+- 2024-07-08, **Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**, Hao Jing et.al., Paper: [http://arxiv.org/abs/2407.05769v1](http://arxiv.org/abs/2407.05769v1)
+- 2024-07-08, **BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space**, Yumeng Zhang et.al., Paper: [http://arxiv.org/abs/2407.05679v1](http://arxiv.org/abs/2407.05679v1), Code: **[https://github.com/zympsyche/bevworld](https://github.com/zympsyche/bevworld)**
+- 2024-07-08, **MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2407.05671v1](http://arxiv.org/abs/2407.05671v1)
+- 2024-07-08, **GenFollower: Enhancing Car-Following Prediction with Large Language Models**, Xianda Chen et.al., Paper: [http://arxiv.org/abs/2407.05611v1](http://arxiv.org/abs/2407.05611v1)
 - 2024-07-05, **Optimizing the image correction pipeline for pedestrian detection in the thermal-infrared domain**, Christophe Karam et.al., Paper: [http://arxiv.org/abs/2407.04484v1](http://arxiv.org/abs/2407.04484v1)
 - 2024-07-05, **Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**, Tong Wang et.al., Paper: [http://arxiv.org/abs/2407.04359v1](http://arxiv.org/abs/2407.04359v1)
 - 2024-07-05, **Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**, Pierre Haritz et.al., Paper: [http://arxiv.org/abs/2407.04343v1](http://arxiv.org/abs/2407.04343v1)
