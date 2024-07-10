@@ -2,10 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-09, **Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07020v1](http://arxiv.org/abs/2407.07020v1)
+- 2024-07-09, **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**, Abdul Karim Gizzini et.al., Paper: [http://arxiv.org/abs/2407.07009v1](http://arxiv.org/abs/2407.07009v1)
+- 2024-07-09, **Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2407.06605v1](http://arxiv.org/abs/2407.06605v1)
+- 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
+- 2024-07-09, **VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2407.06516v1](http://arxiv.org/abs/2407.06516v1)
+- 2024-07-08, **Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**, Jianuo Huang et.al., Paper: [http://arxiv.org/abs/2407.06317v1](http://arxiv.org/abs/2407.06317v1)
 - 2024-07-08, **4D Contrastive Superflows are Dense 3D Representation Learners**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2407.06190v1](http://arxiv.org/abs/2407.06190v1), Code: **[https://github.com/xiangxu-0103/superflow](https://github.com/xiangxu-0103/superflow)**
 - 2024-07-08, **PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**, Jinhua Zhang et.al., Paper: [http://arxiv.org/abs/2407.06109v1](http://arxiv.org/abs/2407.06109v1), Code: **[https://github.com/labshuhanggu/perldiff](https://github.com/labshuhanggu/perldiff)**
 - 2024-07-08, **Physics-Informed Machine Learning Towards A Real-Time Spacecraft Thermal Simulator**, Manaswin Oddiraju et.al., Paper: [http://arxiv.org/abs/2407.06099v1](http://arxiv.org/abs/2407.06099v1)
-- 2024-07-08, **RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**, Sarah Elmahdy et.al., Paper: [http://arxiv.org/abs/2407.06016v1](http://arxiv.org/abs/2407.06016v1)
+- 2024-07-08, **RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**, Sarah Elmahdy et.al., Paper: [http://arxiv.org/abs/2407.06016v1](http://arxiv.org/abs/2407.06016v1), Code: **[https://github.com/SarahELMAHDY03/RHRSegNet](https://github.com/SarahELMAHDY03/RHRSegNet)**
 - 2024-07-08, **Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**, Aaron Lohner et.al., Paper: [http://arxiv.org/abs/2407.05910v1](http://arxiv.org/abs/2407.05910v1)
 - 2024-07-08, **Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**, Yaozong Gan et.al., Paper: [http://arxiv.org/abs/2407.05814v1](http://arxiv.org/abs/2407.05814v1)
 - 2024-07-08, **Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**, Hao Jing et.al., Paper: [http://arxiv.org/abs/2407.05769v1](http://arxiv.org/abs/2407.05769v1)
