@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07835v1-b31b1b.svg)](http://arxiv.org/abs/2407.07835v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tourlics/robus_dataset)**|
+|**2024-07-10**|**The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**|Daniel Sikar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07818v1-b31b1b.svg)](http://arxiv.org/abs/2407.07818v1)|null|
+|**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07684v1-b31b1b.svg)](http://arxiv.org/abs/2407.07684v1)|null|
+|**2024-07-10**|**Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**|Yili Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07587v1-b31b1b.svg)](http://arxiv.org/abs/2407.07587v1)|null|
+|**2024-07-10**|**Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles**|Dongfang Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07510v1-b31b1b.svg)](http://arxiv.org/abs/2407.07510v1)|null|
+|**2024-07-10**|**Exploring the Untouched Sweeps for Conflict-Aware 3D Segmentation Pretraining**|Tianfang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07465v1-b31b1b.svg)](http://arxiv.org/abs/2407.07465v1)|null|
+|**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07324v1-b31b1b.svg)](http://arxiv.org/abs/2407.07324v1)|null|
+|**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07276v1-b31b1b.svg)](http://arxiv.org/abs/2407.07276v1)|null|
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07020v1-b31b1b.svg)](http://arxiv.org/abs/2407.07020v1)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07009v1-b31b1b.svg)](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-09**|**Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06605v1-b31b1b.svg)](http://arxiv.org/abs/2407.06605v1)|null|
