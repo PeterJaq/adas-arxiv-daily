@@ -1,4 +1,4 @@
-> Updated on 2024.07.10
+> Updated on 2024.07.11
 
 ## Autonomous_Driving
 
@@ -7,8 +7,8 @@
 - 2024-07-09, **Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2407.06605v1](http://arxiv.org/abs/2407.06605v1)
 - 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
 - 2024-07-09, **VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2407.06516v1](http://arxiv.org/abs/2407.06516v1)
-- 2024-07-08, **Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**, Jianuo Huang et.al., Paper: [http://arxiv.org/abs/2407.06317v1](http://arxiv.org/abs/2407.06317v1)
-- 2024-07-08, **4D Contrastive Superflows are Dense 3D Representation Learners**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2407.06190v1](http://arxiv.org/abs/2407.06190v1), Code: **[https://github.com/xiangxu-0103/superflow](https://github.com/xiangxu-0103/superflow)**
+- 2024-07-10, **Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**, Jianuo Huang et.al., Paper: [http://arxiv.org/abs/2407.06317v2](http://arxiv.org/abs/2407.06317v2)
+- 2024-07-10, **4D Contrastive Superflows are Dense 3D Representation Learners**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2407.06190v2](http://arxiv.org/abs/2407.06190v2), Code: **[https://github.com/xiangxu-0103/superflow](https://github.com/xiangxu-0103/superflow)**
 - 2024-07-08, **PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**, Jinhua Zhang et.al., Paper: [http://arxiv.org/abs/2407.06109v1](http://arxiv.org/abs/2407.06109v1), Code: **[https://github.com/labshuhanggu/perldiff](https://github.com/labshuhanggu/perldiff)**
 - 2024-07-08, **Physics-Informed Machine Learning Towards A Real-Time Spacecraft Thermal Simulator**, Manaswin Oddiraju et.al., Paper: [http://arxiv.org/abs/2407.06099v1](http://arxiv.org/abs/2407.06099v1)
 - 2024-07-08, **RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**, Sarah Elmahdy et.al., Paper: [http://arxiv.org/abs/2407.06016v1](http://arxiv.org/abs/2407.06016v1), Code: **[https://github.com/SarahELMAHDY03/RHRSegNet](https://github.com/SarahELMAHDY03/RHRSegNet)**
