@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-11, **MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps**, Hang Wu et.al., Paper: [http://arxiv.org/abs/2407.08561v1](http://arxiv.org/abs/2407.08561v1)
+- 2024-07-11, **BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**, Hang Wu et.al., Paper: [http://arxiv.org/abs/2407.08526v1](http://arxiv.org/abs/2407.08526v1)
+- 2024-07-11, **Joint Optimization of Age of Information and Energy Consumption in NR-V2X System based on Deep Reinforcement Learning**, Shulin Song et.al., Paper: [http://arxiv.org/abs/2407.08458v1](http://arxiv.org/abs/2407.08458v1), Code: **[https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)**
+- 2024-07-11, **CLEO: Continual Learning of Evolving Ontologies**, Shishir Muralidhara et.al., Paper: [http://arxiv.org/abs/2407.08411v1](http://arxiv.org/abs/2407.08411v1)
+- 2024-07-11, **Cyber Attacks on Maritime Assets and their Impacts on Health and Safety Aboard: A Holistic View**, Mohammad Ammar et.al., Paper: [http://arxiv.org/abs/2407.08406v1](http://arxiv.org/abs/2407.08406v1)
+- 2024-07-11, **Data-Driven Model Predictive Control for Autonomous Vehicle Steering**, Jiarui Zhang et.al., Paper: [http://arxiv.org/abs/2407.08401v1](http://arxiv.org/abs/2407.08401v1)
+- 2024-07-11, **Accurate Cooperative Localization Utilizing LiDAR-equipped Roadside Infrastructure for Autonomous Driving**, Yuze Jiang et.al., Paper: [http://arxiv.org/abs/2407.08384v1](http://arxiv.org/abs/2407.08384v1)
+- 2024-07-10, **NDST: Neural Driving Style Transfer for Human-Like Vision-Based Autonomous Driving**, Donghyun Kim et.al., Paper: [http://arxiv.org/abs/2407.08073v1](http://arxiv.org/abs/2407.08073v1)
+- 2024-07-10, **Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**, Lei Cheng et.al., Paper: [http://arxiv.org/abs/2407.08049v1](http://arxiv.org/abs/2407.08049v1)
+- 2024-07-10, **Flow4D: Leveraging 4D Voxel Network for LiDAR Scene Flow Estimation**, Jaeyeul Kim et.al., Paper: [http://arxiv.org/abs/2407.07995v1](http://arxiv.org/abs/2407.07995v1), Code: **[https://github.com/dgist-cvlab/flow4d](https://github.com/dgist-cvlab/flow4d)**
 - 2024-07-10, **RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**, Tao Li et.al., Paper: [http://arxiv.org/abs/2407.07835v1](http://arxiv.org/abs/2407.07835v1), Code: **[https://github.com/tourlics/robus_dataset](https://github.com/tourlics/robus_dataset)**
 - 2024-07-10, **The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**, Daniel Sikar et.al., Paper: [http://arxiv.org/abs/2407.07818v1](http://arxiv.org/abs/2407.07818v1)
 - 2024-07-10, **Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2407.07684v1](http://arxiv.org/abs/2407.07684v1)
