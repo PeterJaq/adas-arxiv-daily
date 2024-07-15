@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09475v1-b31b1b.svg)](http://arxiv.org/abs/2407.09475v1)|null|
+|**2024-07-12**|**TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety**|Sandeep Thalapanane et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09466v1-b31b1b.svg)](http://arxiv.org/abs/2407.09466v1)|null|
+|**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09249v1-b31b1b.svg)](http://arxiv.org/abs/2407.09249v1)|null|
+|**2024-07-12**|**Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**|Shun Kotoku et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09124v1-b31b1b.svg)](http://arxiv.org/abs/2407.09124v1)|null|
 |**2024-07-11**|**MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps**|Hang Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08561v1-b31b1b.svg)](http://arxiv.org/abs/2407.08561v1)|null|
 |**2024-07-11**|**BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**|Hang Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08526v1-b31b1b.svg)](http://arxiv.org/abs/2407.08526v1)|null|
 |**2024-07-11**|**Joint Optimization of Age of Information and Energy Consumption in NR-V2X System based on Deep Reinforcement Learning**|Shulin Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08458v1-b31b1b.svg)](http://arxiv.org/abs/2407.08458v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)**|
