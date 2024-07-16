@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-07-15, **A unified theory and statistical learning approach for traffic conflict detection**, Yiru Jiao et.al., Paper: [http://arxiv.org/abs/2407.10959v1](http://arxiv.org/abs/2407.10959v1)
+- 2024-07-15, **RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**, Chunliang Li et.al., Paper: [http://arxiv.org/abs/2407.10876v1](http://arxiv.org/abs/2407.10876v1), Code: **[https://github.com/jbji/repvf](https://github.com/jbji/repvf)**
+- 2024-07-15, **DINO Pre-training for Vision-based End-to-end Autonomous Driving**, Shubham Juneja et.al., Paper: [http://arxiv.org/abs/2407.10803v1](http://arxiv.org/abs/2407.10803v1)
+- 2024-07-14, **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10299v1](http://arxiv.org/abs/2407.10299v1)
+- 2024-07-14, **RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation**, Li Li et.al., Paper: [http://arxiv.org/abs/2407.10159v1](http://arxiv.org/abs/2407.10159v1), Code: **[https://github.com/l1997i/rapid_seg](https://github.com/l1997i/rapid_seg)**
+- 2024-07-14, **FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**, Zheng Jiang et.al., Paper: [http://arxiv.org/abs/2407.10135v1](http://arxiv.org/abs/2407.10135v1)
+- 2024-07-13, **IFTR: An Instance-Level Fusion Transformer for Visual Collaborative Perception**, Shaohong Wang et.al., Paper: [http://arxiv.org/abs/2407.09857v1](http://arxiv.org/abs/2407.09857v1), Code: **[https://github.com/wangsh0111/iftr](https://github.com/wangsh0111/iftr)**
+- 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
+- 2024-07-12, **Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**, Shiqi Tan et.al., Paper: [http://arxiv.org/abs/2407.09697v1](http://arxiv.org/abs/2407.09697v1)
 - 2024-07-12, **Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**, Jinning Li et.al., Paper: [http://arxiv.org/abs/2407.09475v1](http://arxiv.org/abs/2407.09475v1)
 - 2024-07-12, **TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety**, Sandeep Thalapanane et.al., Paper: [http://arxiv.org/abs/2407.09466v1](http://arxiv.org/abs/2407.09466v1)
 - 2024-07-12, **GNN with Model-based RL for Multi-agent Systems**, Hanxiao Chen et.al., Paper: [http://arxiv.org/abs/2407.09249v1](http://arxiv.org/abs/2407.09249v1)
