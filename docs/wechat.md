@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
+- 2024-07-16, **MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2407.11682v1](http://arxiv.org/abs/2407.11682v1)
+- 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
+- 2024-07-16, **Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**, Jianhao Li et.al., Paper: [http://arxiv.org/abs/2407.11382v1](http://arxiv.org/abs/2407.11382v1)
+- 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
 - 2024-07-15, **A unified theory and statistical learning approach for traffic conflict detection**, Yiru Jiao et.al., Paper: [http://arxiv.org/abs/2407.10959v1](http://arxiv.org/abs/2407.10959v1)
 - 2024-07-15, **RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**, Chunliang Li et.al., Paper: [http://arxiv.org/abs/2407.10876v1](http://arxiv.org/abs/2407.10876v1), Code: **[https://github.com/jbji/repvf](https://github.com/jbji/repvf)**
 - 2024-07-15, **DINO Pre-training for Vision-based End-to-end Autonomous Driving**, Shubham Juneja et.al., Paper: [http://arxiv.org/abs/2407.10803v1](http://arxiv.org/abs/2407.10803v1)

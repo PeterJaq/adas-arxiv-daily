@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11954v1-b31b1b.svg)](http://arxiv.org/abs/2407.11954v1)|null|
+|**2024-07-16**|**MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11682v1-b31b1b.svg)](http://arxiv.org/abs/2407.11682v1)|null|
+|**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11644v1-b31b1b.svg)](http://arxiv.org/abs/2407.11644v1)|null|
+|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11382v1-b31b1b.svg)](http://arxiv.org/abs/2407.11382v1)|null|
+|**2024-07-16**|**Continuity Preserving Online CenterLine Graph Learning**|Yunhui Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11337v1-b31b1b.svg)](http://arxiv.org/abs/2407.11337v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi/cgnet)**|
 |**2024-07-15**|**A unified theory and statistical learning approach for traffic conflict detection**|Yiru Jiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.10959v1-b31b1b.svg)](http://arxiv.org/abs/2407.10959v1)|null|
 |**2024-07-15**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.10876v1-b31b1b.svg)](http://arxiv.org/abs/2407.10876v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbji/repvf)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.10803v1-b31b1b.svg)](http://arxiv.org/abs/2407.10803v1)|null|
