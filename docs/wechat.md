@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1)
+- 2024-07-17, **Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**, Yuqi Dai et.al., Paper: [http://arxiv.org/abs/2407.12491v1](http://arxiv.org/abs/2407.12491v1)
+- 2024-07-17, **Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**, Sangjun Lee et.al., Paper: [http://arxiv.org/abs/2407.12405v1](http://arxiv.org/abs/2407.12405v1)
+- 2024-07-16, **Data selection method for assessment of autonomous vehicles**, Linh Trinh et.al., Paper: [http://arxiv.org/abs/2407.12065v1](http://arxiv.org/abs/2407.12065v1)
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
 - 2024-07-16, **MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2407.11682v1](http://arxiv.org/abs/2407.11682v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)

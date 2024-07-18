@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**|Zhaorun Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12784v1-b31b1b.svg)](http://arxiv.org/abs/2407.12784v1)|null|
+|**2024-07-17**|**Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**|Yuqi Dai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12491v1-b31b1b.svg)](http://arxiv.org/abs/2407.12491v1)|null|
+|**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12405v1-b31b1b.svg)](http://arxiv.org/abs/2407.12405v1)|null|
+|**2024-07-16**|**Data selection method for assessment of autonomous vehicles**|Linh Trinh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12065v1-b31b1b.svg)](http://arxiv.org/abs/2407.12065v1)|null|
 |**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11954v1-b31b1b.svg)](http://arxiv.org/abs/2407.11954v1)|null|
 |**2024-07-16**|**MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11682v1-b31b1b.svg)](http://arxiv.org/abs/2407.11682v1)|null|
 |**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11644v1-b31b1b.svg)](http://arxiv.org/abs/2407.11644v1)|null|
