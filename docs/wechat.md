@@ -1,17 +1,17 @@
-> Updated on 2024.07.18
+> Updated on 2024.07.19
 
 ## Autonomous_Driving
 
-- 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1)
+- 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1), Code: **[https://github.com/BillChan226/AgentPoison](https://github.com/BillChan226/AgentPoison)**
 - 2024-07-17, **Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**, Yuqi Dai et.al., Paper: [http://arxiv.org/abs/2407.12491v1](http://arxiv.org/abs/2407.12491v1)
 - 2024-07-17, **Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**, Sangjun Lee et.al., Paper: [http://arxiv.org/abs/2407.12405v1](http://arxiv.org/abs/2407.12405v1)
-- 2024-07-16, **Data selection method for assessment of autonomous vehicles**, Linh Trinh et.al., Paper: [http://arxiv.org/abs/2407.12065v1](http://arxiv.org/abs/2407.12065v1)
+- 2024-07-16, **Data selection method for assessment of autonomous vehicles**, Linh Trinh et.al., Paper: [http://arxiv.org/abs/2407.12065v1](http://arxiv.org/abs/2407.12065v1), Code: **[https://github.com/khaclinh/DSA4AV](https://github.com/khaclinh/DSA4AV)**
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
 - 2024-07-16, **MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2407.11682v1](http://arxiv.org/abs/2407.11682v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-17, **Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**, Jianhao Li et.al., Paper: [http://arxiv.org/abs/2407.11382v2](http://arxiv.org/abs/2407.11382v2)
 - 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
-- 2024-07-15, **A unified theory and statistical learning approach for traffic conflict detection**, Yiru Jiao et.al., Paper: [http://arxiv.org/abs/2407.10959v1](http://arxiv.org/abs/2407.10959v1)
+- 2024-07-15, **A unified theory and statistical learning approach for traffic conflict detection**, Yiru Jiao et.al., Paper: [http://arxiv.org/abs/2407.10959v1](http://arxiv.org/abs/2407.10959v1), Code: **[https://github.com/Yiru-Jiao/UnifiedConflictDetection](https://github.com/Yiru-Jiao/UnifiedConflictDetection)**
 - 2024-07-15, **RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**, Chunliang Li et.al., Paper: [http://arxiv.org/abs/2407.10876v1](http://arxiv.org/abs/2407.10876v1), Code: **[https://github.com/jbji/repvf](https://github.com/jbji/repvf)**
 - 2024-07-15, **DINO Pre-training for Vision-based End-to-end Autonomous Driving**, Shubham Juneja et.al., Paper: [http://arxiv.org/abs/2407.10803v1](http://arxiv.org/abs/2407.10803v1)
 - 2024-07-14, **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10299v1](http://arxiv.org/abs/2407.10299v1)
