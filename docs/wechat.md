@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
+- 2024-07-18, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v1](http://arxiv.org/abs/2407.13517v1)
+- 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
+- 2024-07-18, **Ultra-Low-Latency Edge Inference for Distributed Sensing**, Zhanwei Wang et.al., Paper: [http://arxiv.org/abs/2407.13360v1](http://arxiv.org/abs/2407.13360v1)
+- 2024-07-18, **$μ$Drive: User-Controlled Autonomous Driving**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2407.13201v1](http://arxiv.org/abs/2407.13201v1)
+- 2024-07-18, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v1](http://arxiv.org/abs/2407.13155v1)
+- 2024-07-18, **OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**, Jian Sun et.al., Paper: [http://arxiv.org/abs/2407.13137v1](http://arxiv.org/abs/2407.13137v1)
+- 2024-07-18, **PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**, Jiyuan Fu et.al., Paper: [http://arxiv.org/abs/2407.13111v1](http://arxiv.org/abs/2407.13111v1)
+- 2024-07-17, **Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**, Minjae Cho et.al., Paper: [http://arxiv.org/abs/2407.13006v1](http://arxiv.org/abs/2407.13006v1)
+- 2024-07-17, **KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2407.12940v1](http://arxiv.org/abs/2407.12940v1)
 - 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1), Code: **[https://github.com/BillChan226/AgentPoison](https://github.com/BillChan226/AgentPoison)**
 - 2024-07-17, **Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**, Yuqi Dai et.al., Paper: [http://arxiv.org/abs/2407.12491v1](http://arxiv.org/abs/2407.12491v1)
 - 2024-07-17, **Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**, Sangjun Lee et.al., Paper: [http://arxiv.org/abs/2407.12405v1](http://arxiv.org/abs/2407.12405v1)

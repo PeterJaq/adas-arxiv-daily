@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**|Hardik Parwana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13693v1-b31b1b.svg)](http://arxiv.org/abs/2407.13693v1)|null|
+|**2024-07-18**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13517v1-b31b1b.svg)](http://arxiv.org/abs/2407.13517v1)|null|
+|**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13480v1-b31b1b.svg)](http://arxiv.org/abs/2407.13480v1)|null|
+|**2024-07-18**|**Ultra-Low-Latency Edge Inference for Distributed Sensing**|Zhanwei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13360v1-b31b1b.svg)](http://arxiv.org/abs/2407.13360v1)|null|
+|**2024-07-18**|**$μ$Drive: User-Controlled Autonomous Driving**|Kun Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13201v1-b31b1b.svg)](http://arxiv.org/abs/2407.13201v1)|null|
+|**2024-07-18**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13155v1-b31b1b.svg)](http://arxiv.org/abs/2407.13155v1)|null|
+|**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13137v1-b31b1b.svg)](http://arxiv.org/abs/2407.13137v1)|null|
+|**2024-07-18**|**PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**|Jiyuan Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13111v1-b31b1b.svg)](http://arxiv.org/abs/2407.13111v1)|null|
+|**2024-07-17**|**Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**|Minjae Cho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13006v1-b31b1b.svg)](http://arxiv.org/abs/2407.13006v1)|null|
+|**2024-07-17**|**KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation**|Jianbo Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12940v1-b31b1b.svg)](http://arxiv.org/abs/2407.12940v1)|null|
 |**2024-07-17**|**AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**|Zhaorun Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12784v1-b31b1b.svg)](http://arxiv.org/abs/2407.12784v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BillChan226/AgentPoison)**|
 |**2024-07-17**|**Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**|Yuqi Dai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12491v1-b31b1b.svg)](http://arxiv.org/abs/2407.12491v1)|null|
 |**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.12405v1-b31b1b.svg)](http://arxiv.org/abs/2407.12405v1)|null|
