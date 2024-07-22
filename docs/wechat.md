@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-07-19, **Why to DAO: a narrative analysis of the drivers of tokenized Exit to Community**, Tara Merk et.al., Paper: [http://arxiv.org/abs/2407.14327v1](http://arxiv.org/abs/2407.14327v1)
+- 2024-07-19, **Complementary Learning for Real-World Model Failure Detection**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2407.14306v1](http://arxiv.org/abs/2407.14306v1), Code: **[https://github.com/daniel-bogdoll/model_contradictions](https://github.com/daniel-bogdoll/model_contradictions)**
+- 2024-07-19, **Equivariant Symmetries for Aided Inertial Navigation**, Alessandro Fornasier et.al., Paper: [http://arxiv.org/abs/2407.14297v1](http://arxiv.org/abs/2407.14297v1)
+- 2024-07-19, **Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2407.14262v1](http://arxiv.org/abs/2407.14262v1)
+- 2024-07-19, **KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**, Kemou Jiang et.al., Paper: [http://arxiv.org/abs/2407.14239v1](http://arxiv.org/abs/2407.14239v1)
+- 2024-07-18, **Assurance of AI Systems From a Dependability Perspective**, Robin Bloomfield et.al., Paper: [http://arxiv.org/abs/2407.13948v1](http://arxiv.org/abs/2407.13948v1)
+- 2024-07-18, **Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**, Sheng-Yao Kuan et.al., Paper: [http://arxiv.org/abs/2407.13937v1](http://arxiv.org/abs/2407.13937v1)
 - 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
 - 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
