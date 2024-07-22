@@ -1,9 +1,9 @@
-> Updated on 2024.07.21
+> Updated on 2024.07.22
 
 ## Autonomous_Driving
 
 - 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
-- 2024-07-18, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v1](http://arxiv.org/abs/2407.13517v1)
+- 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
 - 2024-07-18, **Ultra-Low-Latency Edge Inference for Distributed Sensing**, Zhanwei Wang et.al., Paper: [http://arxiv.org/abs/2407.13360v1](http://arxiv.org/abs/2407.13360v1)
 - 2024-07-18, **$μ$Drive: User-Controlled Autonomous Driving**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2407.13201v1](http://arxiv.org/abs/2407.13201v1)
