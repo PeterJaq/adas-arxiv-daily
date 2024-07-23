@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-07-22, **Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**, Mansur Arief et.al., Paper: [http://arxiv.org/abs/2407.15839v1](http://arxiv.org/abs/2407.15839v1)
+- 2024-07-22, **MILAN: Milli-Annotations for Lidar Semantic Segmentation**, Nermin Samet et.al., Paper: [http://arxiv.org/abs/2407.15797v1](http://arxiv.org/abs/2407.15797v1)
+- 2024-07-22, **Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**, Rabbia Asghar et.al., Paper: [http://arxiv.org/abs/2407.15675v1](http://arxiv.org/abs/2407.15675v1)
+- 2024-07-22, **DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**, Jiahang Tu et.al., Paper: [http://arxiv.org/abs/2407.15661v1](http://arxiv.org/abs/2407.15661v1), Code: **[https://github.com/ttuhamg/driveditfit](https://github.com/ttuhamg/driveditfit)**
+- 2024-07-22, **Towards a Universal Evaluation Model for Careful and Competent Autonomous Driving**, Kethan Reddy et.al., Paper: [http://arxiv.org/abs/2407.15596v1](http://arxiv.org/abs/2407.15596v1)
+- 2024-07-22, **WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**, Quan Kong et.al., Paper: [http://arxiv.org/abs/2407.15350v1](http://arxiv.org/abs/2407.15350v1)
+- 2024-07-22, **Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**, Yiran Yang et.al., Paper: [http://arxiv.org/abs/2407.15334v1](http://arxiv.org/abs/2407.15334v1)
+- 2024-07-20, **Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**, Dylan J. Foster et.al., Paper: [http://arxiv.org/abs/2407.15007v1](http://arxiv.org/abs/2407.15007v1)
+- 2024-07-20, **From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**, Lorenzo Montano-Oliván et.al., Paper: [http://arxiv.org/abs/2407.14797v1](http://arxiv.org/abs/2407.14797v1)
 - 2024-07-19, **Why to DAO: a narrative analysis of the drivers of tokenized Exit to Community**, Tara Merk et.al., Paper: [http://arxiv.org/abs/2407.14327v1](http://arxiv.org/abs/2407.14327v1)
 - 2024-07-19, **Complementary Learning for Real-World Model Failure Detection**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2407.14306v1](http://arxiv.org/abs/2407.14306v1), Code: **[https://github.com/daniel-bogdoll/model_contradictions](https://github.com/daniel-bogdoll/model_contradictions)**
 - 2024-07-19, **Equivariant Symmetries for Aided Inertial Navigation**, Alessandro Fornasier et.al., Paper: [http://arxiv.org/abs/2407.14297v1](http://arxiv.org/abs/2407.14297v1)
