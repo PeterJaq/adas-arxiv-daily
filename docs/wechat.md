@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-23, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v1](http://arxiv.org/abs/2407.16680v1), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
+- 2024-07-23, **Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**, Anam Manzoor et.al., Paper: [http://arxiv.org/abs/2407.16647v1](http://arxiv.org/abs/2407.16647v1)
+- 2024-07-23, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v1](http://arxiv.org/abs/2407.16636v1)
+- 2024-07-23, **MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**, Youngmin Oh et.al., Paper: [http://arxiv.org/abs/2407.16448v1](http://arxiv.org/abs/2407.16448v1), Code: **[https://github.com/visualaikhu/monowad](https://github.com/visualaikhu/monowad)**
+- 2024-07-23, **Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**, Raphael Memmesheimer et.al., Paper: [http://arxiv.org/abs/2407.16393v1](http://arxiv.org/abs/2407.16393v1)
+- 2024-07-23, **Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**, Youqian Zhang et.al., Paper: [http://arxiv.org/abs/2407.16327v1](http://arxiv.org/abs/2407.16327v1)
+- 2024-07-23, **When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.16277v1](http://arxiv.org/abs/2407.16277v1)
+- 2024-07-23, **LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2407.16197v1](http://arxiv.org/abs/2407.16197v1)
+- 2024-07-22, **Self-driving lab discovers principles for steering spontaneous emission**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2407.16083v1](http://arxiv.org/abs/2407.16083v1)
+- 2024-07-22, **PECAN: Personalizing Robot Behaviors through a Learned Canonical Space**, Heramb Nemlekar et.al., Paper: [http://arxiv.org/abs/2407.16081v1](http://arxiv.org/abs/2407.16081v1)
 - 2024-07-22, **Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**, Mansur Arief et.al., Paper: [http://arxiv.org/abs/2407.15839v1](http://arxiv.org/abs/2407.15839v1)
 - 2024-07-22, **MILAN: Milli-Annotations for Lidar Semantic Segmentation**, Nermin Samet et.al., Paper: [http://arxiv.org/abs/2407.15797v1](http://arxiv.org/abs/2407.15797v1)
 - 2024-07-22, **Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**, Rabbia Asghar et.al., Paper: [http://arxiv.org/abs/2407.15675v1](http://arxiv.org/abs/2407.15675v1)
