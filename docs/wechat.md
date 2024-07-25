@@ -1,10 +1,10 @@
-> Updated on 2024.07.24
+> Updated on 2024.07.25
 
 ## Autonomous_Driving
 
-- 2024-07-23, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v1](http://arxiv.org/abs/2407.16680v1), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
+- 2024-07-24, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v2](http://arxiv.org/abs/2407.16680v2), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
 - 2024-07-23, **Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**, Anam Manzoor et.al., Paper: [http://arxiv.org/abs/2407.16647v1](http://arxiv.org/abs/2407.16647v1)
-- 2024-07-23, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v1](http://arxiv.org/abs/2407.16636v1)
+- 2024-07-24, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v2](http://arxiv.org/abs/2407.16636v2)
 - 2024-07-23, **MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**, Youngmin Oh et.al., Paper: [http://arxiv.org/abs/2407.16448v1](http://arxiv.org/abs/2407.16448v1), Code: **[https://github.com/visualaikhu/monowad](https://github.com/visualaikhu/monowad)**
 - 2024-07-23, **Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**, Raphael Memmesheimer et.al., Paper: [http://arxiv.org/abs/2407.16393v1](http://arxiv.org/abs/2407.16393v1)
 - 2024-07-23, **Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**, Youqian Zhang et.al., Paper: [http://arxiv.org/abs/2407.16327v1](http://arxiv.org/abs/2407.16327v1)

@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v1-b31b1b.svg)](http://arxiv.org/abs/2407.16680v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16647v1-b31b1b.svg)](http://arxiv.org/abs/2407.16647v1)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16636v1-b31b1b.svg)](http://arxiv.org/abs/2407.16636v1)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16636v2-b31b1b.svg)](http://arxiv.org/abs/2407.16636v2)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16448v1-b31b1b.svg)](http://arxiv.org/abs/2407.16448v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**|Raphael Memmesheimer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16393v1-b31b1b.svg)](http://arxiv.org/abs/2407.16393v1)|null|
 |**2024-07-23**|**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**|Youqian Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16327v1-b31b1b.svg)](http://arxiv.org/abs/2407.16327v1)|null|
