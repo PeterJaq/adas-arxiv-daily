@@ -10,7 +10,7 @@
 - 2024-07-23, **Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**, Youqian Zhang et.al., Paper: [http://arxiv.org/abs/2407.16327v1](http://arxiv.org/abs/2407.16327v1)
 - 2024-07-23, **When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.16277v1](http://arxiv.org/abs/2407.16277v1)
 - 2024-07-23, **LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2407.16197v1](http://arxiv.org/abs/2407.16197v1)
-- 2024-07-22, **Self-driving lab discovers principles for steering spontaneous emission**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2407.16083v1](http://arxiv.org/abs/2407.16083v1)
+- 2024-07-24, **Self-driving lab discovers principles for steering spontaneous emission**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2407.16083v2](http://arxiv.org/abs/2407.16083v2)
 - 2024-07-22, **PECAN: Personalizing Robot Behaviors through a Learned Canonical Space**, Heramb Nemlekar et.al., Paper: [http://arxiv.org/abs/2407.16081v1](http://arxiv.org/abs/2407.16081v1)
 - 2024-07-22, **Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**, Mansur Arief et.al., Paper: [http://arxiv.org/abs/2407.15839v1](http://arxiv.org/abs/2407.15839v1)
 - 2024-07-22, **MILAN: Milli-Annotations for Lidar Semantic Segmentation**, Nermin Samet et.al., Paper: [http://arxiv.org/abs/2407.15797v1](http://arxiv.org/abs/2407.15797v1)
