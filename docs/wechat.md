@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-07-24, **3D Question Answering for City Scene Understanding**, Penglei Sun et.al., Paper: [http://arxiv.org/abs/2407.17398v1](http://arxiv.org/abs/2407.17398v1)
+- 2024-07-24, **Physical Adversarial Attack on Monocular Depth Estimation via Shape-Varying Patches**, Chenxing Zhao et.al., Paper: [http://arxiv.org/abs/2407.17312v1](http://arxiv.org/abs/2407.17312v1)
+- 2024-07-24, **Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**, Zuoyin Tang et.al., Paper: [http://arxiv.org/abs/2407.17211v1](http://arxiv.org/abs/2407.17211v1)
+- 2024-07-24, **Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**, Yue Pi et.al., Paper: [http://arxiv.org/abs/2407.17030v1](http://arxiv.org/abs/2407.17030v1)
+- 2024-07-24, **Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**, Dooseop Choi et.al., Paper: [http://arxiv.org/abs/2407.17003v1](http://arxiv.org/abs/2407.17003v1), Code: **[https://github.com/d1024choi/progressivequeryrefinenet](https://github.com/d1024choi/progressivequeryrefinenet)**
+- 2024-07-23, **SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**, Tianyu Shi et.al., Paper: [http://arxiv.org/abs/2407.16857v1](http://arxiv.org/abs/2407.16857v1)
+- 2024-07-23, **PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles**, Aws Khalil et.al., Paper: [http://arxiv.org/abs/2407.16740v1](http://arxiv.org/abs/2407.16740v1), Code: **[https://github.com/awskhalil/oscar](https://github.com/awskhalil/oscar)**
 - 2024-07-24, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v2](http://arxiv.org/abs/2407.16680v2), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
 - 2024-07-23, **Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**, Anam Manzoor et.al., Paper: [http://arxiv.org/abs/2407.16647v1](http://arxiv.org/abs/2407.16647v1)
 - 2024-07-24, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v2](http://arxiv.org/abs/2407.16636v2)
