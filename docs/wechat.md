@@ -2,8 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-25, **Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**, Julia Hindel et.al., Paper: [http://arxiv.org/abs/2407.18145v1](http://arxiv.org/abs/2407.18145v1)
+- 2024-07-25, **TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**, Guanfeng Tang et.al., Paper: [http://arxiv.org/abs/2407.18038v1](http://arxiv.org/abs/2407.18038v1)
+- 2024-07-25, **Personalized and Context-aware Route Planning for Edge-assisted Vehicles**, Dinesh Cyril Selvaraj et.al., Paper: [http://arxiv.org/abs/2407.17980v1](http://arxiv.org/abs/2407.17980v1)
+- 2024-07-25, **StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory**, Zhiheng Li et.al., Paper: [http://arxiv.org/abs/2407.17905v1](http://arxiv.org/abs/2407.17905v1), Code: **[https://github.com/neu-real/streammos](https://github.com/neu-real/streammos)**
+- 2024-07-25, **Image Segmentation via Divisive Normalization: dealing with environmental diversity**, Pablo Hernández-Cámara et.al., Paper: [http://arxiv.org/abs/2407.17829v1](http://arxiv.org/abs/2407.17829v1)
+- 2024-07-25, **CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.17757v1](http://arxiv.org/abs/2407.17757v1)
+- 2024-07-25, **Control Informed Design of the IAC Autonomous Racecar for Operation at the Dynamic Envelope**, Qilun Zhu et.al., Paper: [http://arxiv.org/abs/2407.17737v1](http://arxiv.org/abs/2407.17737v1)
 - 2024-07-24, **3D Question Answering for City Scene Understanding**, Penglei Sun et.al., Paper: [http://arxiv.org/abs/2407.17398v1](http://arxiv.org/abs/2407.17398v1)
 - 2024-07-24, **Physical Adversarial Attack on Monocular Depth Estimation via Shape-Varying Patches**, Chenxing Zhao et.al., Paper: [http://arxiv.org/abs/2407.17312v1](http://arxiv.org/abs/2407.17312v1)
+- 2024-07-25, **LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**, Simon Boeder et.al., Paper: [http://arxiv.org/abs/2407.17310v2](http://arxiv.org/abs/2407.17310v2)
 - 2024-07-24, **Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**, Zuoyin Tang et.al., Paper: [http://arxiv.org/abs/2407.17211v1](http://arxiv.org/abs/2407.17211v1)
 - 2024-07-24, **Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**, Yue Pi et.al., Paper: [http://arxiv.org/abs/2407.17030v1](http://arxiv.org/abs/2407.17030v1)
 - 2024-07-24, **Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**, Dooseop Choi et.al., Paper: [http://arxiv.org/abs/2407.17003v1](http://arxiv.org/abs/2407.17003v1), Code: **[https://github.com/d1024choi/progressivequeryrefinenet](https://github.com/d1024choi/progressivequeryrefinenet)**
