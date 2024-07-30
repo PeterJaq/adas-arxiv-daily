@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-07-29, **Collision Probability Distribution Estimation via Temporal Difference Learning**, Thomas Steinecker et.al., Paper: [http://arxiv.org/abs/2407.20000v1](http://arxiv.org/abs/2407.20000v1), Code: **[https://github.com/unibwtas/collisionpro](https://github.com/unibwtas/collisionpro)**
+- 2024-07-29, **Hydrodynamics of pulsating active liquids**, Tirthankar Banerjee et.al., Paper: [http://arxiv.org/abs/2407.19955v1](http://arxiv.org/abs/2407.19955v1)
+- 2024-07-29, **ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**, Ezequiel Perez-Zarate et.al., Paper: [http://arxiv.org/abs/2407.19708v1](http://arxiv.org/abs/2407.19708v1), Code: **[https://github.com/xingyumex/alen](https://github.com/xingyumex/alen)**
+- 2024-07-29, **"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence**, Brett Israelsen et.al., Paper: [http://arxiv.org/abs/2407.19631v1](http://arxiv.org/abs/2407.19631v1)
+- 2024-07-28, **HD-maps as Prior Information for Globally Consistent Mapping in GPS-denied Environments**, Waqas Ali et.al., Paper: [http://arxiv.org/abs/2407.19463v1](http://arxiv.org/abs/2407.19463v1)
+- 2024-07-28, **Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**, Weiliang Chen et.al., Paper: [http://arxiv.org/abs/2407.19428v1](http://arxiv.org/abs/2407.19428v1)
+- 2024-07-27, **Large Language Models for Human-like Autonomous Driving: A Survey**, Yun Li et.al., Paper: [http://arxiv.org/abs/2407.19280v1](http://arxiv.org/abs/2407.19280v1)
+- 2024-07-26, **Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments**, Minjun Sung et.al., Paper: [http://arxiv.org/abs/2407.19071v1](http://arxiv.org/abs/2407.19071v1)
+- 2024-07-26, **Sparse Refinement for Efficient High-Resolution Semantic Segmentation**, Zhijian Liu et.al., Paper: [http://arxiv.org/abs/2407.19014v1](http://arxiv.org/abs/2407.19014v1)
 - 2024-07-26, **Wolf: Captioning Everything with a World Summarization Framework**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2407.18908v1](http://arxiv.org/abs/2407.18908v1)
 - 2024-07-26, **SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces**, Seunghyeop Nam et.al., Paper: [http://arxiv.org/abs/2407.18892v1](http://arxiv.org/abs/2407.18892v1)
 - 2024-07-26, **HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM**, Zhe Xin et.al., Paper: [http://arxiv.org/abs/2407.18813v1](http://arxiv.org/abs/2407.18813v1)
