@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20959v1-b31b1b.svg)](http://arxiv.org/abs/2407.20959v1)|null|
+|**2024-07-30**|**Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S**|Guangjin Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20852v1-b31b1b.svg)](http://arxiv.org/abs/2407.20852v1)|null|
+|**2024-07-30**|**Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception**|Jiawei Shao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20748v1-b31b1b.svg)](http://arxiv.org/abs/2407.20748v1)|null|
+|**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20739v1-b31b1b.svg)](http://arxiv.org/abs/2407.20739v1)|null|
+|**2024-07-30**|**Scene-Specific Trajectory Sets: Maximizing Representation in Motion Forecasting**|Abhishek Vivekanandan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20732v1-b31b1b.svg)](http://arxiv.org/abs/2407.20732v1)|null|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20710v1-b31b1b.svg)](http://arxiv.org/abs/2407.20710v1)|null|
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20000v1-b31b1b.svg)](http://arxiv.org/abs/2407.20000v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unibwtas/collisionpro)**|
 |**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19955v1-b31b1b.svg)](http://arxiv.org/abs/2407.19955v1)|null|
 |**2024-07-29**|**ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**|Ezequiel Perez-Zarate et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19708v1-b31b1b.svg)](http://arxiv.org/abs/2407.19708v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xingyumex/alen)**|
