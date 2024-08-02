@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2024-07-31, **MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**, Seongju Lee et.al., Paper: [http://arxiv.org/abs/2407.21635v1](http://arxiv.org/abs/2407.21635v1)
-- 2024-07-31, **Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**, Mirko Conrad et.al., Paper: [http://arxiv.org/abs/2407.21569v1](http://arxiv.org/abs/2407.21569v1)
+- 2024-08-01, **Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**, Mirko Conrad et.al., Paper: [http://arxiv.org/abs/2407.21569v2](http://arxiv.org/abs/2407.21569v2)
 - 2024-07-31, **SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**, Peiru Zheng et.al., Paper: [http://arxiv.org/abs/2407.21293v1](http://arxiv.org/abs/2407.21293v1)
 - 2024-07-30, **Learning Ordinality in Semantic Segmentation**, Rafael Cristino et.al., Paper: [http://arxiv.org/abs/2407.20959v1](http://arxiv.org/abs/2407.20959v1)
 - 2024-07-30, **Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S**, Guangjin Pan et.al., Paper: [http://arxiv.org/abs/2407.20852v1](http://arxiv.org/abs/2407.20852v1)
