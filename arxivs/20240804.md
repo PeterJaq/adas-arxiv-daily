@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00766v1-b31b1b.svg)](http://arxiv.org/abs/2408.00766v1)|null|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00565v1-b31b1b.svg)](http://arxiv.org/abs/2408.00565v1)|null|
+|**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00415v1-b31b1b.svg)](http://arxiv.org/abs/2408.00415v1)|null|
+|**2024-08-01**|**Enabling Next-Generation V2X Perception: Wireless Rigid Body Localization and Tracking**|Niclas Führling et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00349v1-b31b1b.svg)](http://arxiv.org/abs/2408.00349v1)|null|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00257v1-b31b1b.svg)](http://arxiv.org/abs/2408.00257v1)|null|
+|**2024-07-31**|**Areas of Improvement for Autonomous Vehicles: A Machine Learning Analysis of Disengagement Reports**|Tyler Ward et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00051v1-b31b1b.svg)](http://arxiv.org/abs/2408.00051v1)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21635v1-b31b1b.svg)](http://arxiv.org/abs/2407.21635v1)|null|
 |**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21569v2-b31b1b.svg)](http://arxiv.org/abs/2407.21569v2)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
