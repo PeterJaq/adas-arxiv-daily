@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-08-02, **CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2408.01093v1](http://arxiv.org/abs/2408.01093v1)
+- 2024-08-02, **Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**, Ajinkya Shinde et.al., Paper: [http://arxiv.org/abs/2408.01085v1](http://arxiv.org/abs/2408.01085v1)
+- 2024-08-02, **MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**, Xiangbo Gao et.al., Paper: [http://arxiv.org/abs/2408.01037v1](http://arxiv.org/abs/2408.01037v1)
 - 2024-08-01, **Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**, Yixiao Wang et.al., Paper: [http://arxiv.org/abs/2408.00766v1](http://arxiv.org/abs/2408.00766v1)
 - 2024-08-01, **MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2408.00565v1](http://arxiv.org/abs/2408.00565v1)
 - 2024-08-01, **DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**, Xuemeng Yang et.al., Paper: [http://arxiv.org/abs/2408.00415v1](http://arxiv.org/abs/2408.00415v1)

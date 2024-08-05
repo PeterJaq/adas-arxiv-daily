@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01093v1-b31b1b.svg)](http://arxiv.org/abs/2408.01093v1)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01085v1-b31b1b.svg)](http://arxiv.org/abs/2408.01085v1)|null|
+|**2024-08-02**|**MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**|Xiangbo Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01037v1-b31b1b.svg)](http://arxiv.org/abs/2408.01037v1)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00766v1-b31b1b.svg)](http://arxiv.org/abs/2408.00766v1)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00565v1-b31b1b.svg)](http://arxiv.org/abs/2408.00565v1)|null|
 |**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00415v1-b31b1b.svg)](http://arxiv.org/abs/2408.00415v1)|null|
