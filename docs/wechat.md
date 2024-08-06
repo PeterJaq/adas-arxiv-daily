@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-08-04, **Model Hijacking Attack in Federated Learning**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2408.02131v1](http://arxiv.org/abs/2408.02131v1)
+- 2024-08-04, **KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**, Zhihao Lai et.al., Paper: [http://arxiv.org/abs/2408.02088v1](http://arxiv.org/abs/2408.02088v1)
+- 2024-08-04, **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**, Changze Li et.al., Paper: [http://arxiv.org/abs/2408.02061v1](http://arxiv.org/abs/2408.02061v1)
+- 2024-08-03, **STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2408.01774v1](http://arxiv.org/abs/2408.01774v1)
+- 2024-08-03, **LAM3D: Leveraging Attention for Monocular 3D Object Detection**, Diana-Alexandra Sas et.al., Paper: [http://arxiv.org/abs/2408.01739v1](http://arxiv.org/abs/2408.01739v1)
+- 2024-08-02, **Trainable Pointwise Decoder Module for Point Cloud Segmentation**, Bike Chen et.al., Paper: [http://arxiv.org/abs/2408.01548v1](http://arxiv.org/abs/2408.01548v1)
+- 2024-08-01, **Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps**, Hengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2408.01471v1](http://arxiv.org/abs/2408.01471v1)
 - 2024-08-02, **CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2408.01093v1](http://arxiv.org/abs/2408.01093v1)
 - 2024-08-02, **Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**, Ajinkya Shinde et.al., Paper: [http://arxiv.org/abs/2408.01085v1](http://arxiv.org/abs/2408.01085v1)
 - 2024-08-02, **MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**, Xiangbo Gao et.al., Paper: [http://arxiv.org/abs/2408.01037v1](http://arxiv.org/abs/2408.01037v1)
