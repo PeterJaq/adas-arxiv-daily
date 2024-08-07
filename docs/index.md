@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v1-b31b1b.svg)](http://arxiv.org/abs/2408.03200v1)|null|
+|**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
+|**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03084v1-b31b1b.svg)](http://arxiv.org/abs/2408.03084v1)|null|
+|**2024-08-06**|**SCOPE: A Synthetic Multi-Modal Dataset for Collective Perception Including Physical-Correct Weather Conditions**|Jörg Gamerdinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03065v1-b31b1b.svg)](http://arxiv.org/abs/2408.03065v1)|null|
+|**2024-08-06**|**Cross-cultural analysis of pedestrian group behaviour influence on crossing decisions in interactions with autonomous vehicles**|Sergio Martín Serrano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03003v1-b31b1b.svg)](http://arxiv.org/abs/2408.03003v1)|null|
+|**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02938v1-b31b1b.svg)](http://arxiv.org/abs/2408.02938v1)|null|
+|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02882v1-b31b1b.svg)](http://arxiv.org/abs/2408.02882v1)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02131v1-b31b1b.svg)](http://arxiv.org/abs/2408.02131v1)|null|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02088v1-b31b1b.svg)](http://arxiv.org/abs/2408.02088v1)|null|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
