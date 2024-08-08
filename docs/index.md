@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v1-b31b1b.svg)](http://arxiv.org/abs/2408.03200v1)|null|
+|**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v2-b31b1b.svg)](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03084v1-b31b1b.svg)](http://arxiv.org/abs/2408.03084v1)|null|
 |**2024-08-06**|**SCOPE: A Synthetic Multi-Modal Dataset for Collective Perception Including Physical-Correct Weather Conditions**|Jörg Gamerdinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03065v1-b31b1b.svg)](http://arxiv.org/abs/2408.03065v1)|null|
