@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04447v1-b31b1b.svg)](http://arxiv.org/abs/2408.04447v1)|null|
+|**2024-08-08**|**Dark spin-cats as biased qubits**|Andreas Kruckenhauser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04421v1-b31b1b.svg)](http://arxiv.org/abs/2408.04421v1)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04198v1-b31b1b.svg)](http://arxiv.org/abs/2408.04198v1)|null|
+|**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04195v1-b31b1b.svg)](http://arxiv.org/abs/2408.04195v1)|null|
 |**2024-08-07**|**MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03892v1-b31b1b.svg)](http://arxiv.org/abs/2408.03892v1)|null|
 |**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03790v1-b31b1b.svg)](http://arxiv.org/abs/2408.03790v1)|null|
 |**2024-08-07**|**MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System**|Xiangcheng Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03723v1-b31b1b.svg)](http://arxiv.org/abs/2408.03723v1)|null|
