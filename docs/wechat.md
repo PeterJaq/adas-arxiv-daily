@@ -7,7 +7,7 @@
 - 2024-08-07, **MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System**, Xiangcheng Hu et.al., Paper: [http://arxiv.org/abs/2408.03723v1](http://arxiv.org/abs/2408.03723v1)
 - 2024-08-07, **Large Language Models for Base Station Siting: Intelligent Deployment based on Prompt or Agent**, Yanhu Wang et.al., Paper: [http://arxiv.org/abs/2408.03631v1](http://arxiv.org/abs/2408.03631v1)
 - 2024-08-07, **Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**, Amirhosein Chahe et.al., Paper: [http://arxiv.org/abs/2408.03516v1](http://arxiv.org/abs/2408.03516v1)
-- 2024-08-07, **Unsupervised, Self-driving Multi-Step Growth of InAs/GaAs Quantum Dots Heterostructures Guided by Machine Learning**, Chao Shen et.al., Paper: [http://arxiv.org/abs/2408.03508v1](http://arxiv.org/abs/2408.03508v1)
+- 2024-08-08, **Autonomous, Self-driving Multi-Step Growth of Semiconductor Heterostructures Guided by Machine Learning**, Chao Shen et.al., Paper: [http://arxiv.org/abs/2408.03508v2](http://arxiv.org/abs/2408.03508v2)
 - 2024-08-06, **Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**, Nazish Tahir et.al., Paper: [http://arxiv.org/abs/2408.03435v1](http://arxiv.org/abs/2408.03435v1)
 - 2024-08-07, **Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**, Kunkun Hao et.al., Paper: [http://arxiv.org/abs/2408.03200v2](http://arxiv.org/abs/2408.03200v2)
 - 2024-08-06, **Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**, Xiao Zhou et.al., Paper: [http://arxiv.org/abs/2408.03191v1](http://arxiv.org/abs/2408.03191v1)
