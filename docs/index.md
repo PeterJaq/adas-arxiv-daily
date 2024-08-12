@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.05075v1-b31b1b.svg)](http://arxiv.org/abs/2408.05075v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/deepinteraction)**|
+|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04901v1-b31b1b.svg)](http://arxiv.org/abs/2408.04901v1)|null|
+|**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04821v1-b31b1b.svg)](http://arxiv.org/abs/2408.04821v1)|null|
+|**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04683v1-b31b1b.svg)](http://arxiv.org/abs/2408.04683v1)|null|
 |**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04447v1-b31b1b.svg)](http://arxiv.org/abs/2408.04447v1)|null|
 |**2024-08-08**|**Dark spin-cats as biased qubits**|Andreas Kruckenhauser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04421v1-b31b1b.svg)](http://arxiv.org/abs/2408.04421v1)|null|
 |**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04198v1-b31b1b.svg)](http://arxiv.org/abs/2408.04198v1)|null|

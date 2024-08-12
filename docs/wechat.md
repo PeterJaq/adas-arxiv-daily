@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2024-08-09, **CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**, Hongming Shen et.al., Paper: [http://arxiv.org/abs/2408.04901v1](http://arxiv.org/abs/2408.04901v1)
+- 2024-08-09, **VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**, Keke Long et.al., Paper: [http://arxiv.org/abs/2408.04821v1](http://arxiv.org/abs/2408.04821v1)
+- 2024-08-08, **Eliminating Backdoors in Neural Code Models via Trigger Inversion**, Weisong Sun et.al., Paper: [http://arxiv.org/abs/2408.04683v1](http://arxiv.org/abs/2408.04683v1)
 - 2024-08-08, **Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2408.04447v1](http://arxiv.org/abs/2408.04447v1)
 - 2024-08-08, **Dark spin-cats as biased qubits**, Andreas Kruckenhauser et.al., Paper: [http://arxiv.org/abs/2408.04421v1](http://arxiv.org/abs/2408.04421v1)
 - 2024-08-08, **F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**, Prajwal Koirala et.al., Paper: [http://arxiv.org/abs/2408.04198v1](http://arxiv.org/abs/2408.04198v1)
