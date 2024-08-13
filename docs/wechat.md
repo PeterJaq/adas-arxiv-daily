@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-08-12, **Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**, Kailai Sun et.al., Paper: [http://arxiv.org/abs/2408.05877v1](http://arxiv.org/abs/2408.05877v1)
+- 2024-08-11, **ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**, Weiwei Fu et.al., Paper: [http://arxiv.org/abs/2408.05694v1](http://arxiv.org/abs/2408.05694v1)
+- 2024-08-10, **Mitigating Metropolitan Carbon Emissions with Dynamic Eco-driving at Scale**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2408.05609v1](http://arxiv.org/abs/2408.05609v1)
+- 2024-08-10, **What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**, Utkarsh Tiwari et.al., Paper: [http://arxiv.org/abs/2408.05562v1](http://arxiv.org/abs/2408.05562v1), Code: **[https://github.com/ut21/wsad-driving](https://github.com/ut21/wsad-driving)**
 - 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
 - 2024-08-09, **CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**, Hongming Shen et.al., Paper: [http://arxiv.org/abs/2408.04901v1](http://arxiv.org/abs/2408.04901v1)
 - 2024-08-09, **VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**, Keke Long et.al., Paper: [http://arxiv.org/abs/2408.04821v1](http://arxiv.org/abs/2408.04821v1)
