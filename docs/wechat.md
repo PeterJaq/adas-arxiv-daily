@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-08-13, **FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**, Yutao Zhu et.al., Paper: [http://arxiv.org/abs/2408.06832v1](http://arxiv.org/abs/2408.06832v1)
+- 2024-08-13, **Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**, Miao Zhang et.al., Paper: [http://arxiv.org/abs/2408.06772v1](http://arxiv.org/abs/2408.06772v1)
+- 2024-08-13, **A lightweight YOLOv5-FFM model for occlusion pedestrian detection**, Xiangjie Luo et.al., Paper: [http://arxiv.org/abs/2408.06633v1](http://arxiv.org/abs/2408.06633v1)
 - 2024-08-12, **Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**, Kailai Sun et.al., Paper: [http://arxiv.org/abs/2408.05877v1](http://arxiv.org/abs/2408.05877v1)
 - 2024-08-11, **ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**, Weiwei Fu et.al., Paper: [http://arxiv.org/abs/2408.05694v1](http://arxiv.org/abs/2408.05694v1)
 - 2024-08-10, **Mitigating Metropolitan Carbon Emissions with Dynamic Eco-driving at Scale**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2408.05609v1](http://arxiv.org/abs/2408.05609v1)
