@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.07605v1-b31b1b.svg)](http://arxiv.org/abs/2408.07605v1)|null|
+|**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.07422v1-b31b1b.svg)](http://arxiv.org/abs/2408.07422v1)|null|
+|**2024-08-14**|**Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**|Jiaxing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.07367v1-b31b1b.svg)](http://arxiv.org/abs/2408.07367v1)|null|
 |**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.06832v1-b31b1b.svg)](http://arxiv.org/abs/2408.06832v1)|null|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.06772v1-b31b1b.svg)](http://arxiv.org/abs/2408.06772v1)|null|
 |**2024-08-13**|**A lightweight YOLOv5-FFM model for occlusion pedestrian detection**|Xiangjie Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.06633v1-b31b1b.svg)](http://arxiv.org/abs/2408.06633v1)|null|
