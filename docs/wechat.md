@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-08-15, **A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**, Zhihao Lin et.al., Paper: [http://arxiv.org/abs/2408.08242v1](http://arxiv.org/abs/2408.08242v1)
+- 2024-08-15, **Learned Multimodal Compression for Autonomous Driving**, Hadi Hadizadeh et.al., Paper: [http://arxiv.org/abs/2408.08211v1](http://arxiv.org/abs/2408.08211v1)
+- 2024-08-15, **Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination**, Ting Peng et.al., Paper: [http://arxiv.org/abs/2408.08121v1](http://arxiv.org/abs/2408.08121v1)
+- 2024-08-15, **Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**, Wenxuan Li et.al., Paper: [http://arxiv.org/abs/2408.07999v1](http://arxiv.org/abs/2408.07999v1)
 - 2024-08-14, **Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**, Yuqing Wen et.al., Paper: [http://arxiv.org/abs/2408.07605v1](http://arxiv.org/abs/2408.07605v1)
 - 2024-08-14, **LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2408.07422v1](http://arxiv.org/abs/2408.07422v1)
 - 2024-08-14, **Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**, Jiaxing Chen et.al., Paper: [http://arxiv.org/abs/2408.07367v1](http://arxiv.org/abs/2408.07367v1)
