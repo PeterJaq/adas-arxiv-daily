@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**|Rongxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08802v1-b31b1b.svg)](http://arxiv.org/abs/2408.08802v1)|null|
+|**2024-08-16**|**A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**|Daniel Omeiza et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08785v1-b31b1b.svg)](http://arxiv.org/abs/2408.08785v1)|null|
+|**2024-08-16**|**S-RAF: A Simulation-Based Robustness Assessment Framework for Responsible Autonomous Driving**|Daniel Omeiza et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08584v1-b31b1b.svg)](http://arxiv.org/abs/2408.08584v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cognitive-robots/rai-leaderboard)**|
+|**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08500v1-b31b1b.svg)](http://arxiv.org/abs/2408.08500v1)|null|
+|**2024-08-15**|**A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning**|Muzun Althunayyan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08433v1-b31b1b.svg)](http://arxiv.org/abs/2408.08433v1)|null|
 |**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08242v1-b31b1b.svg)](http://arxiv.org/abs/2408.08242v1)|null|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08211v1-b31b1b.svg)](http://arxiv.org/abs/2408.08211v1)|null|
 |**2024-08-15**|**Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination**|Ting Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08121v1-b31b1b.svg)](http://arxiv.org/abs/2408.08121v1)|null|
