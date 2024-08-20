@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-08-19, **Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**, Jiao Chen et.al., Paper: [http://arxiv.org/abs/2408.09972v1](http://arxiv.org/abs/2408.09972v1)
+- 2024-08-19, **Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**, Jun Yan et.al., Paper: [http://arxiv.org/abs/2408.09839v1](http://arxiv.org/abs/2408.09839v1), Code: **[https://github.com/momo1986/robust_sam_iv](https://github.com/momo1986/robust_sam_iv)**
+- 2024-08-19, **Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**, Mohamed Sabry et.al., Paper: [http://arxiv.org/abs/2408.09833v1](http://arxiv.org/abs/2408.09833v1)
+- 2024-08-19, **Integrating Naturalistic Insights in Objective Multi-Vehicle Safety Framework**, Enrico Del Re et.al., Paper: [http://arxiv.org/abs/2408.09769v1](http://arxiv.org/abs/2408.09769v1)
+- 2024-08-19, **Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**, Sanghyun Hahn et.al., Paper: [http://arxiv.org/abs/2408.09727v1](http://arxiv.org/abs/2408.09727v1)
+- 2024-08-19, **Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**, Ruiqi Zhang et.al., Paper: [http://arxiv.org/abs/2408.09675v1](http://arxiv.org/abs/2408.09675v1), Code: **[https://github.com/huawei-noah/SMARTS](https://github.com/huawei-noah/SMARTS)**
+- 2024-08-18, **OVOSE: Open-Vocabulary Semantic Segmentation in Event-Based Cameras**, Muhammad Rameez Ur Rahman et.al., Paper: [http://arxiv.org/abs/2408.09424v1](http://arxiv.org/abs/2408.09424v1), Code: **[https://github.com/ram95d/ovose](https://github.com/ram95d/ovose)**
+- 2024-08-17, **Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain**, Prakhar Gupta et.al., Paper: [http://arxiv.org/abs/2408.09253v1](http://arxiv.org/abs/2408.09253v1)
+- 2024-08-17, **V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**, Junwei You et.al., Paper: [http://arxiv.org/abs/2408.09251v1](http://arxiv.org/abs/2408.09251v1)
+- 2024-08-17, **MaskBEV: Towards A Unified Framework for BEV Detection and Map Segmentation**, Xiao Zhao et.al., Paper: [http://arxiv.org/abs/2408.09122v1](http://arxiv.org/abs/2408.09122v1)
 - 2024-08-16, **PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**, Rongxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.08802v1](http://arxiv.org/abs/2408.08802v1)
 - 2024-08-16, **A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**, Daniel Omeiza et.al., Paper: [http://arxiv.org/abs/2408.08785v1](http://arxiv.org/abs/2408.08785v1)
 - 2024-08-16, **S-RAF: A Simulation-Based Robustness Assessment Framework for Responsible Autonomous Driving**, Daniel Omeiza et.al., Paper: [http://arxiv.org/abs/2408.08584v1](http://arxiv.org/abs/2408.08584v1), Code: **[https://github.com/cognitive-robots/rai-leaderboard](https://github.com/cognitive-robots/rai-leaderboard)**
