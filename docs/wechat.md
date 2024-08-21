@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-08-20, **Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2408.10908v1](http://arxiv.org/abs/2408.10908v1)
+- 2024-08-20, **Open 3D World in Autonomous Driving**, Xinlong Cheng et.al., Paper: [http://arxiv.org/abs/2408.10880v1](http://arxiv.org/abs/2408.10880v1)
+- 2024-08-19, **CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**, Hidehisa Arai et.al., Paper: [http://arxiv.org/abs/2408.10845v1](http://arxiv.org/abs/2408.10845v1)
+- 2024-08-20, **Privacy-preserving Universal Adversarial Defense for Black-box Models**, Qiao Li et.al., Paper: [http://arxiv.org/abs/2408.10647v1](http://arxiv.org/abs/2408.10647v1)
+- 2024-08-20, **Safety Metric Aware Trajectory Repairing for Automated Driving**, Kailin Tong et.al., Paper: [http://arxiv.org/abs/2408.10622v1](http://arxiv.org/abs/2408.10622v1)
+- 2024-08-20, **MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**, Jintao Cheng et.al., Paper: [http://arxiv.org/abs/2408.10602v1](http://arxiv.org/abs/2408.10602v1)
+- 2024-08-20, **Constrained Behavior Cloning for Robotic Learning**, Wensheng Liang et.al., Paper: [http://arxiv.org/abs/2408.10568v1](http://arxiv.org/abs/2408.10568v1)
+- 2024-08-20, **Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**, Jiaru Zhong et.al., Paper: [http://arxiv.org/abs/2408.10531v1](http://arxiv.org/abs/2408.10531v1)
+- 2024-08-19, **System-Level Design Space Exploration for High-Level Synthesis under End-to-End Latency Constraints**, Yuchao Liao et.al., Paper: [http://arxiv.org/abs/2408.10431v1](http://arxiv.org/abs/2408.10431v1)
 - 2024-08-19, **Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**, Jiao Chen et.al., Paper: [http://arxiv.org/abs/2408.09972v1](http://arxiv.org/abs/2408.09972v1)
 - 2024-08-19, **Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**, Jun Yan et.al., Paper: [http://arxiv.org/abs/2408.09839v1](http://arxiv.org/abs/2408.09839v1), Code: **[https://github.com/momo1986/robust_sam_iv](https://github.com/momo1986/robust_sam_iv)**
 - 2024-08-19, **Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**, Mohamed Sabry et.al., Paper: [http://arxiv.org/abs/2408.09833v1](http://arxiv.org/abs/2408.09833v1)
