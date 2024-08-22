@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.11464v1-b31b1b.svg)](http://arxiv.org/abs/2408.11464v1)|null|
+|**2024-08-21**|**DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**|Wuxin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.11438v1-b31b1b.svg)](http://arxiv.org/abs/2408.11438v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wuxinwang1997/dabench)**|
 |**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10908v1-b31b1b.svg)](http://arxiv.org/abs/2408.10908v1)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10880v1-b31b1b.svg)](http://arxiv.org/abs/2408.10880v1)|null|
 |**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10845v1-b31b1b.svg)](http://arxiv.org/abs/2408.10845v1)|null|
