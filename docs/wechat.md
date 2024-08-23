@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-08-22, **Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**, Tamás Matuszka et.al., Paper: [http://arxiv.org/abs/2408.12322v1](http://arxiv.org/abs/2408.12322v1)
+- 2024-08-22, **A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12190v1](http://arxiv.org/abs/2408.12190v1)
+- 2024-08-22, **A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12187v1](http://arxiv.org/abs/2408.12187v1)
+- 2024-08-22, **On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World**, Bao Gia Doan et.al., Paper: [http://arxiv.org/abs/2408.12122v1](http://arxiv.org/abs/2408.12122v1)
+- 2024-08-22, **Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**, Woo Kyung Kim et.al., Paper: [http://arxiv.org/abs/2408.12110v1](http://arxiv.org/abs/2408.12110v1)
+- 2024-08-22, **Enhancing Sampling Protocol for Robust Point Cloud Classification**, Chongshou Li et.al., Paper: [http://arxiv.org/abs/2408.12062v1](http://arxiv.org/abs/2408.12062v1)
 - 2024-08-21, **MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**, Yonglin Tian et.al., Paper: [http://arxiv.org/abs/2408.11464v1](http://arxiv.org/abs/2408.11464v1)
 - 2024-08-21, **DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**, Wuxin Wang et.al., Paper: [http://arxiv.org/abs/2408.11438v1](http://arxiv.org/abs/2408.11438v1), Code: **[https://github.com/wuxinwang1997/dabench](https://github.com/wuxinwang1997/dabench)**
 - 2024-08-20, **Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2408.10908v1](http://arxiv.org/abs/2408.10908v1)
