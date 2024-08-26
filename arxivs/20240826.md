@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13061v1-b31b1b.svg)](http://arxiv.org/abs/2408.13061v1)|null|
+|**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12822v1-b31b1b.svg)](http://arxiv.org/abs/2408.12822v1)|null|
+|**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12805v1-b31b1b.svg)](http://arxiv.org/abs/2408.12805v1)|null|
+|**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12708v1-b31b1b.svg)](http://arxiv.org/abs/2408.12708v1)|null|
+|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12680v1-b31b1b.svg)](http://arxiv.org/abs/2408.12680v1)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12322v1-b31b1b.svg)](http://arxiv.org/abs/2408.12322v1)|null|
 |**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12190v1-b31b1b.svg)](http://arxiv.org/abs/2408.12190v1)|null|
 |**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12187v1-b31b1b.svg)](http://arxiv.org/abs/2408.12187v1)|null|
