@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
+- 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
+- 2024-08-26, **EMDFNet: Efficient Multi-scale and Diverse Feature Network for Traffic Sign Detection**, Pengyu Li et.al., Paper: [http://arxiv.org/abs/2408.14189v1](http://arxiv.org/abs/2408.14189v1)
+- 2024-08-26, **Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.14000v1](http://arxiv.org/abs/2408.14000v1)
+- 2024-08-26, **FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**, Daixun Li et.al., Paper: [http://arxiv.org/abs/2408.13980v1](http://arxiv.org/abs/2408.13980v1)
+- 2024-08-25, **Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**, Mohammad Hossein Amini et.al., Paper: [http://arxiv.org/abs/2408.13950v1](http://arxiv.org/abs/2408.13950v1)
+- 2024-08-25, **TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**, Li Li et.al., Paper: [http://arxiv.org/abs/2408.13902v1](http://arxiv.org/abs/2408.13902v1)
+- 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
+- 2024-08-25, **Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**, Yuwen Pan et.al., Paper: [http://arxiv.org/abs/2408.13838v1](http://arxiv.org/abs/2408.13838v1)
+- 2024-08-25, **TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**, Xiongwei Zhao et.al., Paper: [http://arxiv.org/abs/2408.13802v1](http://arxiv.org/abs/2408.13802v1), Code: **[https://github.com/grandzxw/triplemixer](https://github.com/grandzxw/triplemixer)**
 - 2024-08-23, **General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**, Weiru Fan et.al., Paper: [http://arxiv.org/abs/2408.13061v1](http://arxiv.org/abs/2408.13061v1)
 - 2024-08-23, **Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**, Yanze Zhang et.al., Paper: [http://arxiv.org/abs/2408.12822v1](http://arxiv.org/abs/2408.12822v1)
 - 2024-08-23, **A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12805v1](http://arxiv.org/abs/2408.12805v1)
