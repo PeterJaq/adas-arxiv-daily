@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15242v1-b31b1b.svg)](http://arxiv.org/abs/2408.15242v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sainingzhang/uc-gs)**|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15235v1-b31b1b.svg)](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**|Deepak-George Thomas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15150v1-b31b1b.svg)](http://arxiv.org/abs/2408.15150v1)|null|
+|**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15127v1-b31b1b.svg)](http://arxiv.org/abs/2408.15127v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phflot/tfake)**|
+|**2024-08-27**|**Adversarial Manhole: Challenging Monocular Depth Estimation and Semantic Segmentation Models with Patch Attack**|Naufal Suryanto et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14879v1-b31b1b.svg)](http://arxiv.org/abs/2408.14879v1)|null|
+|**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14870v1-b31b1b.svg)](http://arxiv.org/abs/2408.14870v1)|null|
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14307v1-b31b1b.svg)](http://arxiv.org/abs/2408.14307v1)|null|
 |**2024-08-26**|**Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14197v1-b31b1b.svg)](http://arxiv.org/abs/2408.14197v1)|null|
 |**2024-08-26**|**EMDFNet: Efficient Multi-scale and Diverse Feature Network for Traffic Sign Detection**|Pengyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14189v1-b31b1b.svg)](http://arxiv.org/abs/2408.14189v1)|null|

@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-08-27, **Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**, Saining Zhang et.al., Paper: [http://arxiv.org/abs/2408.15242v1](http://arxiv.org/abs/2408.15242v1), Code: **[https://github.com/sainingzhang/uc-gs](https://github.com/sainingzhang/uc-gs)**
+- 2024-08-27, **Learning-based Multi-View Stereo: A Survey**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2408.15235v1](http://arxiv.org/abs/2408.15235v1)
+- 2024-08-27, **muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**, Deepak-George Thomas et.al., Paper: [http://arxiv.org/abs/2408.15150v1](http://arxiv.org/abs/2408.15150v1)
+- 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
+- 2024-08-27, **Adversarial Manhole: Challenging Monocular Depth Estimation and Semantic Segmentation Models with Patch Attack**, Naufal Suryanto et.al., Paper: [http://arxiv.org/abs/2408.14879v1](http://arxiv.org/abs/2408.14879v1)
+- 2024-08-27, **Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**, Kaj Munhoz Arfvidsson et.al., Paper: [http://arxiv.org/abs/2408.14870v1](http://arxiv.org/abs/2408.14870v1)
 - 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 - 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
 - 2024-08-26, **EMDFNet: Efficient Multi-scale and Diverse Feature Network for Traffic Sign Detection**, Pengyu Li et.al., Paper: [http://arxiv.org/abs/2408.14189v1](http://arxiv.org/abs/2408.14189v1)
