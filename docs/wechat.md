@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-08-28, **GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.15868v1](http://arxiv.org/abs/2408.15868v1)
+- 2024-08-28, **Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**, Zherong Zhang et.al., Paper: [http://arxiv.org/abs/2408.15750v1](http://arxiv.org/abs/2408.15750v1)
+- 2024-08-28, **TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**, Junbao Zhou et.al., Paper: [http://arxiv.org/abs/2408.15657v1](http://arxiv.org/abs/2408.15657v1), Code: **[https://github.com/junbao-zhou/track-no-forgetting](https://github.com/junbao-zhou/track-no-forgetting)**
+- 2024-08-28, **Learning dynamics models for velocity estimation in autonomous racing**, Jan Węgrzynowski et.al., Paper: [http://arxiv.org/abs/2408.15610v1](http://arxiv.org/abs/2408.15610v1)
+- 2024-08-28, **TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**, Guanren Qiao et.al., Paper: [http://arxiv.org/abs/2408.15538v1](http://arxiv.org/abs/2408.15538v1), Code: **[https://github.com/qiaoguanren/TrafficGamer](https://github.com/qiaoguanren/TrafficGamer)**
+- 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
+- 2024-08-27, **Panoptic Perception for Autonomous Driving: A Survey**, Yunge Li et.al., Paper: [http://arxiv.org/abs/2408.15388v1](http://arxiv.org/abs/2408.15388v1)
 - 2024-08-27, **Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**, Saining Zhang et.al., Paper: [http://arxiv.org/abs/2408.15242v1](http://arxiv.org/abs/2408.15242v1), Code: **[https://github.com/sainingzhang/uc-gs](https://github.com/sainingzhang/uc-gs)**
 - 2024-08-27, **Learning-based Multi-View Stereo: A Survey**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2408.15235v1](http://arxiv.org/abs/2408.15235v1)
 - 2024-08-27, **muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**, Deepak-George Thomas et.al., Paper: [http://arxiv.org/abs/2408.15150v1](http://arxiv.org/abs/2408.15150v1)
