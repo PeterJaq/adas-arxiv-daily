@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
+- 2024-08-29, **CooTest: An Automated Testing Approach for V2X Communication Systems**, An Guo et.al., Paper: [http://arxiv.org/abs/2408.16470v1](http://arxiv.org/abs/2408.16470v1)
+- 2024-08-29, **BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving**, Manuel Alejandro Diaz-Zapata et.al., Paper: [http://arxiv.org/abs/2408.16322v1](http://arxiv.org/abs/2408.16322v1)
+- 2024-08-29, **PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2408.16200v1](http://arxiv.org/abs/2408.16200v1)
 - 2024-08-28, **GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.15868v1](http://arxiv.org/abs/2408.15868v1)
 - 2024-08-28, **Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**, Zherong Zhang et.al., Paper: [http://arxiv.org/abs/2408.15750v1](http://arxiv.org/abs/2408.15750v1)
 - 2024-08-28, **TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**, Junbao Zhou et.al., Paper: [http://arxiv.org/abs/2408.15657v1](http://arxiv.org/abs/2408.15657v1), Code: **[https://github.com/junbao-zhou/track-no-forgetting](https://github.com/junbao-zhou/track-no-forgetting)**
