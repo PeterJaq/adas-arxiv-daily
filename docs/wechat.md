@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-08-30, **Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**, Ahmed Hammam et.al., Paper: [http://arxiv.org/abs/2408.17311v1](http://arxiv.org/abs/2408.17311v1)
+- 2024-08-30, **How Could Generative AI Support Compliance with the EU AI Act? A Review for Safe Automated Driving Perception**, Mert Keser et.al., Paper: [http://arxiv.org/abs/2408.17222v1](http://arxiv.org/abs/2408.17222v1)
+- 2024-08-30, **NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2408.17207v1](http://arxiv.org/abs/2408.17207v1)
+- 2024-08-30, **UTrack: Multi-Object Tracking with Uncertain Detections**, Edgardo Solano-Carrillo et.al., Paper: [http://arxiv.org/abs/2408.17098v1](http://arxiv.org/abs/2408.17098v1)
+- 2024-08-30, **PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**, Zhengru Fang et.al., Paper: [http://arxiv.org/abs/2408.17047v1](http://arxiv.org/abs/2408.17047v1)
+- 2024-08-30, **Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**, Leonardo Iurada et.al., Paper: [http://arxiv.org/abs/2408.16952v1](http://arxiv.org/abs/2408.16952v1), Code: **[https://github.com/iurada/neutron-segmentation](https://github.com/iurada/neutron-segmentation)**
 - 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
 - 2024-08-29, **CooTest: An Automated Testing Approach for V2X Communication Systems**, An Guo et.al., Paper: [http://arxiv.org/abs/2408.16470v1](http://arxiv.org/abs/2408.16470v1)
 - 2024-08-29, **BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving**, Manuel Alejandro Diaz-Zapata et.al., Paper: [http://arxiv.org/abs/2408.16322v1](http://arxiv.org/abs/2408.16322v1)
