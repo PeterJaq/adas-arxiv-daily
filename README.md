@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02914v1-b31b1b.svg)](http://arxiv.org/abs/2409.02914v1)|null|
+|**2024-09-04**|**CONClave -- Secure and Robust Cooperative Perception for CAVs Using Authenticated Consensus and Trust Scoring**|Edward Andert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02863v1-b31b1b.svg)](http://arxiv.org/abs/2409.02863v1)|null|
+|**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02676v1-b31b1b.svg)](http://arxiv.org/abs/2409.02676v1)|null|
+|**2024-09-04**|**Want a Ride? Attitudes Towards Autonomous Driving and Behavior in Autonomous Vehicles**|Enrico Del Re et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02556v1-b31b1b.svg)](http://arxiv.org/abs/2409.02556v1)|null|
+|**2024-09-04**|**TLD: A Vehicle Tail Light signal Dataset and Benchmark**|Jinhao Chai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02508v1-b31b1b.svg)](http://arxiv.org/abs/2409.02508v1)|null|
+|**2024-09-04**|**eRSS-RAMP: A Rule-Adherence Motion Planner Based on Extended Responsibility-Sensitive Safety for Autonomous Driving**|Pengfei Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02503v1-b31b1b.svg)](http://arxiv.org/abs/2409.02503v1)|null|
+|**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02497v1-b31b1b.svg)](http://arxiv.org/abs/2409.02497v1)|null|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02483v1-b31b1b.svg)](http://arxiv.org/abs/2409.02483v1)|null|
+|**2024-09-04**|**Local map Construction Methods with SD map: A Novel Survey**|Jiaqi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02415v1-b31b1b.svg)](http://arxiv.org/abs/2409.02415v1)|null|
+|**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02382v1-b31b1b.svg)](http://arxiv.org/abs/2409.02382v1)|null|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.17311v1-b31b1b.svg)](http://arxiv.org/abs/2408.17311v1)|null|
 |**2024-08-30**|**How Could Generative AI Support Compliance with the EU AI Act? A Review for Safe Automated Driving Perception**|Mert Keser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.17222v1-b31b1b.svg)](http://arxiv.org/abs/2408.17222v1)|null|
 |**2024-08-30**|**NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**|Runwei Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.17207v1-b31b1b.svg)](http://arxiv.org/abs/2408.17207v1)|null|
