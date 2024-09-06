@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Prediction Accuracy & Reliability: Classification and Object Localization under Distribution Shift**|Fabian Diet et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03543v1-b31b1b.svg)](http://arxiv.org/abs/2409.03543v1)|null|
+|**2024-09-05**|**Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles**|Miao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03445v1-b31b1b.svg)](http://arxiv.org/abs/2409.03445v1)|null|
+|**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03320v1-b31b1b.svg)](http://arxiv.org/abs/2409.03320v1)|null|
+|**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03272v1-b31b1b.svg)](http://arxiv.org/abs/2409.03272v1)|null|
+|**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03249v1-b31b1b.svg)](http://arxiv.org/abs/2409.03249v1)|null|
+|**2024-09-05**|**Autonomous Drifting Based on Maximal Safety Probability Learning**|Hikaru Hoshino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03160v1-b31b1b.svg)](http://arxiv.org/abs/2409.03160v1)|null|
+|**2024-09-04**|**Developing, Analyzing, and Evaluating Self-Drive Algorithms Using Drive-by-Wire Electric Vehicles**|Beñat Froemming-Aldanondo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03114v1-b31b1b.svg)](http://arxiv.org/abs/2409.03114v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benatfroemming/REU-2024-Lane-Following)**|
+|**2024-09-04**|**Incorporating dense metric depth into neural 3D representations for view synthesis and relighting**|Arkadeep Narayan Chaudhury et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03061v1-b31b1b.svg)](http://arxiv.org/abs/2409.03061v1)|null|
 |**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02914v1-b31b1b.svg)](http://arxiv.org/abs/2409.02914v1)|null|
 |**2024-09-04**|**CONClave -- Secure and Robust Cooperative Perception for CAVs Using Authenticated Consensus and Trust Scoring**|Edward Andert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02863v1-b31b1b.svg)](http://arxiv.org/abs/2409.02863v1)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02676v1-b31b1b.svg)](http://arxiv.org/abs/2409.02676v1)|null|
