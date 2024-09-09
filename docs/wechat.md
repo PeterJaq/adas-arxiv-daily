@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-09-06, **Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**, Rui Yu et.al., Paper: [http://arxiv.org/abs/2409.04390v1](http://arxiv.org/abs/2409.04390v1)
+- 2024-09-06, **Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**, Felix Herrmann et.al., Paper: [http://arxiv.org/abs/2409.04306v1](http://arxiv.org/abs/2409.04306v1)
+- 2024-09-06, **Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**, Hangcheng Cao et.al., Paper: [http://arxiv.org/abs/2409.04133v1](http://arxiv.org/abs/2409.04133v1)
+- 2024-09-05, **Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**, Han Zheng et.al., Paper: [http://arxiv.org/abs/2409.03881v1](http://arxiv.org/abs/2409.03881v1)
 - 2024-09-05, **Prediction Accuracy & Reliability: Classification and Object Localization under Distribution Shift**, Fabian Diet et.al., Paper: [http://arxiv.org/abs/2409.03543v1](http://arxiv.org/abs/2409.03543v1)
 - 2024-09-05, **Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles**, Miao Fan et.al., Paper: [http://arxiv.org/abs/2409.03445v1](http://arxiv.org/abs/2409.03445v1)
 - 2024-09-05, **YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**, Jingyu Zhang et.al., Paper: [http://arxiv.org/abs/2409.03320v1](http://arxiv.org/abs/2409.03320v1)

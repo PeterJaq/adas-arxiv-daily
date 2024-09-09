@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.04390v1-b31b1b.svg)](http://arxiv.org/abs/2409.04390v1)|null|
+|**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.04306v1-b31b1b.svg)](http://arxiv.org/abs/2409.04306v1)|null|
+|**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.04133v1-b31b1b.svg)](http://arxiv.org/abs/2409.04133v1)|null|
+|**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03881v1-b31b1b.svg)](http://arxiv.org/abs/2409.03881v1)|null|
 |**2024-09-05**|**Prediction Accuracy & Reliability: Classification and Object Localization under Distribution Shift**|Fabian Diet et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03543v1-b31b1b.svg)](http://arxiv.org/abs/2409.03543v1)|null|
 |**2024-09-05**|**Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles**|Miao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03445v1-b31b1b.svg)](http://arxiv.org/abs/2409.03445v1)|null|
 |**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03320v1-b31b1b.svg)](http://arxiv.org/abs/2409.03320v1)|null|
