@@ -5,7 +5,7 @@
 - 2024-09-09, **Promptable Closed-loop Traffic Simulation**, Shuhan Tan et.al., Paper: [http://arxiv.org/abs/2409.05863v1](http://arxiv.org/abs/2409.05863v1)
 - 2024-09-09, **Vision-Driven 2D Supervised Fine-Tuning Framework for Bird's Eye View Perception**, Lei He et.al., Paper: [http://arxiv.org/abs/2409.05834v1](http://arxiv.org/abs/2409.05834v1)
 - 2024-09-09, **Design of a Variable Stiffness Quasi-Direct Drive Cable-Actuated Tensegrity Robot**, Jonathan Mi et.al., Paper: [http://arxiv.org/abs/2409.05751v1](http://arxiv.org/abs/2409.05751v1)
-- 2024-09-09, **What Did My Car Say? Autonomous Vehicle Explanation Errors, Context, and Personal Traits Impact Comfort, Reliance, Satisfaction, and Driving Confidence**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2409.05731v1](http://arxiv.org/abs/2409.05731v1)
+- 2024-09-10, **What Did My Car Say? Impact of Autonomous Vehicle Explanation Errors and Driving Context On Comfort, Reliance, Satisfaction, and Driving Confidence**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2409.05731v2](http://arxiv.org/abs/2409.05731v2)
 - 2024-09-09, **Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2409.05712v1](http://arxiv.org/abs/2409.05712v1)
 - 2024-09-09, **Replay Consolidation with Label Propagation for Continual Object Detection**, Riccardo De Monte et.al., Paper: [http://arxiv.org/abs/2409.05650v1](http://arxiv.org/abs/2409.05650v1)
 - 2024-09-10, **DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2409.05463v2](http://arxiv.org/abs/2409.05463v2)
