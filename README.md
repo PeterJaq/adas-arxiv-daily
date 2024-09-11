@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.06702v1-b31b1b.svg)](http://arxiv.org/abs/2409.06702v1)|null|
+|**2024-09-10**|**Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception**|Xiang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.06584v1-b31b1b.svg)](http://arxiv.org/abs/2409.06584v1)|null|
+|**2024-09-10**|**Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement**|Yang Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.06334v1-b31b1b.svg)](http://arxiv.org/abs/2409.06334v1)|null|
+|**2024-09-10**|**UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised**|Tao Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.06197v1-b31b1b.svg)](http://arxiv.org/abs/2409.06197v1)|null|
+|**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.06189v1-b31b1b.svg)](http://arxiv.org/abs/2409.06189v1)|null|
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.05863v1-b31b1b.svg)](http://arxiv.org/abs/2409.05863v1)|null|
 |**2024-09-09**|**Vision-Driven 2D Supervised Fine-Tuning Framework for Bird's Eye View Perception**|Lei He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.05834v1-b31b1b.svg)](http://arxiv.org/abs/2409.05834v1)|null|
 |**2024-09-09**|**Design of a Variable Stiffness Quasi-Direct Drive Cable-Actuated Tensegrity Robot**|Jonathan Mi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.05751v1-b31b1b.svg)](http://arxiv.org/abs/2409.05751v1)|null|
