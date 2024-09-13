@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-09-12, **The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**, Ashwini Gundappa et.al., Paper: [http://arxiv.org/abs/2409.08253v1](http://arxiv.org/abs/2409.08253v1)
+- 2024-09-12, **The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**, André F. R. Guarda et.al., Paper: [http://arxiv.org/abs/2409.08130v1](http://arxiv.org/abs/2409.08130v1)
+- 2024-09-12, **SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**, An Guo et.al., Paper: [http://arxiv.org/abs/2409.08081v1](http://arxiv.org/abs/2409.08081v1)
+- 2024-09-12, **LED: Light Enhanced Depth Estimation at Night**, Simon de Moreau et.al., Paper: [http://arxiv.org/abs/2409.08031v1](http://arxiv.org/abs/2409.08031v1), Code: **[https://github.com/simondemoreau/led](https://github.com/simondemoreau/led)**
+- 2024-09-12, **Universal Trajectory Optimization Framework for Differential-Driven Robot Class**, Mengke Zhang et.al., Paper: [http://arxiv.org/abs/2409.07924v1](http://arxiv.org/abs/2409.07924v1)
+- 2024-09-12, **Real-time Multi-view Omnidirectional Depth Estimation System for Robots and Autonomous Driving on Real Scenes**, Ming Li et.al., Paper: [http://arxiv.org/abs/2409.07843v1](http://arxiv.org/abs/2409.07843v1)
+- 2024-09-12, **ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable**, Yuan Yin et.al., Paper: [http://arxiv.org/abs/2409.07830v1](http://arxiv.org/abs/2409.07830v1)
+- 2024-09-12, **GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**, Liang Feng et.al., Paper: [http://arxiv.org/abs/2409.07798v1](http://arxiv.org/abs/2409.07798v1)
+- 2024-09-12, **ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation**, Shiwei Feng et.al., Paper: [http://arxiv.org/abs/2409.07774v1](http://arxiv.org/abs/2409.07774v1)
+- 2024-09-12, **GatedUniPose: A Novel Approach for Pose Estimation Combining UniRepLKNet and Gated Convolution**, Liang Feng et.al., Paper: [http://arxiv.org/abs/2409.07752v1](http://arxiv.org/abs/2409.07752v1)
 - 2024-09-11, **Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2409.07321v1](http://arxiv.org/abs/2409.07321v1)
 - 2024-09-11, **MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2409.07267v1](http://arxiv.org/abs/2409.07267v1), Code: **[https://github.com/emzucas/minidrive](https://github.com/emzucas/minidrive)**
 - 2024-09-10, **Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2409.06827v1](http://arxiv.org/abs/2409.06827v1), Code: **[https://github.com/qcraftai/cross-modal-ssl](https://github.com/qcraftai/cross-modal-ssl)**
