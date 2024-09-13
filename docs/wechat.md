@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2024-09-11, **Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2409.07321v1](http://arxiv.org/abs/2409.07321v1)
-- 2024-09-11, **MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2409.07267v1](http://arxiv.org/abs/2409.07267v1)
+- 2024-09-11, **MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2409.07267v1](http://arxiv.org/abs/2409.07267v1), Code: **[https://github.com/emzucas/minidrive](https://github.com/emzucas/minidrive)**
 - 2024-09-10, **Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2409.06827v1](http://arxiv.org/abs/2409.06827v1), Code: **[https://github.com/qcraftai/cross-modal-ssl](https://github.com/qcraftai/cross-modal-ssl)**
 - 2024-09-10, **Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**, Kairui Ding et.al., Paper: [http://arxiv.org/abs/2409.06702v1](http://arxiv.org/abs/2409.06702v1)
 - 2024-09-10, **Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2409.06584v1](http://arxiv.org/abs/2409.06584v1)
