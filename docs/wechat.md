@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-09-13, **Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2409.08980v1](http://arxiv.org/abs/2409.08980v1)
+- 2024-09-13, **GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2409.08688v1](http://arxiv.org/abs/2409.08688v1), Code: **[https://github.com/lynn-yu/genmapping](https://github.com/lynn-yu/genmapping)**
+- 2024-09-13, **Agile Decision-Making and Safety-Critical Motion Planning for Emergency Autonomous Vehicles**, Yiming Shu et.al., Paper: [http://arxiv.org/abs/2409.08665v1](http://arxiv.org/abs/2409.08665v1)
+- 2024-09-12, **A Surveillance Game between a Differential Drive Robot and an Omnidirectional Agent: The Case of a Faster Evader**, Rodrigo Saavedra et.al., Paper: [http://arxiv.org/abs/2409.08414v1](http://arxiv.org/abs/2409.08414v1)
 - 2024-09-13, **The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**, Ashwini Gundappa et.al., Paper: [http://arxiv.org/abs/2409.08253v2](http://arxiv.org/abs/2409.08253v2)
 - 2024-09-12, **The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**, André F. R. Guarda et.al., Paper: [http://arxiv.org/abs/2409.08130v1](http://arxiv.org/abs/2409.08130v1)
 - 2024-09-12, **SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**, An Guo et.al., Paper: [http://arxiv.org/abs/2409.08081v1](http://arxiv.org/abs/2409.08081v1)
