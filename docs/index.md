@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.08253v1-b31b1b.svg)](http://arxiv.org/abs/2409.08253v1)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.08253v2-b31b1b.svg)](http://arxiv.org/abs/2409.08253v2)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.08130v1-b31b1b.svg)](http://arxiv.org/abs/2409.08130v1)|null|
 |**2024-09-12**|**SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**|An Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.08081v1-b31b1b.svg)](http://arxiv.org/abs/2409.08081v1)|null|
 |**2024-09-12**|**LED: Light Enhanced Depth Estimation at Night**|Simon de Moreau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.08031v1-b31b1b.svg)](http://arxiv.org/abs/2409.08031v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simondemoreau/led)**|
