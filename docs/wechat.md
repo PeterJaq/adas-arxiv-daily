@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-09-16, **Radar Teach and Repeat: Architecture and Initial Field Testing**, Xinyuan Qiao et.al., Paper: [http://arxiv.org/abs/2409.10491v1](http://arxiv.org/abs/2409.10491v1)
+- 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
+- 2024-09-16, **DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**, Songning Lai et.al., Paper: [http://arxiv.org/abs/2409.10330v1](http://arxiv.org/abs/2409.10330v1)
+- 2024-09-16, **SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation**, Benjamin Stoler et.al., Paper: [http://arxiv.org/abs/2409.10320v1](http://arxiv.org/abs/2409.10320v1), Code: **[https://github.com/cmubig/seal](https://github.com/cmubig/seal)**
+- 2024-09-16, **Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization**, Lei Zheng et.al., Paper: [http://arxiv.org/abs/2409.10310v1](http://arxiv.org/abs/2409.10310v1)
+- 2024-09-16, **Robust Bird's Eye View Segmentation by Adapting DINOv2**, Merve Rabia Barın et.al., Paper: [http://arxiv.org/abs/2409.10228v1](http://arxiv.org/abs/2409.10228v1)
+- 2024-09-16, **ExelMap: Explainable Element-based HD-Map Change Detection and Update**, Lena Wild et.al., Paper: [http://arxiv.org/abs/2409.10178v1](http://arxiv.org/abs/2409.10178v1)
+- 2024-09-16, **Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**, Mais Jamal et.al., Paper: [http://arxiv.org/abs/2409.10165v1](http://arxiv.org/abs/2409.10165v1)
+- 2024-09-16, **Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**, Huy-Dung Nguyen et.al., Paper: [http://arxiv.org/abs/2409.10095v1](http://arxiv.org/abs/2409.10095v1)
+- 2024-09-16, **LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**, Shuncheng Tang et.al., Paper: [http://arxiv.org/abs/2409.10066v1](http://arxiv.org/abs/2409.10066v1)
 - 2024-09-13, **Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2409.08980v1](http://arxiv.org/abs/2409.08980v1)
 - 2024-09-13, **GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2409.08688v1](http://arxiv.org/abs/2409.08688v1), Code: **[https://github.com/lynn-yu/genmapping](https://github.com/lynn-yu/genmapping)**
 - 2024-09-13, **Agile Decision-Making and Safety-Critical Motion Planning for Emergency Autonomous Vehicles**, Yiming Shu et.al., Paper: [http://arxiv.org/abs/2409.08665v1](http://arxiv.org/abs/2409.08665v1)
