@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
+- 2024-09-17, **High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**, Aditya Humnabadkar et.al., Paper: [http://arxiv.org/abs/2409.11206v1](http://arxiv.org/abs/2409.11206v1)
+- 2024-09-17, **Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**, Matteo Penlington et.al., Paper: [http://arxiv.org/abs/2409.11199v1](http://arxiv.org/abs/2409.11199v1)
+- 2024-09-17, **Annealed Winner-Takes-All for Motion Forecasting**, Yihong Xu et.al., Paper: [http://arxiv.org/abs/2409.11172v1](http://arxiv.org/abs/2409.11172v1)
+- 2024-09-17, **UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2409.11160v1](http://arxiv.org/abs/2409.11160v1)
+- 2024-09-17, **Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**, Rui Yu et.al., Paper: [http://arxiv.org/abs/2409.11018v1](http://arxiv.org/abs/2409.11018v1)
+- 2024-09-17, **RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**, Manthan Patel et.al., Paper: [http://arxiv.org/abs/2409.10940v1](http://arxiv.org/abs/2409.10940v1)
+- 2024-09-17, **TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2409.10901v1](http://arxiv.org/abs/2409.10901v1)
+- 2024-09-16, **CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2409.10699v1](http://arxiv.org/abs/2409.10699v1)
 - 2024-09-16, **Radar Teach and Repeat: Architecture and Initial Field Testing**, Xinyuan Qiao et.al., Paper: [http://arxiv.org/abs/2409.10491v1](http://arxiv.org/abs/2409.10491v1)
 - 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
 - 2024-09-16, **DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**, Songning Lai et.al., Paper: [http://arxiv.org/abs/2409.10330v1](http://arxiv.org/abs/2409.10330v1)
