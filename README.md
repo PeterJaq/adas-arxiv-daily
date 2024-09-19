@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**LMMCoDrive: Cooperative Driving with Large Multimodal Model**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11981v1-b31b1b.svg)](http://arxiv.org/abs/2409.11981v1)|null|
+|**2024-09-18**|**Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**|Ludan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11969v1-b31b1b.svg)](http://arxiv.org/abs/2409.11969v1)|null|
+|**2024-09-18**|**Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**|Zhe Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11780v1-b31b1b.svg)](http://arxiv.org/abs/2409.11780v1)|null|
+|**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11706v1-b31b1b.svg)](http://arxiv.org/abs/2409.11706v1)|null|
+|**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11694v1-b31b1b.svg)](http://arxiv.org/abs/2409.11694v1)|null|
+|**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11676v1-b31b1b.svg)](http://arxiv.org/abs/2409.11676v1)|null|
+|**2024-09-18**|**Modeling and Simulation of a Fully Autonomous Electric Vehicle (AEV)**|Qasim Ajao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11641v1-b31b1b.svg)](http://arxiv.org/abs/2409.11641v1)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11356v1-b31b1b.svg)](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11206v2-b31b1b.svg)](http://arxiv.org/abs/2409.11206v2)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11199v1-b31b1b.svg)](http://arxiv.org/abs/2409.11199v1)|null|
