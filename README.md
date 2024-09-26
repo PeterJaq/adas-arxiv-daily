@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17120v1-b31b1b.svg)](http://arxiv.org/abs/2409.17120v1)|null|
+|**2024-09-25**|**Skyeyes: Ground Roaming using Aerial View Images**|Zhiyuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16685v1-b31b1b.svg)](http://arxiv.org/abs/2409.16685v1)|null|
+|**2024-09-25**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16663v1-b31b1b.svg)](http://arxiv.org/abs/2409.16663v1)|null|
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16154v2-b31b1b.svg)](http://arxiv.org/abs/2409.16154v2)|null|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15841v1-b31b1b.svg)](http://arxiv.org/abs/2409.15841v1)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15821v1-b31b1b.svg)](http://arxiv.org/abs/2409.15821v1)|null|
