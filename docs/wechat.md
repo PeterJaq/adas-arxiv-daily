@@ -1,7 +1,17 @@
-> Updated on 2024.09.25
+> Updated on 2024.09.26
 
 ## Autonomous_Driving
 
+- 2024-09-25, **Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**, Alexander Prutsch et.al., Paper: [http://arxiv.org/abs/2409.16154v2](http://arxiv.org/abs/2409.16154v2)
+- 2024-09-24, **FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**, Erxin Guo et.al., Paper: [http://arxiv.org/abs/2409.15841v1](http://arxiv.org/abs/2409.15841v1)
+- 2024-09-24, **Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**, Wen Wei et.al., Paper: [http://arxiv.org/abs/2409.15821v1](http://arxiv.org/abs/2409.15821v1)
+- 2024-09-24, **Diffusion Models for Intelligent Transportation Systems: A Survey**, Mingxing Peng et.al., Paper: [http://arxiv.org/abs/2409.15816v1](http://arxiv.org/abs/2409.15816v1)
+- 2024-09-24, **A Computer Vision Approach for Autonomous Cars to Drive Safe at Construction Zone**, Abu Shad Ahammed et.al., Paper: [http://arxiv.org/abs/2409.15809v1](http://arxiv.org/abs/2409.15809v1)
+- 2024-09-24, **Dynamic Game-Theoretical Decision-Making Framework for Vehicle-Pedestrian Interaction with Human Bounded Rationality**, Meiting Dang et.al., Paper: [http://arxiv.org/abs/2409.15629v1](http://arxiv.org/abs/2409.15629v1)
+- 2024-09-23, **Analyzing Privacy Implications of Data Collection in Android Automotive OS**, Bulut Gözübüyük et.al., Paper: [http://arxiv.org/abs/2409.15561v1](http://arxiv.org/abs/2409.15561v1)
+- 2024-09-23, **VLMine: Long-Tail Data Mining with Vision Language Models**, Mao Ye et.al., Paper: [http://arxiv.org/abs/2409.15486v1](http://arxiv.org/abs/2409.15486v1)
+- 2024-09-23, **Enhancing Pedestrian Trajectory Prediction with Crowd Trip Information**, Rei Tamaru et.al., Paper: [http://arxiv.org/abs/2409.15224v1](http://arxiv.org/abs/2409.15224v1)
+- 2024-09-25, **Goal-based Neural Physics Vehicle Trajectory Prediction Model**, Rui Gan et.al., Paper: [http://arxiv.org/abs/2409.15182v2](http://arxiv.org/abs/2409.15182v2)
 - 2024-09-18, **LMMCoDrive: Cooperative Driving with Large Multimodal Model**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2409.11981v1](http://arxiv.org/abs/2409.11981v1)
 - 2024-09-18, **Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**, Ludan Zhang et.al., Paper: [http://arxiv.org/abs/2409.11969v1](http://arxiv.org/abs/2409.11969v1)
 - 2024-09-18, **Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**, Zhe Yu et.al., Paper: [http://arxiv.org/abs/2409.11780v1](http://arxiv.org/abs/2409.11780v1)
