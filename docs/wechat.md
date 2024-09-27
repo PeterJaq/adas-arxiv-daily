@@ -1,10 +1,10 @@
-> Updated on 2024.09.26
+> Updated on 2024.09.27
 
 ## Autonomous_Driving
 
 - 2024-09-25, **Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**, Benji Peng et.al., Paper: [http://arxiv.org/abs/2409.17120v1](http://arxiv.org/abs/2409.17120v1)
 - 2024-09-25, **Skyeyes: Ground Roaming using Aerial View Images**, Zhiyuan Gao et.al., Paper: [http://arxiv.org/abs/2409.16685v1](http://arxiv.org/abs/2409.16685v1)
-- 2024-09-25, **Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**, Alexander Popov et.al., Paper: [http://arxiv.org/abs/2409.16663v1](http://arxiv.org/abs/2409.16663v1)
+- 2024-09-26, **Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**, Alexander Popov et.al., Paper: [http://arxiv.org/abs/2409.16663v2](http://arxiv.org/abs/2409.16663v2)
 - 2024-09-25, **Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**, Alexander Prutsch et.al., Paper: [http://arxiv.org/abs/2409.16154v2](http://arxiv.org/abs/2409.16154v2)
 - 2024-09-24, **FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**, Erxin Guo et.al., Paper: [http://arxiv.org/abs/2409.15841v1](http://arxiv.org/abs/2409.15841v1)
 - 2024-09-24, **Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**, Wen Wei et.al., Paper: [http://arxiv.org/abs/2409.15821v1](http://arxiv.org/abs/2409.15821v1)
