@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-09-26, **DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2409.18092v1](http://arxiv.org/abs/2409.18092v1)
+- 2024-09-26, **DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**, Dingrui Wang et.al., Paper: [http://arxiv.org/abs/2409.18053v1](http://arxiv.org/abs/2409.18053v1)
+- 2024-09-26, **Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2409.18031v1](http://arxiv.org/abs/2409.18031v1)
+- 2024-09-26, **ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning**, Song Wang et.al., Paper: [http://arxiv.org/abs/2409.18026v1](http://arxiv.org/abs/2409.18026v1)
+- 2024-09-26, **Adaptive Stream Processing on Edge Devices through Active Inference**, Boris Sedlak et.al., Paper: [http://arxiv.org/abs/2409.17937v1](http://arxiv.org/abs/2409.17937v1)
+- 2024-09-26, **PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**, Zizhi Jin et.al., Paper: [http://arxiv.org/abs/2409.17907v1](http://arxiv.org/abs/2409.17907v1)
+- 2024-09-26, **A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**, Aurel Pjetri et.al., Paper: [http://arxiv.org/abs/2409.17851v1](http://arxiv.org/abs/2409.17851v1)
+- 2024-09-26, **CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**, Harsh Yadav et.al., Paper: [http://arxiv.org/abs/2409.17790v1](http://arxiv.org/abs/2409.17790v1)
+- 2024-09-26, **AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**, Shiqi Sun et.al., Paper: [http://arxiv.org/abs/2409.17728v1](http://arxiv.org/abs/2409.17728v1)
+- 2024-09-26, **Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**, Siyi Lu et.al., Paper: [http://arxiv.org/abs/2409.17659v1](http://arxiv.org/abs/2409.17659v1)
 - 2024-09-25, **Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**, Benji Peng et.al., Paper: [http://arxiv.org/abs/2409.17120v1](http://arxiv.org/abs/2409.17120v1)
 - 2024-09-25, **Skyeyes: Ground Roaming using Aerial View Images**, Zhiyuan Gao et.al., Paper: [http://arxiv.org/abs/2409.16685v1](http://arxiv.org/abs/2409.16685v1)
 - 2024-09-26, **Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**, Alexander Popov et.al., Paper: [http://arxiv.org/abs/2409.16663v2](http://arxiv.org/abs/2409.16663v2)
