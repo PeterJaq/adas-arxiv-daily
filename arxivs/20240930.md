@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Analysis of Truncated Singular Value Decomposition for Koopman Operator-Based Lane Change Model**|Chinnawut Nantabut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18586v1-b31b1b.svg)](http://arxiv.org/abs/2409.18586v1)|null|
+|**2024-09-27**|**Unscented Transform-based Pure Pursuit Path-Tracking Algorithm under Uncertainty**|Chinnawut Nantabut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18585v1-b31b1b.svg)](http://arxiv.org/abs/2409.18585v1)|null|
+|**2024-09-27**|**BoT-Drive: Hierarchical Behavior and Trajectory Planning for Autonomous Driving using POMDPs**|Xuanjin Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18411v1-b31b1b.svg)](http://arxiv.org/abs/2409.18411v1)|null|
+|**2024-09-27**|**Multimodal Trajectory Prediction for Autonomous Driving on Unstructured Roads using Deep Convolutional Network**|Lei Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18399v1-b31b1b.svg)](http://arxiv.org/abs/2409.18399v1)|null|
+|**2024-09-26**|**Progress Towards Submersible Microrobots: A Novel 13-mg Low-Power SMA-Based Actuator for Underwater Propulsion**|Cody R. Longwell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18347v1-b31b1b.svg)](http://arxiv.org/abs/2409.18347v1)|null|
+|**2024-09-26**|**Does End-to-End Autonomous Driving Really Need Perception Tasks?**|Peidong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18341v1-b31b1b.svg)](http://arxiv.org/abs/2409.18341v1)|null|
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18092v1-b31b1b.svg)](http://arxiv.org/abs/2409.18092v1)|null|
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18053v1-b31b1b.svg)](http://arxiv.org/abs/2409.18053v1)|null|
 |**2024-09-26**|**Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18031v1-b31b1b.svg)](http://arxiv.org/abs/2409.18031v1)|null|
