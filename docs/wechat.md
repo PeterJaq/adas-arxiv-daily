@@ -8,7 +8,7 @@
 - 2024-09-26, **ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning**, Song Wang et.al., Paper: [http://arxiv.org/abs/2409.18026v1](http://arxiv.org/abs/2409.18026v1)
 - 2024-09-26, **Adaptive Stream Processing on Edge Devices through Active Inference**, Boris Sedlak et.al., Paper: [http://arxiv.org/abs/2409.17937v1](http://arxiv.org/abs/2409.17937v1)
 - 2024-09-26, **PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**, Zizhi Jin et.al., Paper: [http://arxiv.org/abs/2409.17907v1](http://arxiv.org/abs/2409.17907v1)
-- 2024-09-26, **A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**, Aurel Pjetri et.al., Paper: [http://arxiv.org/abs/2409.17851v1](http://arxiv.org/abs/2409.17851v1)
+- 2024-09-27, **A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**, Aurel Pjetri et.al., Paper: [http://arxiv.org/abs/2409.17851v2](http://arxiv.org/abs/2409.17851v2)
 - 2024-09-26, **CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**, Harsh Yadav et.al., Paper: [http://arxiv.org/abs/2409.17790v1](http://arxiv.org/abs/2409.17790v1)
 - 2024-09-26, **AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**, Shiqi Sun et.al., Paper: [http://arxiv.org/abs/2409.17728v1](http://arxiv.org/abs/2409.17728v1)
 - 2024-09-26, **Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**, Siyi Lu et.al., Paper: [http://arxiv.org/abs/2409.17659v1](http://arxiv.org/abs/2409.17659v1)
