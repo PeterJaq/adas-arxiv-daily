@@ -1,10 +1,10 @@
-> Updated on 2024.10.02
+> Updated on 2024.10.03
 
 ## Autonomous_Driving
 
 - 2024-09-30, **Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2409.20364v1](http://arxiv.org/abs/2409.20364v1)
 - 2024-09-30, **GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**, Chen Xie et.al., Paper: [http://arxiv.org/abs/2409.20223v1](http://arxiv.org/abs/2409.20223v1)
-- 2024-09-30, **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2409.19987v1](http://arxiv.org/abs/2409.19987v1)
+- 2024-10-01, **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2409.19987v2](http://arxiv.org/abs/2409.19987v2)
 - 2024-09-30, **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**, Zhen Yang et.al., Paper: [http://arxiv.org/abs/2409.19972v1](http://arxiv.org/abs/2409.19972v1), Code: **[https://github.com/alphaplustt/daocc](https://github.com/alphaplustt/daocc)**
 - 2024-09-30, **VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**, Zishen Wan et.al., Paper: [http://arxiv.org/abs/2409.19892v1](http://arxiv.org/abs/2409.19892v1)
 - 2024-09-30, **Utilizing Priors in Sampling-based Cost Minimization**, Yuan-Yao Lou et.al., Paper: [http://arxiv.org/abs/2409.19834v1](http://arxiv.org/abs/2409.19834v1)

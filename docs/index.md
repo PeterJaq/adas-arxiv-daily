@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.20364v1-b31b1b.svg)](http://arxiv.org/abs/2409.20364v1)|null|
 |**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.20223v1-b31b1b.svg)](http://arxiv.org/abs/2409.20223v1)|null|
-|**2024-09-30**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19987v1-b31b1b.svg)](http://arxiv.org/abs/2409.19987v1)|null|
+|**2024-10-01**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19987v2-b31b1b.svg)](http://arxiv.org/abs/2409.19987v2)|null|
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19972v1-b31b1b.svg)](http://arxiv.org/abs/2409.19972v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaplustt/daocc)**|
 |**2024-09-30**|**VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**|Zishen Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19892v1-b31b1b.svg)](http://arxiv.org/abs/2409.19892v1)|null|
 |**2024-09-30**|**Utilizing Priors in Sampling-based Cost Minimization**|Yuan-Yao Lou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19834v1-b31b1b.svg)](http://arxiv.org/abs/2409.19834v1)|null|
