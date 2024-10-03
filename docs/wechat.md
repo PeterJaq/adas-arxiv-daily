@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-02, **Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2410.01678v1](http://arxiv.org/abs/2410.01678v1), Code: **[https://github.com/ayesha-ishaq/open3dtrack](https://github.com/ayesha-ishaq/open3dtrack)**
+- 2024-10-02, **Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**, Aron Distelzweig et.al., Paper: [http://arxiv.org/abs/2410.01628v1](http://arxiv.org/abs/2410.01628v1)
+- 2024-10-02, **Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**, Jiyun Jang et.al., Paper: [http://arxiv.org/abs/2410.01319v1](http://arxiv.org/abs/2410.01319v1)
+- 2024-10-02, **Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**, Ashutosh Kumar et.al., Paper: [http://arxiv.org/abs/2410.01225v1](http://arxiv.org/abs/2410.01225v1), Code: **[https://github.com/ashu1069/perceptual-piercing](https://github.com/ashu1069/perceptual-piercing)**
+- 2024-10-02, **Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction**, Weiye Zhao et.al., Paper: [http://arxiv.org/abs/2410.01212v1](http://arxiv.org/abs/2410.01212v1)
+- 2024-10-02, **Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**, Yue Zhong et.al., Paper: [http://arxiv.org/abs/2410.01176v1](http://arxiv.org/abs/2410.01176v1)
+- 2024-10-01, **Flux-pump induced degradation of $T_1$ for dissipative cat qubits**, Léon Carde et.al., Paper: [http://arxiv.org/abs/2410.00975v1](http://arxiv.org/abs/2410.00975v1)
+- 2024-10-01, **High-directivity multi-level beam switching with single-gate tunable metasurfaces based on graphene**, Juho Park et.al., Paper: [http://arxiv.org/abs/2410.00806v1](http://arxiv.org/abs/2410.00806v1)
+- 2024-10-01, **E-MPC: Edge-assisted Model Predictive Control**, Yuan-Yao Lou et.al., Paper: [http://arxiv.org/abs/2410.00695v1](http://arxiv.org/abs/2410.00695v1)
+- 2024-10-01, **SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs**, Leheng Li et.al., Paper: [http://arxiv.org/abs/2410.00337v1](http://arxiv.org/abs/2410.00337v1)
 - 2024-09-30, **Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2409.20364v1](http://arxiv.org/abs/2409.20364v1)
 - 2024-09-30, **GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**, Chen Xie et.al., Paper: [http://arxiv.org/abs/2409.20223v1](http://arxiv.org/abs/2409.20223v1)
 - 2024-10-01, **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2409.19987v2](http://arxiv.org/abs/2409.19987v2)
