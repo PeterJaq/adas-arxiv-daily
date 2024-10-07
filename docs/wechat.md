@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-10-04, **A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development**, Jesper Knapp et.al., Paper: [http://arxiv.org/abs/2410.03580v1](http://arxiv.org/abs/2410.03580v1)
+- 2024-10-04, **Make Interval Bound Propagation great again**, Patryk Krukowski et.al., Paper: [http://arxiv.org/abs/2410.03373v1](http://arxiv.org/abs/2410.03373v1), Code: **[https://github.com/gmum/make-interval-bound-propagation-great-again](https://github.com/gmum/make-interval-bound-propagation-great-again)**
+- 2024-10-04, **Design and Evaluation of a Compliant Quasi Direct Drive End-effector for Safe Robotic Ultrasound Imaging**, Danyi Chen et.al., Paper: [http://arxiv.org/abs/2410.03086v1](http://arxiv.org/abs/2410.03086v1)
+- 2024-10-04, **MetaOOD: Automatic Selection of OOD Detection Models**, Yuehan Qin et.al., Paper: [http://arxiv.org/abs/2410.03074v1](http://arxiv.org/abs/2410.03074v1)
 - 2024-10-03, **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**, Hanrong Zhang et.al., Paper: [http://arxiv.org/abs/2410.02644v1](http://arxiv.org/abs/2410.02644v1), Code: **[https://github.com/agiresearch/asb](https://github.com/agiresearch/asb)**
 - 2024-10-03, **Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2410.02638v1](http://arxiv.org/abs/2410.02638v1), Code: **[https://github.com/fubel/stmc](https://github.com/fubel/stmc)**
 - 2024-10-03, **Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**, Carlos Conejo et.al., Paper: [http://arxiv.org/abs/2410.02469v1](http://arxiv.org/abs/2410.02469v1)
