@@ -11,7 +11,7 @@
 - 2024-10-03, **Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**, Carlos Conejo et.al., Paper: [http://arxiv.org/abs/2410.02469v1](http://arxiv.org/abs/2410.02469v1)
 - 2024-10-03, **End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**, Yueyuan Li et.al., Paper: [http://arxiv.org/abs/2410.02253v1](http://arxiv.org/abs/2410.02253v1)
 - 2024-10-03, **Remember and Recall: Associative-Memory-based Trajectory Prediction**, Hang Guo et.al., Paper: [http://arxiv.org/abs/2410.02201v1](http://arxiv.org/abs/2410.02201v1)
-- 2024-10-03, **Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**, Shreyas Chaudhari et.al., Paper: [http://arxiv.org/abs/2410.02172v1](http://arxiv.org/abs/2410.02172v1)
+- 2024-10-03, **Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**, Shreyas Chaudhari et.al., Paper: [http://arxiv.org/abs/2410.02172v1](http://arxiv.org/abs/2410.02172v1), Code: **[https://github.com/shreyasc-13/star](https://github.com/shreyasc-13/star)**
 - 2024-10-02, **Scene Flow as a Partial Differential Equation**, Kyle Vedder et.al., Paper: [http://arxiv.org/abs/2410.02031v1](http://arxiv.org/abs/2410.02031v1)
 - 2024-10-02, **Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2410.01678v1](http://arxiv.org/abs/2410.01678v1), Code: **[https://github.com/ayesha-ishaq/open3dtrack](https://github.com/ayesha-ishaq/open3dtrack)**
 - 2024-10-02, **Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**, Aron Distelzweig et.al., Paper: [http://arxiv.org/abs/2410.01628v1](http://arxiv.org/abs/2410.01628v1)
