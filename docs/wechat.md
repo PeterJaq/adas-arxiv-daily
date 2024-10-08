@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-07, **LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**, Qifeng Chen et.al., Paper: [http://arxiv.org/abs/2410.05111v1](http://arxiv.org/abs/2410.05111v1)
+- 2024-10-07, **HE-Drive: Human-Like End-to-End Driving with Vision Language Models**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2410.05051v1](http://arxiv.org/abs/2410.05051v1)
+- 2024-10-07, **PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2410.04939v1](http://arxiv.org/abs/2410.04939v1), Code: **[https://github.com/sijieaaa/prfusion](https://github.com/sijieaaa/prfusion)**
+- 2024-10-07, **Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**, Jinxiong Lu et.al., Paper: [http://arxiv.org/abs/2410.04809v1](http://arxiv.org/abs/2410.04809v1)
+- 2024-10-07, **WTCL-Dehaze: Rethinking Real-world Image Dehazing via Wavelet Transform and Contrastive Learning**, Divine Joseph Appiah et.al., Paper: [http://arxiv.org/abs/2410.04762v1](http://arxiv.org/abs/2410.04762v1)
+- 2024-10-07, **Diffusion Models in 3D Vision: A Survey**, Zhen Wang et.al., Paper: [http://arxiv.org/abs/2410.04738v1](http://arxiv.org/abs/2410.04738v1)
+- 2024-10-06, **In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2410.04529v1](http://arxiv.org/abs/2410.04529v1)
+- 2024-10-06, **StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**, Xiao Cui et.al., Paper: [http://arxiv.org/abs/2410.04354v1](http://arxiv.org/abs/2410.04354v1)
+- 2024-10-05, **Vehicle-in-Virtual-Environment Method for ADAS and Connected and Automated Driving Function Development/Demonstration/Evaluation**, Xincheng Cao et.al., Paper: [http://arxiv.org/abs/2410.04313v1](http://arxiv.org/abs/2410.04313v1)
+- 2024-10-05, **Lane Detection System for Driver Assistance in Vehicles**, Kauan Divino Pouso Mariano et.al., Paper: [http://arxiv.org/abs/2410.04046v1](http://arxiv.org/abs/2410.04046v1)
 - 2024-10-04, **A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development**, Jesper Knapp et.al., Paper: [http://arxiv.org/abs/2410.03580v1](http://arxiv.org/abs/2410.03580v1)
 - 2024-10-04, **Make Interval Bound Propagation great again**, Patryk Krukowski et.al., Paper: [http://arxiv.org/abs/2410.03373v1](http://arxiv.org/abs/2410.03373v1), Code: **[https://github.com/gmum/make-interval-bound-propagation-great-again](https://github.com/gmum/make-interval-bound-propagation-great-again)**
 - 2024-10-04, **Design and Evaluation of a Compliant Quasi Direct Drive End-effector for Safe Robotic Ultrasound Imaging**, Danyi Chen et.al., Paper: [http://arxiv.org/abs/2410.03086v1](http://arxiv.org/abs/2410.03086v1)
