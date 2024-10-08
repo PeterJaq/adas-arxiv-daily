@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 
 ## Autonomous_Driving
 
