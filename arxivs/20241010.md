@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.07109v1-b31b1b.svg)](http://arxiv.org/abs/2410.07109v1)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06516v1-b31b1b.svg)](http://arxiv.org/abs/2410.06516v1)|null|
+|**2024-10-09**|**Overcoming Autoware-Ubuntu Incompatibility in Autonomous Driving Systems-Equipped Vehicles: Lessons Learned**|Dada Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06492v1-b31b1b.svg)](http://arxiv.org/abs/2410.06492v1)|null|
+|**2024-10-08**|**BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis**|Christopher Klammer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06410v1-b31b1b.svg)](http://arxiv.org/abs/2410.06410v1)|null|
+|**2024-10-08**|**Work-in-Progress: Traded Control Transfer for Managing Real-Time Sensor Uncertainties in Autonomous Vehicle**|Md Sakib Galib Sourav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06345v1-b31b1b.svg)](http://arxiv.org/abs/2410.06345v1)|null|
+|**2024-10-08**|**A New Architecture for Neural Enhanced Multiobject Tracking**|Shaoxiu Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06294v1-b31b1b.svg)](http://arxiv.org/abs/2410.06294v1)|null|
+|**2024-10-08**|**Gaussian-Based and Outside-the-Box Runtime Monitoring Join Forces**|Vahid Hashemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06051v1-b31b1b.svg)](http://arxiv.org/abs/2410.06051v1)|null|
+|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06007v1-b31b1b.svg)](http://arxiv.org/abs/2410.06007v1)|null|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05982v1-b31b1b.svg)](http://arxiv.org/abs/2410.05982v1)|null|
+|**2024-10-08**|**Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles**|Dongkun Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05793v1-b31b1b.svg)](http://arxiv.org/abs/2410.05793v1)|null|
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05111v1-b31b1b.svg)](http://arxiv.org/abs/2410.05111v1)|null|
 |**2024-10-07**|**HE-Drive: Human-Like End-to-End Driving with Vision Language Models**|Junming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05051v1-b31b1b.svg)](http://arxiv.org/abs/2410.05051v1)|null|
 |**2024-10-07**|**PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**|Sijie Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.04939v1-b31b1b.svg)](http://arxiv.org/abs/2410.04939v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sijieaaa/prfusion)**|

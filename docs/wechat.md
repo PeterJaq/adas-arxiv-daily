@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-09, **I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**, Gian Maria Campedelli et.al., Paper: [http://arxiv.org/abs/2410.07109v1](http://arxiv.org/abs/2410.07109v1)
+- 2024-10-09, **QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**, Yuxin Li et.al., Paper: [http://arxiv.org/abs/2410.06516v1](http://arxiv.org/abs/2410.06516v1)
+- 2024-10-09, **Overcoming Autoware-Ubuntu Incompatibility in Autonomous Driving Systems-Equipped Vehicles: Lessons Learned**, Dada Zhang et.al., Paper: [http://arxiv.org/abs/2410.06492v1](http://arxiv.org/abs/2410.06492v1)
+- 2024-10-08, **BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis**, Christopher Klammer et.al., Paper: [http://arxiv.org/abs/2410.06410v1](http://arxiv.org/abs/2410.06410v1)
+- 2024-10-08, **Work-in-Progress: Traded Control Transfer for Managing Real-Time Sensor Uncertainties in Autonomous Vehicle**, Md Sakib Galib Sourav et.al., Paper: [http://arxiv.org/abs/2410.06345v1](http://arxiv.org/abs/2410.06345v1)
+- 2024-10-08, **A New Architecture for Neural Enhanced Multiobject Tracking**, Shaoxiu Wei et.al., Paper: [http://arxiv.org/abs/2410.06294v1](http://arxiv.org/abs/2410.06294v1)
+- 2024-10-08, **Gaussian-Based and Outside-the-Box Runtime Monitoring Join Forces**, Vahid Hashemi et.al., Paper: [http://arxiv.org/abs/2410.06051v1](http://arxiv.org/abs/2410.06051v1)
+- 2024-10-08, **Motion Forecasting in Continuous Driving**, Nan Song et.al., Paper: [http://arxiv.org/abs/2410.06007v1](http://arxiv.org/abs/2410.06007v1)
+- 2024-10-08, **DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2410.05982v1](http://arxiv.org/abs/2410.05982v1)
+- 2024-10-08, **Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles**, Dongkun Han et.al., Paper: [http://arxiv.org/abs/2410.05793v1](http://arxiv.org/abs/2410.05793v1)
 - 2024-10-07, **LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**, Qifeng Chen et.al., Paper: [http://arxiv.org/abs/2410.05111v1](http://arxiv.org/abs/2410.05111v1)
 - 2024-10-07, **HE-Drive: Human-Like End-to-End Driving with Vision Language Models**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2410.05051v1](http://arxiv.org/abs/2410.05051v1)
 - 2024-10-07, **PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2410.04939v1](http://arxiv.org/abs/2410.04939v1), Code: **[https://github.com/sijieaaa/prfusion](https://github.com/sijieaaa/prfusion)**
