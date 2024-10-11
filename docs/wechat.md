@@ -2,7 +2,16 @@
 
 ## Autonomous_Driving
 
-- 2024-10-09, **I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**, Gian Maria Campedelli et.al., Paper: [http://arxiv.org/abs/2410.07109v1](http://arxiv.org/abs/2410.07109v1)
+- 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
+- 2024-10-10, **Autonomous Vehicles Path Planning under Temporal Logic Specifications**, Akshay Dhonthi et.al., Paper: [http://arxiv.org/abs/2410.07845v1](http://arxiv.org/abs/2410.07845v1)
+- 2024-10-10, **HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**, Pei Liu et.al., Paper: [http://arxiv.org/abs/2410.07758v1](http://arxiv.org/abs/2410.07758v1)
+- 2024-10-10, **Autonomous Driving in Unstructured Environments: How Far Have We Come?**, Chen Min et.al., Paper: [http://arxiv.org/abs/2410.07701v1](http://arxiv.org/abs/2410.07701v1)
+- 2024-10-10, **Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**, Minxing Zhang et.al., Paper: [http://arxiv.org/abs/2410.07670v1](http://arxiv.org/abs/2410.07670v1)
+- 2024-10-10, **3D Vision-Language Gaussian Splatting**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2410.07577v1](http://arxiv.org/abs/2410.07577v1)
+- 2024-10-09, **Pockels Laser Directly Driving Ultrafast Optical Metrology**, Shixin Xue et.al., Paper: [http://arxiv.org/abs/2410.07482v1](http://arxiv.org/abs/2410.07482v1)
+- 2024-10-09, **Progressive Multi-Modal Fusion for Robust 3D Object Detection**, Rohit Mohan et.al., Paper: [http://arxiv.org/abs/2410.07475v1](http://arxiv.org/abs/2410.07475v1)
+- 2024-10-09, **Learning responsibility allocations for multi-agent interactions: A differentiable optimization approach with control barrier functions**, Isaac Remy et.al., Paper: [http://arxiv.org/abs/2410.07409v1](http://arxiv.org/abs/2410.07409v1)
+- 2024-10-09, **I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**, Gian Maria Campedelli et.al., Paper: [http://arxiv.org/abs/2410.07109v1](http://arxiv.org/abs/2410.07109v1), Code: **[https://github.com/mobs-fbk/llm_interaction_simulator](https://github.com/mobs-fbk/llm_interaction_simulator)**
 - 2024-10-09, **QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**, Yuxin Li et.al., Paper: [http://arxiv.org/abs/2410.06516v1](http://arxiv.org/abs/2410.06516v1)
 - 2024-10-09, **Overcoming Autoware-Ubuntu Incompatibility in Autonomous Driving Systems-Equipped Vehicles: Lessons Learned**, Dada Zhang et.al., Paper: [http://arxiv.org/abs/2410.06492v1](http://arxiv.org/abs/2410.06492v1)
 - 2024-10-08, **BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis**, Christopher Klammer et.al., Paper: [http://arxiv.org/abs/2410.06410v1](http://arxiv.org/abs/2410.06410v1)
