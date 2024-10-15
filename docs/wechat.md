@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-14, **Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**, Tim Broedermann et.al., Paper: [http://arxiv.org/abs/2410.10791v1](http://arxiv.org/abs/2410.10791v1)
+- 2024-10-14, **Towards Calibrated Losses for Adversarial Robust Reject Option Classification**, Vrund Shah et.al., Paper: [http://arxiv.org/abs/2410.10736v1](http://arxiv.org/abs/2410.10736v1), Code: **[https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**
+- 2024-10-14, **Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**, Ran Wei et.al., Paper: [http://arxiv.org/abs/2410.10653v1](http://arxiv.org/abs/2410.10653v1)
+- 2024-10-14, **Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**, Daniel Fusaro et.al., Paper: [http://arxiv.org/abs/2410.10510v1](http://arxiv.org/abs/2410.10510v1), Code: **[https://github.com/bender97/waffleandrange](https://github.com/bender97/waffleandrange)**
+- 2024-10-14, **In-Materia Speech Recognition**, Mohamadreza Zolfagharinejad et.al., Paper: [http://arxiv.org/abs/2410.10434v1](http://arxiv.org/abs/2410.10434v1)
+- 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
+- 2024-10-14, **ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**, Jiwei Chen et.al., Paper: [http://arxiv.org/abs/2410.10298v1](http://arxiv.org/abs/2410.10298v1)
+- 2024-10-14, **Exploring Semi-Supervised Learning for Online Mapping**, Adam Lilja et.al., Paper: [http://arxiv.org/abs/2410.10279v1](http://arxiv.org/abs/2410.10279v1)
+- 2024-10-14, **A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**, Falk Dettinger et.al., Paper: [http://arxiv.org/abs/2410.10264v1](http://arxiv.org/abs/2410.10264v1)
+- 2024-10-13, **RISC-V Needs Secure 'Wheels': the MCU Initiator-Side Perspective**, Sandro Pinto et.al., Paper: [http://arxiv.org/abs/2410.09839v1](http://arxiv.org/abs/2410.09839v1)
 - 2024-10-11, **The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**, Ariel Flint Ashery et.al., Paper: [http://arxiv.org/abs/2410.08948v1](http://arxiv.org/abs/2410.08948v1)
 - 2024-10-11, **Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**, Zijiang Yan et.al., Paper: [http://arxiv.org/abs/2410.08854v1](http://arxiv.org/abs/2410.08854v1)
 - 2024-10-11, **VideoSAM: Open-World Video Segmentation**, Pinxue Guo et.al., Paper: [http://arxiv.org/abs/2410.08781v1](http://arxiv.org/abs/2410.08781v1)
