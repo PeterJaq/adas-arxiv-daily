@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-10-15, **Technical Report of 1:10 Scale Autonomous Vehicle Robot**, Amirhossein Kheiri Holighi et.al., Paper: [http://arxiv.org/abs/2410.11746v1](http://arxiv.org/abs/2410.11746v1)
+- 2024-10-15, **SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**, Jeffrey Li et.al., Paper: [http://arxiv.org/abs/2410.11571v1](http://arxiv.org/abs/2410.11571v1)
+- 2024-10-15, **A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**, Zhouheng Li et.al., Paper: [http://arxiv.org/abs/2410.11570v1](http://arxiv.org/abs/2410.11570v1)
+- 2024-10-15, **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2410.11228v1](http://arxiv.org/abs/2410.11228v1)
+- 2024-10-14, **6G RIS-aided Single-LEO Localization with Slow and Fast Doppler Effects**, Sharief Saleh et.al., Paper: [http://arxiv.org/abs/2410.11010v1](http://arxiv.org/abs/2410.11010v1)
 - 2024-10-14, **Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**, Tim Broedermann et.al., Paper: [http://arxiv.org/abs/2410.10791v1](http://arxiv.org/abs/2410.10791v1)
 - 2024-10-14, **Towards Calibrated Losses for Adversarial Robust Reject Option Classification**, Vrund Shah et.al., Paper: [http://arxiv.org/abs/2410.10736v1](http://arxiv.org/abs/2410.10736v1), Code: **[https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**
 - 2024-10-14, **Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**, Ran Wei et.al., Paper: [http://arxiv.org/abs/2410.10653v1](http://arxiv.org/abs/2410.10653v1)

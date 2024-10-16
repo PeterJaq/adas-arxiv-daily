@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11746v1-b31b1b.svg)](http://arxiv.org/abs/2410.11746v1)|null|
+|**2024-10-15**|**SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**|Jeffrey Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11571v1-b31b1b.svg)](http://arxiv.org/abs/2410.11571v1)|null|
+|**2024-10-15**|**A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11570v1-b31b1b.svg)](http://arxiv.org/abs/2410.11570v1)|null|
+|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11228v1-b31b1b.svg)](http://arxiv.org/abs/2410.11228v1)|null|
+|**2024-10-14**|**6G RIS-aided Single-LEO Localization with Slow and Fast Doppler Effects**|Sharief Saleh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11010v1-b31b1b.svg)](http://arxiv.org/abs/2410.11010v1)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10791v1-b31b1b.svg)](http://arxiv.org/abs/2410.10791v1)|null|
 |**2024-10-14**|**Towards Calibrated Losses for Adversarial Robust Reject Option Classification**|Vrund Shah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10736v1-b31b1b.svg)](http://arxiv.org/abs/2410.10736v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**|
 |**2024-10-14**|**Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**|Ran Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10653v1-b31b1b.svg)](http://arxiv.org/abs/2410.10653v1)|null|
