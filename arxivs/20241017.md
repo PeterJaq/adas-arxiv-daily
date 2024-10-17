@@ -4,6 +4,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12673v1-b31b1b.svg)](http://arxiv.org/abs/2410.12673v1)|null|
+|**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v1-b31b1b.svg)](http://arxiv.org/abs/2410.12568v1)|null|
+|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12394v1-b31b1b.svg)](http://arxiv.org/abs/2410.12394v1)|null|
+|**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12295v1-b31b1b.svg)](http://arxiv.org/abs/2410.12295v1)|null|
+|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12195v1-b31b1b.svg)](http://arxiv.org/abs/2410.12195v1)|null|
+|**2024-10-16**|**RTI-NMPC for Control of Autonomous Vehicles Using Implicit Discretization Methods**|Matheus Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12170v1-b31b1b.svg)](http://arxiv.org/abs/2410.12170v1)|null|
+|**2024-10-16**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v1-b31b1b.svg)](http://arxiv.org/abs/2410.12163v1)|null|
+|**2024-10-15**|**System-Level Analysis of Module Uncertainty Quantification in the Autonomy Pipeline**|Sampada Deglurkar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12019v1-b31b1b.svg)](http://arxiv.org/abs/2410.12019v1)|null|
+|**2024-10-15**|**An Online Self-learning Graph-based Lateral Controller for Self-Driving Cars**|Jilan Samiuddin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11979v1-b31b1b.svg)](http://arxiv.org/abs/2410.11979v1)|null|
 |**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11746v1-b31b1b.svg)](http://arxiv.org/abs/2410.11746v1)|null|
 |**2024-10-15**|**SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**|Jeffrey Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11571v1-b31b1b.svg)](http://arxiv.org/abs/2410.11571v1)|null|
 |**2024-10-15**|**A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11570v1-b31b1b.svg)](http://arxiv.org/abs/2410.11570v1)|null|
