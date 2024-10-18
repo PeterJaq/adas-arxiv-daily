@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-10-17, **UniDrive: Towards Universal Driving Perception Across Camera Configurations**, Ye Li et.al., Paper: [http://arxiv.org/abs/2410.13864v1](http://arxiv.org/abs/2410.13864v1), Code: **[https://github.com/ywyeli/unidrive](https://github.com/ywyeli/unidrive)**
+- 2024-10-17, **Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**, Minxing Zheng et.al., Paper: [http://arxiv.org/abs/2410.13735v1](http://arxiv.org/abs/2410.13735v1)
+- 2024-10-17, **DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.13571v1](http://arxiv.org/abs/2410.13571v1)
+- 2024-10-17, **Accurate Checkerboard Corner Detection under Defoucs**, Zezhun Shi et.al., Paper: [http://arxiv.org/abs/2410.13371v1](http://arxiv.org/abs/2410.13371v1)
+- 2024-10-16, **Autonomous Stabilization of Floquet States Using Static Dissipation**, Martin Ritter et.al., Paper: [http://arxiv.org/abs/2410.12908v1](http://arxiv.org/abs/2410.12908v1)
 - 2024-10-16, **MambaBEV: An efficient 3D detection model with Mamba2**, Zihan You et.al., Paper: [http://arxiv.org/abs/2410.12673v1](http://arxiv.org/abs/2410.12673v1)
 - 2024-10-16, **Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2410.12568v1](http://arxiv.org/abs/2410.12568v1)
 - 2024-10-16, **Real-time Stereo-based 3D Object Detection for Streaming Perception**, Changcai Li et.al., Paper: [http://arxiv.org/abs/2410.12394v1](http://arxiv.org/abs/2410.12394v1)

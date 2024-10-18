@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13864v1-b31b1b.svg)](http://arxiv.org/abs/2410.13864v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ywyeli/unidrive)**|
+|**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13571v1-b31b1b.svg)](http://arxiv.org/abs/2410.13571v1)|null|
+|**2024-10-17**|**Accurate Checkerboard Corner Detection under Defoucs**|Zezhun Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13371v1-b31b1b.svg)](http://arxiv.org/abs/2410.13371v1)|null|
+|**2024-10-16**|**Autonomous Stabilization of Floquet States Using Static Dissipation**|Martin Ritter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12908v1-b31b1b.svg)](http://arxiv.org/abs/2410.12908v1)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12673v1-b31b1b.svg)](http://arxiv.org/abs/2410.12673v1)|null|
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v1-b31b1b.svg)](http://arxiv.org/abs/2410.12568v1)|null|
 |**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12394v1-b31b1b.svg)](http://arxiv.org/abs/2410.12394v1)|null|
