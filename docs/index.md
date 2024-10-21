@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14612v1-b31b1b.svg)](http://arxiv.org/abs/2410.14612v1)|null|
+|**2024-10-18**|**Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**|Y. Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14577v1-b31b1b.svg)](http://arxiv.org/abs/2410.14577v1)|null|
+|**2024-10-18**|**From Simple to Complex: Knowledge Transfer in Safe and Efficient Reinforcement Learning for Autonomous Driving**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v1-b31b1b.svg)](http://arxiv.org/abs/2410.14468v1)|null|
 |**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13864v1-b31b1b.svg)](http://arxiv.org/abs/2410.13864v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ywyeli/unidrive)**|
 |**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13571v1-b31b1b.svg)](http://arxiv.org/abs/2410.13571v1)|null|

@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-10-18, **MultiOrg: A Multi-rater Organoid-detection Dataset**, Christina Bukas et.al., Paper: [http://arxiv.org/abs/2410.14612v1](http://arxiv.org/abs/2410.14612v1)
+- 2024-10-18, **Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**, Y. Wang et.al., Paper: [http://arxiv.org/abs/2410.14577v1](http://arxiv.org/abs/2410.14577v1)
+- 2024-10-18, **From Simple to Complex: Knowledge Transfer in Safe and Efficient Reinforcement Learning for Autonomous Driving**, Rongliang Zhou et.al., Paper: [http://arxiv.org/abs/2410.14468v1](http://arxiv.org/abs/2410.14468v1)
 - 2024-10-17, **UniDrive: Towards Universal Driving Perception Across Camera Configurations**, Ye Li et.al., Paper: [http://arxiv.org/abs/2410.13864v1](http://arxiv.org/abs/2410.13864v1), Code: **[https://github.com/ywyeli/unidrive](https://github.com/ywyeli/unidrive)**
 - 2024-10-17, **Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**, Minxing Zheng et.al., Paper: [http://arxiv.org/abs/2410.13735v1](http://arxiv.org/abs/2410.13735v1)
 - 2024-10-17, **DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.13571v1](http://arxiv.org/abs/2410.13571v1)
