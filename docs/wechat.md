@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-21, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261v1](http://arxiv.org/abs/2410.16261v1), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
+- 2024-10-21, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v1](http://arxiv.org/abs/2410.16197v1)
+- 2024-10-21, **Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**, Zhezhang Ding et.al., Paper: [http://arxiv.org/abs/2410.16083v1](http://arxiv.org/abs/2410.16083v1)
+- 2024-10-21, **Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**, Matthias Bitzer et.al., Paper: [http://arxiv.org/abs/2410.15987v1](http://arxiv.org/abs/2410.15987v1)
+- 2024-10-21, **Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**, Zhengming Wang et.al., Paper: [http://arxiv.org/abs/2410.15912v1](http://arxiv.org/abs/2410.15912v1)
+- 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
+- 2024-10-21, **WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**, Heng Zhai et.al., Paper: [http://arxiv.org/abs/2410.15792v1](http://arxiv.org/abs/2410.15792v1)
+- 2024-10-21, **Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**, Qiao Sun et.al., Paper: [http://arxiv.org/abs/2410.15774v1](http://arxiv.org/abs/2410.15774v1)
+- 2024-10-21, **SPARC: Prediction-Based Safe Control for Coupled Controllable and Uncontrollable Agents with Conformal Predictions**, Shuqi Wang et.al., Paper: [http://arxiv.org/abs/2410.15660v1](http://arxiv.org/abs/2410.15660v1)
+- 2024-10-20, **XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**, Sazid Nazat et.al., Paper: [http://arxiv.org/abs/2410.15405v1](http://arxiv.org/abs/2410.15405v1)
 - 2024-10-18, **MultiOrg: A Multi-rater Organoid-detection Dataset**, Christina Bukas et.al., Paper: [http://arxiv.org/abs/2410.14612v1](http://arxiv.org/abs/2410.14612v1)
 - 2024-10-18, **Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**, Y. Wang et.al., Paper: [http://arxiv.org/abs/2410.14577v1](http://arxiv.org/abs/2410.14577v1)
 - 2024-10-18, **From Simple to Complex: Knowledge Transfer in Safe and Efficient Reinforcement Learning for Autonomous Driving**, Rongliang Zhou et.al., Paper: [http://arxiv.org/abs/2410.14468v1](http://arxiv.org/abs/2410.14468v1)
