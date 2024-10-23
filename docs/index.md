@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16261v1-b31b1b.svg)](http://arxiv.org/abs/2410.16261v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opengvlab/internvl)**|
-|**2024-10-21**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v1-b31b1b.svg)](http://arxiv.org/abs/2410.16197v1)|null|
+|**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16261v2-b31b1b.svg)](http://arxiv.org/abs/2410.16261v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opengvlab/internvl)**|
+|**2024-10-22**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v2-b31b1b.svg)](http://arxiv.org/abs/2410.16197v2)|null|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16083v1-b31b1b.svg)](http://arxiv.org/abs/2410.16083v1)|null|
 |**2024-10-21**|**Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**|Matthias Bitzer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15987v1-b31b1b.svg)](http://arxiv.org/abs/2410.15987v1)|null|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15912v1-b31b1b.svg)](http://arxiv.org/abs/2410.15912v1)|null|

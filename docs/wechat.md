@@ -1,9 +1,9 @@
-> Updated on 2024.10.22
+> Updated on 2024.10.23
 
 ## Autonomous_Driving
 
-- 2024-10-21, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261v1](http://arxiv.org/abs/2410.16261v1), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
-- 2024-10-21, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v1](http://arxiv.org/abs/2410.16197v1)
+- 2024-10-22, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261v2](http://arxiv.org/abs/2410.16261v2), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
+- 2024-10-22, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v2](http://arxiv.org/abs/2410.16197v2)
 - 2024-10-21, **Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**, Zhezhang Ding et.al., Paper: [http://arxiv.org/abs/2410.16083v1](http://arxiv.org/abs/2410.16083v1)
 - 2024-10-21, **Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**, Matthias Bitzer et.al., Paper: [http://arxiv.org/abs/2410.15987v1](http://arxiv.org/abs/2410.15987v1)
 - 2024-10-21, **Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**, Zhengming Wang et.al., Paper: [http://arxiv.org/abs/2410.15912v1](http://arxiv.org/abs/2410.15912v1)
