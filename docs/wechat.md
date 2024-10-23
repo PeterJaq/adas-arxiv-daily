@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-10-22, **Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**, J. Jorge et.al., Paper: [http://arxiv.org/abs/2410.17171v1](http://arxiv.org/abs/2410.17171v1)
+- 2024-10-22, **YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**, Junzhou Chen et.al., Paper: [http://arxiv.org/abs/2410.17144v1](http://arxiv.org/abs/2410.17144v1)
+- 2024-10-22, **Pedestrian motion prediction evaluation for urban autonomous driving**, Dmytro Zabolotnii et.al., Paper: [http://arxiv.org/abs/2410.16864v1](http://arxiv.org/abs/2410.16864v1), Code: **[https://github.com/dmytrozabolotnii/autoware_mini](https://github.com/dmytrozabolotnii/autoware_mini)**
+- 2024-10-22, **SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**, Jiaqi Chen et.al., Paper: [http://arxiv.org/abs/2410.16746v1](http://arxiv.org/abs/2410.16746v1)
 - 2024-10-22, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261v2](http://arxiv.org/abs/2410.16261v2), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
 - 2024-10-22, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v2](http://arxiv.org/abs/2410.16197v2)
 - 2024-10-21, **Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**, Zhezhang Ding et.al., Paper: [http://arxiv.org/abs/2410.16083v1](http://arxiv.org/abs/2410.16083v1)
