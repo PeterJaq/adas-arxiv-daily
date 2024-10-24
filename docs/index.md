@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18072v1-b31b1b.svg)](http://arxiv.org/abs/2410.18072v1)|null|
+|**2024-10-23**|**Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**|Qijun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17782v1-b31b1b.svg)](http://arxiv.org/abs/2410.17782v1)|null|
+|**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17734v1-b31b1b.svg)](http://arxiv.org/abs/2410.17734v1)|null|
+|**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17576v1-b31b1b.svg)](http://arxiv.org/abs/2410.17576v1)|null|
+|**2024-10-22**|**Real-time experiment-theory closed-loop interaction for autonomous materials science**|Haotong Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17430v1-b31b1b.svg)](http://arxiv.org/abs/2410.17430v1)|null|
+|**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17171v1-b31b1b.svg)](http://arxiv.org/abs/2410.17171v1)|null|
 |**2024-10-22**|**YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**|Junzhou Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17144v1-b31b1b.svg)](http://arxiv.org/abs/2410.17144v1)|null|
 |**2024-10-22**|**Pedestrian motion prediction evaluation for urban autonomous driving**|Dmytro Zabolotnii et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16864v1-b31b1b.svg)](http://arxiv.org/abs/2410.16864v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytrozabolotnii/autoware_mini)**|
