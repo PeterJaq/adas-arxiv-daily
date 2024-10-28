@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-10-25, **Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**, Guilherme S. Y. Giardini et.al., Paper: [http://arxiv.org/abs/2410.19718v1](http://arxiv.org/abs/2410.19718v1)
+- 2024-10-25, **Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**, Liu Yunhao et.al., Paper: [http://arxiv.org/abs/2410.19639v1](http://arxiv.org/abs/2410.19639v1)
+- 2024-10-25, **Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**, Kai-Yin Hong et.al., Paper: [http://arxiv.org/abs/2410.19606v1](http://arxiv.org/abs/2410.19606v1)
 - 2024-10-24, **Learning Transparent Reward Models via Unsupervised Feature Selection**, Daulet Baimukashev et.al., Paper: [http://arxiv.org/abs/2410.18608v1](http://arxiv.org/abs/2410.18608v1)
 - 2024-10-24, **Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**, Lachlan Mares et.al., Paper: [http://arxiv.org/abs/2410.18462v1](http://arxiv.org/abs/2410.18462v1)
 - 2024-10-23, **CARLA2Real: a tool for reducing the sim2real gap in CARLA simulator**, Stefanos Pasios et.al., Paper: [http://arxiv.org/abs/2410.18238v1](http://arxiv.org/abs/2410.18238v1)
