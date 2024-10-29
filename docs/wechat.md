@@ -1,4 +1,4 @@
-> Updated on 2024.10.28
+> Updated on 2024.10.29
 
 ## Autonomous_Driving
 
@@ -7,7 +7,7 @@
 - 2024-10-25, **Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**, Kai-Yin Hong et.al., Paper: [http://arxiv.org/abs/2410.19606v1](http://arxiv.org/abs/2410.19606v1)
 - 2024-10-24, **Learning Transparent Reward Models via Unsupervised Feature Selection**, Daulet Baimukashev et.al., Paper: [http://arxiv.org/abs/2410.18608v1](http://arxiv.org/abs/2410.18608v1)
 - 2024-10-24, **Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**, Lachlan Mares et.al., Paper: [http://arxiv.org/abs/2410.18462v1](http://arxiv.org/abs/2410.18462v1)
-- 2024-10-23, **CARLA2Real: a tool for reducing the sim2real gap in CARLA simulator**, Stefanos Pasios et.al., Paper: [http://arxiv.org/abs/2410.18238v1](http://arxiv.org/abs/2410.18238v1)
+- 2024-10-26, **CARLA2Real: a tool for reducing the sim2real gap in CARLA simulator**, Stefanos Pasios et.al., Paper: [http://arxiv.org/abs/2410.18238v2](http://arxiv.org/abs/2410.18238v2)
 - 2024-10-23, **WorldSimBench: Towards Video Generation Models as World Simulators**, Yiran Qin et.al., Paper: [http://arxiv.org/abs/2410.18072v1](http://arxiv.org/abs/2410.18072v1)
 - 2024-10-23, **Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**, Qijun Zhang et.al., Paper: [http://arxiv.org/abs/2410.17782v1](http://arxiv.org/abs/2410.17782v1)
 - 2024-10-23, **YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**, Xiguang Li et.al., Paper: [http://arxiv.org/abs/2410.17734v1](http://arxiv.org/abs/2410.17734v1)
