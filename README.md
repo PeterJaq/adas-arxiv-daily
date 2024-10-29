@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21086v1-b31b1b.svg)](http://arxiv.org/abs/2410.21086v1)|null|
+|**2024-10-28**|**Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**|Franck Djeumou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20990v1-b31b1b.svg)](http://arxiv.org/abs/2410.20990v1)|null|
+|**2024-10-28**|**Empowering Autonomous Shuttles with Next-Generation Infrastructure**|Sven Ochs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20989v1-b31b1b.svg)](http://arxiv.org/abs/2410.20989v1)|null|
+|**2024-10-28**|**BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment**|Mehdi Hosseinzadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20969v1-b31b1b.svg)](http://arxiv.org/abs/2410.20969v1)|null|
+|**2024-10-28**|**Active Legibility in Multiagent Reinforcement Learning**|Yanyu Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20954v1-b31b1b.svg)](http://arxiv.org/abs/2410.20954v1)|null|
+|**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20790v1-b31b1b.svg)](http://arxiv.org/abs/2410.20790v1)|null|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20220v1-b31b1b.svg)](http://arxiv.org/abs/2410.20220v1)|null|
 |**2024-10-25**|**Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**|Guilherme S. Y. Giardini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.19718v1-b31b1b.svg)](http://arxiv.org/abs/2410.19718v1)|null|
 |**2024-10-25**|**Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**|Liu Yunhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.19639v1-b31b1b.svg)](http://arxiv.org/abs/2410.19639v1)|null|
 |**2024-10-25**|**Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**|Kai-Yin Hong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.19606v1-b31b1b.svg)](http://arxiv.org/abs/2410.19606v1)|null|

@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-10-28, **Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**, Jiyao Wang et.al., Paper: [http://arxiv.org/abs/2410.21086v1](http://arxiv.org/abs/2410.21086v1)
+- 2024-10-28, **Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**, Franck Djeumou et.al., Paper: [http://arxiv.org/abs/2410.20990v1](http://arxiv.org/abs/2410.20990v1)
+- 2024-10-28, **Empowering Autonomous Shuttles with Next-Generation Infrastructure**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2410.20989v1](http://arxiv.org/abs/2410.20989v1)
+- 2024-10-28, **BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment**, Mehdi Hosseinzadeh et.al., Paper: [http://arxiv.org/abs/2410.20969v1](http://arxiv.org/abs/2410.20969v1)
+- 2024-10-28, **Active Legibility in Multiagent Reinforcement Learning**, Yanyu Liu et.al., Paper: [http://arxiv.org/abs/2410.20954v1](http://arxiv.org/abs/2410.20954v1)
+- 2024-10-28, **SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**, Kunyun Wang et.al., Paper: [http://arxiv.org/abs/2410.20790v1](http://arxiv.org/abs/2410.20790v1)
+- 2024-10-26, **Neural Fields in Robotics: A Survey**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2410.20220v1](http://arxiv.org/abs/2410.20220v1)
 - 2024-10-25, **Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**, Guilherme S. Y. Giardini et.al., Paper: [http://arxiv.org/abs/2410.19718v1](http://arxiv.org/abs/2410.19718v1)
 - 2024-10-25, **Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**, Liu Yunhao et.al., Paper: [http://arxiv.org/abs/2410.19639v1](http://arxiv.org/abs/2410.19639v1)
 - 2024-10-25, **Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**, Kai-Yin Hong et.al., Paper: [http://arxiv.org/abs/2410.19606v1](http://arxiv.org/abs/2410.19606v1)
