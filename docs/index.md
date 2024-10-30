@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22314v1-b31b1b.svg)](http://arxiv.org/abs/2410.22314v1)|null|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|null|
+|**2024-10-29**|**EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments**|Linus Nwankwo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22200v1-b31b1b.svg)](http://arxiv.org/abs/2410.22200v1)|null|
+|**2024-10-29**|**Building Altruistic and Moral AI Agent with Brain-inspired Affective Empathy Mechanisms**|Feifei Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21882v1-b31b1b.svg)](http://arxiv.org/abs/2410.21882v1)|null|
+|**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21739v1-b31b1b.svg)](http://arxiv.org/abs/2410.21739v1)|null|
+|**2024-10-29**|**Enhancing Safety and Robustness of Vision-Based Controllers via Reachability Analysis**|Kaustav Chakraborty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21736v1-b31b1b.svg)](http://arxiv.org/abs/2410.21736v1)|null|
 |**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21086v1-b31b1b.svg)](http://arxiv.org/abs/2410.21086v1)|null|
 |**2024-10-28**|**Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**|Franck Djeumou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20990v1-b31b1b.svg)](http://arxiv.org/abs/2410.20990v1)|null|
 |**2024-10-28**|**Empowering Autonomous Shuttles with Next-Generation Infrastructure**|Sven Ochs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20989v1-b31b1b.svg)](http://arxiv.org/abs/2410.20989v1)|null|
