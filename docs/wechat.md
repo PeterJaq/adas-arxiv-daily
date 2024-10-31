@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-10-30, **OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**, Hongbo Zhao et.al., Paper: [http://arxiv.org/abs/2410.23278v1](http://arxiv.org/abs/2410.23278v1)
+- 2024-10-30, **EMMA: End-to-End Multimodal Model for Autonomous Driving**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2410.23262v1](http://arxiv.org/abs/2410.23262v1)
+- 2024-10-30, **Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**, Alireza Abbaspour et.al., Paper: [http://arxiv.org/abs/2410.23207v1](http://arxiv.org/abs/2410.23207v1)
+- 2024-10-30, **S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving**, Maciej K. Wozniak et.al., Paper: [http://arxiv.org/abs/2410.23085v1](http://arxiv.org/abs/2410.23085v1)
+- 2024-10-30, **Using coherent feedback for a periodic clock**, Stefan Zeppetzauer et.al., Paper: [http://arxiv.org/abs/2410.22926v1](http://arxiv.org/abs/2410.22926v1)
+- 2024-10-30, **YOLOv11 for Vehicle Detection: Advancements, Performance, and Applications in Intelligent Transportation Systems**, Mujadded Al Rabbani Alif et.al., Paper: [http://arxiv.org/abs/2410.22898v1](http://arxiv.org/abs/2410.22898v1)
+- 2024-10-30, **A Graph-Based Model for Vehicle-Centric Data Sharing Ecosystem**, Haiyue Yuan et.al., Paper: [http://arxiv.org/abs/2410.22897v1](http://arxiv.org/abs/2410.22897v1)
+- 2024-10-30, **Self-Driving Car Racing: Application of Deep Reinforcement Learning**, Florentiana Yuwono et.al., Paper: [http://arxiv.org/abs/2410.22766v1](http://arxiv.org/abs/2410.22766v1)
+- 2024-10-30, **Analysis of Classifier Training on Synthetic Data for Cross-Domain Datasets**, Andoni Cortés et.al., Paper: [http://arxiv.org/abs/2410.22748v1](http://arxiv.org/abs/2410.22748v1)
+- 2024-10-29, **Pre-Trained Vision Models as Perception Backbones for Safety Filters in Autonomous Driving**, Yuxuan Yang et.al., Paper: [http://arxiv.org/abs/2410.22585v1](http://arxiv.org/abs/2410.22585v1)
 - 2024-10-29, **An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2410.22314v1](http://arxiv.org/abs/2410.22314v1)
 - 2024-10-29, **Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2410.22313v1](http://arxiv.org/abs/2410.22313v1), Code: **[https://github.com/hustvl/senna](https://github.com/hustvl/senna)**
 - 2024-10-29, **EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments**, Linus Nwankwo et.al., Paper: [http://arxiv.org/abs/2410.22200v1](http://arxiv.org/abs/2410.22200v1)
