@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-10-31, **Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2410.24152v1](http://arxiv.org/abs/2410.24152v1)
+- 2024-10-31, **AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**, Amir Kazemi et.al., Paper: [http://arxiv.org/abs/2410.24116v1](http://arxiv.org/abs/2410.24116v1)
+- 2024-10-31, **Uncertainty Estimation for 3D Object Detection via Evidential Learning**, Nikita Durasov et.al., Paper: [http://arxiv.org/abs/2410.23910v1](http://arxiv.org/abs/2410.23910v1)
+- 2024-10-31, **Memes, Markets, and Machines: The Evolution of On Chain Autonomy through Hyperstition**, Jeffy Yu et.al., Paper: [http://arxiv.org/abs/2410.23794v1](http://arxiv.org/abs/2410.23794v1)
+- 2024-10-31, **Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map**, Xinyuan Chang et.al., Paper: [http://arxiv.org/abs/2410.23780v1](http://arxiv.org/abs/2410.23780v1)
 - 2024-10-30, **OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**, Hongbo Zhao et.al., Paper: [http://arxiv.org/abs/2410.23278v1](http://arxiv.org/abs/2410.23278v1)
 - 2024-10-30, **EMMA: End-to-End Multimodal Model for Autonomous Driving**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2410.23262v1](http://arxiv.org/abs/2410.23262v1)
 - 2024-10-30, **Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**, Alireza Abbaspour et.al., Paper: [http://arxiv.org/abs/2410.23207v1](http://arxiv.org/abs/2410.23207v1)
