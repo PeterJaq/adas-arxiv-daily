@@ -9,7 +9,7 @@
 - 2024-10-31, **Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map**, Xinyuan Chang et.al., Paper: [http://arxiv.org/abs/2410.23780v1](http://arxiv.org/abs/2410.23780v1)
 - 2024-10-30, **OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**, Hongbo Zhao et.al., Paper: [http://arxiv.org/abs/2410.23278v1](http://arxiv.org/abs/2410.23278v1)
 - 2024-10-30, **EMMA: End-to-End Multimodal Model for Autonomous Driving**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2410.23262v1](http://arxiv.org/abs/2410.23262v1)
-- 2024-10-30, **Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**, Alireza Abbaspour et.al., Paper: [http://arxiv.org/abs/2410.23207v1](http://arxiv.org/abs/2410.23207v1)
+- 2024-10-31, **Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**, Alireza Abbaspour et.al., Paper: [http://arxiv.org/abs/2410.23207v2](http://arxiv.org/abs/2410.23207v2)
 - 2024-10-30, **S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving**, Maciej K. Wozniak et.al., Paper: [http://arxiv.org/abs/2410.23085v1](http://arxiv.org/abs/2410.23085v1)
 - 2024-10-30, **Using coherent feedback for a periodic clock**, Stefan Zeppetzauer et.al., Paper: [http://arxiv.org/abs/2410.22926v1](http://arxiv.org/abs/2410.22926v1)
 - 2024-10-30, **YOLOv11 for Vehicle Detection: Advancements, Performance, and Applications in Intelligent Transportation Systems**, Mujadded Al Rabbani Alif et.al., Paper: [http://arxiv.org/abs/2410.22898v1](http://arxiv.org/abs/2410.22898v1)
