@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-11-05, **Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**, Ruwan Wickramarachchi et.al., Paper: [http://arxiv.org/abs/2411.03225v1](http://arxiv.org/abs/2411.03225v1)
+- 2024-11-05, **Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**, Bin Huang et.al., Paper: [http://arxiv.org/abs/2411.02999v1](http://arxiv.org/abs/2411.02999v1)
+- 2024-11-05, **Region-Guided Attack on the Segment Anything Model (SAM)**, Xiaoliang Liu et.al., Paper: [http://arxiv.org/abs/2411.02974v1](http://arxiv.org/abs/2411.02974v1)
+- 2024-11-05, **Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**, Xavier Timoneda et.al., Paper: [http://arxiv.org/abs/2411.02969v1](http://arxiv.org/abs/2411.02969v1)
+- 2024-11-05, **Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2411.02914v1](http://arxiv.org/abs/2411.02914v1)
+- 2024-11-04, **Nudge: Haptic Pre-Cueing to Communicate Automotive Intent**, Nikhil Gowda et.al., Paper: [http://arxiv.org/abs/2411.02789v1](http://arxiv.org/abs/2411.02789v1)
+- 2024-11-05, **Safety Verification for Evasive Collision Avoidance in Autonomous Vehicles with Enhanced Resolutions**, Aliasghar Arab et.al., Paper: [http://arxiv.org/abs/2411.02706v1](http://arxiv.org/abs/2411.02706v1)
 - 2024-11-04, **Learning Multiple Initial Solutions to Optimization Problems**, Elad Sharony et.al., Paper: [http://arxiv.org/abs/2411.02158v1](http://arxiv.org/abs/2411.02158v1)
 - 2024-11-04, **Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**, Michael Kurenkov et.al., Paper: [http://arxiv.org/abs/2411.01909v1](http://arxiv.org/abs/2411.01909v1)
 - 2024-11-03, **Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**, Shengqi Wang et.al., Paper: [http://arxiv.org/abs/2411.01499v1](http://arxiv.org/abs/2411.01499v1)

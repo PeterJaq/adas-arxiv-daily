@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03225v1-b31b1b.svg)](http://arxiv.org/abs/2411.03225v1)|null|
+|**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02999v1-b31b1b.svg)](http://arxiv.org/abs/2411.02999v1)|null|
+|**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02974v1-b31b1b.svg)](http://arxiv.org/abs/2411.02974v1)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02969v1-b31b1b.svg)](http://arxiv.org/abs/2411.02969v1)|null|
+|**2024-11-05**|**Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**|Ao Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02914v1-b31b1b.svg)](http://arxiv.org/abs/2411.02914v1)|null|
+|**2024-11-04**|**Nudge: Haptic Pre-Cueing to Communicate Automotive Intent**|Nikhil Gowda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02789v1-b31b1b.svg)](http://arxiv.org/abs/2411.02789v1)|null|
+|**2024-11-05**|**Safety Verification for Evasive Collision Avoidance in Autonomous Vehicles with Enhanced Resolutions**|Aliasghar Arab et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02706v1-b31b1b.svg)](http://arxiv.org/abs/2411.02706v1)|null|
 |**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|null|
 |**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01909v1-b31b1b.svg)](http://arxiv.org/abs/2411.01909v1)|null|
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
