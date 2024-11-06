@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 
 ## Autonomous_Driving
 
@@ -13,7 +13,7 @@ layout: default
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
 |**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00608v1-b31b1b.svg)](http://arxiv.org/abs/2411.00608v1)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00600v1-b31b1b.svg)](http://arxiv.org/abs/2411.00600v1)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00600v1-b31b1b.svg)](http://arxiv.org/abs/2411.00600v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**MAROON: A Framework for the Joint Characterization of Near-Field High-Resolution Radar and Optical Depth Imaging Techniques**|Vanessa Wirth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00527v1-b31b1b.svg)](http://arxiv.org/abs/2411.00527v1)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
 |**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
