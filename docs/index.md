@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 
 ## Autonomous_Driving
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-11-05**|**Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**|Ao Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02914v1-b31b1b.svg)](http://arxiv.org/abs/2411.02914v1)|null|
 |**2024-11-04**|**Nudge: Haptic Pre-Cueing to Communicate Automotive Intent**|Nikhil Gowda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02789v1-b31b1b.svg)](http://arxiv.org/abs/2411.02789v1)|null|
 |**2024-11-05**|**Safety Verification for Evasive Collision Avoidance in Autonomous Vehicles with Enhanced Resolutions**|Aliasghar Arab et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02706v1-b31b1b.svg)](http://arxiv.org/abs/2411.02706v1)|null|
-|**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|null|
+|**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EladSharony/miso)**|
 |**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01909v1-b31b1b.svg)](http://arxiv.org/abs/2411.01909v1)|null|
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
