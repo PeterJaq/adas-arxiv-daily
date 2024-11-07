@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Autonomous Quantum Heat Engine Enabled by Molecular Optomechanics and Hysteresis Switching**|Baiqiang Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03897v1-b31b1b.svg)](http://arxiv.org/abs/2411.03897v1)|null|
+|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03702v1-b31b1b.svg)](http://arxiv.org/abs/2411.03702v1)|null|
+|**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03696v1-b31b1b.svg)](http://arxiv.org/abs/2411.03696v1)|null|
+|**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03672v1-b31b1b.svg)](http://arxiv.org/abs/2411.03672v1)|null|
+|**2024-11-06**|**Hybrid Attention for Robust RGB-T Pedestrian Detection in Real-World Conditions**|Arunkumar Rathinam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03576v1-b31b1b.svg)](http://arxiv.org/abs/2411.03576v1)|null|
 |**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03225v1-b31b1b.svg)](http://arxiv.org/abs/2411.03225v1)|null|
 |**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02999v1-b31b1b.svg)](http://arxiv.org/abs/2411.02999v1)|null|
 |**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02974v1-b31b1b.svg)](http://arxiv.org/abs/2411.02974v1)|null|
