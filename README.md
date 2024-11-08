@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04987v1-b31b1b.svg)](http://arxiv.org/abs/2411.04987v1)|null|
+|**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04735v1-b31b1b.svg)](http://arxiv.org/abs/2411.04735v1)|null|
+|**2024-11-07**|**IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**|Clémence Grislain et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04653v1-b31b1b.svg)](http://arxiv.org/abs/2411.04653v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clemgris/igdrivsim)**|
+|**2024-11-07**|**LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers**|Yeong-Seung Baek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04351v1-b31b1b.svg)](http://arxiv.org/abs/2411.04351v1)|null|
 |**2024-11-06**|**Autonomous Quantum Heat Engine Enabled by Molecular Optomechanics and Hysteresis Switching**|Baiqiang Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03897v1-b31b1b.svg)](http://arxiv.org/abs/2411.03897v1)|null|
 |**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03702v1-b31b1b.svg)](http://arxiv.org/abs/2411.03702v1)|null|
 |**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03696v1-b31b1b.svg)](http://arxiv.org/abs/2411.03696v1)|null|
