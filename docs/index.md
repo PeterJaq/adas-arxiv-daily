@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05618v1-b31b1b.svg)](http://arxiv.org/abs/2411.05618v1)|null|
+|**2024-11-08**|**Expectation vs. Reality: Towards Verification of Psychological Games**|Marta Kwiatkowska et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05599v1-b31b1b.svg)](http://arxiv.org/abs/2411.05599v1)|null|
+|**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05564v1-b31b1b.svg)](http://arxiv.org/abs/2411.05564v1)|null|
+|**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05311v1-b31b1b.svg)](http://arxiv.org/abs/2411.05311v1)|null|
+|**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05292v1-b31b1b.svg)](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04987v1-b31b1b.svg)](http://arxiv.org/abs/2411.04987v1)|null|
 |**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04735v1-b31b1b.svg)](http://arxiv.org/abs/2411.04735v1)|null|
 |**2024-11-07**|**IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**|Clémence Grislain et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04653v1-b31b1b.svg)](http://arxiv.org/abs/2411.04653v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clemgris/igdrivsim)**|

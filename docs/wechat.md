@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-11-08, **Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**, Ayobami Adewale et.al., Paper: [http://arxiv.org/abs/2411.05618v1](http://arxiv.org/abs/2411.05618v1)
+- 2024-11-08, **Expectation vs. Reality: Towards Verification of Psychological Games**, Marta Kwiatkowska et.al., Paper: [http://arxiv.org/abs/2411.05599v1](http://arxiv.org/abs/2411.05599v1)
+- 2024-11-08, **Open-set object detection: towards unified problem formulation and benchmarking**, Hejer Ammar et.al., Paper: [http://arxiv.org/abs/2411.05564v1](http://arxiv.org/abs/2411.05564v1)
+- 2024-11-08, **ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**, Tao Ma et.al., Paper: [http://arxiv.org/abs/2411.05311v1](http://arxiv.org/abs/2411.05311v1)
+- 2024-11-08, **SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**, Yun Zhao et.al., Paper: [http://arxiv.org/abs/2411.05292v1](http://arxiv.org/abs/2411.05292v1)
 - 2024-11-07, **Few-Shot Task Learning through Inverse Generative Modeling**, Aviv Netanyahu et.al., Paper: [http://arxiv.org/abs/2411.04987v1](http://arxiv.org/abs/2411.04987v1)
 - 2024-11-07, **Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**, Chanyoung Chung et.al., Paper: [http://arxiv.org/abs/2411.04735v1](http://arxiv.org/abs/2411.04735v1)
 - 2024-11-07, **IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**, Clémence Grislain et.al., Paper: [http://arxiv.org/abs/2411.04653v1](http://arxiv.org/abs/2411.04653v1), Code: **[https://github.com/clemgris/igdrivsim](https://github.com/clemgris/igdrivsim)**
