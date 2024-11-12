@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-11-11, **SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**, Jiale Chen et.al., Paper: [http://arxiv.org/abs/2411.06991v1](http://arxiv.org/abs/2411.06991v1)
+- 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
+- 2024-11-11, **Large-scale moral machine experiment on large language models**, Muhammad Shahrul Zaim bin Ahmad et.al., Paper: [http://arxiv.org/abs/2411.06790v1](http://arxiv.org/abs/2411.06790v1), Code: **[https://github.com/kztakemoto/mmllm](https://github.com/kztakemoto/mmllm)**
+- 2024-11-11, **Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**, Lu Yu et.al., Paper: [http://arxiv.org/abs/2411.06773v1](http://arxiv.org/abs/2411.06773v1)
+- 2024-11-11, **DP and QP Based Decision-making and Planning for Autonomous Vehicle**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06751v1](http://arxiv.org/abs/2411.06751v1)
+- 2024-11-10, **Hermes: A Large Language Model Framework on the Journey to Autonomous Networks**, Fadhel Ayed et.al., Paper: [http://arxiv.org/abs/2411.06490v1](http://arxiv.org/abs/2411.06490v1)
+- 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
+- 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
+- 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
+- 2024-11-08, **Developing a Safety Management System for the Autonomous Vehicle Industry**, David Wichner et.al., Paper: [http://arxiv.org/abs/2411.06010v1](http://arxiv.org/abs/2411.06010v1)
 - 2024-11-08, **Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**, Ayobami Adewale et.al., Paper: [http://arxiv.org/abs/2411.05618v1](http://arxiv.org/abs/2411.05618v1)
 - 2024-11-08, **Expectation vs. Reality: Towards Verification of Psychological Games**, Marta Kwiatkowska et.al., Paper: [http://arxiv.org/abs/2411.05599v1](http://arxiv.org/abs/2411.05599v1)
 - 2024-11-08, **Open-set object detection: towards unified problem formulation and benchmarking**, Hejer Ammar et.al., Paper: [http://arxiv.org/abs/2411.05564v1](http://arxiv.org/abs/2411.05564v1)
