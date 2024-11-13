@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-11-12, **ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2411.07725v1](http://arxiv.org/abs/2411.07725v1)
+- 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
+- 2024-11-12, **RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**, Shuocheng Yang et.al., Paper: [http://arxiv.org/abs/2411.07699v1](http://arxiv.org/abs/2411.07699v1)
+- 2024-11-12, **A Simple Multi-agent Joint Prediction Method for Autonomous Driving**, Mingyi Wang et.al., Paper: [http://arxiv.org/abs/2411.07612v1](http://arxiv.org/abs/2411.07612v1)
 - 2024-11-11, **SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**, Jiale Chen et.al., Paper: [http://arxiv.org/abs/2411.06991v1](http://arxiv.org/abs/2411.06991v1)
 - 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
 - 2024-11-11, **Large-scale moral machine experiment on large language models**, Muhammad Shahrul Zaim bin Ahmad et.al., Paper: [http://arxiv.org/abs/2411.06790v1](http://arxiv.org/abs/2411.06790v1), Code: **[https://github.com/kztakemoto/mmllm](https://github.com/kztakemoto/mmllm)**
