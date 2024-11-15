@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-11-14, **Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2411.09643v1](http://arxiv.org/abs/2411.09643v1)
+- 2024-11-14, **DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2411.09451v1](http://arxiv.org/abs/2411.09451v1)
+- 2024-11-14, **The \emph{Optimist}: Towards Fully Automated Graph Theory Research**, Randy Davila et.al., Paper: [http://arxiv.org/abs/2411.09158v1](http://arxiv.org/abs/2411.09158v1)
 - 2024-11-13, **Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**, Anton Kuznietsov et.al., Paper: [http://arxiv.org/abs/2411.08482v1](http://arxiv.org/abs/2411.08482v1)
 - 2024-11-13, **3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**, Xiaoxiang Wang et.al., Paper: [http://arxiv.org/abs/2411.08433v1](http://arxiv.org/abs/2411.08433v1)
 - 2024-11-12, **Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**, Renzi Wang et.al., Paper: [http://arxiv.org/abs/2411.08232v1](http://arxiv.org/abs/2411.08232v1)
