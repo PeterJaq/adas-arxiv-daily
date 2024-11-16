@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 
 ## Autonomous_Driving
 
@@ -10,13 +10,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**|Stefan Orf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09643v1-b31b1b.svg)](http://arxiv.org/abs/2411.09643v1)|null|
 |**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09451v1-b31b1b.svg)](http://arxiv.org/abs/2411.09451v1)|null|
-|**2024-11-14**|**The \emph{Optimist}: Towards Fully Automated Graph Theory Research**|Randy Davila et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09158v1-b31b1b.svg)](http://arxiv.org/abs/2411.09158v1)|null|
+|**2024-11-14**|**The \emph{Optimist}: Towards Fully Automated Graph Theory Research**|Randy Davila et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09158v1-b31b1b.svg)](http://arxiv.org/abs/2411.09158v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randyrdavila/the-optimist)**|
 |**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08482v1-b31b1b.svg)](http://arxiv.org/abs/2411.08482v1)|null|
 |**2024-11-13**|**3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**|Xiaoxiang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08433v1-b31b1b.svg)](http://arxiv.org/abs/2411.08433v1)|null|
 |**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08232v1-b31b1b.svg)](http://arxiv.org/abs/2411.08232v1)|null|
 |**2024-11-12**|**ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**|Dubing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07725v1-b31b1b.svg)](http://arxiv.org/abs/2411.07725v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07711v1-b31b1b.svg)](http://arxiv.org/abs/2411.07711v1)|null|
-|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07699v1-b31b1b.svg)](http://arxiv.org/abs/2411.07699v1)|null|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07699v1-b31b1b.svg)](http://arxiv.org/abs/2411.07699v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yangsc4063/rino)**|
 |**2024-11-12**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07612v1-b31b1b.svg)](http://arxiv.org/abs/2411.07612v1)|null|
 |**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06991v1-b31b1b.svg)](http://arxiv.org/abs/2411.06991v1)|null|
 |**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06851v1-b31b1b.svg)](http://arxiv.org/abs/2411.06851v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelag99/efficient-instance-prediction)**|
