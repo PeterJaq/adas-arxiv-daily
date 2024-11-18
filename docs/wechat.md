@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-11-15, **Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**, Xu Wang et.al., Paper: [http://arxiv.org/abs/2411.10291v1](http://arxiv.org/abs/2411.10291v1)
+- 2024-11-15, **Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**, Anant Garg et.al., Paper: [http://arxiv.org/abs/2411.10171v1](http://arxiv.org/abs/2411.10171v1)
+- 2024-11-15, **Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**, Piotr Spieker et.al., Paper: [http://arxiv.org/abs/2411.10170v1](http://arxiv.org/abs/2411.10170v1)
+- 2024-11-15, **Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**, Shota Yamazaki et.al., Paper: [http://arxiv.org/abs/2411.09971v1](http://arxiv.org/abs/2411.09971v1)
+- 2024-11-15, **Deep learning robotics using self-supervised spatial differentiation drive autonomous contact-based semiconductor characterization**, Alexander E. Siemenn et.al., Paper: [http://arxiv.org/abs/2411.09892v1](http://arxiv.org/abs/2411.09892v1)
+- 2024-11-15, **Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**, Tian Niu et.al., Paper: [http://arxiv.org/abs/2411.09887v1](http://arxiv.org/abs/2411.09887v1)
 - 2024-11-14, **Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2411.09643v1](http://arxiv.org/abs/2411.09643v1)
 - 2024-11-14, **DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2411.09451v1](http://arxiv.org/abs/2411.09451v1)
 - 2024-11-14, **The \emph{Optimist}: Towards Fully Automated Graph Theory Research**, Randy Davila et.al., Paper: [http://arxiv.org/abs/2411.09158v1](http://arxiv.org/abs/2411.09158v1), Code: **[https://github.com/randyrdavila/the-optimist](https://github.com/randyrdavila/the-optimist)**

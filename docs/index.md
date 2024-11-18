@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10291v1-b31b1b.svg)](http://arxiv.org/abs/2411.10291v1)|null|
+|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10171v1-b31b1b.svg)](http://arxiv.org/abs/2411.10171v1)|null|
+|**2024-11-15**|**Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**|Piotr Spieker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10170v1-b31b1b.svg)](http://arxiv.org/abs/2411.10170v1)|null|
+|**2024-11-15**|**Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**|Shota Yamazaki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09971v1-b31b1b.svg)](http://arxiv.org/abs/2411.09971v1)|null|
+|**2024-11-15**|**Deep learning robotics using self-supervised spatial differentiation drive autonomous contact-based semiconductor characterization**|Alexander E. Siemenn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09892v1-b31b1b.svg)](http://arxiv.org/abs/2411.09892v1)|null|
+|**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09887v1-b31b1b.svg)](http://arxiv.org/abs/2411.09887v1)|null|
 |**2024-11-14**|**Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**|Stefan Orf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09643v1-b31b1b.svg)](http://arxiv.org/abs/2411.09643v1)|null|
 |**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09451v1-b31b1b.svg)](http://arxiv.org/abs/2411.09451v1)|null|
 |**2024-11-14**|**The \emph{Optimist}: Towards Fully Automated Graph Theory Research**|Randy Davila et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09158v1-b31b1b.svg)](http://arxiv.org/abs/2411.09158v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randyrdavila/the-optimist)**|
