@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
+|**2024-11-18**|**SignEye: Traffic Sign Interpretation from Vehicle First-Person View**|Chuang Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11507v1-b31b1b.svg)](http://arxiv.org/abs/2411.11507v1)|null|
+|**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11466v1-b31b1b.svg)](http://arxiv.org/abs/2411.11466v1)|null|
+|**2024-11-18**|**The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather**|Markus Schön et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11455v1-b31b1b.svg)](http://arxiv.org/abs/2411.11455v1)|null|
+|**2024-11-18**|**DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**|Tianyi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11252v1-b31b1b.svg)](http://arxiv.org/abs/2411.11252v1)|null|
+|**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11002v1-b31b1b.svg)](http://arxiv.org/abs/2411.11002v1)|null|
+|**2024-11-17**|**V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception**|Lei Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10962v1-b31b1b.svg)](http://arxiv.org/abs/2411.10962v1)|null|
+|**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10961v1-b31b1b.svg)](http://arxiv.org/abs/2411.10961v1)|null|
+|**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10902v1-b31b1b.svg)](http://arxiv.org/abs/2411.10902v1)|null|
+|**2024-11-16**|**Automatic Discovery and Assessment of Interpretable Systematic Errors in Semantic Segmentation**|Jaisidh Singh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10845v1-b31b1b.svg)](http://arxiv.org/abs/2411.10845v1)|null|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10291v1-b31b1b.svg)](http://arxiv.org/abs/2411.10291v1)|null|
 |**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10171v1-b31b1b.svg)](http://arxiv.org/abs/2411.10171v1)|null|
 |**2024-11-15**|**Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**|Piotr Spieker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10170v1-b31b1b.svg)](http://arxiv.org/abs/2411.10170v1)|null|
