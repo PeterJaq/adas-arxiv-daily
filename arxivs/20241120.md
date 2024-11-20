@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**|Luoxi Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12635v1-b31b1b.svg)](http://arxiv.org/abs/2411.12635v1)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12452v1-b31b1b.svg)](http://arxiv.org/abs/2411.12452v1)|null|
+|**2024-11-19**|**Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph**|Ziyang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12426v1-b31b1b.svg)](http://arxiv.org/abs/2411.12426v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyangchen/mocha-stereo)**|
+|**2024-11-19**|**C$^{2}$INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12313v1-b31b1b.svg)](http://arxiv.org/abs/2411.12313v1)|null|
+|**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|null|
+|**2024-11-18**|**Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei Miandashti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11935v1-b31b1b.svg)](http://arxiv.org/abs/2411.11935v1)|null|
 |**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
 |**2024-11-18**|**SignEye: Traffic Sign Interpretation from Vehicle First-Person View**|Chuang Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11507v1-b31b1b.svg)](http://arxiv.org/abs/2411.11507v1)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11466v1-b31b1b.svg)](http://arxiv.org/abs/2411.11466v1)|null|
