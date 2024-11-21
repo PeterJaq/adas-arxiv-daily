@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-11-20, **WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**, Siwei Chen et.al., Paper: [http://arxiv.org/abs/2411.13340v1](http://arxiv.org/abs/2411.13340v1), Code: **[https://github.com/chensiweithu/whales](https://github.com/chensiweithu/whales)**
+- 2024-11-20, **A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**, Kavin Chandrasekaran et.al., Paper: [http://arxiv.org/abs/2411.13311v1](http://arxiv.org/abs/2411.13311v1), Code: **[https://github.com/tue-mps/refnet](https://github.com/tue-mps/refnet)**
+- 2024-11-20, **YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**, Thomas Pöllabauer et.al., Paper: [http://arxiv.org/abs/2411.13149v1](http://arxiv.org/abs/2411.13149v1)
+- 2024-11-20, **Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**, Zhi Luo et.al., Paper: [http://arxiv.org/abs/2411.13116v1](http://arxiv.org/abs/2411.13116v1)
+- 2024-11-20, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v1](http://arxiv.org/abs/2411.13112v1), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
+- 2024-11-20, **Hints of Prompt: Enhancing Visual Representation for Multimodal LLMs in Autonomous Driving**, Hao Zhou et.al., Paper: [http://arxiv.org/abs/2411.13076v1](http://arxiv.org/abs/2411.13076v1)
+- 2024-11-20, **Study of Group III-V Waveguides on Sapphire Platform for Photonic Integrated Circuits**, Manoj Kumar Shah et.al., Paper: [http://arxiv.org/abs/2411.13035v1](http://arxiv.org/abs/2411.13035v1)
+- 2024-11-20, **LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**, Siwen Jiao et.al., Paper: [http://arxiv.org/abs/2411.12980v1](http://arxiv.org/abs/2411.12980v1)
 - 2024-11-20, **M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**, Luoxi Zhang et.al., Paper: [http://arxiv.org/abs/2411.12635v2](http://arxiv.org/abs/2411.12635v2), Code: **[https://github.com/AnnnnnieZhang/M3D](https://github.com/AnnnnnieZhang/M3D)**
 - 2024-11-19, **GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**, Shaoqing Xu et.al., Paper: [http://arxiv.org/abs/2411.12452v1](http://arxiv.org/abs/2411.12452v1)
 - 2024-11-19, **Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph**, Ziyang Chen et.al., Paper: [http://arxiv.org/abs/2411.12426v1](http://arxiv.org/abs/2411.12426v1), Code: **[https://github.com/zyangchen/mocha-stereo](https://github.com/zyangchen/mocha-stereo)**
