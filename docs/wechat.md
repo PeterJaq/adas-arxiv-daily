@@ -1,8 +1,8 @@
-> Updated on 2024.11.20
+> Updated on 2024.11.21
 
 ## Autonomous_Driving
 
-- 2024-11-19, **M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**, Luoxi Zhang et.al., Paper: [http://arxiv.org/abs/2411.12635v1](http://arxiv.org/abs/2411.12635v1)
+- 2024-11-19, **M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**, Luoxi Zhang et.al., Paper: [http://arxiv.org/abs/2411.12635v1](http://arxiv.org/abs/2411.12635v1), Code: **[https://github.com/AnnnnnieZhang/M3D](https://github.com/AnnnnnieZhang/M3D)**
 - 2024-11-19, **GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**, Shaoqing Xu et.al., Paper: [http://arxiv.org/abs/2411.12452v1](http://arxiv.org/abs/2411.12452v1)
 - 2024-11-19, **Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph**, Ziyang Chen et.al., Paper: [http://arxiv.org/abs/2411.12426v1](http://arxiv.org/abs/2411.12426v1), Code: **[https://github.com/zyangchen/mocha-stereo](https://github.com/zyangchen/mocha-stereo)**
 - 2024-11-19, **C$^{2}$INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**, Xiaohe Li et.al., Paper: [http://arxiv.org/abs/2411.12313v1](http://arxiv.org/abs/2411.12313v1)
