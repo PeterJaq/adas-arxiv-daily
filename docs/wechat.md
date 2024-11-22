@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-11-21, **Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2411.14375v1](http://arxiv.org/abs/2411.14375v1)
+- 2024-11-21, **Formal Simulation and Visualisation of Hybrid Programs**, Pedro Mendes et.al., Paper: [http://arxiv.org/abs/2411.14365v1](http://arxiv.org/abs/2411.14365v1)
+- 2024-11-21, **Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**, Zeyu Dong et.al., Paper: [http://arxiv.org/abs/2411.14256v1](http://arxiv.org/abs/2411.14256v1)
+- 2024-11-21, **Creating a Formally Verified Neural Network for Autonomous Navigation: An Experience Report**, Syed Ali Asadullah Bukhari et.al., Paper: [http://arxiv.org/abs/2411.14163v1](http://arxiv.org/abs/2411.14163v1), Code: **[https://github.com/tflinkow/fmas2024](https://github.com/tflinkow/fmas2024)**
+- 2024-11-21, **FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles**, Yijun Zhai et.al., Paper: [http://arxiv.org/abs/2411.13979v1](http://arxiv.org/abs/2411.13979v1), Code: **[https://github.com/yjzhai-cs/fedrav](https://github.com/yjzhai-cs/fedrav)**
+- 2024-11-21, **Trajectory Tracking Using Frenet Coordinates with Deep Deterministic Policy Gradient**, Tongzhou Jiang et.al., Paper: [http://arxiv.org/abs/2411.13885v1](http://arxiv.org/abs/2411.13885v1)
+- 2024-11-21, **MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control**, Ruiyuan Gao et.al., Paper: [http://arxiv.org/abs/2411.13807v1](http://arxiv.org/abs/2411.13807v1)
+- 2024-11-21, **A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**, Junae Kim et.al., Paper: [http://arxiv.org/abs/2411.13778v1](http://arxiv.org/abs/2411.13778v1)
+- 2024-11-20, **DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing**, Jingyun Ning et.al., Paper: [http://arxiv.org/abs/2411.13755v1](http://arxiv.org/abs/2411.13755v1)
+- 2024-11-20, **MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection**, Tong Ning et.al., Paper: [http://arxiv.org/abs/2411.13628v1](http://arxiv.org/abs/2411.13628v1)
 - 2024-11-20, **WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**, Siwei Chen et.al., Paper: [http://arxiv.org/abs/2411.13340v1](http://arxiv.org/abs/2411.13340v1), Code: **[https://github.com/chensiweithu/whales](https://github.com/chensiweithu/whales)**
 - 2024-11-20, **A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**, Kavin Chandrasekaran et.al., Paper: [http://arxiv.org/abs/2411.13311v1](http://arxiv.org/abs/2411.13311v1), Code: **[https://github.com/tue-mps/refnet](https://github.com/tue-mps/refnet)**
 - 2024-11-20, **YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**, Thomas Pöllabauer et.al., Paper: [http://arxiv.org/abs/2411.13149v1](http://arxiv.org/abs/2411.13149v1)
