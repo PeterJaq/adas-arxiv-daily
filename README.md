@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15139v1-b31b1b.svg)](http://arxiv.org/abs/2411.15139v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v1-b31b1b.svg)](http://arxiv.org/abs/2411.15042v1)|null|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15016v1-b31b1b.svg)](http://arxiv.org/abs/2411.15016v1)|null|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15007v1-b31b1b.svg)](http://arxiv.org/abs/2411.15007v1)|null|
+|**2024-11-22**|**LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation**|Zhenwei Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14927v1-b31b1b.svg)](http://arxiv.org/abs/2411.14927v1)|null|
+|**2024-11-22**|**Benchmarking the Robustness of Optical Flow Estimation to Corruptions**|Zhonghua Yi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14865v1-b31b1b.svg)](http://arxiv.org/abs/2411.14865v1)|null|
+|**2024-11-22**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14751v1-b31b1b.svg)](http://arxiv.org/abs/2411.14751v1)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14716v1-b31b1b.svg)](http://arxiv.org/abs/2411.14716v1)|null|
+|**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14593v1-b31b1b.svg)](http://arxiv.org/abs/2411.14593v1)|null|
+|**2024-11-21**|**Open Challenges in the Formal Verification of Autonomous Driving**|Paolo Burgio et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14520v1-b31b1b.svg)](http://arxiv.org/abs/2411.14520v1)|null|
 |**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14375v1-b31b1b.svg)](http://arxiv.org/abs/2411.14375v1)|null|
 |**2024-11-21**|**Formal Simulation and Visualisation of Hybrid Programs**|Pedro Mendes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14365v1-b31b1b.svg)](http://arxiv.org/abs/2411.14365v1)|null|
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14256v1-b31b1b.svg)](http://arxiv.org/abs/2411.14256v1)|null|
