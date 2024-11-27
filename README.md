@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17610v1-b31b1b.svg)](http://arxiv.org/abs/2411.17610v1)|null|
+|**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17543v1-b31b1b.svg)](http://arxiv.org/abs/2411.17543v1)|null|
+|**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17508v1-b31b1b.svg)](http://arxiv.org/abs/2411.17508v1)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17406v1-b31b1b.svg)](http://arxiv.org/abs/2411.17406v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
+|**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17161v1-b31b1b.svg)](http://arxiv.org/abs/2411.17161v1)|null|
+|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16816v1-b31b1b.svg)](http://arxiv.org/abs/2411.16816v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16554v1-b31b1b.svg)](http://arxiv.org/abs/2411.16554v1)|null|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16457v1-b31b1b.svg)](http://arxiv.org/abs/2411.16457v1)|null|
