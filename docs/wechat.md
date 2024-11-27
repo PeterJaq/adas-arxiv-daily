@@ -6,7 +6,7 @@
 - 2024-11-25, **Generating Out-Of-Distribution Scenarios Using Language Models**, Erfan Aasi et.al., Paper: [http://arxiv.org/abs/2411.16554v1](http://arxiv.org/abs/2411.16554v1)
 - 2024-11-25, **Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**, Haoming Li et.al., Paper: [http://arxiv.org/abs/2411.16457v1](http://arxiv.org/abs/2411.16457v1)
 - 2024-11-25, **A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**, Manuel Schwonberg et.al., Paper: [http://arxiv.org/abs/2411.16407v1](http://arxiv.org/abs/2411.16407v1)
-- 2024-11-25, **Monocular Lane Detection Based on Deep Learning: A Survey**, Xin He et.al., Paper: [http://arxiv.org/abs/2411.16316v1](http://arxiv.org/abs/2411.16316v1)
+- 2024-11-26, **Monocular Lane Detection Based on Deep Learning: A Survey**, Xin He et.al., Paper: [http://arxiv.org/abs/2411.16316v2](http://arxiv.org/abs/2411.16316v2)
 - 2024-11-25, **A Performance Increment Strategy for Semantic Segmentation of Low-Resolution Images from Damaged Roads**, Rafael S. Toledo et.al., Paper: [http://arxiv.org/abs/2411.16295v1](http://arxiv.org/abs/2411.16295v1)
 - 2024-11-25, **End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**, Mahmoud M. Kishky et.al., Paper: [http://arxiv.org/abs/2411.16131v1](http://arxiv.org/abs/2411.16131v1)
 - 2024-11-25, **Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion**, Jongseong Bae et.al., Paper: [http://arxiv.org/abs/2411.16129v1](http://arxiv.org/abs/2411.16129v1)
