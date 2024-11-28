@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-11-27, **InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**, Xiyan Jiang et.al., Paper: [http://arxiv.org/abs/2411.18302v1](http://arxiv.org/abs/2411.18302v1), Code: **[https://github.com/zxc-tju/InterHub](https://github.com/zxc-tju/InterHub)**
+- 2024-11-27, **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2411.18275v1](http://arxiv.org/abs/2411.18275v1)
+- 2024-11-27, **From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**, Zizhao Li et.al., Paper: [http://arxiv.org/abs/2411.18207v1](http://arxiv.org/abs/2411.18207v1), Code: **[https://github.com/343gltysprk/ovow](https://github.com/343gltysprk/ovow)**
+- 2024-11-27, **Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**, Di Zhang et.al., Paper: [http://arxiv.org/abs/2411.18203v1](http://arxiv.org/abs/2411.18203v1)
+- 2024-11-27, **Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2411.18129v1](http://arxiv.org/abs/2411.18129v1)
+- 2024-11-27, **FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2411.18013v1](http://arxiv.org/abs/2411.18013v1)
+- 2024-11-27, **Power-Efficient Actuation for Insect-Scale Autonomous Underwater Vehicles**, Cody R. Longwell et.al., Paper: [http://arxiv.org/abs/2411.18001v1](http://arxiv.org/abs/2411.18001v1)
+- 2024-11-26, **Stealthy Multi-Task Adversarial Attacks**, Jiacheng Guo et.al., Paper: [http://arxiv.org/abs/2411.17936v1](http://arxiv.org/abs/2411.17936v1)
+- 2024-11-26, **DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**, Boqi Li et.al., Paper: [http://arxiv.org/abs/2411.17917v1](http://arxiv.org/abs/2411.17917v1)
+- 2024-11-26, **Multimodal Crash Likelihood Prediction: A Complexity-Infused Approach Integrating Semantic, Contextual, and Driving Features**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2411.17886v1](http://arxiv.org/abs/2411.17886v1)
 - 2024-11-26, **Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**, Niharika Hegde et.al., Paper: [http://arxiv.org/abs/2411.17610v1](http://arxiv.org/abs/2411.17610v1)
 - 2024-11-26, **Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2411.17543v1](http://arxiv.org/abs/2411.17543v1)
 - 2024-11-26, **Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**, Onur Dikici et.al., Paper: [http://arxiv.org/abs/2411.17508v1](http://arxiv.org/abs/2411.17508v1)
