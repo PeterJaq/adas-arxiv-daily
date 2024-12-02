@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-11-29, **FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**, Chang Won Lee et.al., Paper: [http://arxiv.org/abs/2411.19888v1](http://arxiv.org/abs/2411.19888v1)
+- 2024-11-29, **SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2411.19860v1](http://arxiv.org/abs/2411.19860v1)
+- 2024-11-29, **A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**, Ahmad Rahimi et.al., Paper: [http://arxiv.org/abs/2411.19747v1](http://arxiv.org/abs/2411.19747v1), Code: **[https://github.com/vita-epfl/stay-on-track](https://github.com/vita-epfl/stay-on-track)**
+- 2024-11-29, **RoadGen: Generating Road Scenarios for Autonomous Vehicle Testing**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2411.19577v1](http://arxiv.org/abs/2411.19577v1)
+- 2024-11-29, **AdvFuzz: Finding More Violations Caused by the EGO Vehicle in Simulation Testing by Adversarial NPC Vehicles**, You Lu et.al., Paper: [http://arxiv.org/abs/2411.19567v1](http://arxiv.org/abs/2411.19567v1)
+- 2024-11-29, **ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**, Chaojun Ni et.al., Paper: [http://arxiv.org/abs/2411.19548v1](http://arxiv.org/abs/2411.19548v1)
+- 2024-11-28, **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**, Philipp Brauner et.al., Paper: [http://arxiv.org/abs/2411.19356v1](http://arxiv.org/abs/2411.19356v1)
+- 2024-11-28, **UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation**, Yichong Lu et.al., Paper: [http://arxiv.org/abs/2411.19292v1](http://arxiv.org/abs/2411.19292v1)
+- 2024-11-28, **SADG: Segment Any Dynamic Gaussian Without Object Trackers**, Yun-Jin Li et.al., Paper: [http://arxiv.org/abs/2411.19290v1](http://arxiv.org/abs/2411.19290v1), Code: **[https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**
+- 2024-11-28, **InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**, Haijie Li et.al., Paper: [http://arxiv.org/abs/2411.19235v1](http://arxiv.org/abs/2411.19235v1)
 - 2024-11-27, **InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**, Xiyan Jiang et.al., Paper: [http://arxiv.org/abs/2411.18302v1](http://arxiv.org/abs/2411.18302v1), Code: **[https://github.com/zxc-tju/InterHub](https://github.com/zxc-tju/InterHub)**
 - 2024-11-27, **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2411.18275v1](http://arxiv.org/abs/2411.18275v1)
 - 2024-11-27, **From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**, Zizhao Li et.al., Paper: [http://arxiv.org/abs/2411.18207v1](http://arxiv.org/abs/2411.18207v1), Code: **[https://github.com/343gltysprk/ovow](https://github.com/343gltysprk/ovow)**
