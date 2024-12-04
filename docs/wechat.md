@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-12-03, **Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2412.02689v1](http://arxiv.org/abs/2412.02689v1)
+- 2024-12-03, **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**, Hiroki Furuta et.al., Paper: [http://arxiv.org/abs/2412.02617v1](http://arxiv.org/abs/2412.02617v1)
+- 2024-12-03, **Generating Critical Scenarios for Testing Automated Driving Systems**, Trung-Hieu Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02574v1](http://arxiv.org/abs/2412.02574v1), Code: **[https://github.com/ise-uet-vnu/avastra](https://github.com/ise-uet-vnu/avastra)**
+- 2024-12-03, **Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**, Ziqian Zou et.al., Paper: [http://arxiv.org/abs/2412.02395v1](http://arxiv.org/abs/2412.02395v1)
+- 2024-12-03, **Trajectory-based Road Autolabeling with Lidar-Camera Fusion in Winter Conditions**, Eerik Alamikkotervo et.al., Paper: [http://arxiv.org/abs/2412.02370v1](http://arxiv.org/abs/2412.02370v1), Code: **[https://github.com/eerik98/lidar-camera-road-autolabeling](https://github.com/eerik98/lidar-camera-road-autolabeling)**
+- 2024-12-03, **Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**, Tianyi Wang et.al., Paper: [http://arxiv.org/abs/2412.02171v1](http://arxiv.org/abs/2412.02171v1)
+- 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
+- 2024-12-02, **HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**, Jacky Kwok et.al., Paper: [http://arxiv.org/abs/2412.01799v1](http://arxiv.org/abs/2412.01799v1)
+- 2024-12-02, **HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2412.01718v1](http://arxiv.org/abs/2412.01718v1)
+- 2024-12-02, **Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**, Christian Witte et.al., Paper: [http://arxiv.org/abs/2412.01595v1](http://arxiv.org/abs/2412.01595v1)
 - 2024-11-29, **FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**, Chang Won Lee et.al., Paper: [http://arxiv.org/abs/2411.19888v1](http://arxiv.org/abs/2411.19888v1)
 - 2024-11-29, **SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2411.19860v1](http://arxiv.org/abs/2411.19860v1)
 - 2024-11-29, **A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**, Ahmad Rahimi et.al., Paper: [http://arxiv.org/abs/2411.19747v1](http://arxiv.org/abs/2411.19747v1), Code: **[https://github.com/vita-epfl/stay-on-track](https://github.com/vita-epfl/stay-on-track)**
