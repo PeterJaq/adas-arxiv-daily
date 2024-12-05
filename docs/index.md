@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03567v1-b31b1b.svg)](http://arxiv.org/abs/2412.03567v1)|null|
+|**2024-12-04**|**FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**|Lue Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03566v1-b31b1b.svg)](http://arxiv.org/abs/2412.03566v1)|null|
+|**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03520v1-b31b1b.svg)](http://arxiv.org/abs/2412.03520v1)|null|
+|**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03490v1-b31b1b.svg)](http://arxiv.org/abs/2412.03490v1)|null|
+|**2024-12-04**|**A Survey of Wireless Sensing Security from a Role-Based View: Victim, Weapon, and Shield**|Ruixu Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03064v1-b31b1b.svg)](http://arxiv.org/abs/2412.03064v1)|null|
+|**2024-12-04**|**Lightweight Stochastic Video Prediction via Hybrid Warping**|Kazuki Kotoyori et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03061v1-b31b1b.svg)](http://arxiv.org/abs/2412.03061v1)|null|
+|**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03051v1-b31b1b.svg)](http://arxiv.org/abs/2412.03051v1)|null|
+|**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02803v1-b31b1b.svg)](http://arxiv.org/abs/2412.02803v1)|null|
+|**2024-12-03**|**Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**|Nanyang Ye et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02779v1-b31b1b.svg)](http://arxiv.org/abs/2412.02779v1)|null|
 |**2024-12-03**|**Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**|Yupeng Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02689v1-b31b1b.svg)](http://arxiv.org/abs/2412.02689v1)|null|
 |**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02617v1-b31b1b.svg)](http://arxiv.org/abs/2412.02617v1)|null|
 |**2024-12-03**|**Generating Critical Scenarios for Testing Automated Driving Systems**|Trung-Hieu Nguyen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02574v1-b31b1b.svg)](http://arxiv.org/abs/2412.02574v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ise-uet-vnu/avastra)**|

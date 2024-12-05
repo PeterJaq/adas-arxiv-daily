@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-12-04, **Streaming Detection of Queried Event Start**, Cristobal Eyzaguirre et.al., Paper: [http://arxiv.org/abs/2412.03567v1](http://arxiv.org/abs/2412.03567v1)
+- 2024-12-04, **FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**, Lue Fan et.al., Paper: [http://arxiv.org/abs/2412.03566v1](http://arxiv.org/abs/2412.03566v1)
+- 2024-12-04, **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**, Hannan Lu et.al., Paper: [http://arxiv.org/abs/2412.03520v1](http://arxiv.org/abs/2412.03520v1)
+- 2024-12-04, **Data Fusion of Semantic and Depth Information in the Context of Object Detection**, Md Abu Yusuf et.al., Paper: [http://arxiv.org/abs/2412.03490v1](http://arxiv.org/abs/2412.03490v1)
+- 2024-12-04, **A Survey of Wireless Sensing Security from a Role-Based View: Victim, Weapon, and Shield**, Ruixu Geng et.al., Paper: [http://arxiv.org/abs/2412.03064v1](http://arxiv.org/abs/2412.03064v1)
+- 2024-12-04, **Lightweight Stochastic Video Prediction via Hybrid Warping**, Kazuki Kotoyori et.al., Paper: [http://arxiv.org/abs/2412.03061v1](http://arxiv.org/abs/2412.03061v1)
+- 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
+- 2024-12-03, **Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**, Abdurrahman Zeybey et.al., Paper: [http://arxiv.org/abs/2412.02803v1](http://arxiv.org/abs/2412.02803v1)
+- 2024-12-03, **Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**, Nanyang Ye et.al., Paper: [http://arxiv.org/abs/2412.02779v1](http://arxiv.org/abs/2412.02779v1)
 - 2024-12-03, **Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2412.02689v1](http://arxiv.org/abs/2412.02689v1)
 - 2024-12-03, **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**, Hiroki Furuta et.al., Paper: [http://arxiv.org/abs/2412.02617v1](http://arxiv.org/abs/2412.02617v1)
 - 2024-12-03, **Generating Critical Scenarios for Testing Automated Driving Systems**, Trung-Hieu Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02574v1](http://arxiv.org/abs/2412.02574v1), Code: **[https://github.com/ise-uet-vnu/avastra](https://github.com/ise-uet-vnu/avastra)**
