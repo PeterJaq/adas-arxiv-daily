@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1)
+- 2024-12-05, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v1](http://arxiv.org/abs/2412.04341v1)
+- 2024-12-05, **Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**, Saheli Hazra et.al., Paper: [http://arxiv.org/abs/2412.04337v1](http://arxiv.org/abs/2412.04337v1)
+- 2024-12-05, **YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**, Linfeng Jiang et.al., Paper: [http://arxiv.org/abs/2412.04289v1](http://arxiv.org/abs/2412.04289v1)
+- 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
+- 2024-12-05, **UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**, Lars Schmarje et.al., Paper: [http://arxiv.org/abs/2412.03986v1](http://arxiv.org/abs/2412.03986v1)
+- 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
+- 2024-12-05, **Using Cooperative Co-evolutionary Search to Generate Metamorphic Test Cases for Autonomous Driving Systems**, Hossein Yousefizadeh et.al., Paper: [http://arxiv.org/abs/2412.03843v1](http://arxiv.org/abs/2412.03843v1)
+- 2024-12-05, **Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**, John Subosits et.al., Paper: [http://arxiv.org/abs/2412.03803v1](http://arxiv.org/abs/2412.03803v1)
+- 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
 - 2024-12-04, **Streaming Detection of Queried Event Start**, Cristobal Eyzaguirre et.al., Paper: [http://arxiv.org/abs/2412.03567v1](http://arxiv.org/abs/2412.03567v1)
 - 2024-12-04, **FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**, Lue Fan et.al., Paper: [http://arxiv.org/abs/2412.03566v1](http://arxiv.org/abs/2412.03566v1)
 - 2024-12-04, **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**, Hannan Lu et.al., Paper: [http://arxiv.org/abs/2412.03520v1](http://arxiv.org/abs/2412.03520v1)

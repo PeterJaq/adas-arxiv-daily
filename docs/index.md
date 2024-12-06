@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04384v1-b31b1b.svg)](http://arxiv.org/abs/2412.04384v1)|null|
+|**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v1-b31b1b.svg)](http://arxiv.org/abs/2412.04341v1)|null|
+|**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04337v1-b31b1b.svg)](http://arxiv.org/abs/2412.04337v1)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04289v1-b31b1b.svg)](http://arxiv.org/abs/2412.04289v1)|null|
+|**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
+|**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03986v1-b31b1b.svg)](http://arxiv.org/abs/2412.03986v1)|null|
+|**2024-12-05**|**Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**|Yaoyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03874v1-b31b1b.svg)](http://arxiv.org/abs/2412.03874v1)|null|
+|**2024-12-05**|**Using Cooperative Co-evolutionary Search to Generate Metamorphic Test Cases for Autonomous Driving Systems**|Hossein Yousefizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03843v1-b31b1b.svg)](http://arxiv.org/abs/2412.03843v1)|null|
+|**2024-12-05**|**Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**|John Subosits et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03803v1-b31b1b.svg)](http://arxiv.org/abs/2412.03803v1)|null|
+|**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
 |**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03567v1-b31b1b.svg)](http://arxiv.org/abs/2412.03567v1)|null|
 |**2024-12-04**|**FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**|Lue Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03566v1-b31b1b.svg)](http://arxiv.org/abs/2412.03566v1)|null|
 |**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03520v1-b31b1b.svg)](http://arxiv.org/abs/2412.03520v1)|null|
