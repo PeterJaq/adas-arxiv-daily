@@ -2,10 +2,10 @@
 
 ## Autonomous_Driving
 
-- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1)
+- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-12-05, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v1](http://arxiv.org/abs/2412.04341v1)
 - 2024-12-05, **Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**, Saheli Hazra et.al., Paper: [http://arxiv.org/abs/2412.04337v1](http://arxiv.org/abs/2412.04337v1)
-- 2024-12-05, **YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**, Linfeng Jiang et.al., Paper: [http://arxiv.org/abs/2412.04289v1](http://arxiv.org/abs/2412.04289v1)
+- 2024-12-05, **YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**, Linfeng Jiang et.al., Paper: [http://arxiv.org/abs/2412.04289v1](http://arxiv.org/abs/2412.04289v1), Code: **[https://github.com/zippiest/yolo-cca](https://github.com/zippiest/yolo-cca)**
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-05, **UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**, Lars Schmarje et.al., Paper: [http://arxiv.org/abs/2412.03986v1](http://arxiv.org/abs/2412.03986v1)
 - 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
