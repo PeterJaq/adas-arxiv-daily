@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-12-06, **Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2412.05280v1](http://arxiv.org/abs/2412.05280v1), Code: **[https://github.com/wzzheng/stag](https://github.com/wzzheng/stag)**
+- 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1)
+- 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
+- 2024-12-06, **Backdooring Outlier Detection Methods: A Novel Attack Approach**, ZeinabSadat Taghavi et.al., Paper: [http://arxiv.org/abs/2412.05010v1](http://arxiv.org/abs/2412.05010v1)
+- 2024-12-06, **VTD: Visual and Tactile Database for Driver State and Behavior Perception**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2412.04888v1](http://arxiv.org/abs/2412.04888v1)
+- 2024-12-06, **UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.04842v1](http://arxiv.org/abs/2412.04842v1)
 - 2024-12-06, **GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v2](http://arxiv.org/abs/2412.04384v2), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**, Saheli Hazra et.al., Paper: [http://arxiv.org/abs/2412.04337v1](http://arxiv.org/abs/2412.04337v1)
