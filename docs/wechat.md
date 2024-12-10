@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-12-09, **Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving**, Xin Fei et.al., Paper: [http://arxiv.org/abs/2412.06777v1](http://arxiv.org/abs/2412.06777v1), Code: **[https://github.com/barrybarry-smith/driv3r](https://github.com/barrybarry-smith/driv3r)**
+- 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
+- 2024-12-09, **Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**, Melo Castillo Angie Nataly et.al., Paper: [http://arxiv.org/abs/2412.06549v1](http://arxiv.org/abs/2412.06549v1)
+- 2024-12-09, **PPT: Pre-Training with Pseudo-Labeled Trajectories for Motion Forecasting**, Yihong Xu et.al., Paper: [http://arxiv.org/abs/2412.06491v1](http://arxiv.org/abs/2412.06491v1)
+- 2024-12-09, **World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**, Mingliang Zhai et.al., Paper: [http://arxiv.org/abs/2412.06324v1](http://arxiv.org/abs/2412.06324v1)
+- 2024-12-09, **Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction**, Dongxu Wei et.al., Paper: [http://arxiv.org/abs/2412.06273v1](http://arxiv.org/abs/2412.06273v1)
+- 2024-12-09, **A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**, Jaden Mu et.al., Paper: [http://arxiv.org/abs/2412.06215v1](http://arxiv.org/abs/2412.06215v1)
+- 2024-12-09, **Pilot-guided Multimodal Semantic Communication for Audio-Visual Event Localization**, Fei Yu et.al., Paper: [http://arxiv.org/abs/2412.06208v1](http://arxiv.org/abs/2412.06208v1)
+- 2024-12-09, **AgentAlign: Misalignment-Adapted Multi-Agent Perception for Resilient Inter-Agent Sensor Correlations**, Zonglin Meng et.al., Paper: [http://arxiv.org/abs/2412.06142v1](http://arxiv.org/abs/2412.06142v1)
+- 2024-12-09, **HSDA: High-frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation**, Calvin Glisson et.al., Paper: [http://arxiv.org/abs/2412.06127v1](http://arxiv.org/abs/2412.06127v1), Code: **[https://github.com/zarhult/hsda](https://github.com/zarhult/hsda)**
 - 2024-12-06, **Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2412.05280v1](http://arxiv.org/abs/2412.05280v1), Code: **[https://github.com/wzzheng/stag](https://github.com/wzzheng/stag)**
 - 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1), Code: **[https://github.com/ai4ce/EUVS-Benchmark](https://github.com/ai4ce/EUVS-Benchmark)**
 - 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
