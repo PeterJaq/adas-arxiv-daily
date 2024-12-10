@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05280v1-b31b1b.svg)](http://arxiv.org/abs/2412.05280v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/stag)**|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05256v1-b31b1b.svg)](http://arxiv.org/abs/2412.05256v1)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05256v1-b31b1b.svg)](http://arxiv.org/abs/2412.05256v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05154v1-b31b1b.svg)](http://arxiv.org/abs/2412.05154v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghostish/objectcentricocccompletion)**|
 |**2024-12-06**|**Backdooring Outlier Detection Methods: A Novel Attack Approach**|ZeinabSadat Taghavi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05010v1-b31b1b.svg)](http://arxiv.org/abs/2412.05010v1)|null|
 |**2024-12-06**|**VTD: Visual and Tactile Database for Driver State and Behavior Perception**|Jie Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04888v1-b31b1b.svg)](http://arxiv.org/abs/2412.04888v1)|null|

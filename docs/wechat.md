@@ -1,9 +1,9 @@
-> Updated on 2024.12.09
+> Updated on 2024.12.10
 
 ## Autonomous_Driving
 
 - 2024-12-06, **Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2412.05280v1](http://arxiv.org/abs/2412.05280v1), Code: **[https://github.com/wzzheng/stag](https://github.com/wzzheng/stag)**
-- 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1)
+- 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1), Code: **[https://github.com/ai4ce/EUVS-Benchmark](https://github.com/ai4ce/EUVS-Benchmark)**
 - 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
 - 2024-12-06, **Backdooring Outlier Detection Methods: A Novel Attack Approach**, ZeinabSadat Taghavi et.al., Paper: [http://arxiv.org/abs/2412.05010v1](http://arxiv.org/abs/2412.05010v1)
 - 2024-12-06, **VTD: Visual and Tactile Database for Driver State and Behavior Perception**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2412.04888v1](http://arxiv.org/abs/2412.04888v1)
