@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-12-10, **Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2412.07768v1](http://arxiv.org/abs/2412.07768v1)
+- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
+- 2024-12-10, **A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**, Zongbo Liao et.al., Paper: [http://arxiv.org/abs/2412.07513v1](http://arxiv.org/abs/2412.07513v1)
+- 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
+- 2024-12-10, **Driving with InternVL: Oustanding Champion in the Track on Driving with Language of the Autonomous Grand Challenge at CVPR 2024**, Jiahan Li et.al., Paper: [http://arxiv.org/abs/2412.07247v1](http://arxiv.org/abs/2412.07247v1)
+- 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163v1](http://arxiv.org/abs/2412.07163v1)
 - 2024-12-09, **Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving**, Xin Fei et.al., Paper: [http://arxiv.org/abs/2412.06777v1](http://arxiv.org/abs/2412.06777v1), Code: **[https://github.com/barrybarry-smith/driv3r](https://github.com/barrybarry-smith/driv3r)**
 - 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 - 2024-12-09, **Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**, Melo Castillo Angie Nataly et.al., Paper: [http://arxiv.org/abs/2412.06549v1](http://arxiv.org/abs/2412.06549v1)
