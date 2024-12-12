@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2024-12-10, **Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2412.07768v1](http://arxiv.org/abs/2412.07768v1)
+- 2024-12-11, **Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2412.07768v2](http://arxiv.org/abs/2412.07768v2)
 - 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
 - 2024-12-10, **A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**, Zongbo Liao et.al., Paper: [http://arxiv.org/abs/2412.07513v1](http://arxiv.org/abs/2412.07513v1)

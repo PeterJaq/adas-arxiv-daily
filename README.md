@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-10**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07768v1-b31b1b.svg)](http://arxiv.org/abs/2412.07768v1)|null|
+|**2024-12-11**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07768v2-b31b1b.svg)](http://arxiv.org/abs/2412.07768v2)|null|
 |**2024-12-10**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v1-b31b1b.svg)](http://arxiv.org/abs/2412.07689v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07518v1-b31b1b.svg)](http://arxiv.org/abs/2412.07518v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07513v1-b31b1b.svg)](http://arxiv.org/abs/2412.07513v1)|null|
