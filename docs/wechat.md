@@ -4,14 +4,14 @@
 
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-11, **An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**, Leandro Parada et.al., Paper: [http://arxiv.org/abs/2412.08562v1](http://arxiv.org/abs/2412.08562v1)
-- 2024-12-11, **Drift-free Visual SLAM using Digital Twins**, Roxane Merat et.al., Paper: [http://arxiv.org/abs/2412.08496v1](http://arxiv.org/abs/2412.08496v1)
+- 2024-12-12, **Drift-free Visual SLAM using Digital Twins**, Roxane Merat et.al., Paper: [http://arxiv.org/abs/2412.08496v2](http://arxiv.org/abs/2412.08496v2)
 - 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
 - 2024-12-11, **Neural Observation Field Guided Hybrid Optimization of Camera Placement**, Yihan Cao et.al., Paper: [http://arxiv.org/abs/2412.08266v1](http://arxiv.org/abs/2412.08266v1), Code: **[https://github.com/yhanCao/NeOF-HybridCamOpt](https://github.com/yhanCao/NeOF-HybridCamOpt)**
 - 2024-12-11, **Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**, Vikas Vyas et.al., Paper: [http://arxiv.org/abs/2412.08133v1](http://arxiv.org/abs/2412.08133v1)
 - 2024-12-11, **Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation**, Zhigang Cen et.al., Paper: [http://arxiv.org/abs/2412.08034v1](http://arxiv.org/abs/2412.08034v1)
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)
 - 2024-12-11, **Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2412.07768v2](http://arxiv.org/abs/2412.07768v2)
-- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
 - 2024-12-10, **A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**, Zongbo Liao et.al., Paper: [http://arxiv.org/abs/2412.07513v1](http://arxiv.org/abs/2412.07513v1)
 - 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
