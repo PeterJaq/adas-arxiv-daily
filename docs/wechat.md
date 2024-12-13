@@ -1,4 +1,4 @@
-> Updated on 2024.12.12
+> Updated on 2024.12.13
 
 ## Autonomous_Driving
 
@@ -6,7 +6,7 @@
 - 2024-12-11, **An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**, Leandro Parada et.al., Paper: [http://arxiv.org/abs/2412.08562v1](http://arxiv.org/abs/2412.08562v1)
 - 2024-12-11, **Drift-free Visual SLAM using Digital Twins**, Roxane Merat et.al., Paper: [http://arxiv.org/abs/2412.08496v1](http://arxiv.org/abs/2412.08496v1)
 - 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
-- 2024-12-11, **Neural Observation Field Guided Hybrid Optimization of Camera Placement**, Yihan Cao et.al., Paper: [http://arxiv.org/abs/2412.08266v1](http://arxiv.org/abs/2412.08266v1)
+- 2024-12-11, **Neural Observation Field Guided Hybrid Optimization of Camera Placement**, Yihan Cao et.al., Paper: [http://arxiv.org/abs/2412.08266v1](http://arxiv.org/abs/2412.08266v1), Code: **[https://github.com/yhanCao/NeOF-HybridCamOpt](https://github.com/yhanCao/NeOF-HybridCamOpt)**
 - 2024-12-11, **Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**, Vikas Vyas et.al., Paper: [http://arxiv.org/abs/2412.08133v1](http://arxiv.org/abs/2412.08133v1)
 - 2024-12-11, **Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation**, Zhigang Cen et.al., Paper: [http://arxiv.org/abs/2412.08034v1](http://arxiv.org/abs/2412.08034v1)
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)

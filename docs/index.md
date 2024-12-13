@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 
 ## Autonomous_Driving
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08562v1-b31b1b.svg)](http://arxiv.org/abs/2412.08562v1)|null|
 |**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08496v1-b31b1b.svg)](http://arxiv.org/abs/2412.08496v1)|null|
 |**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08410v1-b31b1b.svg)](http://arxiv.org/abs/2412.08410v1)|null|
-|**2024-12-11**|**Neural Observation Field Guided Hybrid Optimization of Camera Placement**|Yihan Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08266v1-b31b1b.svg)](http://arxiv.org/abs/2412.08266v1)|null|
+|**2024-12-11**|**Neural Observation Field Guided Hybrid Optimization of Camera Placement**|Yihan Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08266v1-b31b1b.svg)](http://arxiv.org/abs/2412.08266v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yhanCao/NeOF-HybridCamOpt)**|
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08133v1-b31b1b.svg)](http://arxiv.org/abs/2412.08133v1)|null|
 |**2024-12-11**|**Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation**|Zhigang Cen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08034v1-b31b1b.svg)](http://arxiv.org/abs/2412.08034v1)|null|
 |**2024-12-10**|**Agents for self-driving laboratories applied to quantum computing**|Shuxiang Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07978v1-b31b1b.svg)](http://arxiv.org/abs/2412.07978v1)|null|
