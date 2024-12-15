@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09424v1-b31b1b.svg)](http://arxiv.org/abs/2412.09424v1)|null|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09209v1-b31b1b.svg)](http://arxiv.org/abs/2412.09209v1)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09209v1-b31b1b.svg)](http://arxiv.org/abs/2412.09209v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**|Minwoo Gwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09109v1-b31b1b.svg)](http://arxiv.org/abs/2412.09109v1)|null|
 |**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
 |**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|

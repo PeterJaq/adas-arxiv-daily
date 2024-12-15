@@ -1,10 +1,10 @@
-> Updated on 2024.12.14
+> Updated on 2024.12.15
 
 ## Autonomous_Driving
 
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
-- 2024-12-12, **eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**, Jad Mansour et.al., Paper: [http://arxiv.org/abs/2412.09209v1](http://arxiv.org/abs/2412.09209v1)
+- 2024-12-12, **eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**, Jad Mansour et.al., Paper: [http://arxiv.org/abs/2412.09209v1](http://arxiv.org/abs/2412.09209v1), Code: **[https://github.com/CIRS-Girona/ecarla-scenes](https://github.com/CIRS-Girona/ecarla-scenes)**
 - 2024-12-12, **evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**, Minwoo Gwon et.al., Paper: [http://arxiv.org/abs/2412.09109v1](http://arxiv.org/abs/2412.09109v1)
 - 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
 - 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
