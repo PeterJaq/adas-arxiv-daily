@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-12-13, **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2412.10373v1](http://arxiv.org/abs/2412.10373v1), Code: **[https://github.com/zuosc19/gaussianworld](https://github.com/zuosc19/gaussianworld)**
+- 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
+- 2024-12-13, **Timealign: A multi-modal object detection method for time misalignment fusing in autonomous driving**, Zhihang Song et.al., Paper: [http://arxiv.org/abs/2412.10033v1](http://arxiv.org/abs/2412.10033v1)
+- 2024-12-13, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v1](http://arxiv.org/abs/2412.09951v1)
+- 2024-12-13, **EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**, Hanchu Zhou et.al., Paper: [http://arxiv.org/abs/2412.09782v1](http://arxiv.org/abs/2412.09782v1)
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
 - 2024-12-12, **eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**, Jad Mansour et.al., Paper: [http://arxiv.org/abs/2412.09209v1](http://arxiv.org/abs/2412.09209v1), Code: **[https://github.com/CIRS-Girona/ecarla-scenes](https://github.com/CIRS-Girona/ecarla-scenes)**
