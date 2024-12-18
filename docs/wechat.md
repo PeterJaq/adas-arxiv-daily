@@ -1,4 +1,4 @@
-> Updated on 2024.12.17
+> Updated on 2024.12.18
 
 ## Autonomous_Driving
 
@@ -6,7 +6,7 @@
 - 2024-12-16, **CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception**, Senkang Hu et.al., Paper: [http://arxiv.org/abs/2412.12000v1](http://arxiv.org/abs/2412.12000v1)
 - 2024-12-16, **Point Cloud-Assisted Neural Image Compression**, Ziqun Li et.al., Paper: [http://arxiv.org/abs/2412.11771v1](http://arxiv.org/abs/2412.11771v1)
 - 2024-12-16, **NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**, Chengyue Wang et.al., Paper: [http://arxiv.org/abs/2412.11682v1](http://arxiv.org/abs/2412.11682v1)
-- 2024-12-16, **$\texttt{DINO-Foresight}$: Looking into the Future with DINO**, Efstathios Karypidis et.al., Paper: [http://arxiv.org/abs/2412.11673v1](http://arxiv.org/abs/2412.11673v1)
+- 2024-12-16, **DINO-Foresight Looking into the Future with DINO**, Efstathios Karypidis et.al., Paper: [http://arxiv.org/abs/2412.11673v1](http://arxiv.org/abs/2412.11673v1)
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
 - 2024-12-16, **HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**, Zijian Gu et.al., Paper: [http://arxiv.org/abs/2412.11489v1](http://arxiv.org/abs/2412.11489v1), Code: **[https://github.com/garfield-cpp/hgsfusion](https://github.com/garfield-cpp/hgsfusion)**
 - 2024-12-16, **Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**, Wonje Choi et.al., Paper: [http://arxiv.org/abs/2412.11484v1](http://arxiv.org/abs/2412.11484v1)
