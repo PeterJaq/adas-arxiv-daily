@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-12-17, **GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**, Haoyi Jiang et.al., Paper: [http://arxiv.org/abs/2412.13193v1](http://arxiv.org/abs/2412.13193v1), Code: **[https://github.com/hustvl/gausstr](https://github.com/hustvl/gausstr)**
+- 2024-12-17, **StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**, Yunzhi Yan et.al., Paper: [http://arxiv.org/abs/2412.13188v1](http://arxiv.org/abs/2412.13188v1)
+- 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
+- 2024-12-17, **Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**, Xiaxin Zhu et.al., Paper: [http://arxiv.org/abs/2412.12843v1](http://arxiv.org/abs/2412.12843v1)
+- 2024-12-17, **Open-World Panoptic Segmentation**, Matteo Sodano et.al., Paper: [http://arxiv.org/abs/2412.12740v1](http://arxiv.org/abs/2412.12740v1)
+- 2024-12-17, **MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert**, Dapeng Zhang et.al., Paper: [http://arxiv.org/abs/2412.12704v1](http://arxiv.org/abs/2412.12704v1)
+- 2024-12-17, **DriveTester: A Unified Platform for Simulation-Based Autonomous Driving Testing**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2412.12656v1](http://arxiv.org/abs/2412.12656v1), Code: **[https://github.com/mingfeicheng/drivetester](https://github.com/mingfeicheng/drivetester)**
+- 2024-12-17, **Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**, Shiyu Hu et.al., Paper: [http://arxiv.org/abs/2412.12626v1](http://arxiv.org/abs/2412.12626v1)
+- 2024-12-16, **Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**, Madiyar Alimov et.al., Paper: [http://arxiv.org/abs/2412.12349v1](http://arxiv.org/abs/2412.12349v1)
+- 2024-12-16, **AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2412.12347v1](http://arxiv.org/abs/2412.12347v1)
 - 2024-12-16, **PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**, Cheng Zhang et.al., Paper: [http://arxiv.org/abs/2412.12096v1](http://arxiv.org/abs/2412.12096v1)
 - 2024-12-16, **CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception**, Senkang Hu et.al., Paper: [http://arxiv.org/abs/2412.12000v1](http://arxiv.org/abs/2412.12000v1)
 - 2024-12-16, **Point Cloud-Assisted Neural Image Compression**, Ziqun Li et.al., Paper: [http://arxiv.org/abs/2412.11771v1](http://arxiv.org/abs/2412.11771v1)
