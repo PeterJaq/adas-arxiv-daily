@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-12-18, **Joint Perception and Prediction for Autonomous Driving: A Survey**, Lucas Dal'Col et.al., Paper: [http://arxiv.org/abs/2412.14088v1](http://arxiv.org/abs/2412.14088v1), Code: **[https://github.com/pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet)**
+- 2024-12-18, **Landscape of AI safety concerns -- A methodology to support safety assurance for AI-based autonomous systems**, Ronald Schnitzer et.al., Paper: [http://arxiv.org/abs/2412.14020v1](http://arxiv.org/abs/2412.14020v1)
+- 2024-12-18, **A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**, Fu Wang et.al., Paper: [http://arxiv.org/abs/2412.13913v1](http://arxiv.org/abs/2412.13913v1)
+- 2024-12-18, **Object Style Diffusion for Generalized Object Detection in Urban Scene**, Hao Li et.al., Paper: [http://arxiv.org/abs/2412.13815v1](http://arxiv.org/abs/2412.13815v1)
+- 2024-12-18, **SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**, Huiwen Yang et.al., Paper: [http://arxiv.org/abs/2412.13802v1](http://arxiv.org/abs/2412.13802v1)
+- 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
+- 2024-12-18, **Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**, Xiaoqi An et.al., Paper: [http://arxiv.org/abs/2412.13454v1](http://arxiv.org/abs/2412.13454v1)
+- 2024-12-18, **Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2412.13419v1](http://arxiv.org/abs/2412.13419v1)
+- 2024-12-17, **Quantitative Predictive Monitoring and Control for Safe Human-Machine Interaction**, Shuyang Dong et.al., Paper: [http://arxiv.org/abs/2412.13365v1](http://arxiv.org/abs/2412.13365v1)
 - 2024-12-17, **GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**, Haoyi Jiang et.al., Paper: [http://arxiv.org/abs/2412.13193v1](http://arxiv.org/abs/2412.13193v1), Code: **[https://github.com/hustvl/gausstr](https://github.com/hustvl/gausstr)**
 - 2024-12-17, **StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**, Yunzhi Yan et.al., Paper: [http://arxiv.org/abs/2412.13188v1](http://arxiv.org/abs/2412.13188v1)
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
