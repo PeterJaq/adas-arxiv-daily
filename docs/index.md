@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15208v1-b31b1b.svg)](http://arxiv.org/abs/2412.15208v1)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|null|
+|**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14660v1-b31b1b.svg)](http://arxiv.org/abs/2412.14660v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hfutml/calibration-mllm)**|
+|**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14494v1-b31b1b.svg)](http://arxiv.org/abs/2412.14494v1)|null|
+|**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
+|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|null|
+|**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14088v1-b31b1b.svg)](http://arxiv.org/abs/2412.14088v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**Landscape of AI safety concerns -- A methodology to support safety assurance for AI-based autonomous systems**|Ronald Schnitzer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14020v1-b31b1b.svg)](http://arxiv.org/abs/2412.14020v1)|null|
 |**2024-12-19**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13913v2-b31b1b.svg)](http://arxiv.org/abs/2412.13913v2)|null|
