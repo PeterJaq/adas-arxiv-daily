@@ -4,7 +4,7 @@
 
 - 2024-12-18, **Joint Perception and Prediction for Autonomous Driving: A Survey**, Lucas Dal'Col et.al., Paper: [http://arxiv.org/abs/2412.14088v1](http://arxiv.org/abs/2412.14088v1), Code: **[https://github.com/pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet)**
 - 2024-12-18, **Landscape of AI safety concerns -- A methodology to support safety assurance for AI-based autonomous systems**, Ronald Schnitzer et.al., Paper: [http://arxiv.org/abs/2412.14020v1](http://arxiv.org/abs/2412.14020v1)
-- 2024-12-18, **A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**, Fu Wang et.al., Paper: [http://arxiv.org/abs/2412.13913v1](http://arxiv.org/abs/2412.13913v1)
+- 2024-12-19, **A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**, Fu Wang et.al., Paper: [http://arxiv.org/abs/2412.13913v2](http://arxiv.org/abs/2412.13913v2)
 - 2024-12-18, **Object Style Diffusion for Generalized Object Detection in Urban Scene**, Hao Li et.al., Paper: [http://arxiv.org/abs/2412.13815v1](http://arxiv.org/abs/2412.13815v1)
 - 2024-12-18, **SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**, Huiwen Yang et.al., Paper: [http://arxiv.org/abs/2412.13802v1](http://arxiv.org/abs/2412.13802v1)
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
