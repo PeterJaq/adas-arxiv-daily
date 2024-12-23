@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-12-20, **Camera-Based Localization and Enhanced Normalized Mutual Information**, Vishnu Teja Kunde et.al., Paper: [http://arxiv.org/abs/2412.16137v1](http://arxiv.org/abs/2412.16137v1)
+- 2024-12-20, **Sparse Point Clouds Assisted Learned Image Compression**, Yiheng Jiang et.al., Paper: [http://arxiv.org/abs/2412.15752v1](http://arxiv.org/abs/2412.15752v1)
+- 2024-12-20, **Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**, Yuzhi Wu et.al., Paper: [http://arxiv.org/abs/2412.15595v1](http://arxiv.org/abs/2412.15595v1)
+- 2024-12-20, **VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**, Zilin Huang et.al., Paper: [http://arxiv.org/abs/2412.15544v1](http://arxiv.org/abs/2412.15544v1)
+- 2024-12-19, **LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**, Pou-Chun Kung et.al., Paper: [http://arxiv.org/abs/2412.15447v1](http://arxiv.org/abs/2412.15447v1)
 - 2024-12-19, **OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15208v1](http://arxiv.org/abs/2412.15208v1), Code: **[https://github.com/taco-group/openemma](https://github.com/taco-group/openemma)**
 - 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 - 2024-12-19, **Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**, Zijun Chen et.al., Paper: [http://arxiv.org/abs/2412.14660v1](http://arxiv.org/abs/2412.14660v1), Code: **[https://github.com/hfutml/calibration-mllm](https://github.com/hfutml/calibration-mllm)**
