@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
+- 2024-12-23, **Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**, Helia Mohamadi et.al., Paper: [http://arxiv.org/abs/2412.17325v1](http://arxiv.org/abs/2412.17325v1)
+- 2024-12-23, **OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**, Tianyi Yan et.al., Paper: [http://arxiv.org/abs/2412.17226v1](http://arxiv.org/abs/2412.17226v1)
+- 2024-12-22, **Unveiling the Potential of NOMA: A Journey to Next Generation Multiple Access**, Adeel Ahmed et.al., Paper: [http://arxiv.org/abs/2412.17160v1](http://arxiv.org/abs/2412.17160v1)
+- 2024-12-22, **NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.16955v1](http://arxiv.org/abs/2412.16955v1), Code: **[https://github.com/cgcl-codes/numbod](https://github.com/cgcl-codes/numbod)**
+- 2024-12-22, **Lightweight Design and Optimization methods for DCNNs: Progress and Futures**, Hanhua Long et.al., Paper: [http://arxiv.org/abs/2412.16886v1](http://arxiv.org/abs/2412.16886v1)
+- 2024-12-22, **Phase-change metasurfaces for reconfigurable image processing**, Tingting Liu et.al., Paper: [http://arxiv.org/abs/2412.16856v1](http://arxiv.org/abs/2412.16856v1)
+- 2024-12-21, **Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**, Iqra Aslam et.al., Paper: [http://arxiv.org/abs/2412.16764v1](http://arxiv.org/abs/2412.16764v1)
+- 2024-12-21, **A Method for the Runtime Validation of AI-based Environment Perception in Automated Driving System**, Iqra Aslam et.al., Paper: [http://arxiv.org/abs/2412.16762v1](http://arxiv.org/abs/2412.16762v1)
+- 2024-12-21, **Application of Multimodal Large Language Models in Autonomous Driving**, Md Robiul Islam et.al., Paper: [http://arxiv.org/abs/2412.16410v1](http://arxiv.org/abs/2412.16410v1)
 - 2024-12-20, **Camera-Based Localization and Enhanced Normalized Mutual Information**, Vishnu Teja Kunde et.al., Paper: [http://arxiv.org/abs/2412.16137v1](http://arxiv.org/abs/2412.16137v1)
 - 2024-12-20, **Sparse Point Clouds Assisted Learned Image Compression**, Yiheng Jiang et.al., Paper: [http://arxiv.org/abs/2412.15752v1](http://arxiv.org/abs/2412.15752v1)
 - 2024-12-20, **Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**, Yuzhi Wu et.al., Paper: [http://arxiv.org/abs/2412.15595v1](http://arxiv.org/abs/2412.15595v1)
