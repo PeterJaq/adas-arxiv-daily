@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
+- 2024-12-24, **GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**, Zhenzhou Jin et.al., Paper: [http://arxiv.org/abs/2412.18281v1](http://arxiv.org/abs/2412.18281v1)
+- 2024-12-24, **Toward an Automated, Proactive Safety Warning System Development for Truck Mounted Attenuators in Mobile Work Zones**, Xiang Yu et.al., Paper: [http://arxiv.org/abs/2412.18189v1](http://arxiv.org/abs/2412.18189v1)
+- 2024-12-24, **Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**, Suwesh Prasad Sah et.al., Paper: [http://arxiv.org/abs/2412.18165v1](http://arxiv.org/abs/2412.18165v1), Code: **[https://github.com/suwesh/parallel-perception-network](https://github.com/suwesh/parallel-perception-network)**
+- 2024-12-24, **Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**, Aizierjiang Aiersilan et.al., Paper: [http://arxiv.org/abs/2412.18086v1](http://arxiv.org/abs/2412.18086v1), Code: **[https://github.com/Ezharjan/AutoSceneGen](https://github.com/Ezharjan/AutoSceneGen)**
+- 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
+- 2024-12-23, **Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion**, Grigor Bezirganyan et.al., Paper: [http://arxiv.org/abs/2412.18024v1](http://arxiv.org/abs/2412.18024v1), Code: **[https://github.com/bezirganyan/DBF_uncertainty](https://github.com/bezirganyan/DBF_uncertainty)**
+- 2024-12-23, **More than Chit-Chat: Developing Robots for Small-Talk Interactions**, Rebecca Ramnauth et.al., Paper: [http://arxiv.org/abs/2412.18023v1](http://arxiv.org/abs/2412.18023v1)
+- 2024-12-23, **Causal Composition Diffusion Model for Closed-loop Traffic Generation**, Haohong Lin et.al., Paper: [http://arxiv.org/abs/2412.17920v1](http://arxiv.org/abs/2412.17920v1)
 - 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
 - 2024-12-23, **Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**, Helia Mohamadi et.al., Paper: [http://arxiv.org/abs/2412.17325v1](http://arxiv.org/abs/2412.17325v1)
 - 2024-12-23, **OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**, Tianyi Yan et.al., Paper: [http://arxiv.org/abs/2412.17226v1](http://arxiv.org/abs/2412.17226v1)
