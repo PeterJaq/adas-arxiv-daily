@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01886v1-b31b1b.svg)](http://arxiv.org/abs/2501.01886v1)|null|
+|**2025-01-03**|**Adverse Weather Conditions Augmentation of LiDAR Scenes with Latent Diffusion Models**|Andrea Matteazzi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01761v1-b31b1b.svg)](http://arxiv.org/abs/2501.01761v1)|null|
+|**2025-01-03**|**Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01710v1-b31b1b.svg)](http://arxiv.org/abs/2501.01710v1)|null|
+|**2025-01-03**|**Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**|Max T. M. Ng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01615v1-b31b1b.svg)](http://arxiv.org/abs/2501.01615v1)|null|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01037v1-b31b1b.svg)](http://arxiv.org/abs/2501.01037v1)|null|
 |**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00601v1-b31b1b.svg)](http://arxiv.org/abs/2501.00601v1)|null|
 |**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00584v1-b31b1b.svg)](http://arxiv.org/abs/2501.00584v1)|null|
