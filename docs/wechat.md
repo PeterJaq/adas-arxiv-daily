@@ -1,4 +1,4 @@
-> Updated on 2025.01.06
+> Updated on 2025.01.07
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@
 - 2024-12-31, **DreamDrive: Generative 4D Scene Modeling from Street View Images**, Jiageng Mao et.al., Paper: [http://arxiv.org/abs/2501.00601v1](http://arxiv.org/abs/2501.00601v1)
 - 2024-12-31, **Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**, Zhenpeng Huang et.al., Paper: [http://arxiv.org/abs/2501.00584v1](http://arxiv.org/abs/2501.00584v1)
 - 2024-12-31, **Toward Information Theoretic Active Inverse Reinforcement Learning**, Ondrej Bajgar et.al., Paper: [http://arxiv.org/abs/2501.00381v1](http://arxiv.org/abs/2501.00381v1)
-- 2024-12-31, **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**, Haibo Tong et.al., Paper: [http://arxiv.org/abs/2501.00320v1](http://arxiv.org/abs/2501.00320v1)
+- 2024-12-31, **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**, Haibo Tong et.al., Paper: [http://arxiv.org/abs/2501.00320v1](http://arxiv.org/abs/2501.00320v1), Code: **[https://github.com/braincog-x/brain-cog](https://github.com/braincog-x/brain-cog)**
 - 2024-12-31, **Research on vehicle detection based on improved YOLOv8 network**, Haocheng Guo et.al., Paper: [http://arxiv.org/abs/2501.00300v1](http://arxiv.org/abs/2501.00300v1)
 - 2024-12-31, **Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**, Hany Ragab et.al., Paper: [http://arxiv.org/abs/2501.00242v1](http://arxiv.org/abs/2501.00242v1)
 - 2024-12-31, **DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**, Zixuan Yin et.al., Paper: [http://arxiv.org/abs/2501.00220v1](http://arxiv.org/abs/2501.00220v1)

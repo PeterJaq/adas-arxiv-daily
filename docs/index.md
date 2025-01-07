@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 
 ## Autonomous_Driving
 
@@ -16,7 +16,7 @@ layout: default
 |**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00601v1-b31b1b.svg)](http://arxiv.org/abs/2501.00601v1)|null|
 |**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00584v1-b31b1b.svg)](http://arxiv.org/abs/2501.00584v1)|null|
 |**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00381v1-b31b1b.svg)](http://arxiv.org/abs/2501.00381v1)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|null|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braincog-x/brain-cog)**|
 |**2024-12-31**|**Research on vehicle detection based on improved YOLOv8 network**|Haocheng Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00300v1-b31b1b.svg)](http://arxiv.org/abs/2501.00300v1)|null|
 |**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00242v1-b31b1b.svg)](http://arxiv.org/abs/2501.00242v1)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00220v1-b31b1b.svg)](http://arxiv.org/abs/2501.00220v1)|null|
