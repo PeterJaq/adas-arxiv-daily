@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-01-06, **MObI: Multimodal Object Inpainting Using Diffusion Models**, Alexandru Buburuzan et.al., Paper: [http://arxiv.org/abs/2501.03173v1](http://arxiv.org/abs/2501.03173v1)
+- 2025-01-06, **4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**, Jiexi Zhong et.al., Paper: [http://arxiv.org/abs/2501.02937v1](http://arxiv.org/abs/2501.02937v1)
+- 2025-01-06, **A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**, Toomas Tahves et.al., Paper: [http://arxiv.org/abs/2501.02858v1](http://arxiv.org/abs/2501.02858v1)
+- 2025-01-06, **LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**, Deguo Xia et.al., Paper: [http://arxiv.org/abs/2501.02763v1](http://arxiv.org/abs/2501.02763v1)
+- 2025-01-05, **UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2501.02530v1](http://arxiv.org/abs/2501.02530v1)
+- 2025-01-05, **GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**, Yihang Tao et.al., Paper: [http://arxiv.org/abs/2501.02450v1](http://arxiv.org/abs/2501.02450v1)
+- 2025-01-04, **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**, Liye Jia et.al., Paper: [http://arxiv.org/abs/2501.02314v1](http://arxiv.org/abs/2501.02314v1)
 - 2025-01-03, **Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**, Zhen Tian et.al., Paper: [http://arxiv.org/abs/2501.01886v1](http://arxiv.org/abs/2501.01886v1)
 - 2025-01-03, **Adverse Weather Conditions Augmentation of LiDAR Scenes with Latent Diffusion Models**, Andrea Matteazzi et.al., Paper: [http://arxiv.org/abs/2501.01761v1](http://arxiv.org/abs/2501.01761v1)
 - 2025-01-03, **Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2501.01710v1](http://arxiv.org/abs/2501.01710v1)
