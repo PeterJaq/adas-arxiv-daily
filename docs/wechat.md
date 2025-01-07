@@ -7,7 +7,7 @@
 - 2025-01-03, **Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2501.01710v1](http://arxiv.org/abs/2501.01710v1)
 - 2025-01-03, **Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**, Max T. M. Ng et.al., Paper: [http://arxiv.org/abs/2501.01615v1](http://arxiv.org/abs/2501.01615v1)
 - 2025-01-02, **MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2501.01037v1](http://arxiv.org/abs/2501.01037v1)
-- 2024-12-31, **DreamDrive: Generative 4D Scene Modeling from Street View Images**, Jiageng Mao et.al., Paper: [http://arxiv.org/abs/2501.00601v1](http://arxiv.org/abs/2501.00601v1)
+- 2025-01-03, **DreamDrive: Generative 4D Scene Modeling from Street View Images**, Jiageng Mao et.al., Paper: [http://arxiv.org/abs/2501.00601v2](http://arxiv.org/abs/2501.00601v2)
 - 2024-12-31, **Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**, Zhenpeng Huang et.al., Paper: [http://arxiv.org/abs/2501.00584v1](http://arxiv.org/abs/2501.00584v1)
 - 2024-12-31, **Toward Information Theoretic Active Inverse Reinforcement Learning**, Ondrej Bajgar et.al., Paper: [http://arxiv.org/abs/2501.00381v1](http://arxiv.org/abs/2501.00381v1)
 - 2024-12-31, **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**, Haibo Tong et.al., Paper: [http://arxiv.org/abs/2501.00320v1](http://arxiv.org/abs/2501.00320v1), Code: **[https://github.com/braincog-x/brain-cog](https://github.com/braincog-x/brain-cog)**
