@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04437v1-b31b1b.svg)](http://arxiv.org/abs/2501.04437v1)|null|
+|**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04373v1-b31b1b.svg)](http://arxiv.org/abs/2501.04373v1)|null|
+|**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04302v1-b31b1b.svg)](http://arxiv.org/abs/2501.04302v1)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04005v1-b31b1b.svg)](http://arxiv.org/abs/2501.04005v1)|null|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03765v1-b31b1b.svg)](http://arxiv.org/abs/2501.03765v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
