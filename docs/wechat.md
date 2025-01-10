@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-01-09, **The global consensus on the risk management of autonomous driving**, Sebastian Krügel et.al., Paper: [http://arxiv.org/abs/2501.05391v1](http://arxiv.org/abs/2501.05391v1)
+- 2025-01-09, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v1](http://arxiv.org/abs/2501.05322v1)
+- 2025-01-09, **Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**, Shishir Muralidhara et.al., Paper: [http://arxiv.org/abs/2501.05246v1](http://arxiv.org/abs/2501.05246v1)
+- 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
+- 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
+- 2025-01-09, **DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**, Xuran Zheng et.al., Paper: [http://arxiv.org/abs/2501.05081v1](http://arxiv.org/abs/2501.05081v1)
+- 2025-01-09, **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**, Zengqi Peng et.al., Paper: [http://arxiv.org/abs/2501.05057v1](http://arxiv.org/abs/2501.05057v1)
+- 2025-01-09, **CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**, Bhargava Uppuluri et.al., Paper: [http://arxiv.org/abs/2501.04982v1](http://arxiv.org/abs/2501.04982v1)
+- 2025-01-09, **AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2501.04969v1](http://arxiv.org/abs/2501.04969v1)
+- 2025-01-09, **MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**, Hojun Lim et.al., Paper: [http://arxiv.org/abs/2501.04950v1](http://arxiv.org/abs/2501.04950v1)
 - 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-08, **FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**, Guoxin Zhang et.al., Paper: [http://arxiv.org/abs/2501.04373v1](http://arxiv.org/abs/2501.04373v1)
 - 2025-01-08, **H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**, Siran Chen et.al., Paper: [http://arxiv.org/abs/2501.04302v1](http://arxiv.org/abs/2501.04302v1)
