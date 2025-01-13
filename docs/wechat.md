@@ -1,4 +1,4 @@
-> Updated on 2025.01.12
+> Updated on 2025.01.13
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@
 - 2025-01-09, **DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**, Xuran Zheng et.al., Paper: [http://arxiv.org/abs/2501.05081v1](http://arxiv.org/abs/2501.05081v1)
 - 2025-01-09, **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**, Zengqi Peng et.al., Paper: [http://arxiv.org/abs/2501.05057v1](http://arxiv.org/abs/2501.05057v1)
 - 2025-01-09, **CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**, Bhargava Uppuluri et.al., Paper: [http://arxiv.org/abs/2501.04982v1](http://arxiv.org/abs/2501.04982v1)
-- 2025-01-09, **AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2501.04969v1](http://arxiv.org/abs/2501.04969v1)
+- 2025-01-09, **AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2501.04969v1](http://arxiv.org/abs/2501.04969v1), Code: **[https://github.com/haoranzhuexplorer/ad-l-jepa-release](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**
 - 2025-01-09, **MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**, Hojun Lim et.al., Paper: [http://arxiv.org/abs/2501.04950v1](http://arxiv.org/abs/2501.04950v1)
 - 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-08, **FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**, Guoxin Zhang et.al., Paper: [http://arxiv.org/abs/2501.04373v1](http://arxiv.org/abs/2501.04373v1)

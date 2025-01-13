@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 
 ## Autonomous_Driving
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-01-09**|**DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**|Xuran Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05081v1-b31b1b.svg)](http://arxiv.org/abs/2501.05081v1)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05057v1-b31b1b.svg)](http://arxiv.org/abs/2501.05057v1)|null|
 |**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04982v1-b31b1b.svg)](http://arxiv.org/abs/2501.04982v1)|null|
-|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04969v1-b31b1b.svg)](http://arxiv.org/abs/2501.04969v1)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04969v1-b31b1b.svg)](http://arxiv.org/abs/2501.04969v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**|
 |**2025-01-09**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**|Hojun Lim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04950v1-b31b1b.svg)](http://arxiv.org/abs/2501.04950v1)|null|
 |**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04437v1-b31b1b.svg)](http://arxiv.org/abs/2501.04437v1)|null|
 |**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04373v1-b31b1b.svg)](http://arxiv.org/abs/2501.04373v1)|null|
