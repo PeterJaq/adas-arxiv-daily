@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06113v1-b31b1b.svg)](http://arxiv.org/abs/2501.06113v1)|null|
+|**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05997v1-b31b1b.svg)](http://arxiv.org/abs/2501.05997v1)|null|
+|**2025-01-10**|**Automating Care by Self-maintainability for Full Laboratory Automation**|Koji Ochiai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05789v1-b31b1b.svg)](http://arxiv.org/abs/2501.05789v1)|null|
+|**2025-01-10**|**TB-Bench: Training and Testing Multi-Modal AI for Understanding Spatio-Temporal Traffic Behaviors from Dashcam Images/Videos**|Korawat Charoenpitaks et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05733v1-b31b1b.svg)](http://arxiv.org/abs/2501.05733v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tb-ad/tb-bench-110k-250k)**|
+|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05566v1-b31b1b.svg)](http://arxiv.org/abs/2501.05566v1)|null|
 |**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05391v1-b31b1b.svg)](http://arxiv.org/abs/2501.05391v1)|null|
 |**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05322v1-b31b1b.svg)](http://arxiv.org/abs/2501.05322v1)|null|
 |**2025-01-09**|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05246v1-b31b1b.svg)](http://arxiv.org/abs/2501.05246v1)|null|

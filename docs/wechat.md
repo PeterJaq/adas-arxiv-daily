@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
+- 2025-01-10, **Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**, Sanjay Kumar et.al., Paper: [http://arxiv.org/abs/2501.05997v1](http://arxiv.org/abs/2501.05997v1)
+- 2025-01-10, **Automating Care by Self-maintainability for Full Laboratory Automation**, Koji Ochiai et.al., Paper: [http://arxiv.org/abs/2501.05789v1](http://arxiv.org/abs/2501.05789v1)
+- 2025-01-10, **TB-Bench: Training and Testing Multi-Modal AI for Understanding Spatio-Temporal Traffic Behaviors from Dashcam Images/Videos**, Korawat Charoenpitaks et.al., Paper: [http://arxiv.org/abs/2501.05733v1](http://arxiv.org/abs/2501.05733v1), Code: **[https://github.com/tb-ad/tb-bench-110k-250k](https://github.com/tb-ad/tb-bench-110k-250k)**
+- 2025-01-09, **Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**, Mohammed Elhenawy et.al., Paper: [http://arxiv.org/abs/2501.05566v1](http://arxiv.org/abs/2501.05566v1)
 - 2025-01-09, **The global consensus on the risk management of autonomous driving**, Sebastian Krügel et.al., Paper: [http://arxiv.org/abs/2501.05391v1](http://arxiv.org/abs/2501.05391v1)
 - 2025-01-09, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v1](http://arxiv.org/abs/2501.05322v1)
 - 2025-01-09, **Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**, Shishir Muralidhara et.al., Paper: [http://arxiv.org/abs/2501.05246v1](http://arxiv.org/abs/2501.05246v1)
