@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07546v1-b31b1b.svg)](http://arxiv.org/abs/2501.07546v1)|null|
+|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07259v1-b31b1b.svg)](http://arxiv.org/abs/2501.07259v1)|null|
+|**2025-01-13**|**Explore the Use of Time Series Foundation Model for Car-Following Behavior Analysis**|Luwei Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07034v1-b31b1b.svg)](http://arxiv.org/abs/2501.07034v1)|null|
+|**2025-01-13**|**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**|Mozhgan Nasr Azadani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06986v1-b31b1b.svg)](http://arxiv.org/abs/2501.06986v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mozhgan91/leo)**|
+|**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06680v1-b31b1b.svg)](http://arxiv.org/abs/2501.06680v1)|null|
+|**2025-01-11**|**Common Sense Is All You Need**|Hugo Latapie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06642v1-b31b1b.svg)](http://arxiv.org/abs/2501.06642v1)|null|
 |**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06113v1-b31b1b.svg)](http://arxiv.org/abs/2501.06113v1)|null|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05997v1-b31b1b.svg)](http://arxiv.org/abs/2501.05997v1)|null|
 |**2025-01-10**|**Automating Care by Self-maintainability for Full Laboratory Automation**|Koji Ochiai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05789v1-b31b1b.svg)](http://arxiv.org/abs/2501.05789v1)|null|
