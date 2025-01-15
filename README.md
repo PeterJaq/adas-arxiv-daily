@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Decoding Interpretable Logic Rules from Neural Networks**|Chuqin Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08281v1-b31b1b.svg)](http://arxiv.org/abs/2501.08281v1)|null|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08168v1-b31b1b.svg)](http://arxiv.org/abs/2501.08168v1)|null|
+|**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
+|**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07988v1-b31b1b.svg)](http://arxiv.org/abs/2501.07988v1)|null|
+|**2025-01-14**|**A Low-cost and Ultra-lightweight Binary Neural Network for Traffic Signal Recognition**|Mingke Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07808v1-b31b1b.svg)](http://arxiv.org/abs/2501.07808v1)|null|
+|**2025-01-14**|**HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**|Yiming Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07767v1-b31b1b.svg)](http://arxiv.org/abs/2501.07767v1)|null|
 |**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07546v1-b31b1b.svg)](http://arxiv.org/abs/2501.07546v1)|null|
 |**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07259v1-b31b1b.svg)](http://arxiv.org/abs/2501.07259v1)|null|
 |**2025-01-13**|**Explore the Use of Time Series Foundation Model for Car-Following Behavior Analysis**|Luwei Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07034v1-b31b1b.svg)](http://arxiv.org/abs/2501.07034v1)|null|

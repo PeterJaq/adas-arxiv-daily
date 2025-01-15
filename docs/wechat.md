@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-01-14, **Decoding Interpretable Logic Rules from Neural Networks**, Chuqin Geng et.al., Paper: [http://arxiv.org/abs/2501.08281v1](http://arxiv.org/abs/2501.08281v1)
+- 2025-01-14, **LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2501.08168v1](http://arxiv.org/abs/2501.08168v1)
+- 2025-01-14, **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2501.08096v1](http://arxiv.org/abs/2501.08096v1)
+- 2025-01-14, **GAC-Net_Geometric and attention-based Network for Depth Completion**, Kuang Zhu et.al., Paper: [http://arxiv.org/abs/2501.07988v1](http://arxiv.org/abs/2501.07988v1)
+- 2025-01-14, **A Low-cost and Ultra-lightweight Binary Neural Network for Traffic Signal Recognition**, Mingke Xiao et.al., Paper: [http://arxiv.org/abs/2501.07808v1](http://arxiv.org/abs/2501.07808v1)
+- 2025-01-14, **HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**, Yiming Gao et.al., Paper: [http://arxiv.org/abs/2501.07767v1](http://arxiv.org/abs/2501.07767v1)
 - 2025-01-13, **Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**, Janet Sheung et.al., Paper: [http://arxiv.org/abs/2501.07546v1](http://arxiv.org/abs/2501.07546v1)
 - 2025-01-13, **PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**, Zhuo Xu et.al., Paper: [http://arxiv.org/abs/2501.07259v1](http://arxiv.org/abs/2501.07259v1)
 - 2025-01-13, **Explore the Use of Time Series Foundation Model for Car-Following Behavior Analysis**, Luwei Zeng et.al., Paper: [http://arxiv.org/abs/2501.07034v1](http://arxiv.org/abs/2501.07034v1)
