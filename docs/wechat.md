@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
-- 2025-01-15, **BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**, Dongzhihan Wang et.al., Paper: [http://arxiv.org/abs/2501.08659v1](http://arxiv.org/abs/2501.08659v1)
+- 2025-01-16, **BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**, Dongzhihan Wang et.al., Paper: [http://arxiv.org/abs/2501.08659v2](http://arxiv.org/abs/2501.08659v2)
 - 2025-01-14, **Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**, Leyla A. Kabuli et.al., Paper: [http://arxiv.org/abs/2501.08495v1](http://arxiv.org/abs/2501.08495v1)
 - 2025-01-14, **Decoding Interpretable Logic Rules from Neural Networks**, Chuqin Geng et.al., Paper: [http://arxiv.org/abs/2501.08281v1](http://arxiv.org/abs/2501.08281v1)
 - 2025-01-14, **LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2501.08168v1](http://arxiv.org/abs/2501.08168v1)
