@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-01-17, **MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2501.10266v1](http://arxiv.org/abs/2501.10266v1)
+- 2025-01-17, **Explainable artificial intelligence (XAI): from inherent explainability to large language models**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2501.09967v1](http://arxiv.org/abs/2501.09967v1)
+- 2025-01-16, **Fine-grained Testing for Autonomous Driving Software: a Study on Autoware with LLM-driven Unit Testing**, Wenhan Wang et.al., Paper: [http://arxiv.org/abs/2501.09866v1](http://arxiv.org/abs/2501.09866v1)
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
 - 2025-01-16, **Thermodynamics of coherent energy exchanges between lasers and two-level systems**, Ariane Soret et.al., Paper: [http://arxiv.org/abs/2501.09625v1](http://arxiv.org/abs/2501.09625v1)
 - 2025-01-16, **The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**, Wonjun Jo et.al., Paper: [http://arxiv.org/abs/2501.09485v1](http://arxiv.org/abs/2501.09485v1)
