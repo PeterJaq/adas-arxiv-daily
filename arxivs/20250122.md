@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12296v1-b31b1b.svg)](http://arxiv.org/abs/2501.12296v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiachengzuo/ralad)**|
+|**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12246v1-b31b1b.svg)](http://arxiv.org/abs/2501.12246v1)|null|
+|**2025-01-21**|**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**|Uri Gadot et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12216v1-b31b1b.svg)](http://arxiv.org/abs/2501.12216v1)|null|
+|**2025-01-21**|**Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**|Jiahao Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12040v1-b31b1b.svg)](http://arxiv.org/abs/2501.12040v1)|null|
+|**2025-01-21**|**Make Full Use of Testing Information: An Integrated Accelerated Testing and Evaluation Method for Autonomous Driving Systems**|Xinzheng Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11924v1-b31b1b.svg)](http://arxiv.org/abs/2501.11924v1)|null|
+|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11841v1-b31b1b.svg)](http://arxiv.org/abs/2501.11841v1)|null|
+|**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11260v1-b31b1b.svg)](http://arxiv.org/abs/2501.11260v1)|null|
+|**2025-01-19**|**Car-GS: Addressing Reflective and Transparent Surface Challenges in 3D Car Reconstruction**|Congcong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11020v1-b31b1b.svg)](http://arxiv.org/abs/2501.11020v1)|null|
+|**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10636v1-b31b1b.svg)](http://arxiv.org/abs/2501.10636v1)|null|
+|**2025-01-18**|**Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10625v1-b31b1b.svg)](http://arxiv.org/abs/2501.10625v1)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10266v1-b31b1b.svg)](http://arxiv.org/abs/2501.10266v1)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09967v1-b31b1b.svg)](http://arxiv.org/abs/2501.09967v1)|null|
 |**2025-01-16**|**Fine-grained Testing for Autonomous Driving Software: a Study on Autoware with LLM-driven Unit Testing**|Wenhan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09866v1-b31b1b.svg)](http://arxiv.org/abs/2501.09866v1)|null|
