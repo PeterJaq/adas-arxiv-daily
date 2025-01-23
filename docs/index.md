@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13072v1-b31b1b.svg)](http://arxiv.org/abs/2501.13072v1)|null|
+|**2025-01-22**|**Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**|Xiaolei Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12799v1-b31b1b.svg)](http://arxiv.org/abs/2501.12799v1)|null|
+|**2025-01-22**|**PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**|Qiong Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12656v1-b31b1b.svg)](http://arxiv.org/abs/2501.12656v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**|
+|**2025-01-22**|**Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**|Sigma Jahan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12560v1-b31b1b.svg)](http://arxiv.org/abs/2501.12560v1)|null|
 |**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12296v1-b31b1b.svg)](http://arxiv.org/abs/2501.12296v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiachengzuo/ralad)**|
 |**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12246v1-b31b1b.svg)](http://arxiv.org/abs/2501.12246v1)|null|
 |**2025-01-21**|**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**|Uri Gadot et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12216v1-b31b1b.svg)](http://arxiv.org/abs/2501.12216v1)|null|

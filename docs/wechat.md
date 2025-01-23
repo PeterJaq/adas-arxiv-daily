@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-01-22, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v1](http://arxiv.org/abs/2501.13072v1)
+- 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
+- 2025-01-22, **PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2501.12656v1](http://arxiv.org/abs/2501.12656v1), Code: **[https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**
+- 2025-01-22, **Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**, Sigma Jahan et.al., Paper: [http://arxiv.org/abs/2501.12560v1](http://arxiv.org/abs/2501.12560v1)
 - 2025-01-21, **RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**, Jiacheng Zuo et.al., Paper: [http://arxiv.org/abs/2501.12296v1](http://arxiv.org/abs/2501.12296v1), Code: **[https://github.com/jiachengzuo/ralad](https://github.com/jiachengzuo/ralad)**
 - 2025-01-21, **Video Deblurring by Sharpness Prior Detection and Edge Information**, Yang Tian et.al., Paper: [http://arxiv.org/abs/2501.12246v1](http://arxiv.org/abs/2501.12246v1)
 - 2025-01-21, **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**, Uri Gadot et.al., Paper: [http://arxiv.org/abs/2501.12216v1](http://arxiv.org/abs/2501.12216v1)
