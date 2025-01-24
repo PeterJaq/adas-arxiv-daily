@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2025-01-22, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v1](http://arxiv.org/abs/2501.13072v1)
+- 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 - 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
 - 2025-01-22, **PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2501.12656v1](http://arxiv.org/abs/2501.12656v1), Code: **[https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**
 - 2025-01-22, **Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**, Sigma Jahan et.al., Paper: [http://arxiv.org/abs/2501.12560v1](http://arxiv.org/abs/2501.12560v1)
