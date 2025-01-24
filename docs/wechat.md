@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-01-23, **Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**, Lu Wang et.al., Paper: [http://arxiv.org/abs/2501.13563v1](http://arxiv.org/abs/2501.13563v1)
+- 2025-01-23, **Text-driven Online Action Detection**, Manuel Benavent-Lledo et.al., Paper: [http://arxiv.org/abs/2501.13518v1](http://arxiv.org/abs/2501.13518v1), Code: **[https://github.com/3dperceptionlab/toad](https://github.com/3dperceptionlab/toad)**
+- 2025-01-23, **Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**, Huilin Yin et.al., Paper: [http://arxiv.org/abs/2501.13461v1](http://arxiv.org/abs/2501.13461v1)
+- 2025-01-23, **GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**, Jaewon Lee et.al., Paper: [http://arxiv.org/abs/2501.13417v1](http://arxiv.org/abs/2501.13417v1)
+- 2025-01-22, **QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks**, Naman Jain et.al., Paper: [http://arxiv.org/abs/2501.13165v1](http://arxiv.org/abs/2501.13165v1)
 - 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 - 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
 - 2025-01-22, **PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2501.12656v1](http://arxiv.org/abs/2501.12656v1), Code: **[https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**

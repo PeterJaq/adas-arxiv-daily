@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**|Lu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13563v1-b31b1b.svg)](http://arxiv.org/abs/2501.13563v1)|null|
+|**2025-01-23**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13518v1-b31b1b.svg)](http://arxiv.org/abs/2501.13518v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3dperceptionlab/toad)**|
+|**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13461v1-b31b1b.svg)](http://arxiv.org/abs/2501.13461v1)|null|
+|**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13417v1-b31b1b.svg)](http://arxiv.org/abs/2501.13417v1)|null|
+|**2025-01-22**|**QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks**|Naman Jain et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13165v1-b31b1b.svg)](http://arxiv.org/abs/2501.13165v1)|null|
 |**2025-01-23**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13072v2-b31b1b.svg)](http://arxiv.org/abs/2501.13072v2)|null|
 |**2025-01-22**|**Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**|Xiaolei Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12799v1-b31b1b.svg)](http://arxiv.org/abs/2501.12799v1)|null|
 |**2025-01-22**|**PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**|Qiong Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12656v1-b31b1b.svg)](http://arxiv.org/abs/2501.12656v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**|
