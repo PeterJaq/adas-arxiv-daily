@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-01-27, **Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**, Arsalan Ali Malik et.al., Paper: [http://arxiv.org/abs/2501.16217v1](http://arxiv.org/abs/2501.16217v1)
+- 2025-01-27, **Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**, Anh-Kiet Duong et.al., Paper: [http://arxiv.org/abs/2501.16037v1](http://arxiv.org/abs/2501.16037v1), Code: **[https://github.com/ffyyytt/coool_2025](https://github.com/ffyyytt/coool_2025)**
+- 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
+- 2025-01-26, **Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**, Yinan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15564v1](http://arxiv.org/abs/2501.15564v1)
+- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
+- 2025-01-26, **Mitigating Spurious Negative Pairs for Robust Industrial Anomaly Detection**, Hossein Mirzaei et.al., Paper: [http://arxiv.org/abs/2501.15434v1](http://arxiv.org/abs/2501.15434v1)
+- 2025-01-26, **The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**, Raha Aghaei et.al., Paper: [http://arxiv.org/abs/2501.15411v1](http://arxiv.org/abs/2501.15411v1)
+- 2025-01-26, **Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**, Lianqing Zheng et.al., Paper: [http://arxiv.org/abs/2501.15394v1](http://arxiv.org/abs/2501.15394v1)
+- 2025-01-26, **MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies**, Long Yang et.al., Paper: [http://arxiv.org/abs/2501.15384v1](http://arxiv.org/abs/2501.15384v1), Code: **[https://github.com/lucasyang567/metaocc](https://github.com/lucasyang567/metaocc)**
+- 2025-01-24, **AI-driven Wireless Positioning: Fundamentals, Standards, State-of-the-art, and Challenges**, Guangjin Pan et.al., Paper: [http://arxiv.org/abs/2501.14970v1](http://arxiv.org/abs/2501.14970v1)
 - 2025-01-24, **HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2501.14729v1](http://arxiv.org/abs/2501.14729v1), Code: **[https://github.com/lmd0311/hermes](https://github.com/lmd0311/hermes)**
 - 2025-01-24, **3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**, Jules Sanchez et.al., Paper: [http://arxiv.org/abs/2501.14605v1](http://arxiv.org/abs/2501.14605v1), Code: **[https://github.com/julessanchez/3dlabelprop](https://github.com/julessanchez/3dlabelprop)**
 - 2025-01-24, **Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**, Faiz Muhammad Chaudhry et.al., Paper: [http://arxiv.org/abs/2501.14510v1](http://arxiv.org/abs/2501.14510v1)
