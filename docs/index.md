@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14729v1-b31b1b.svg)](http://arxiv.org/abs/2501.14729v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmd0311/hermes)**|
-|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14605v1-b31b1b.svg)](http://arxiv.org/abs/2501.14605v1)|null|
+|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14605v1-b31b1b.svg)](http://arxiv.org/abs/2501.14605v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julessanchez/3dlabelprop)**|
 |**2025-01-24**|**Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**|Faiz Muhammad Chaudhry et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14510v1-b31b1b.svg)](http://arxiv.org/abs/2501.14510v1)|null|
 |**2025-01-24**|**MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**|Linfeng Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14451v1-b31b1b.svg)](http://arxiv.org/abs/2501.14451v1)|null|
 |**2025-01-24**|**Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**|Yile Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14170v1-b31b1b.svg)](http://arxiv.org/abs/2501.14170v1)|null|

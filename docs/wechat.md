@@ -1,9 +1,9 @@
-> Updated on 2025.01.27
+> Updated on 2025.01.28
 
 ## Autonomous_Driving
 
 - 2025-01-24, **HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2501.14729v1](http://arxiv.org/abs/2501.14729v1), Code: **[https://github.com/lmd0311/hermes](https://github.com/lmd0311/hermes)**
-- 2025-01-24, **3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**, Jules Sanchez et.al., Paper: [http://arxiv.org/abs/2501.14605v1](http://arxiv.org/abs/2501.14605v1)
+- 2025-01-24, **3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**, Jules Sanchez et.al., Paper: [http://arxiv.org/abs/2501.14605v1](http://arxiv.org/abs/2501.14605v1), Code: **[https://github.com/julessanchez/3dlabelprop](https://github.com/julessanchez/3dlabelprop)**
 - 2025-01-24, **Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**, Faiz Muhammad Chaudhry et.al., Paper: [http://arxiv.org/abs/2501.14510v1](http://arxiv.org/abs/2501.14510v1)
 - 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
 - 2025-01-24, **Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**, Yile Gu et.al., Paper: [http://arxiv.org/abs/2501.14170v1](http://arxiv.org/abs/2501.14170v1)
