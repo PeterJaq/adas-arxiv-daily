@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17664v1-b31b1b.svg)](http://arxiv.org/abs/2501.17664v1)|null|
+|**2025-01-29**|**An eco-driving approach for ride comfort improvement**|Óscar Mata-Carballeira et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17658v1-b31b1b.svg)](http://arxiv.org/abs/2501.17658v1)|null|
+|**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17329v1-b31b1b.svg)](http://arxiv.org/abs/2501.17329v1)|null|
+|**2025-01-28**|**A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**|Hossein Mirzaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17289v1-b31b1b.svg)](http://arxiv.org/abs/2501.17289v1)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17131v1-b31b1b.svg)](http://arxiv.org/abs/2501.17131v1)|null|
 |**2025-01-28**|**Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework**|Longzhong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17015v1-b31b1b.svg)](http://arxiv.org/abs/2501.17015v1)|null|
 |**2025-01-28**|**The Third Moment of AI Ethics: Developing Relatable and Contextualized Tools**|Sarah Hladikova et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.16954v1-b31b1b.svg)](http://arxiv.org/abs/2501.16954v1)|null|

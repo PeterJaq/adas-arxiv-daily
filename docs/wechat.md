@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-01-29, **Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**, Estibaliz Asua et.al., Paper: [http://arxiv.org/abs/2501.17664v1](http://arxiv.org/abs/2501.17664v1)
+- 2025-01-29, **An eco-driving approach for ride comfort improvement**, Óscar Mata-Carballeira et.al., Paper: [http://arxiv.org/abs/2501.17658v1](http://arxiv.org/abs/2501.17658v1)
+- 2025-01-28, **Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**, Ashish Bastola et.al., Paper: [http://arxiv.org/abs/2501.17329v1](http://arxiv.org/abs/2501.17329v1)
+- 2025-01-28, **A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**, Hossein Mirzaei et.al., Paper: [http://arxiv.org/abs/2501.17289v1](http://arxiv.org/abs/2501.17289v1)
 - 2025-01-28, **Scenario Understanding of Traffic Scenes Through Large Visual Language Models**, Rivera Esteban et.al., Paper: [http://arxiv.org/abs/2501.17131v1](http://arxiv.org/abs/2501.17131v1)
 - 2025-01-28, **Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework**, Longzhong Lin et.al., Paper: [http://arxiv.org/abs/2501.17015v1](http://arxiv.org/abs/2501.17015v1)
 - 2025-01-28, **The Third Moment of AI Ethics: Developing Relatable and Contextualized Tools**, Sarah Hladikova et.al., Paper: [http://arxiv.org/abs/2501.16954v1](http://arxiv.org/abs/2501.16954v1)
