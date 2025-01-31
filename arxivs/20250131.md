@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18162v1-b31b1b.svg)](http://arxiv.org/abs/2501.18162v1)|null|
+|**2025-01-30**|**DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**|Se-Wook Yoo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18086v1-b31b1b.svg)](http://arxiv.org/abs/2501.18086v1)|null|
+|**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17977v1-b31b1b.svg)](http://arxiv.org/abs/2501.17977v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radar-lab/transrad)**|
 |**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17664v1-b31b1b.svg)](http://arxiv.org/abs/2501.17664v1)|null|
 |**2025-01-29**|**An eco-driving approach for ride comfort improvement**|Óscar Mata-Carballeira et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17658v1-b31b1b.svg)](http://arxiv.org/abs/2501.17658v1)|null|
 |**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17329v1-b31b1b.svg)](http://arxiv.org/abs/2501.17329v1)|null|

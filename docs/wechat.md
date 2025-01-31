@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-01-30, **IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2501.18162v1](http://arxiv.org/abs/2501.18162v1)
+- 2025-01-30, **DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2501.18086v1](http://arxiv.org/abs/2501.18086v1)
+- 2025-01-29, **TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**, Lei Cheng et.al., Paper: [http://arxiv.org/abs/2501.17977v1](http://arxiv.org/abs/2501.17977v1), Code: **[https://github.com/radar-lab/transrad](https://github.com/radar-lab/transrad)**
 - 2025-01-29, **Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**, Estibaliz Asua et.al., Paper: [http://arxiv.org/abs/2501.17664v1](http://arxiv.org/abs/2501.17664v1)
 - 2025-01-29, **An eco-driving approach for ride comfort improvement**, Óscar Mata-Carballeira et.al., Paper: [http://arxiv.org/abs/2501.17658v1](http://arxiv.org/abs/2501.17658v1)
 - 2025-01-28, **Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**, Ashish Bastola et.al., Paper: [http://arxiv.org/abs/2501.17329v1](http://arxiv.org/abs/2501.17329v1)
