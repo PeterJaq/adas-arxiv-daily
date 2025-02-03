@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.19070v1-b31b1b.svg)](http://arxiv.org/abs/2501.19070v1)|null|
+|**2025-01-31**|**SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**|Javier Montalvo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.19035v1-b31b1b.svg)](http://arxiv.org/abs/2501.19035v1)|null|
+|**2025-01-31**|**Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo**|Hee-Yang Jung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18942v1-b31b1b.svg)](http://arxiv.org/abs/2501.18942v1)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18162v1-b31b1b.svg)](http://arxiv.org/abs/2501.18162v1)|null|
 |**2025-01-30**|**DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**|Se-Wook Yoo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18086v1-b31b1b.svg)](http://arxiv.org/abs/2501.18086v1)|null|
 |**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.17977v1-b31b1b.svg)](http://arxiv.org/abs/2501.17977v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radar-lab/transrad)**|

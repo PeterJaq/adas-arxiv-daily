@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-01-31, **Quantum Internet Use Case Analysis for the Automotive Industry**, K. L. van der Enden et.al., Paper: [http://arxiv.org/abs/2501.19070v1](http://arxiv.org/abs/2501.19070v1)
+- 2025-01-31, **SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**, Javier Montalvo et.al., Paper: [http://arxiv.org/abs/2501.19035v1](http://arxiv.org/abs/2501.19035v1)
+- 2025-01-31, **Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo**, Hee-Yang Jung et.al., Paper: [http://arxiv.org/abs/2501.18942v1](http://arxiv.org/abs/2501.18942v1)
 - 2025-01-30, **IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2501.18162v1](http://arxiv.org/abs/2501.18162v1)
 - 2025-01-30, **DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2501.18086v1](http://arxiv.org/abs/2501.18086v1)
 - 2025-01-29, **TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**, Lei Cheng et.al., Paper: [http://arxiv.org/abs/2501.17977v1](http://arxiv.org/abs/2501.17977v1), Code: **[https://github.com/radar-lab/transrad](https://github.com/radar-lab/transrad)**
