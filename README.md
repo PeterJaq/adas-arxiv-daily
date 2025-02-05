@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02549v1-b31b1b.svg)](http://arxiv.org/abs/2502.02549v1)|null|
+|**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02537v1-b31b1b.svg)](http://arxiv.org/abs/2502.02537v1)|null|
+|**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|null|
+|**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02322v1-b31b1b.svg)](http://arxiv.org/abs/2502.02322v1)|null|
+|**2025-02-04**|**Risk-Aware Driving Scenario Analysis with Large Language Models**|Yuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02145v1-b31b1b.svg)](http://arxiv.org/abs/2502.02145v1)|null|
+|**2025-02-04**|**Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**|Rudolf Reiter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02133v1-b31b1b.svg)](http://arxiv.org/abs/2502.02133v1)|null|
+|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
+|**2025-02-04**|**Toward a Low-Cost Perception System in Autonomous Vehicles: A Spectrum Learning Approach**|Mohammed Alsakabi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01940v1-b31b1b.svg)](http://arxiv.org/abs/2502.01940v1)|null|
+|**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01937v1-b31b1b.svg)](http://arxiv.org/abs/2502.01937v1)|null|
+|**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01894v1-b31b1b.svg)](http://arxiv.org/abs/2502.01894v1)|null|
 |**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.19070v1-b31b1b.svg)](http://arxiv.org/abs/2501.19070v1)|null|
 |**2025-01-31**|**SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**|Javier Montalvo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.19035v1-b31b1b.svg)](http://arxiv.org/abs/2501.19035v1)|null|
 |**2025-01-31**|**Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo**|Hee-Yang Jung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18942v1-b31b1b.svg)](http://arxiv.org/abs/2501.18942v1)|null|
