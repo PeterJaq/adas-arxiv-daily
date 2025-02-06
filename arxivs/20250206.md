@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Robust Autonomy Emerges from Self-Play**|Marco Cusumano-Towner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03349v1-b31b1b.svg)](http://arxiv.org/abs/2502.03349v1)|null|
+|**2025-02-05**|**A Scalable Approach to Probabilistic Neuro-Symbolic Verification**|Vasileios Manginas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03274v1-b31b1b.svg)](http://arxiv.org/abs/2502.03274v1)|null|
+|**2025-02-05**|**Bayesian network approach to building an affective module for a driver behavioural model**|Dorota Młynarczyk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03254v1-b31b1b.svg)](http://arxiv.org/abs/2502.03254v1)|null|
+|**2025-02-05**|**Driver Assistance System Based on Multimodal Data Hazard Detection**|Long Zhouxiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03005v1-b31b1b.svg)](http://arxiv.org/abs/2502.03005v1)|null|
+|**2025-02-05**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02972v1-b31b1b.svg)](http://arxiv.org/abs/2502.02972v1)|null|
+|**2025-02-04**|**SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**|Hitvarth Diwanji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02773v1-b31b1b.svg)](http://arxiv.org/abs/2502.02773v1)|null|
+|**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02692v1-b31b1b.svg)](http://arxiv.org/abs/2502.02692v1)|null|
 |**2025-02-04**|**Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02549v1-b31b1b.svg)](http://arxiv.org/abs/2502.02549v1)|null|
 |**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02537v1-b31b1b.svg)](http://arxiv.org/abs/2502.02537v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|null|
