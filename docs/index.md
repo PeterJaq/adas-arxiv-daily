@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04329v1-b31b1b.svg)](http://arxiv.org/abs/2502.04329v1)|null|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
+|**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04201v1-b31b1b.svg)](http://arxiv.org/abs/2502.04201v1)|null|
+|**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03877v1-b31b1b.svg)](http://arxiv.org/abs/2502.03877v1)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03813v1-b31b1b.svg)](http://arxiv.org/abs/2502.03813v1)|null|
+|**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03695v1-b31b1b.svg)](http://arxiv.org/abs/2502.03695v1)|null|
 |**2025-02-05**|**Robust Autonomy Emerges from Self-Play**|Marco Cusumano-Towner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03349v1-b31b1b.svg)](http://arxiv.org/abs/2502.03349v1)|null|
 |**2025-02-05**|**A Scalable Approach to Probabilistic Neuro-Symbolic Verification**|Vasileios Manginas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03274v1-b31b1b.svg)](http://arxiv.org/abs/2502.03274v1)|null|
 |**2025-02-05**|**Bayesian network approach to building an affective module for a driver behavioural model**|Dorota Młynarczyk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03254v1-b31b1b.svg)](http://arxiv.org/abs/2502.03254v1)|null|
