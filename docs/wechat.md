@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-02-07, **GaussRender: Learning 3D Occupancy with Gaussian Rendering**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2502.05040v1](http://arxiv.org/abs/2502.05040v1)
+- 2025-02-07, **Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**, Bei Zhou et.al., Paper: [http://arxiv.org/abs/2502.04696v1](http://arxiv.org/abs/2502.04696v1)
+- 2025-02-05, **DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2502.04378v1](http://arxiv.org/abs/2502.04378v1)
 - 2025-02-06, **SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**, Junjie Ye et.al., Paper: [http://arxiv.org/abs/2502.04329v1](http://arxiv.org/abs/2502.04329v1)
 - 2025-02-06, **Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**, Michael Walters et.al., Paper: [http://arxiv.org/abs/2502.04249v1](http://arxiv.org/abs/2502.04249v1)
 - 2025-02-06, **Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**, Mohammed Aledhari et.al., Paper: [http://arxiv.org/abs/2502.04201v1](http://arxiv.org/abs/2502.04201v1)

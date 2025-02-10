@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05040v1-b31b1b.svg)](http://arxiv.org/abs/2502.05040v1)|null|
+|**2025-02-07**|**Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**|Bei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04696v1-b31b1b.svg)](http://arxiv.org/abs/2502.04696v1)|null|
+|**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04378v1-b31b1b.svg)](http://arxiv.org/abs/2502.04378v1)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04329v1-b31b1b.svg)](http://arxiv.org/abs/2502.04329v1)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
 |**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04201v1-b31b1b.svg)](http://arxiv.org/abs/2502.04201v1)|null|
