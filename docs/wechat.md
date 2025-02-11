@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
+- 2025-02-10, **A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**, Linxiao Gong et.al., Paper: [http://arxiv.org/abs/2502.06581v1](http://arxiv.org/abs/2502.06581v1)
+- 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
+- 2025-02-10, **Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles**, Lei Zheng et.al., Paper: [http://arxiv.org/abs/2502.06359v1](http://arxiv.org/abs/2502.06359v1)
+- 2025-02-10, **Actual Achieved Gain and Optimal Perceived Gain: Modeling Human Take-over Decisions Towards Automated Vehicles' Suggestions**, Shuning Zhang et.al., Paper: [http://arxiv.org/abs/2502.06179v1](http://arxiv.org/abs/2502.06179v1)
+- 2025-02-09, **MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**, Jiabin Tang et.al., Paper: [http://arxiv.org/abs/2502.05957v1](http://arxiv.org/abs/2502.05957v1)
+- 2025-02-09, **Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**, Yixin Cui et.al., Paper: [http://arxiv.org/abs/2502.05943v1](http://arxiv.org/abs/2502.05943v1)
+- 2025-02-09, **SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2502.05859v1](http://arxiv.org/abs/2502.05859v1)
+- 2025-02-08, **Surprise Potential as a Measure of Interactivity in Driving Scenarios**, Wenhao Ding et.al., Paper: [http://arxiv.org/abs/2502.05677v1](http://arxiv.org/abs/2502.05677v1)
+- 2025-02-08, **TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**, Yangguang He et.al., Paper: [http://arxiv.org/abs/2502.05629v1](http://arxiv.org/abs/2502.05629v1)
 - 2025-02-07, **GaussRender: Learning 3D Occupancy with Gaussian Rendering**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2502.05040v1](http://arxiv.org/abs/2502.05040v1)
 - 2025-02-07, **Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**, Bei Zhou et.al., Paper: [http://arxiv.org/abs/2502.04696v1](http://arxiv.org/abs/2502.04696v1)
 - 2025-02-05, **DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2502.04378v1](http://arxiv.org/abs/2502.04378v1)

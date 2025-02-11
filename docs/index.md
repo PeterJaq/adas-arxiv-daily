@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06682v1-b31b1b.svg)](http://arxiv.org/abs/2502.06682v1)|null|
+|**2025-02-10**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06581v1-b31b1b.svg)](http://arxiv.org/abs/2502.06581v1)|null|
+|**2025-02-10**|**Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**|Tianshuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06419v1-b31b1b.svg)](http://arxiv.org/abs/2502.06419v1)|null|
+|**2025-02-10**|**Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles**|Lei Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06359v1-b31b1b.svg)](http://arxiv.org/abs/2502.06359v1)|null|
+|**2025-02-10**|**Actual Achieved Gain and Optimal Perceived Gain: Modeling Human Take-over Decisions Towards Automated Vehicles' Suggestions**|Shuning Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06179v1-b31b1b.svg)](http://arxiv.org/abs/2502.06179v1)|null|
+|**2025-02-09**|**MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**|Jiabin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05957v1-b31b1b.svg)](http://arxiv.org/abs/2502.05957v1)|null|
+|**2025-02-09**|**Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**|Yixin Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05943v1-b31b1b.svg)](http://arxiv.org/abs/2502.05943v1)|null|
+|**2025-02-09**|**SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**|Qingsong Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05859v1-b31b1b.svg)](http://arxiv.org/abs/2502.05859v1)|null|
+|**2025-02-08**|**Surprise Potential as a Measure of Interactivity in Driving Scenarios**|Wenhao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05677v1-b31b1b.svg)](http://arxiv.org/abs/2502.05677v1)|null|
+|**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05629v1-b31b1b.svg)](http://arxiv.org/abs/2502.05629v1)|null|
 |**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05040v1-b31b1b.svg)](http://arxiv.org/abs/2502.05040v1)|null|
 |**2025-02-07**|**Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**|Bei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04696v1-b31b1b.svg)](http://arxiv.org/abs/2502.04696v1)|null|
 |**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04378v1-b31b1b.svg)](http://arxiv.org/abs/2502.04378v1)|null|
