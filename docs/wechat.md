@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-02-11, **Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**, Azizjon Kobilov et.al., Paper: [http://arxiv.org/abs/2502.07772v1](http://arxiv.org/abs/2502.07772v1)
+- 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
+- 2025-02-11, **Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**, Novendra Setyawan et.al., Paper: [http://arxiv.org/abs/2502.07417v1](http://arxiv.org/abs/2502.07417v1)
+- 2025-02-11, **USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**, Yuxu Lu et.al., Paper: [http://arxiv.org/abs/2502.07372v1](http://arxiv.org/abs/2502.07372v1)
+- 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
+- 2025-02-11, **Online Aggregation of Trajectory Predictors**, Alex Tong et.al., Paper: [http://arxiv.org/abs/2502.07178v1](http://arxiv.org/abs/2502.07178v1)
 - 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
 - 2025-02-10, **A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**, Linxiao Gong et.al., Paper: [http://arxiv.org/abs/2502.06581v1](http://arxiv.org/abs/2502.06581v1)
 - 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
