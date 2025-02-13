@@ -9,7 +9,7 @@
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
 - 2025-02-11, **Online Aggregation of Trajectory Predictors**, Alex Tong et.al., Paper: [http://arxiv.org/abs/2502.07178v1](http://arxiv.org/abs/2502.07178v1)
 - 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
-- 2025-02-10, **A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**, Linxiao Gong et.al., Paper: [http://arxiv.org/abs/2502.06581v1](http://arxiv.org/abs/2502.06581v1)
+- 2025-02-12, **A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**, Linxiao Gong et.al., Paper: [http://arxiv.org/abs/2502.06581v2](http://arxiv.org/abs/2502.06581v2)
 - 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
 - 2025-02-10, **Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles**, Lei Zheng et.al., Paper: [http://arxiv.org/abs/2502.06359v1](http://arxiv.org/abs/2502.06359v1)
 - 2025-02-10, **Actual Achieved Gain and Optimal Perceived Gain: Modeling Human Take-over Decisions Towards Automated Vehicles' Suggestions**, Shuning Zhang et.al., Paper: [http://arxiv.org/abs/2502.06179v1](http://arxiv.org/abs/2502.06179v1)
