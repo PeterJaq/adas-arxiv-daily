@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08504v1-b31b1b.svg)](http://arxiv.org/abs/2502.08504v1)|null|
+|**2025-02-12**|**Blending the Worlds: World-Fixed Visual Appearances in Automotive Augmented Reality**|Robin Connor Schramm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08442v1-b31b1b.svg)](http://arxiv.org/abs/2502.08442v1)|null|
+|**2025-02-12**|**Decentralised multi-agent coordination for real-time railway traffic management**|Leo D'Amato et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08324v1-b31b1b.svg)](http://arxiv.org/abs/2502.08324v1)|null|
+|**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08260v1-b31b1b.svg)](http://arxiv.org/abs/2502.08260v1)|null|
+|**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08033v1-b31b1b.svg)](http://arxiv.org/abs/2502.08033v1)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07772v1-b31b1b.svg)](http://arxiv.org/abs/2502.07772v1)|null|
 |**2025-02-11**|**Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**|Yinzhe Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07631v1-b31b1b.svg)](http://arxiv.org/abs/2502.07631v1)|null|
 |**2025-02-11**|**Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**|Novendra Setyawan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07417v1-b31b1b.svg)](http://arxiv.org/abs/2502.07417v1)|null|
