@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 
 ## Autonomous_Driving
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07772v1-b31b1b.svg)](http://arxiv.org/abs/2502.07772v1)|null|
 |**2025-02-11**|**Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**|Yinzhe Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07631v1-b31b1b.svg)](http://arxiv.org/abs/2502.07631v1)|null|
 |**2025-02-11**|**Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**|Novendra Setyawan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07417v1-b31b1b.svg)](http://arxiv.org/abs/2502.07417v1)|null|
-|**2025-02-11**|**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**|Yuxu Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07372v1-b31b1b.svg)](http://arxiv.org/abs/2502.07372v1)|null|
+|**2025-02-11**|**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**|Yuxu Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07372v1-b31b1b.svg)](http://arxiv.org/abs/2502.07372v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louisyxlu/usrnet)**|
 |**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07309v1-b31b1b.svg)](http://arxiv.org/abs/2502.07309v1)|null|
 |**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07178v1-b31b1b.svg)](http://arxiv.org/abs/2502.07178v1)|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06682v1-b31b1b.svg)](http://arxiv.org/abs/2502.06682v1)|null|
