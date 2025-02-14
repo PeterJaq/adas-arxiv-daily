@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09393v1-b31b1b.svg)](http://arxiv.org/abs/2502.09393v1)|null|
+|**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09274v1-b31b1b.svg)](http://arxiv.org/abs/2502.09274v1)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|null|
+|**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08974v1-b31b1b.svg)](http://arxiv.org/abs/2502.08974v1)|null|
 |**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08504v1-b31b1b.svg)](http://arxiv.org/abs/2502.08504v1)|null|
 |**2025-02-12**|**Blending the Worlds: World-Fixed Visual Appearances in Automotive Augmented Reality**|Robin Connor Schramm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08442v1-b31b1b.svg)](http://arxiv.org/abs/2502.08442v1)|null|
 |**2025-02-12**|**Decentralised multi-agent coordination for real-time railway traffic management**|Leo D'Amato et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08324v1-b31b1b.svg)](http://arxiv.org/abs/2502.08324v1)|null|
