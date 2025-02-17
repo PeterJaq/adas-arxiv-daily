@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-02-14, **Coordinated control of multiple autonomous surface vehicles: challenges and advances - a systematic review**, Manuel Gantiva Osorioa et.al., Paper: [http://arxiv.org/abs/2502.10080v1](http://arxiv.org/abs/2502.10080v1)
+- 2025-02-14, **V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**, Hsu-kuang Chiu et.al., Paper: [http://arxiv.org/abs/2502.09980v1](http://arxiv.org/abs/2502.09980v1)
+- 2025-02-14, **Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**, Jacob Knaup et.al., Paper: [http://arxiv.org/abs/2502.09918v1](http://arxiv.org/abs/2502.09918v1)
 - 2025-02-13, **Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**, Shay Snyder et.al., Paper: [http://arxiv.org/abs/2502.09393v1](http://arxiv.org/abs/2502.09393v1)
 - 2025-02-13, **FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**, Bin Yang et.al., Paper: [http://arxiv.org/abs/2502.09274v1](http://arxiv.org/abs/2502.09274v1)
 - 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**

@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Coordinated control of multiple autonomous surface vehicles: challenges and advances - a systematic review**|Manuel Gantiva Osorioa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10080v1-b31b1b.svg)](http://arxiv.org/abs/2502.10080v1)|null|
+|**2025-02-14**|**V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**|Hsu-kuang Chiu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09980v1-b31b1b.svg)](http://arxiv.org/abs/2502.09980v1)|null|
+|**2025-02-14**|**Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**|Jacob Knaup et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09918v1-b31b1b.svg)](http://arxiv.org/abs/2502.09918v1)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09393v1-b31b1b.svg)](http://arxiv.org/abs/2502.09393v1)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09274v1-b31b1b.svg)](http://arxiv.org/abs/2502.09274v1)|null|
 |**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJLab-ADG/LimSim)**|
