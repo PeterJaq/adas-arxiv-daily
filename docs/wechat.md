@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-17, **Bandwidth-Adaptive Spatiotemporal Correspondence Identification for Collaborative Perception**, Peng Gao et.al., Paper: [http://arxiv.org/abs/2502.12098v1](http://arxiv.org/abs/2502.12098v1)
+- 2025-02-17, **Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**, Natalie Grabowsky et.al., Paper: [http://arxiv.org/abs/2502.11864v1](http://arxiv.org/abs/2502.11864v1)
+- 2025-02-17, **Residual Learning towards High-fidelity Vehicle Dynamics Modeling with Transformer**, Jinyu Miao et.al., Paper: [http://arxiv.org/abs/2502.11800v1](http://arxiv.org/abs/2502.11800v1)
+- 2025-02-17, **MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**, Jingcheng Ni et.al., Paper: [http://arxiv.org/abs/2502.11663v1](http://arxiv.org/abs/2502.11663v1)
+- 2025-02-17, **PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**, Morgan Byrd et.al., Paper: [http://arxiv.org/abs/2502.11377v1](http://arxiv.org/abs/2502.11377v1)
+- 2025-02-17, **A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**, Zikang Xiong et.al., Paper: [http://arxiv.org/abs/2502.11352v1](http://arxiv.org/abs/2502.11352v1)
+- 2025-02-15, **NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**, Shutong Zhang et.al., Paper: [http://arxiv.org/abs/2502.10720v1](http://arxiv.org/abs/2502.10720v1)
+- 2025-02-14, **Adaptive Neural Networks for Intelligent Data-Driven Development**, Youssef Shoeb et.al., Paper: [http://arxiv.org/abs/2502.10603v1](http://arxiv.org/abs/2502.10603v1)
+- 2025-02-14, **A standardised platform for translational advances in fluidic soft systems**, M. Gepner et.al., Paper: [http://arxiv.org/abs/2502.10547v1](http://arxiv.org/abs/2502.10547v1)
+- 2025-02-14, **The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**, Sifan Tu et.al., Paper: [http://arxiv.org/abs/2502.10498v1](http://arxiv.org/abs/2502.10498v1)
 - 2025-02-14, **Coordinated control of multiple autonomous surface vehicles: challenges and advances - a systematic review**, Manuel Gantiva Osorioa et.al., Paper: [http://arxiv.org/abs/2502.10080v1](http://arxiv.org/abs/2502.10080v1)
 - 2025-02-14, **V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**, Hsu-kuang Chiu et.al., Paper: [http://arxiv.org/abs/2502.09980v1](http://arxiv.org/abs/2502.09980v1)
 - 2025-02-14, **Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**, Jacob Knaup et.al., Paper: [http://arxiv.org/abs/2502.09918v1](http://arxiv.org/abs/2502.09918v1)
