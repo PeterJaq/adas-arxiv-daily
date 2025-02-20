@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13875v1-b31b1b.svg)](http://arxiv.org/abs/2502.13875v1)|null|
+|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13641v1-b31b1b.svg)](http://arxiv.org/abs/2502.13641v1)|null|
+|**2025-02-18**|**Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**|Hongxu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13180v1-b31b1b.svg)](http://arxiv.org/abs/2502.13180v1)|null|
 |**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13144v1-b31b1b.svg)](http://arxiv.org/abs/2502.13144v1)|null|
 |**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13024v1-b31b1b.svg)](http://arxiv.org/abs/2502.13024v1)|null|
 |**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.12686v1-b31b1b.svg)](http://arxiv.org/abs/2502.12686v1)|null|
