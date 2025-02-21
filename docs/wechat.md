@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-20, **Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**, Gregg Rabideau et.al., Paper: [http://arxiv.org/abs/2502.14803v1](http://arxiv.org/abs/2502.14803v1)
+- 2025-02-20, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v1](http://arxiv.org/abs/2502.14801v1)
+- 2025-02-20, **RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**, Henrique Piñeiro Monteagudo et.al., Paper: [http://arxiv.org/abs/2502.14792v1](http://arxiv.org/abs/2502.14792v1)
+- 2025-02-20, **Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**, Xinrui Zhang et.al., Paper: [http://arxiv.org/abs/2502.14574v1](http://arxiv.org/abs/2502.14574v1)
+- 2025-02-20, **Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2502.14520v1](http://arxiv.org/abs/2502.14520v1)
+- 2025-02-20, **CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**, Yukai Shi et.al., Paper: [http://arxiv.org/abs/2502.14493v1](http://arxiv.org/abs/2502.14493v1)
+- 2025-02-20, **Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2502.14416v1](http://arxiv.org/abs/2502.14416v1)
+- 2025-02-20, **ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11**, Tianyou Jiang et.al., Paper: [http://arxiv.org/abs/2502.14314v1](http://arxiv.org/abs/2502.14314v1)
+- 2025-02-20, **OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**, Zhichao Zheng et.al., Paper: [http://arxiv.org/abs/2502.14279v1](http://arxiv.org/abs/2502.14279v1)
+- 2025-02-20, **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Yedong Shen et.al., Paper: [http://arxiv.org/abs/2502.14235v1](http://arxiv.org/abs/2502.14235v1)
 - 2025-02-19, **MEX: Memory-efficient Approach to Referring Multi-Object Tracking**, Huu-Thien Tran et.al., Paper: [http://arxiv.org/abs/2502.13875v1](http://arxiv.org/abs/2502.13875v1)
 - 2025-02-19, **SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**, Rokuto Nagata et.al., Paper: [http://arxiv.org/abs/2502.13641v1](http://arxiv.org/abs/2502.13641v1)
 - 2025-02-18, **Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**, Hongxu Wang et.al., Paper: [http://arxiv.org/abs/2502.13180v1](http://arxiv.org/abs/2502.13180v1)

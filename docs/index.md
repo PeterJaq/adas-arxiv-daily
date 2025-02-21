@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14803v1-b31b1b.svg)](http://arxiv.org/abs/2502.14803v1)|null|
+|**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14801v1-b31b1b.svg)](http://arxiv.org/abs/2502.14801v1)|null|
+|**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14792v1-b31b1b.svg)](http://arxiv.org/abs/2502.14792v1)|null|
+|**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14574v1-b31b1b.svg)](http://arxiv.org/abs/2502.14574v1)|null|
+|**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14520v1-b31b1b.svg)](http://arxiv.org/abs/2502.14520v1)|null|
+|**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14493v1-b31b1b.svg)](http://arxiv.org/abs/2502.14493v1)|null|
+|**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14416v1-b31b1b.svg)](http://arxiv.org/abs/2502.14416v1)|null|
+|**2025-02-20**|**ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11**|Tianyou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14314v1-b31b1b.svg)](http://arxiv.org/abs/2502.14314v1)|null|
+|**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14279v1-b31b1b.svg)](http://arxiv.org/abs/2502.14279v1)|null|
+|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14235v1-b31b1b.svg)](http://arxiv.org/abs/2502.14235v1)|null|
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13875v1-b31b1b.svg)](http://arxiv.org/abs/2502.13875v1)|null|
 |**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13641v1-b31b1b.svg)](http://arxiv.org/abs/2502.13641v1)|null|
 |**2025-02-18**|**Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**|Hongxu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13180v1-b31b1b.svg)](http://arxiv.org/abs/2502.13180v1)|null|
