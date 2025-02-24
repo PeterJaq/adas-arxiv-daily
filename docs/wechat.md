@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2025-02-20, **Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**, Gregg Rabideau et.al., Paper: [http://arxiv.org/abs/2502.14803v1](http://arxiv.org/abs/2502.14803v1)
-- 2025-02-20, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v1](http://arxiv.org/abs/2502.14801v1)
+- 2025-02-21, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v2](http://arxiv.org/abs/2502.14801v2)
 - 2025-02-20, **RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**, Henrique Piñeiro Monteagudo et.al., Paper: [http://arxiv.org/abs/2502.14792v1](http://arxiv.org/abs/2502.14792v1)
 - 2025-02-20, **Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**, Xinrui Zhang et.al., Paper: [http://arxiv.org/abs/2502.14574v1](http://arxiv.org/abs/2502.14574v1)
 - 2025-02-20, **Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2502.14520v1](http://arxiv.org/abs/2502.14520v1)

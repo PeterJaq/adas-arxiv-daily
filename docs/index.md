@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14803v1-b31b1b.svg)](http://arxiv.org/abs/2502.14803v1)|null|
-|**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14801v1-b31b1b.svg)](http://arxiv.org/abs/2502.14801v1)|null|
+|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14801v2-b31b1b.svg)](http://arxiv.org/abs/2502.14801v2)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14792v1-b31b1b.svg)](http://arxiv.org/abs/2502.14792v1)|null|
 |**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14574v1-b31b1b.svg)](http://arxiv.org/abs/2502.14574v1)|null|
 |**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14520v1-b31b1b.svg)](http://arxiv.org/abs/2502.14520v1)|null|
