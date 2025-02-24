@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-21, **VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2502.15672v1](http://arxiv.org/abs/2502.15672v1), Code: **[https://github.com/valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel)**
+- 2025-02-21, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v1](http://arxiv.org/abs/2502.15635v1)
+- 2025-02-21, **Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**, Yue Sun et.al., Paper: [http://arxiv.org/abs/2502.15516v1](http://arxiv.org/abs/2502.15516v1)
+- 2025-02-21, **Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**, Jiangyong Yu et.al., Paper: [http://arxiv.org/abs/2502.15488v1](http://arxiv.org/abs/2502.15488v1)
+- 2025-02-21, **A modular risk concept for complex systems**, Dag McGeorge et.al., Paper: [http://arxiv.org/abs/2502.15482v1](http://arxiv.org/abs/2502.15482v1)
+- 2025-02-21, **Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2502.15472v1](http://arxiv.org/abs/2502.15472v1)
+- 2025-02-21, **Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**, Narges Semiromizadeh et.al., Paper: [http://arxiv.org/abs/2502.15398v1](http://arxiv.org/abs/2502.15398v1)
+- 2025-02-21, **PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**, Yueting Liu et.al., Paper: [http://arxiv.org/abs/2502.15342v1](http://arxiv.org/abs/2502.15342v1)
+- 2025-02-21, **OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**, Junliang Chen et.al., Paper: [http://arxiv.org/abs/2502.15180v1](http://arxiv.org/abs/2502.15180v1)
+- 2025-02-21, **CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**, Zihao Sheng et.al., Paper: [http://arxiv.org/abs/2502.15119v1](http://arxiv.org/abs/2502.15119v1)
 - 2025-02-20, **Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**, Gregg Rabideau et.al., Paper: [http://arxiv.org/abs/2502.14803v1](http://arxiv.org/abs/2502.14803v1)
 - 2025-02-21, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v2](http://arxiv.org/abs/2502.14801v2)
 - 2025-02-20, **RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**, Henrique Piñeiro Monteagudo et.al., Paper: [http://arxiv.org/abs/2502.14792v1](http://arxiv.org/abs/2502.14792v1)
