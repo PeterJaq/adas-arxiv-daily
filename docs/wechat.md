@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-24, **Inverse Kinematics on Guiding Vector Fields for Robot Path Following**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2502.17313v1](http://arxiv.org/abs/2502.17313v1)
+- 2025-02-24, **GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**, Simon Boeder et.al., Paper: [http://arxiv.org/abs/2502.17288v1](http://arxiv.org/abs/2502.17288v1)
+- 2025-02-24, **MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**, Jiehao Luo et.al., Paper: [http://arxiv.org/abs/2502.16907v1](http://arxiv.org/abs/2502.16907v1)
+- 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
+- 2025-02-23, **AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.16736v1](http://arxiv.org/abs/2502.16736v1)
+- 2025-02-23, **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2502.16589v1](http://arxiv.org/abs/2502.16589v1)
+- 2025-02-23, **An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**, Tianchen Ji et.al., Paper: [http://arxiv.org/abs/2502.16389v1](http://arxiv.org/abs/2502.16389v1)
+- 2025-02-22, **A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**, Jack Hirschman et.al., Paper: [http://arxiv.org/abs/2502.16141v1](http://arxiv.org/abs/2502.16141v1)
+- 2025-02-22, **A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**, Haidong Wang et.al., Paper: [http://arxiv.org/abs/2502.16027v1](http://arxiv.org/abs/2502.16027v1)
+- 2025-02-22, **Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving**, Prashant Shekhar et.al., Paper: [http://arxiv.org/abs/2502.16012v1](http://arxiv.org/abs/2502.16012v1)
 - 2025-02-21, **VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2502.15672v1](http://arxiv.org/abs/2502.15672v1), Code: **[https://github.com/valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel)**
 - 2025-02-21, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v1](http://arxiv.org/abs/2502.15635v1)
 - 2025-02-21, **Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**, Yue Sun et.al., Paper: [http://arxiv.org/abs/2502.15516v1](http://arxiv.org/abs/2502.15516v1)
