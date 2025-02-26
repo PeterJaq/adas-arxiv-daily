@@ -3,11 +3,11 @@
 ## Autonomous_Driving
 
 - 2025-02-24, **Inverse Kinematics on Guiding Vector Fields for Robot Path Following**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2502.17313v1](http://arxiv.org/abs/2502.17313v1), Code: **[https://github.com/swarm-systems-lab/gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)**
-- 2025-02-24, **GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**, Simon Boeder et.al., Paper: [http://arxiv.org/abs/2502.17288v1](http://arxiv.org/abs/2502.17288v1)
+- 2025-02-25, **GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**, Simon Boeder et.al., Paper: [http://arxiv.org/abs/2502.17288v2](http://arxiv.org/abs/2502.17288v2)
 - 2025-02-24, **MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**, Jiehao Luo et.al., Paper: [http://arxiv.org/abs/2502.16907v1](http://arxiv.org/abs/2502.16907v1), Code: **[https://github.com/scnu-rislab/mambaflow](https://github.com/scnu-rislab/mambaflow)**
 - 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
-- 2025-02-23, **AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.16736v1](http://arxiv.org/abs/2502.16736v1)
-- 2025-02-23, **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2502.16589v1](http://arxiv.org/abs/2502.16589v1), Code: **[https://github.com/xiaomiaozhang/Co-MTP](https://github.com/xiaomiaozhang/Co-MTP)**
+- 2025-02-25, **AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.16736v2](http://arxiv.org/abs/2502.16736v2)
+- 2025-02-25, **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2502.16589v2](http://arxiv.org/abs/2502.16589v2), Code: **[https://github.com/xiaomiaozhang/Co-MTP](https://github.com/xiaomiaozhang/Co-MTP)**
 - 2025-02-23, **An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**, Tianchen Ji et.al., Paper: [http://arxiv.org/abs/2502.16389v1](http://arxiv.org/abs/2502.16389v1)
 - 2025-02-22, **A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**, Jack Hirschman et.al., Paper: [http://arxiv.org/abs/2502.16141v1](http://arxiv.org/abs/2502.16141v1)
 - 2025-02-22, **A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**, Haidong Wang et.al., Paper: [http://arxiv.org/abs/2502.16027v1](http://arxiv.org/abs/2502.16027v1)
