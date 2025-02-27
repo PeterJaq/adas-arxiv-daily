@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.19260v1-b31b1b.svg)](http://arxiv.org/abs/2502.19260v1)|null|
+|**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.19177v1-b31b1b.svg)](http://arxiv.org/abs/2502.19177v1)|null|
+|**2025-02-26**|**RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**|Zhitao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18846v1-b31b1b.svg)](http://arxiv.org/abs/2502.18846v1)|null|
+|**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18760v1-b31b1b.svg)](http://arxiv.org/abs/2502.18760v1)|null|
+|**2025-02-25**|**Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**|Amirhossein Roknilamouki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18655v1-b31b1b.svg)](http://arxiv.org/abs/2502.18655v1)|null|
 |**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18042v1-b31b1b.svg)](http://arxiv.org/abs/2502.18042v1)|null|
 |**2025-02-25**|**Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**|Nengyue Su et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18013v1-b31b1b.svg)](http://arxiv.org/abs/2502.18013v1)|null|
 |**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17949v1-b31b1b.svg)](http://arxiv.org/abs/2502.17949v1)|null|

@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-02-26, **EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**, Nadya Abdel Madjid et.al., Paper: [http://arxiv.org/abs/2502.19260v1](http://arxiv.org/abs/2502.19260v1)
+- 2025-02-26, **Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2502.19177v1](http://arxiv.org/abs/2502.19177v1)
+- 2025-02-26, **RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**, Zhitao Wang et.al., Paper: [http://arxiv.org/abs/2502.18846v1](http://arxiv.org/abs/2502.18846v1)
+- 2025-02-26, **Learning Autonomy: Off-Road Navigation Enhanced by Human Input**, Akhil Nagariya et.al., Paper: [http://arxiv.org/abs/2502.18760v1](http://arxiv.org/abs/2502.18760v1)
+- 2025-02-25, **Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**, Amirhossein Roknilamouki et.al., Paper: [http://arxiv.org/abs/2502.18655v1](http://arxiv.org/abs/2502.18655v1)
 - 2025-02-25, **VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**, Pei Liu et.al., Paper: [http://arxiv.org/abs/2502.18042v1](http://arxiv.org/abs/2502.18042v1)
 - 2025-02-25, **Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**, Nengyue Su et.al., Paper: [http://arxiv.org/abs/2502.18013v1](http://arxiv.org/abs/2502.18013v1)
 - 2025-02-25, **InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2502.17949v1](http://arxiv.org/abs/2502.17949v1)
