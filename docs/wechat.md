@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-02-27, **Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**, Aron Harder et.al., Paper: [http://arxiv.org/abs/2502.20353v1](http://arxiv.org/abs/2502.20353v1)
+- 2025-02-27, **VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2502.20108v1](http://arxiv.org/abs/2502.20108v1)
+- 2025-02-27, **Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2502.20084v1](http://arxiv.org/abs/2502.20084v1)
+- 2025-02-27, **SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**, Zijie Zhou et.al., Paper: [http://arxiv.org/abs/2502.20077v1](http://arxiv.org/abs/2502.20077v1), Code: **[https://github.com/ZhouZijie77/SegLocNet](https://github.com/ZhouZijie77/SegLocNet)**
+- 2025-02-27, **CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**, Dongkun Zhang et.al., Paper: [http://arxiv.org/abs/2502.19908v1](http://arxiv.org/abs/2502.19908v1)
+- 2025-02-27, **Shared Autonomy for Proximal Teaching**, Megha Srivastava et.al., Paper: [http://arxiv.org/abs/2502.19899v1](http://arxiv.org/abs/2502.19899v1)
+- 2025-02-27, **You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**, Guangfeng Jiang et.al., Paper: [http://arxiv.org/abs/2502.19698v1](http://arxiv.org/abs/2502.19698v1)
+- 2025-02-27, **BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**, Xin Ye et.al., Paper: [http://arxiv.org/abs/2502.19694v1](http://arxiv.org/abs/2502.19694v1)
+- 2025-02-27, **Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study**, Wenyuan Cheng et.al., Paper: [http://arxiv.org/abs/2502.19687v1](http://arxiv.org/abs/2502.19687v1)
+- 2025-02-26, **Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**, Hoonhee Cho et.al., Paper: [http://arxiv.org/abs/2502.19630v1](http://arxiv.org/abs/2502.19630v1)
 - 2025-02-26, **EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**, Nadya Abdel Madjid et.al., Paper: [http://arxiv.org/abs/2502.19260v1](http://arxiv.org/abs/2502.19260v1)
 - 2025-02-26, **Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2502.19177v1](http://arxiv.org/abs/2502.19177v1)
 - 2025-02-26, **RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**, Zhitao Wang et.al., Paper: [http://arxiv.org/abs/2502.18846v1](http://arxiv.org/abs/2502.18846v1)
