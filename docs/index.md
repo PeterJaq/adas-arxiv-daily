@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**|Nanshan Deng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.21134v1-b31b1b.svg)](http://arxiv.org/abs/2502.21134v1)|null|
+|**2025-02-28**|**AuthSim: Towards Authentic and Effective Safety-critical Scenario Generation for Autonomous Driving Tests**|Yukuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.21100v1-b31b1b.svg)](http://arxiv.org/abs/2502.21100v1)|null|
+|**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20806v1-b31b1b.svg)](http://arxiv.org/abs/2502.20806v1)|null|
+|**2025-02-28**|**WorldModelBench: Judging Video Generation Models As World Models**|Dacheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20694v1-b31b1b.svg)](http://arxiv.org/abs/2502.20694v1)|null|
+|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20607v1-b31b1b.svg)](http://arxiv.org/abs/2502.20607v1)|null|
+|**2025-02-27**|**APIKS: A Modular ROS2 Framework for Rapid Prototyping and Validation of Automated Driving Systems**|João-Vitor Zacchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20507v1-b31b1b.svg)](http://arxiv.org/abs/2502.20507v1)|null|
 |**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20353v1-b31b1b.svg)](http://arxiv.org/abs/2502.20353v1)|null|
 |**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20108v1-b31b1b.svg)](http://arxiv.org/abs/2502.20108v1)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.20084v1-b31b1b.svg)](http://arxiv.org/abs/2502.20084v1)|null|
