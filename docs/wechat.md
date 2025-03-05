@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-04, **Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**, Jakob Weber et.al., Paper: [http://arxiv.org/abs/2503.02693v1](http://arxiv.org/abs/2503.02693v1), Code: **[https://github.com/j-cap/FL-based-neural-FF-control](https://github.com/j-cap/FL-based-neural-FF-control)**
+- 2025-03-04, **State of play and future directions in industrial computer vision AI standards**, Artemis Stefanidou et.al., Paper: [http://arxiv.org/abs/2503.02675v1](http://arxiv.org/abs/2503.02675v1)
+- 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
+- 2025-03-04, **TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**, Xinying Hong et.al., Paper: [http://arxiv.org/abs/2503.02578v1](http://arxiv.org/abs/2503.02578v1)
+- 2025-03-04, **PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers**, Wooju Lee et.al., Paper: [http://arxiv.org/abs/2503.02388v1](http://arxiv.org/abs/2503.02388v1)
+- 2025-03-04, **Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**, Ruixin Wu et.al., Paper: [http://arxiv.org/abs/2503.02300v1](http://arxiv.org/abs/2503.02300v1)
+- 2025-03-03, **Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**, Katya M. Papais et.al., Paper: [http://arxiv.org/abs/2503.02107v1](http://arxiv.org/abs/2503.02107v1)
+- 2025-03-03, **ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**, Nastaran Mansourian et.al., Paper: [http://arxiv.org/abs/2503.01750v1](http://arxiv.org/abs/2503.01750v1)
+- 2025-03-03, **Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.01676v1](http://arxiv.org/abs/2503.01676v1)
+- 2025-03-03, **CAPS: Context-Aware Priority Sampling for Enhanced Imitation Learning in Autonomous Driving**, Hamidreza Mirkhani et.al., Paper: [http://arxiv.org/abs/2503.01650v1](http://arxiv.org/abs/2503.01650v1)
 - 2025-02-28, **Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**, Nanshan Deng et.al., Paper: [http://arxiv.org/abs/2502.21134v1](http://arxiv.org/abs/2502.21134v1)
 - 2025-02-28, **AuthSim: Towards Authentic and Effective Safety-critical Scenario Generation for Autonomous Driving Tests**, Yukuan Yang et.al., Paper: [http://arxiv.org/abs/2502.21100v1](http://arxiv.org/abs/2502.21100v1)
 - 2025-02-28, **Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**, Faisal Mohammad et.al., Paper: [http://arxiv.org/abs/2502.20806v1](http://arxiv.org/abs/2502.20806v1)
