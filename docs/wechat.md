@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-03-05, **TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**, Haowei Sun et.al., Paper: [http://arxiv.org/abs/2503.03629v1](http://arxiv.org/abs/2503.03629v1)
+- 2025-03-05, **CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**, Junhao Xu et.al., Paper: [http://arxiv.org/abs/2503.03430v1](http://arxiv.org/abs/2503.03430v1)
+- 2025-03-05, **Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2503.03125v1](http://arxiv.org/abs/2503.03125v1)
+- 2025-03-05, **Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**, Asma A. Almutairi et.al., Paper: [http://arxiv.org/abs/2503.03100v1](http://arxiv.org/abs/2503.03100v1)
+- 2025-03-05, **MochiSwarm: A testbed for robotic blimps in realistic environments**, Jiawei Xu et.al., Paper: [http://arxiv.org/abs/2503.03077v1](http://arxiv.org/abs/2503.03077v1)
+- 2025-03-05, **BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**, Katharina Winter et.al., Paper: [http://arxiv.org/abs/2503.03074v1](http://arxiv.org/abs/2503.03074v1)
+- 2025-03-04, **Diverse Controllable Diffusion Policy with Signal Temporal Logic**, Yue Meng et.al., Paper: [http://arxiv.org/abs/2503.02924v1](http://arxiv.org/abs/2503.02924v1)
 - 2025-03-04, **Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**, Jakob Weber et.al., Paper: [http://arxiv.org/abs/2503.02693v1](http://arxiv.org/abs/2503.02693v1), Code: **[https://github.com/j-cap/FL-based-neural-FF-control](https://github.com/j-cap/FL-based-neural-FF-control)**
 - 2025-03-04, **State of play and future directions in industrial computer vision AI standards**, Artemis Stefanidou et.al., Paper: [http://arxiv.org/abs/2503.02675v1](http://arxiv.org/abs/2503.02675v1)
 - 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
