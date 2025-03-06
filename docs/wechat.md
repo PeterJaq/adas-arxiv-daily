@@ -10,7 +10,7 @@
 - 2025-03-04, **Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**, Ruixin Wu et.al., Paper: [http://arxiv.org/abs/2503.02300v1](http://arxiv.org/abs/2503.02300v1)
 - 2025-03-03, **Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**, Katya M. Papais et.al., Paper: [http://arxiv.org/abs/2503.02107v1](http://arxiv.org/abs/2503.02107v1)
 - 2025-03-03, **ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**, Nastaran Mansourian et.al., Paper: [http://arxiv.org/abs/2503.01750v1](http://arxiv.org/abs/2503.01750v1)
-- 2025-03-03, **Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.01676v1](http://arxiv.org/abs/2503.01676v1)
+- 2025-03-05, **Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.01676v2](http://arxiv.org/abs/2503.01676v2)
 - 2025-03-03, **CAPS: Context-Aware Priority Sampling for Enhanced Imitation Learning in Autonomous Driving**, Hamidreza Mirkhani et.al., Paper: [http://arxiv.org/abs/2503.01650v1](http://arxiv.org/abs/2503.01650v1)
 - 2025-02-28, **Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**, Nanshan Deng et.al., Paper: [http://arxiv.org/abs/2502.21134v1](http://arxiv.org/abs/2502.21134v1)
 - 2025-02-28, **AuthSim: Towards Authentic and Effective Safety-critical Scenario Generation for Autonomous Driving Tests**, Yukuan Yang et.al., Paper: [http://arxiv.org/abs/2502.21100v1](http://arxiv.org/abs/2502.21100v1)
