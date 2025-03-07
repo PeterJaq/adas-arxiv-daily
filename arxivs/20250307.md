@@ -4,9 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-05**|**TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**|Haowei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03629v1-b31b1b.svg)](http://arxiv.org/abs/2503.03629v1)|null|
+|**2025-03-06**|**TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**|Haowei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03629v2-b31b1b.svg)](http://arxiv.org/abs/2503.03629v2)|null|
 |**2025-03-05**|**CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**|Junhao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03430v1-b31b1b.svg)](http://arxiv.org/abs/2503.03430v1)|null|
-|**2025-03-05**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03125v1-b31b1b.svg)](http://arxiv.org/abs/2503.03125v1)|null|
+|**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03125v2-b31b1b.svg)](http://arxiv.org/abs/2503.03125v2)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03100v1-b31b1b.svg)](http://arxiv.org/abs/2503.03100v1)|null|
 |**2025-03-05**|**MochiSwarm: A testbed for robotic blimps in realistic environments**|Jiawei Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03077v1-b31b1b.svg)](http://arxiv.org/abs/2503.03077v1)|null|
 |**2025-03-05**|**BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**|Katharina Winter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03074v1-b31b1b.svg)](http://arxiv.org/abs/2503.03074v1)|null|
