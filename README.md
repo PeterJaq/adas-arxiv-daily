@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**|Chenhao Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04516v1-b31b1b.svg)](http://arxiv.org/abs/2503.04516v1)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04235v1-b31b1b.svg)](http://arxiv.org/abs/2503.04235v1)|null|
+|**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04159v1-b31b1b.svg)](http://arxiv.org/abs/2503.04159v1)|null|
+|**2025-03-06**|**H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision**|Yunxiao Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04059v1-b31b1b.svg)](http://arxiv.org/abs/2503.04059v1)|null|
+|**2025-03-05**|**Enhancing Autonomous Driving Safety with Collision Scenario Integration**|Zi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03957v1-b31b1b.svg)](http://arxiv.org/abs/2503.03957v1)|null|
+|**2025-03-05**|**Nexar Dashcam Collision Prediction Dataset and Challenge**|Daniel C. Moura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03848v1-b31b1b.svg)](http://arxiv.org/abs/2503.03848v1)|null|
 |**2025-03-06**|**TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**|Haowei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03629v2-b31b1b.svg)](http://arxiv.org/abs/2503.03629v2)|null|
 |**2025-03-05**|**CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**|Junhao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03430v1-b31b1b.svg)](http://arxiv.org/abs/2503.03430v1)|null|
 |**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.03125v2-b31b1b.svg)](http://arxiv.org/abs/2503.03125v2)|null|
