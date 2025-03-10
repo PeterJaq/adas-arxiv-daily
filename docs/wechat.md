@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-07, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v1](http://arxiv.org/abs/2503.05689v1)
+- 2025-03-07, **InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**, Feeza Khan Khanzada et.al., Paper: [http://arxiv.org/abs/2503.05573v1](http://arxiv.org/abs/2503.05573v1)
+- 2025-03-07, **FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**, Haotian Hu et.al., Paper: [http://arxiv.org/abs/2503.05492v1](http://arxiv.org/abs/2503.05492v1)
+- 2025-03-07, **DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**, Miaowei Wang et.al., Paper: [http://arxiv.org/abs/2503.05484v1](http://arxiv.org/abs/2503.05484v1)
+- 2025-03-07, **A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**, Aviran Gal et.al., Paper: [http://arxiv.org/abs/2503.05413v1](http://arxiv.org/abs/2503.05413v1)
+- 2025-03-07, **Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**, Sajad Marvi et.al., Paper: [http://arxiv.org/abs/2503.05274v1](http://arxiv.org/abs/2503.05274v1)
+- 2025-03-07, **Discrete Contrastive Learning for Diffusion Policies in Autonomous Driving**, Kalle Kujanpää et.al., Paper: [http://arxiv.org/abs/2503.05229v1](http://arxiv.org/abs/2503.05229v1)
+- 2025-03-07, **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**, Zherui Huang et.al., Paper: [http://arxiv.org/abs/2503.05180v1](http://arxiv.org/abs/2503.05180v1)
+- 2025-03-07, **A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**, Shanhe You et.al., Paper: [http://arxiv.org/abs/2503.05164v1](http://arxiv.org/abs/2503.05164v1)
+- 2025-03-07, **An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**, Changhong Lin et.al., Paper: [http://arxiv.org/abs/2503.05088v1](http://arxiv.org/abs/2503.05088v1)
 - 2025-03-06, **Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**, Chenhao Yang et.al., Paper: [http://arxiv.org/abs/2503.04516v1](http://arxiv.org/abs/2503.04516v1)
 - 2025-03-06, **Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**, Hui Zhang et.al., Paper: [http://arxiv.org/abs/2503.04235v1](http://arxiv.org/abs/2503.04235v1)
 - 2025-03-06, **Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**, Milin Patel et.al., Paper: [http://arxiv.org/abs/2503.04159v1](http://arxiv.org/abs/2503.04159v1)

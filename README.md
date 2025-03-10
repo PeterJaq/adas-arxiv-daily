@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05689v1-b31b1b.svg)](http://arxiv.org/abs/2503.05689v1)|null|
+|**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05573v1-b31b1b.svg)](http://arxiv.org/abs/2503.05573v1)|null|
+|**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05492v1-b31b1b.svg)](http://arxiv.org/abs/2503.05492v1)|null|
+|**2025-03-07**|**DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**|Miaowei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05484v1-b31b1b.svg)](http://arxiv.org/abs/2503.05484v1)|null|
+|**2025-03-07**|**A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**|Aviran Gal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05413v1-b31b1b.svg)](http://arxiv.org/abs/2503.05413v1)|null|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05274v1-b31b1b.svg)](http://arxiv.org/abs/2503.05274v1)|null|
+|**2025-03-07**|**Discrete Contrastive Learning for Diffusion Policies in Autonomous Driving**|Kalle Kujanpää et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05229v1-b31b1b.svg)](http://arxiv.org/abs/2503.05229v1)|null|
+|**2025-03-07**|**Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**|Zherui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05180v1-b31b1b.svg)](http://arxiv.org/abs/2503.05180v1)|null|
+|**2025-03-07**|**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**|Shanhe You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05164v1-b31b1b.svg)](http://arxiv.org/abs/2503.05164v1)|null|
+|**2025-03-07**|**An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**|Changhong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05088v1-b31b1b.svg)](http://arxiv.org/abs/2503.05088v1)|null|
 |**2025-03-06**|**Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**|Chenhao Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04516v1-b31b1b.svg)](http://arxiv.org/abs/2503.04516v1)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04235v1-b31b1b.svg)](http://arxiv.org/abs/2503.04235v1)|null|
 |**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04159v1-b31b1b.svg)](http://arxiv.org/abs/2503.04159v1)|null|
