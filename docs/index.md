@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05689v1-b31b1b.svg)](http://arxiv.org/abs/2503.05689v1)|null|
+|**2025-03-10**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05689v2-b31b1b.svg)](http://arxiv.org/abs/2503.05689v2)|null|
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05573v1-b31b1b.svg)](http://arxiv.org/abs/2503.05573v1)|null|
 |**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05492v1-b31b1b.svg)](http://arxiv.org/abs/2503.05492v1)|null|
 |**2025-03-07**|**DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**|Miaowei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05484v1-b31b1b.svg)](http://arxiv.org/abs/2503.05484v1)|null|

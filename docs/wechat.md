@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2025-03-07, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v1](http://arxiv.org/abs/2503.05689v1)
+- 2025-03-10, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v2](http://arxiv.org/abs/2503.05689v2)
 - 2025-03-07, **InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**, Feeza Khan Khanzada et.al., Paper: [http://arxiv.org/abs/2503.05573v1](http://arxiv.org/abs/2503.05573v1)
 - 2025-03-07, **FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**, Haotian Hu et.al., Paper: [http://arxiv.org/abs/2503.05492v1](http://arxiv.org/abs/2503.05492v1)
 - 2025-03-07, **DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**, Miaowei Wang et.al., Paper: [http://arxiv.org/abs/2503.05484v1](http://arxiv.org/abs/2503.05484v1)
