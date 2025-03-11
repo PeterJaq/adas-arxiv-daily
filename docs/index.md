@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07485v1-b31b1b.svg)](http://arxiv.org/abs/2503.07485v1)|null|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07425v1-b31b1b.svg)](http://arxiv.org/abs/2503.07425v1)|null|
+|**2025-03-10**|**Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies**|Ryan Poon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07423v1-b31b1b.svg)](http://arxiv.org/abs/2503.07423v1)|null|
+|**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07417v1-b31b1b.svg)](http://arxiv.org/abs/2503.07417v1)|null|
+|**2025-03-10**|**LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07367v1-b31b1b.svg)](http://arxiv.org/abs/2503.07367v1)|null|
+|**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07338v1-b31b1b.svg)](http://arxiv.org/abs/2503.07338v1)|null|
+|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
+|**2025-03-10**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07168v1-b31b1b.svg)](http://arxiv.org/abs/2503.07168v1)|null|
+|**2025-03-10**|**Temporal Overlapping Prediction: A Self-supervised Pre-training Method for LiDAR Moving Object Segmentation**|Ziliang Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07167v1-b31b1b.svg)](http://arxiv.org/abs/2503.07167v1)|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07152v1-b31b1b.svg)](http://arxiv.org/abs/2503.07152v1)|null|
 |**2025-03-10**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05689v2-b31b1b.svg)](http://arxiv.org/abs/2503.05689v2)|null|
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05573v1-b31b1b.svg)](http://arxiv.org/abs/2503.05573v1)|null|
 |**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05492v1-b31b1b.svg)](http://arxiv.org/abs/2503.05492v1)|null|
