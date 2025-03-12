@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
+- 2025-03-11, **Language-Depth Navigated Thermal and Visible Image Fusion**, Jinchang Zhang et.al., Paper: [http://arxiv.org/abs/2503.08676v1](http://arxiv.org/abs/2503.08676v1)
+- 2025-03-11, **Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2503.08661v1](http://arxiv.org/abs/2503.08661v1)
+- 2025-03-11, **HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2503.08612v1](http://arxiv.org/abs/2503.08612v1)
+- 2025-03-11, **LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**, Dušan Malić et.al., Paper: [http://arxiv.org/abs/2503.08601v1](http://arxiv.org/abs/2503.08601v1)
+- 2025-03-11, **JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**, Runjian Chen et.al., Paper: [http://arxiv.org/abs/2503.08422v1](http://arxiv.org/abs/2503.08422v1)
+- 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1)
+- 2025-03-11, **Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2503.08336v1](http://arxiv.org/abs/2503.08336v1)
+- 2025-03-11, **Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**, Zikang Yuan et.al., Paper: [http://arxiv.org/abs/2503.08317v1](http://arxiv.org/abs/2503.08317v1)
+- 2025-03-11, **Geometric quantum drives: Hyperbolically driven quantum systems and beyond**, Jihong Wu et.al., Paper: [http://arxiv.org/abs/2503.08242v1](http://arxiv.org/abs/2503.08242v1)
 - 2025-03-10, **Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**, Zongzheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.07485v1](http://arxiv.org/abs/2503.07485v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
 - 2025-03-10, **Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies**, Ryan Poon et.al., Paper: [http://arxiv.org/abs/2503.07423v1](http://arxiv.org/abs/2503.07423v1)
