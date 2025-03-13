@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-03-12, **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2503.09594v1](http://arxiv.org/abs/2503.09594v1)
+- 2025-03-12, **Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**, Máté Tóth et.al., Paper: [http://arxiv.org/abs/2503.09464v1](http://arxiv.org/abs/2503.09464v1)
+- 2025-03-12, **PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**, Masoud Jamshidiyan Tehrani et.al., Paper: [http://arxiv.org/abs/2503.09385v1](http://arxiv.org/abs/2503.09385v1)
+- 2025-03-12, **Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**, Ziyi Huang et.al., Paper: [http://arxiv.org/abs/2503.09366v1](http://arxiv.org/abs/2503.09366v1)
+- 2025-03-12, **A Case Study on Model Checking and Runtime Verification for Awkernel**, Akira Hasegawa et.al., Paper: [http://arxiv.org/abs/2503.09282v1](http://arxiv.org/abs/2503.09282v1)
+- 2025-03-12, **Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2503.09215v1](http://arxiv.org/abs/2503.09215v1)
+- 2025-03-12, **Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**, Xuzhong Hu et.al., Paper: [http://arxiv.org/abs/2503.08992v1](http://arxiv.org/abs/2503.08992v1)
 - 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
 - 2025-03-11, **Language-Depth Navigated Thermal and Visible Image Fusion**, Jinchang Zhang et.al., Paper: [http://arxiv.org/abs/2503.08676v1](http://arxiv.org/abs/2503.08676v1)
 - 2025-03-11, **Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2503.08661v1](http://arxiv.org/abs/2503.08661v1)
