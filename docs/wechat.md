@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2025-03-14, **Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2503.11650v1](http://arxiv.org/abs/2503.11650v1)
+- 2025-03-14, **A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**, Tin Stribor Sohn et.al., Paper: [http://arxiv.org/abs/2503.11400v1](http://arxiv.org/abs/2503.11400v1)
+- 2025-03-14, **BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**, Ziyue Wang et.al., Paper: [http://arxiv.org/abs/2503.11372v1](http://arxiv.org/abs/2503.11372v1)
+- 2025-03-14, **Learning-Based MPC for Efficient Control of Autonomous Vehicles**, Samuel Mallick et.al., Paper: [http://arxiv.org/abs/2503.11359v1](http://arxiv.org/abs/2503.11359v1)
+- 2025-03-14, **DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**, Xirui Zhou et.al., Paper: [http://arxiv.org/abs/2503.11265v1](http://arxiv.org/abs/2503.11265v1)
+- 2025-03-14, **DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**, Hongbin Lin et.al., Paper: [http://arxiv.org/abs/2503.11122v1](http://arxiv.org/abs/2503.11122v1)
+- 2025-03-14, **Active Learning from Scene Embeddings for End-to-End Autonomous Driving**, Wenhao Jiang et.al., Paper: [http://arxiv.org/abs/2503.11062v1](http://arxiv.org/abs/2503.11062v1)
+- 2025-03-13, **Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2503.10898v1](http://arxiv.org/abs/2503.10898v1)
+- 2025-03-13, **TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**, Xiangyu Yin et.al., Paper: [http://arxiv.org/abs/2503.10872v1](http://arxiv.org/abs/2503.10872v1)
 - 2025-03-13, **DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.10621v1](http://arxiv.org/abs/2503.10621v1), Code: **[https://github.com/ayesha-ishaq/drivelmm-o1](https://github.com/ayesha-ishaq/drivelmm-o1)**
 - 2025-03-13, **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**, Severin Heidrich et.al., Paper: [http://arxiv.org/abs/2503.10605v1](http://arxiv.org/abs/2503.10605v1), Code: **[https://github.com/ika-rwth-aachen/occuq](https://github.com/ika-rwth-aachen/occuq)**
 - 2025-03-13, **MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**, Yingshuang Zou et.al., Paper: [http://arxiv.org/abs/2503.10604v1](http://arxiv.org/abs/2503.10604v1)
