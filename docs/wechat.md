@@ -1,16 +1,16 @@
-> Updated on 2025.03.16
+> Updated on 2025.03.17
 
 ## Autonomous_Driving
 
-- 2025-03-13, **DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.10621v1](http://arxiv.org/abs/2503.10621v1)
-- 2025-03-13, **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**, Severin Heidrich et.al., Paper: [http://arxiv.org/abs/2503.10605v1](http://arxiv.org/abs/2503.10605v1)
+- 2025-03-13, **DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.10621v1](http://arxiv.org/abs/2503.10621v1), Code: **[https://github.com/ayesha-ishaq/drivelmm-o1](https://github.com/ayesha-ishaq/drivelmm-o1)**
+- 2025-03-13, **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**, Severin Heidrich et.al., Paper: [http://arxiv.org/abs/2503.10605v1](http://arxiv.org/abs/2503.10605v1), Code: **[https://github.com/ika-rwth-aachen/occuq](https://github.com/ika-rwth-aachen/occuq)**
 - 2025-03-13, **MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**, Yingshuang Zou et.al., Paper: [http://arxiv.org/abs/2503.10604v1](http://arxiv.org/abs/2503.10604v1)
 - 2025-03-13, **Unlock the Power of Unlabeled Data in Language Driving Model**, Chaoqun Wang et.al., Paper: [http://arxiv.org/abs/2503.10586v1](http://arxiv.org/abs/2503.10586v1)
 - 2025-03-13, **Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**, Derun Li et.al., Paper: [http://arxiv.org/abs/2503.10434v1](http://arxiv.org/abs/2503.10434v1)
 - 2025-03-13, **TARS: Traffic-Aware Radar Scene Flow Estimation**, Jialong Wu et.al., Paper: [http://arxiv.org/abs/2503.10210v1](http://arxiv.org/abs/2503.10210v1)
-- 2025-03-13, **GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**, Jianheng Liu et.al., Paper: [http://arxiv.org/abs/2503.10170v1](http://arxiv.org/abs/2503.10170v1)
-- 2025-03-13, **Unlocking Generalization Power in LiDAR Point Cloud Registration**, Zhenxuan Zeng et.al., Paper: [http://arxiv.org/abs/2503.10149v1](http://arxiv.org/abs/2503.10149v1)
-- 2025-03-13, **Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**, Yuheng Liang et.al., Paper: [http://arxiv.org/abs/2503.10104v1](http://arxiv.org/abs/2503.10104v1)
+- 2025-03-13, **GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**, Jianheng Liu et.al., Paper: [http://arxiv.org/abs/2503.10170v1](http://arxiv.org/abs/2503.10170v1), Code: **[https://github.com/hku-mars/gs-sdf](https://github.com/hku-mars/gs-sdf)**
+- 2025-03-13, **Unlocking Generalization Power in LiDAR Point Cloud Registration**, Zhenxuan Zeng et.al., Paper: [http://arxiv.org/abs/2503.10149v1](http://arxiv.org/abs/2503.10149v1), Code: **[https://github.com/peakpang/ugp](https://github.com/peakpang/ugp)**
+- 2025-03-13, **Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**, Yuheng Liang et.al., Paper: [http://arxiv.org/abs/2503.10104v1](http://arxiv.org/abs/2503.10104v1), Code: **[https://github.com/freedompuppy77/charon](https://github.com/freedompuppy77/charon)**
 - 2025-03-13, **TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness**, Mu Chen et.al., Paper: [http://arxiv.org/abs/2503.09941v1](http://arxiv.org/abs/2503.09941v1)
 - 2025-03-12, **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2503.09594v1](http://arxiv.org/abs/2503.09594v1)
 - 2025-03-12, **Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**, Máté Tóth et.al., Paper: [http://arxiv.org/abs/2503.09464v1](http://arxiv.org/abs/2503.09464v1)

@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10621v1-b31b1b.svg)](http://arxiv.org/abs/2503.10621v1)|null|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10605v1-b31b1b.svg)](http://arxiv.org/abs/2503.10605v1)|null|
+|**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10621v1-b31b1b.svg)](http://arxiv.org/abs/2503.10621v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-ishaq/drivelmm-o1)**|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10605v1-b31b1b.svg)](http://arxiv.org/abs/2503.10605v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10604v1-b31b1b.svg)](http://arxiv.org/abs/2503.10604v1)|null|
 |**2025-03-13**|**Unlock the Power of Unlabeled Data in Language Driving Model**|Chaoqun Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10586v1-b31b1b.svg)](http://arxiv.org/abs/2503.10586v1)|null|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
 |**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10210v1-b31b1b.svg)](http://arxiv.org/abs/2503.10210v1)|null|
-|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10170v1-b31b1b.svg)](http://arxiv.org/abs/2503.10170v1)|null|
-|**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10149v1-b31b1b.svg)](http://arxiv.org/abs/2503.10149v1)|null|
-|**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10104v1-b31b1b.svg)](http://arxiv.org/abs/2503.10104v1)|null|
+|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10170v1-b31b1b.svg)](http://arxiv.org/abs/2503.10170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hku-mars/gs-sdf)**|
+|**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10149v1-b31b1b.svg)](http://arxiv.org/abs/2503.10149v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peakpang/ugp)**|
+|**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10104v1-b31b1b.svg)](http://arxiv.org/abs/2503.10104v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freedompuppy77/charon)**|
 |**2025-03-13**|**TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness**|Mu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09941v1-b31b1b.svg)](http://arxiv.org/abs/2503.09941v1)|null|
 |**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09594v1-b31b1b.svg)](http://arxiv.org/abs/2503.09594v1)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09464v1-b31b1b.svg)](http://arxiv.org/abs/2503.09464v1)|null|
