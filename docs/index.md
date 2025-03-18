@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13430v1-b31b1b.svg)](http://arxiv.org/abs/2503.13430v1)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
+|**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13203v1-b31b1b.svg)](http://arxiv.org/abs/2503.13203v1)|null|
+|**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13047v1-b31b1b.svg)](http://arxiv.org/abs/2503.13047v1)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12982v1-b31b1b.svg)](http://arxiv.org/abs/2503.12982v1)|null|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12968v1-b31b1b.svg)](http://arxiv.org/abs/2503.12968v1)|null|
+|**2025-03-17**|**A Reference Architecture for Autonomous Networks An Agent-Based Approach**|Joseph Sifakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12871v1-b31b1b.svg)](http://arxiv.org/abs/2503.12871v1)|null|
+|**2025-03-17**|**Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**|Kailin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12820v1-b31b1b.svg)](http://arxiv.org/abs/2503.12820v1)|null|
+|**2025-03-17**|**SAM2 for Image and Video Segmentation: A Comprehensive Survey**|Zhang Jiaxing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12781v1-b31b1b.svg)](http://arxiv.org/abs/2503.12781v1)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12720v1-b31b1b.svg)](http://arxiv.org/abs/2503.12720v1)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11650v1-b31b1b.svg)](http://arxiv.org/abs/2503.11650v1)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11400v1-b31b1b.svg)](http://arxiv.org/abs/2503.11400v1)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11372v1-b31b1b.svg)](http://arxiv.org/abs/2503.11372v1)|null|

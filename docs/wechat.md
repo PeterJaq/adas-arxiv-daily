@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-17, **AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2503.13430v1](http://arxiv.org/abs/2503.13430v1)
+- 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
+- 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
+- 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
+- 2025-03-17, **SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**, Yunshuang Yuan et.al., Paper: [http://arxiv.org/abs/2503.12982v1](http://arxiv.org/abs/2503.12982v1)
+- 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
+- 2025-03-17, **A Reference Architecture for Autonomous Networks An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v1](http://arxiv.org/abs/2503.12871v1)
+- 2025-03-17, **Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**, Kailin Li et.al., Paper: [http://arxiv.org/abs/2503.12820v1](http://arxiv.org/abs/2503.12820v1)
+- 2025-03-17, **SAM2 for Image and Video Segmentation: A Comprehensive Survey**, Zhang Jiaxing et.al., Paper: [http://arxiv.org/abs/2503.12781v1](http://arxiv.org/abs/2503.12781v1)
+- 2025-03-17, **GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**, Feng Qiao et.al., Paper: [http://arxiv.org/abs/2503.12720v1](http://arxiv.org/abs/2503.12720v1)
 - 2025-03-14, **Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2503.11650v1](http://arxiv.org/abs/2503.11650v1)
 - 2025-03-14, **A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**, Tin Stribor Sohn et.al., Paper: [http://arxiv.org/abs/2503.11400v1](http://arxiv.org/abs/2503.11400v1)
 - 2025-03-14, **BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**, Ziyue Wang et.al., Paper: [http://arxiv.org/abs/2503.11372v1](http://arxiv.org/abs/2503.11372v1)
