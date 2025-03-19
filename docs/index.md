@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14501v1-b31b1b.svg)](http://arxiv.org/abs/2503.14501v1)|null|
+|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14498v1-b31b1b.svg)](http://arxiv.org/abs/2503.14498v1)|null|
+|**2025-03-18**|**Driving behavior recognition via self-discovery learning**|Yilin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14194v1-b31b1b.svg)](http://arxiv.org/abs/2503.14194v1)|null|
+|**2025-03-18**|**5G-Enabled Teleoperated Driving: An Experimental Evaluation**|Mehdi Testouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14186v1-b31b1b.svg)](http://arxiv.org/abs/2503.14186v1)|null|
+|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14182v1-b31b1b.svg)](http://arxiv.org/abs/2503.14182v1)|null|
+|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13952v1-b31b1b.svg)](http://arxiv.org/abs/2503.13952v1)|null|
+|**2025-03-18**|**ChatBEV: A Visual Language Model that Understands BEV Maps**|Qingyao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13938v1-b31b1b.svg)](http://arxiv.org/abs/2503.13938v1)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13914v1-b31b1b.svg)](http://arxiv.org/abs/2503.13914v1)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13869v1-b31b1b.svg)](http://arxiv.org/abs/2503.13869v1)|null|
+|**2025-03-18**|**RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13861v1-b31b1b.svg)](http://arxiv.org/abs/2503.13861v1)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13430v1-b31b1b.svg)](http://arxiv.org/abs/2503.13430v1)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
 |**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13203v1-b31b1b.svg)](http://arxiv.org/abs/2503.13203v1)|null|
