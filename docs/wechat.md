@@ -1,4 +1,4 @@
-> Updated on 2025.03.18
+> Updated on 2025.03.19
 
 ## Autonomous_Driving
 
@@ -8,7 +8,7 @@
 - 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
 - 2025-03-17, **SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**, Yunshuang Yuan et.al., Paper: [http://arxiv.org/abs/2503.12982v1](http://arxiv.org/abs/2503.12982v1)
 - 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
-- 2025-03-17, **A Reference Architecture for Autonomous Networks An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v1](http://arxiv.org/abs/2503.12871v1)
+- 2025-03-18, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v2](http://arxiv.org/abs/2503.12871v2)
 - 2025-03-17, **Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**, Kailin Li et.al., Paper: [http://arxiv.org/abs/2503.12820v1](http://arxiv.org/abs/2503.12820v1)
 - 2025-03-17, **SAM2 for Image and Video Segmentation: A Comprehensive Survey**, Zhang Jiaxing et.al., Paper: [http://arxiv.org/abs/2503.12781v1](http://arxiv.org/abs/2503.12781v1)
 - 2025-03-17, **GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**, Feng Qiao et.al., Paper: [http://arxiv.org/abs/2503.12720v1](http://arxiv.org/abs/2503.12720v1)
