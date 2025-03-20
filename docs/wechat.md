@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-19, **V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**, Baolu Li et.al., Paper: [http://arxiv.org/abs/2503.15435v1](http://arxiv.org/abs/2503.15435v1)
+- 2025-03-19, **EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**, Yuanchao Yue et.al., Paper: [http://arxiv.org/abs/2503.15284v1](http://arxiv.org/abs/2503.15284v1)
+- 2025-03-19, **A Personalized Data-Driven Generative Model of Human Motion**, Angelo Di Porzio et.al., Paper: [http://arxiv.org/abs/2503.15225v1](http://arxiv.org/abs/2503.15225v1)
+- 2025-03-19, **An Investigation of Beam Density on LiDAR Object Detection Performance**, Christoph Griesbacher et.al., Paper: [http://arxiv.org/abs/2503.15087v1](http://arxiv.org/abs/2503.15087v1)
+- 2025-03-19, **HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**, Cheng Wang et.al., Paper: [http://arxiv.org/abs/2503.15049v1](http://arxiv.org/abs/2503.15049v1)
+- 2025-03-19, **DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2503.15029v1](http://arxiv.org/abs/2503.15029v1)
+- 2025-03-19, **USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**, Joseph Emmanuel DL Dayo et.al., Paper: [http://arxiv.org/abs/2503.14950v1](http://arxiv.org/abs/2503.14950v1)
+- 2025-03-19, **Generating Multimodal Driving Scenes via Next-Scene Prediction**, Yanhao Wu et.al., Paper: [http://arxiv.org/abs/2503.14945v1](http://arxiv.org/abs/2503.14945v1)
+- 2025-03-19, **SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**, Yinqi Chen et.al., Paper: [http://arxiv.org/abs/2503.14837v1](http://arxiv.org/abs/2503.14837v1)
+- 2025-03-19, **MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**, Chejian Xu et.al., Paper: [http://arxiv.org/abs/2503.14827v1](http://arxiv.org/abs/2503.14827v1)
 - 2025-03-19, **Advances in 4D Generation: A Survey**, Qiaowei Miao et.al., Paper: [http://arxiv.org/abs/2503.14501v2](http://arxiv.org/abs/2503.14501v2)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1)
 - 2025-03-18, **Driving behavior recognition via self-discovery learning**, Yilin Wang et.al., Paper: [http://arxiv.org/abs/2503.14194v1](http://arxiv.org/abs/2503.14194v1)
