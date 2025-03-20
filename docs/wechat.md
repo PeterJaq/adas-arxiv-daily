@@ -1,8 +1,8 @@
-> Updated on 2025.03.19
+> Updated on 2025.03.20
 
 ## Autonomous_Driving
 
-- 2025-03-18, **Advances in 4D Generation: A Survey**, Qiaowei Miao et.al., Paper: [http://arxiv.org/abs/2503.14501v1](http://arxiv.org/abs/2503.14501v1)
+- 2025-03-19, **Advances in 4D Generation: A Survey**, Qiaowei Miao et.al., Paper: [http://arxiv.org/abs/2503.14501v2](http://arxiv.org/abs/2503.14501v2)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1)
 - 2025-03-18, **Driving behavior recognition via self-discovery learning**, Yilin Wang et.al., Paper: [http://arxiv.org/abs/2503.14194v1](http://arxiv.org/abs/2503.14194v1)
 - 2025-03-18, **5G-Enabled Teleoperated Driving: An Experimental Evaluation**, Mehdi Testouri et.al., Paper: [http://arxiv.org/abs/2503.14186v1](http://arxiv.org/abs/2503.14186v1)

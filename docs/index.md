@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14501v1-b31b1b.svg)](http://arxiv.org/abs/2503.14501v1)|null|
+|**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14501v2-b31b1b.svg)](http://arxiv.org/abs/2503.14501v2)|null|
 |**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14498v1-b31b1b.svg)](http://arxiv.org/abs/2503.14498v1)|null|
 |**2025-03-18**|**Driving behavior recognition via self-discovery learning**|Yilin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14194v1-b31b1b.svg)](http://arxiv.org/abs/2503.14194v1)|null|
 |**2025-03-18**|**5G-Enabled Teleoperated Driving: An Experimental Evaluation**|Mehdi Testouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14186v1-b31b1b.svg)](http://arxiv.org/abs/2503.14186v1)|null|
