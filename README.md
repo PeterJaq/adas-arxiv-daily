@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16378v1-b31b1b.svg)](http://arxiv.org/abs/2503.16378v1)|null|
+|**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16023v1-b31b1b.svg)](http://arxiv.org/abs/2503.16023v1)|null|
+|**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15875v1-b31b1b.svg)](http://arxiv.org/abs/2503.15875v1)|null|
+|**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
+|**2025-03-20**|**Nano-3D: Metasurface-Based Neural Depth Imaging**|Bingxuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15770v1-b31b1b.svg)](http://arxiv.org/abs/2503.15770v1)|null|
+|**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15672v1-b31b1b.svg)](http://arxiv.org/abs/2503.15672v1)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15435v1-b31b1b.svg)](http://arxiv.org/abs/2503.15435v1)|null|
 |**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15284v1-b31b1b.svg)](http://arxiv.org/abs/2503.15284v1)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15225v1-b31b1b.svg)](http://arxiv.org/abs/2503.15225v1)|null|
