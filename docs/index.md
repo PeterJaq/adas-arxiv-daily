@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**|Mingliang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17174v1-b31b1b.svg)](http://arxiv.org/abs/2503.17174v1)|null|
+|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v1-b31b1b.svg)](http://arxiv.org/abs/2503.17168v1)|null|
+|**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17153v1-b31b1b.svg)](http://arxiv.org/abs/2503.17153v1)|null|
+|**2025-03-21**|**R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**|Jonas Mirlach et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17122v1-b31b1b.svg)](http://arxiv.org/abs/2503.17122v1)|null|
+|**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17005v1-b31b1b.svg)](http://arxiv.org/abs/2503.17005v1)|null|
+|**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16916v1-b31b1b.svg)](http://arxiv.org/abs/2503.16916v1)|null|
+|**2025-03-21**|**Salient Object Detection in Traffic Scene through the TSOD10K Dataset**|Yu Qiu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16910v1-b31b1b.svg)](http://arxiv.org/abs/2503.16910v1)|null|
+|**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16776v1-b31b1b.svg)](http://arxiv.org/abs/2503.16776v1)|null|
+|**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
 |**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16378v1-b31b1b.svg)](http://arxiv.org/abs/2503.16378v1)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16023v1-b31b1b.svg)](http://arxiv.org/abs/2503.16023v1)|null|
 |**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15875v1-b31b1b.svg)](http://arxiv.org/abs/2503.15875v1)|null|

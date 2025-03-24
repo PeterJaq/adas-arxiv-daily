@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2025-03-21, **How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**, Mingliang Li et.al., Paper: [http://arxiv.org/abs/2503.17174v1](http://arxiv.org/abs/2503.17174v1)
+- 2025-03-21, **Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**, Alexandra Arzberger et.al., Paper: [http://arxiv.org/abs/2503.17168v1](http://arxiv.org/abs/2503.17168v1)
+- 2025-03-21, **Enhancing Steering Estimation with Semantic-Aware GNNs**, Fouad Makiyeh et.al., Paper: [http://arxiv.org/abs/2503.17153v1](http://arxiv.org/abs/2503.17153v1)
+- 2025-03-21, **R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**, Jonas Mirlach et.al., Paper: [http://arxiv.org/abs/2503.17122v1](http://arxiv.org/abs/2503.17122v1)
+- 2025-03-21, **Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**, Muhua Zhang et.al., Paper: [http://arxiv.org/abs/2503.17005v1](http://arxiv.org/abs/2503.17005v1)
+- 2025-03-21, **Temporal Action Detection Model Compression by Progressive Block Drop**, Xiaoyong Chen et.al., Paper: [http://arxiv.org/abs/2503.16916v1](http://arxiv.org/abs/2503.16916v1)
+- 2025-03-21, **Salient Object Detection in Traffic Scene through the TSOD10K Dataset**, Yu Qiu et.al., Paper: [http://arxiv.org/abs/2503.16910v1](http://arxiv.org/abs/2503.16910v1)
+- 2025-03-21, **OpenCity3D: What do Vision-Language Models know about Urban Environments?**, Valentin Bieri et.al., Paper: [http://arxiv.org/abs/2503.16776v1](http://arxiv.org/abs/2503.16776v1)
+- 2025-03-20, **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**, Chengkai Huang et.al., Paper: [http://arxiv.org/abs/2503.16734v1](http://arxiv.org/abs/2503.16734v1)
 - 2025-03-20, **Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**, Tzu-Yun Tseng et.al., Paper: [http://arxiv.org/abs/2503.16378v1](http://arxiv.org/abs/2503.16378v1)
 - 2025-03-20, **BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**, Zenghui Yuan et.al., Paper: [http://arxiv.org/abs/2503.16023v1](http://arxiv.org/abs/2503.16023v1)
 - 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875v1](http://arxiv.org/abs/2503.15875v1)
