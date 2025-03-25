@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-24, **Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**, Moussa Kassem Sbeyti et.al., Paper: [http://arxiv.org/abs/2503.18903v1](http://arxiv.org/abs/2503.18903v1)
+- 2025-03-24, **Robust Tube-based Control Strategy for Vision-guided Autonomous Vehicles**, Der-Hau Lee et.al., Paper: [http://arxiv.org/abs/2503.18752v1](http://arxiv.org/abs/2503.18752v1)
+- 2025-03-24, **Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**, Hongkuan Zhou et.al., Paper: [http://arxiv.org/abs/2503.18730v1](http://arxiv.org/abs/2503.18730v1)
+- 2025-03-24, **AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2503.18666v1](http://arxiv.org/abs/2503.18666v1)
+- 2025-03-24, **Robust Lane Detection with Wavelet-Enhanced Context Modeling and Adaptive Sampling**, Kunyang Li et.al., Paper: [http://arxiv.org/abs/2503.18631v1](http://arxiv.org/abs/2503.18631v1)
+- 2025-03-24, **ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2503.18438v1](http://arxiv.org/abs/2503.18438v1)
+- 2025-03-24, **ED-DAO: Energy Donation Algorithms based on Decentralized Autonomous Organization**, Abdulrezzak Zekiye et.al., Paper: [http://arxiv.org/abs/2503.18424v1](http://arxiv.org/abs/2503.18424v1)
+- 2025-03-24, **Learning Orientation Field for OSM-Guided Autonomous Navigation**, Yuming Huang et.al., Paper: [http://arxiv.org/abs/2503.18276v1](http://arxiv.org/abs/2503.18276v1)
+- 2025-03-23, **Training A Neural Network For Partially Occluded Road Sign Identification In The Context Of Autonomous Vehicles**, Gulnaz Gimaletdinova et.al., Paper: [http://arxiv.org/abs/2503.18177v1](http://arxiv.org/abs/2503.18177v1)
+- 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108v1](http://arxiv.org/abs/2503.18108v1)
 - 2025-03-21, **How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**, Mingliang Li et.al., Paper: [http://arxiv.org/abs/2503.17174v1](http://arxiv.org/abs/2503.17174v1)
 - 2025-03-21, **Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**, Alexandra Arzberger et.al., Paper: [http://arxiv.org/abs/2503.17168v1](http://arxiv.org/abs/2503.17168v1)
 - 2025-03-21, **Enhancing Steering Estimation with Semantic-Aware GNNs**, Fouad Makiyeh et.al., Paper: [http://arxiv.org/abs/2503.17153v1](http://arxiv.org/abs/2503.17153v1)
