@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-25, **SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2503.19912v1](http://arxiv.org/abs/2503.19912v1)
+- 2025-03-25, **LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**, Manjushree Aithal et.al., Paper: [http://arxiv.org/abs/2503.19804v1](http://arxiv.org/abs/2503.19804v1)
+- 2025-03-25, **Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**, Konyul Park et.al., Paper: [http://arxiv.org/abs/2503.19776v1](http://arxiv.org/abs/2503.19776v1)
+- 2025-03-25, **ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**, Haoyu Fu et.al., Paper: [http://arxiv.org/abs/2503.19755v1](http://arxiv.org/abs/2503.19755v1)
+- 2025-03-25, **Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2503.19713v1](http://arxiv.org/abs/2503.19713v1)
+- 2025-03-25, **Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**, Bo Leng et.al., Paper: [http://arxiv.org/abs/2503.19690v1](http://arxiv.org/abs/2503.19690v1)
+- 2025-03-25, **Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**, Xueyao Zhang et.al., Paper: [http://arxiv.org/abs/2503.19418v1](http://arxiv.org/abs/2503.19418v1)
+- 2025-03-25, **ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**, Dohwan Ko et.al., Paper: [http://arxiv.org/abs/2503.19355v1](http://arxiv.org/abs/2503.19355v1)
+- 2025-03-25, **A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**, Mahsa Paknejad et.al., Paper: [http://arxiv.org/abs/2503.19320v1](http://arxiv.org/abs/2503.19320v1)
+- 2025-03-25, **BIMII-Net: Brain-Inspired Multi-Iterative Interactive Network for RGB-T Road Scene Semantic Segmentation**, Hanshuo Qiu et.al., Paper: [http://arxiv.org/abs/2503.19303v1](http://arxiv.org/abs/2503.19303v1)
 - 2025-03-24, **Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**, Moussa Kassem Sbeyti et.al., Paper: [http://arxiv.org/abs/2503.18903v1](http://arxiv.org/abs/2503.18903v1)
 - 2025-03-24, **Robust Tube-based Control Strategy for Vision-guided Autonomous Vehicles**, Der-Hau Lee et.al., Paper: [http://arxiv.org/abs/2503.18752v1](http://arxiv.org/abs/2503.18752v1)
 - 2025-03-24, **Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**, Hongkuan Zhou et.al., Paper: [http://arxiv.org/abs/2503.18730v1](http://arxiv.org/abs/2503.18730v1)
