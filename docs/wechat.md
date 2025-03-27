@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-03-26, **ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**, Chenxi Wang et.al., Paper: [http://arxiv.org/abs/2503.20756v1](http://arxiv.org/abs/2503.20756v1)
+- 2025-03-26, **AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**, Xiangwen Zhang et.al., Paper: [http://arxiv.org/abs/2503.20654v1](http://arxiv.org/abs/2503.20654v1)
+- 2025-03-26, **Representation Improvement in Latent Space for Search-Based Testing of Autonomous Robotic Systems**, Dmytro Humeniuk et.al., Paper: [http://arxiv.org/abs/2503.20642v1](http://arxiv.org/abs/2503.20642v1)
+- 2025-03-26, **SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**, Tanmoy Dam et.al., Paper: [http://arxiv.org/abs/2503.20614v1](http://arxiv.org/abs/2503.20614v1)
+- 2025-03-26, **GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**, Lloyd Russell et.al., Paper: [http://arxiv.org/abs/2503.20523v1](http://arxiv.org/abs/2503.20523v1)
+- 2025-03-26, **EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**, Sheng Miao et.al., Paper: [http://arxiv.org/abs/2503.20168v1](http://arxiv.org/abs/2503.20168v1)
+- 2025-03-26, **Bandwidth Allocation for Cloud-Augmented Autonomous Driving**, Peter Schafhalter et.al., Paper: [http://arxiv.org/abs/2503.20127v1](http://arxiv.org/abs/2503.20127v1)
 - 2025-03-25, **SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2503.19912v1](http://arxiv.org/abs/2503.19912v1)
 - 2025-03-25, **LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**, Manjushree Aithal et.al., Paper: [http://arxiv.org/abs/2503.19804v1](http://arxiv.org/abs/2503.19804v1)
 - 2025-03-25, **Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**, Konyul Park et.al., Paper: [http://arxiv.org/abs/2503.19776v1](http://arxiv.org/abs/2503.19776v1)

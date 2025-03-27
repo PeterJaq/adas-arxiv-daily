@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20756v1-b31b1b.svg)](http://arxiv.org/abs/2503.20756v1)|null|
+|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20654v1-b31b1b.svg)](http://arxiv.org/abs/2503.20654v1)|null|
+|**2025-03-26**|**Representation Improvement in Latent Space for Search-Based Testing of Autonomous Robotic Systems**|Dmytro Humeniuk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20642v1-b31b1b.svg)](http://arxiv.org/abs/2503.20642v1)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20614v1-b31b1b.svg)](http://arxiv.org/abs/2503.20614v1)|null|
+|**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20523v1-b31b1b.svg)](http://arxiv.org/abs/2503.20523v1)|null|
+|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20168v1-b31b1b.svg)](http://arxiv.org/abs/2503.20168v1)|null|
+|**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20127v1-b31b1b.svg)](http://arxiv.org/abs/2503.20127v1)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19912v1-b31b1b.svg)](http://arxiv.org/abs/2503.19912v1)|null|
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19804v1-b31b1b.svg)](http://arxiv.org/abs/2503.19804v1)|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19776v1-b31b1b.svg)](http://arxiv.org/abs/2503.19776v1)|null|
