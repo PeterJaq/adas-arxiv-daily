@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**|Kuang Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21659v1-b31b1b.svg)](http://arxiv.org/abs/2503.21659v1)|null|
+|**2025-03-27**|**Towards Fully Automated Decision-Making Systems for Greenhouse Control: Challenges and Opportunities**|Yongshuai Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21640v1-b31b1b.svg)](http://arxiv.org/abs/2503.21640v1)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
+|**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21477v1-b31b1b.svg)](http://arxiv.org/abs/2503.21477v1)|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21449v1-b31b1b.svg)](http://arxiv.org/abs/2503.21449v1)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|null|
+|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21364v1-b31b1b.svg)](http://arxiv.org/abs/2503.21364v1)|null|
+|**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21338v1-b31b1b.svg)](http://arxiv.org/abs/2503.21338v1)|null|
+|**2025-03-27**|**Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**|Yimo Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21330v1-b31b1b.svg)](http://arxiv.org/abs/2503.21330v1)|null|
+|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21232v1-b31b1b.svg)](http://arxiv.org/abs/2503.21232v1)|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20756v1-b31b1b.svg)](http://arxiv.org/abs/2503.20756v1)|null|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20654v1-b31b1b.svg)](http://arxiv.org/abs/2503.20654v1)|null|
 |**2025-03-26**|**Representation Improvement in Latent Space for Search-Based Testing of Autonomous Robotic Systems**|Dmytro Humeniuk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20642v1-b31b1b.svg)](http://arxiv.org/abs/2503.20642v1)|null|
