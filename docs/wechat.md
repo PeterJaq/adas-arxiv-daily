@@ -1,4 +1,4 @@
-> Updated on 2025.03.30
+> Updated on 2025.03.31
 
 ## Autonomous_Driving
 
@@ -8,7 +8,7 @@
 - 2025-03-27, **Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**, Wenyi Xiong et.al., Paper: [http://arxiv.org/abs/2503.21477v1](http://arxiv.org/abs/2503.21477v1)
 - 2025-03-27, **Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**, Lucas Nunes et.al., Paper: [http://arxiv.org/abs/2503.21449v1](http://arxiv.org/abs/2503.21449v1), Code: **[https://github.com/prbonn/3diss](https://github.com/prbonn/3diss)**
 - 2025-03-27, **Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**, Tong Nie et.al., Paper: [http://arxiv.org/abs/2503.21411v1](http://arxiv.org/abs/2503.21411v1)
-- 2025-03-27, **LandMarkSystem Technical Report**, Zhenxiang Ma et.al., Paper: [http://arxiv.org/abs/2503.21364v1](http://arxiv.org/abs/2503.21364v1)
+- 2025-03-28, **LandMarkSystem Technical Report**, Zhenxiang Ma et.al., Paper: [http://arxiv.org/abs/2503.21364v2](http://arxiv.org/abs/2503.21364v2)
 - 2025-03-27, **UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2503.21338v1](http://arxiv.org/abs/2503.21338v1)
 - 2025-03-27, **Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**, Yimo Yan et.al., Paper: [http://arxiv.org/abs/2503.21330v1](http://arxiv.org/abs/2503.21330v1)
 - 2025-03-27, **Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**, Ayush Bheemaiah et.al., Paper: [http://arxiv.org/abs/2503.21232v1](http://arxiv.org/abs/2503.21232v1)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 
 ## Autonomous_Driving
 
@@ -14,7 +14,7 @@ layout: default
 |**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21477v1-b31b1b.svg)](http://arxiv.org/abs/2503.21477v1)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21449v1-b31b1b.svg)](http://arxiv.org/abs/2503.21449v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prbonn/3diss)**|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|null|
-|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21364v1-b31b1b.svg)](http://arxiv.org/abs/2503.21364v1)|null|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21364v2-b31b1b.svg)](http://arxiv.org/abs/2503.21364v2)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21338v1-b31b1b.svg)](http://arxiv.org/abs/2503.21338v1)|null|
 |**2025-03-27**|**Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**|Yimo Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21330v1-b31b1b.svg)](http://arxiv.org/abs/2503.21330v1)|null|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21232v1-b31b1b.svg)](http://arxiv.org/abs/2503.21232v1)|null|
