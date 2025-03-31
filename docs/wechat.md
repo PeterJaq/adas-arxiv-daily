@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-28, **SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.22541v1](http://arxiv.org/abs/2503.22541v1)
+- 2025-03-28, **Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2503.22496v1](http://arxiv.org/abs/2503.22496v1)
+- 2025-03-28, **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**, Fuhao Li et.al., Paper: [http://arxiv.org/abs/2503.22436v1](http://arxiv.org/abs/2503.22436v1)
+- 2025-03-28, **VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**, Yancong Lin et.al., Paper: [http://arxiv.org/abs/2503.22328v1](http://arxiv.org/abs/2503.22328v1)
+- 2025-03-28, **A Dataset for Semantic Segmentation in the Presence of Unknowns**, Zakaria Laskar et.al., Paper: [http://arxiv.org/abs/2503.22309v1](http://arxiv.org/abs/2503.22309v1)
+- 2025-03-28, **CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving**, Xinwei Gao et.al., Paper: [http://arxiv.org/abs/2503.22248v1](http://arxiv.org/abs/2503.22248v1)
+- 2025-03-28, **CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**, Yishen Ji et.al., Paper: [http://arxiv.org/abs/2503.22231v1](http://arxiv.org/abs/2503.22231v1)
+- 2025-03-28, **Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**, Jaewoo Jeong et.al., Paper: [http://arxiv.org/abs/2503.22201v1](http://arxiv.org/abs/2503.22201v1)
+- 2025-03-28, **Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**, Seokha Moon et.al., Paper: [http://arxiv.org/abs/2503.22087v1](http://arxiv.org/abs/2503.22087v1)
+- 2025-03-28, **A Deep Learning Framework for Boundary-Aware Semantic Segmentation**, Tai An et.al., Paper: [http://arxiv.org/abs/2503.22050v1](http://arxiv.org/abs/2503.22050v1)
 - 2025-03-27, **InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**, Kuang Wu et.al., Paper: [http://arxiv.org/abs/2503.21659v1](http://arxiv.org/abs/2503.21659v1)
 - 2025-03-27, **Towards Fully Automated Decision-Making Systems for Greenhouse Control: Challenges and Opportunities**, Yongshuai Liu et.al., Paper: [http://arxiv.org/abs/2503.21640v1](http://arxiv.org/abs/2503.21640v1)
 - 2025-03-27, **Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**, Yue Li et.al., Paper: [http://arxiv.org/abs/2503.21505v1](http://arxiv.org/abs/2503.21505v1)
