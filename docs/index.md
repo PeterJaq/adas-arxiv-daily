@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24381v1-b31b1b.svg)](http://arxiv.org/abs/2503.24381v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasl-lab/uniocc)**|
+|**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24320v1-b31b1b.svg)](http://arxiv.org/abs/2503.24320v1)|null|
+|**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24091v1-b31b1b.svg)](http://arxiv.org/abs/2503.24091v1)|null|
+|**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23993v1-b31b1b.svg)](http://arxiv.org/abs/2503.23993v1)|null|
+|**2025-03-31**|**Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving**|Miao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23965v1-b31b1b.svg)](http://arxiv.org/abs/2503.23965v1)|null|
+|**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23963v1-b31b1b.svg)](http://arxiv.org/abs/2503.23963v1)|null|
+|**2025-03-31**|**GLane3D : Detecting Lanes with Graph of 3D Keypoints**|Halil İbrahim Öztürk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23882v1-b31b1b.svg)](http://arxiv.org/abs/2503.23882v1)|null|
+|**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23765v1-b31b1b.svg)](http://arxiv.org/abs/2503.23765v1)|null|
+|**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23708v1-b31b1b.svg)](http://arxiv.org/abs/2503.23708v1)|null|
+|**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23650v1-b31b1b.svg)](http://arxiv.org/abs/2503.23650v1)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22541v1-b31b1b.svg)](http://arxiv.org/abs/2503.22541v1)|null|
 |**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22496v1-b31b1b.svg)](http://arxiv.org/abs/2503.22496v1)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22436v1-b31b1b.svg)](http://arxiv.org/abs/2503.22436v1)|null|

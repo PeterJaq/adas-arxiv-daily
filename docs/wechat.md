@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-03-31, **UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**, Yuping Wang et.al., Paper: [http://arxiv.org/abs/2503.24381v1](http://arxiv.org/abs/2503.24381v1), Code: **[https://github.com/tasl-lab/uniocc](https://github.com/tasl-lab/uniocc)**
+- 2025-03-31, **Can Test-Time Scaling Improve World Foundation Model?**, Wenyan Cong et.al., Paper: [http://arxiv.org/abs/2503.24320v1](http://arxiv.org/abs/2503.24320v1)
+- 2025-03-31, **4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2503.24091v1](http://arxiv.org/abs/2503.24091v1)
+- 2025-03-31, **DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**, Ming Yuan et.al., Paper: [http://arxiv.org/abs/2503.23993v1](http://arxiv.org/abs/2503.23993v1)
+- 2025-03-31, **Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving**, Miao Fan et.al., Paper: [http://arxiv.org/abs/2503.23965v1](http://arxiv.org/abs/2503.23965v1)
+- 2025-03-31, **A Benchmark for Vision-Centric HD Mapping by V2I Systems**, Miao Fan et.al., Paper: [http://arxiv.org/abs/2503.23963v1](http://arxiv.org/abs/2503.23963v1)
+- 2025-03-31, **GLane3D : Detecting Lanes with Graph of 3D Keypoints**, Halil İbrahim Öztürk et.al., Paper: [http://arxiv.org/abs/2503.23882v1](http://arxiv.org/abs/2503.23882v1)
+- 2025-03-31, **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**, Yun Li et.al., Paper: [http://arxiv.org/abs/2503.23765v1](http://arxiv.org/abs/2503.23765v1)
+- 2025-03-31, **Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**, Jingzheng Li et.al., Paper: [http://arxiv.org/abs/2503.23708v1](http://arxiv.org/abs/2503.23708v1)
+- 2025-03-31, **A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**, Zhuoren Li et.al., Paper: [http://arxiv.org/abs/2503.23650v1](http://arxiv.org/abs/2503.23650v1)
 - 2025-03-28, **SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.22541v1](http://arxiv.org/abs/2503.22541v1)
 - 2025-03-28, **Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2503.22496v1](http://arxiv.org/abs/2503.22496v1)
 - 2025-03-28, **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**, Fuhao Li et.al., Paper: [http://arxiv.org/abs/2503.22436v1](http://arxiv.org/abs/2503.22436v1)
