@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-04-02, **GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**, Shu-Wei Lu et.al., Paper: [http://arxiv.org/abs/2504.01957v1](http://arxiv.org/abs/2504.01957v1)
+- 2025-04-02, **End-to-End Driving with Online Trajectory Evaluation via BEV World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2504.01941v1](http://arxiv.org/abs/2504.01941v1)
+- 2025-04-02, **Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**, Junjie Chen et.al., Paper: [http://arxiv.org/abs/2504.01668v1](http://arxiv.org/abs/2504.01668v1)
+- 2025-04-02, **Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**, Luca Garello et.al., Paper: [http://arxiv.org/abs/2504.01588v1](http://arxiv.org/abs/2504.01588v1)
+- 2025-04-02, **Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**, Ting Meng et.al., Paper: [http://arxiv.org/abs/2504.01457v1](http://arxiv.org/abs/2504.01457v1)
+- 2025-04-02, **DF-Calib: Targetless LiDAR-Camera Calibration via Depth Flow**, Shu Han et.al., Paper: [http://arxiv.org/abs/2504.01416v1](http://arxiv.org/abs/2504.01416v1)
+- 2025-04-02, **Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**, Sorin Grigorescu et.al., Paper: [http://arxiv.org/abs/2504.01336v1](http://arxiv.org/abs/2504.01336v1)
+- 2025-04-01, **Foundation Models for Autonomous Driving System: An Initial Roadmap**, Xiongfei Wu et.al., Paper: [http://arxiv.org/abs/2504.00911v1](http://arxiv.org/abs/2504.00911v1)
+- 2025-04-01, **NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**, Mahan Rafidashti et.al., Paper: [http://arxiv.org/abs/2504.00859v1](http://arxiv.org/abs/2504.00859v1)
+- 2025-04-01, **UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2504.00763v1](http://arxiv.org/abs/2504.00763v1)
 - 2025-03-31, **UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**, Yuping Wang et.al., Paper: [http://arxiv.org/abs/2503.24381v1](http://arxiv.org/abs/2503.24381v1), Code: **[https://github.com/tasl-lab/uniocc](https://github.com/tasl-lab/uniocc)**
 - 2025-03-31, **Can Test-Time Scaling Improve World Foundation Model?**, Wenyan Cong et.al., Paper: [http://arxiv.org/abs/2503.24320v1](http://arxiv.org/abs/2503.24320v1)
 - 2025-03-31, **4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2503.24091v1](http://arxiv.org/abs/2503.24091v1)
