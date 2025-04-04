@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01957v1-b31b1b.svg)](http://arxiv.org/abs/2504.01957v1)|null|
+|**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01957v2-b31b1b.svg)](http://arxiv.org/abs/2504.01957v2)|null|
 |**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01941v1-b31b1b.svg)](http://arxiv.org/abs/2504.01941v1)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01668v1-b31b1b.svg)](http://arxiv.org/abs/2504.01668v1)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01588v1-b31b1b.svg)](http://arxiv.org/abs/2504.01588v1)|null|
