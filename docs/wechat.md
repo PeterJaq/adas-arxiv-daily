@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-04-03, **RBR4DNN: Requirements-based Testing of Neural Networks**, Nusrat Jahan Mozumder et.al., Paper: [http://arxiv.org/abs/2504.02737v1](http://arxiv.org/abs/2504.02737v1)
+- 2025-04-03, **CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**, Jingyi Wang et.al., Paper: [http://arxiv.org/abs/2504.02450v1](http://arxiv.org/abs/2504.02450v1)
+- 2025-04-03, **On learning racing policies with reinforcement learning**, Grzegorz Czechmanowski et.al., Paper: [http://arxiv.org/abs/2504.02420v1](http://arxiv.org/abs/2504.02420v1)
+- 2025-04-03, **MinkOcc: Towards real-time label-efficient semantic occupancy prediction**, Samuel Sze et.al., Paper: [http://arxiv.org/abs/2504.02270v1](http://arxiv.org/abs/2504.02270v1)
 - 2025-04-03, **Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**, Shu-Wei Lu et.al., Paper: [http://arxiv.org/abs/2504.01957v2](http://arxiv.org/abs/2504.01957v2)
 - 2025-04-02, **End-to-End Driving with Online Trajectory Evaluation via BEV World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2504.01941v1](http://arxiv.org/abs/2504.01941v1)
 - 2025-04-02, **Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**, Junjie Chen et.al., Paper: [http://arxiv.org/abs/2504.01668v1](http://arxiv.org/abs/2504.01668v1)
