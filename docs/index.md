@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**RBR4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02737v1-b31b1b.svg)](http://arxiv.org/abs/2504.02737v1)|null|
+|**2025-04-04**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02737v2-b31b1b.svg)](http://arxiv.org/abs/2504.02737v2)|null|
 |**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02450v1-b31b1b.svg)](http://arxiv.org/abs/2504.02450v1)|null|
 |**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02420v1-b31b1b.svg)](http://arxiv.org/abs/2504.02420v1)|null|
 |**2025-04-03**|**MinkOcc: Towards real-time label-efficient semantic occupancy prediction**|Samuel Sze et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02270v1-b31b1b.svg)](http://arxiv.org/abs/2504.02270v1)|null|
