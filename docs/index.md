@@ -9,9 +9,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03563v1-b31b1b.svg)](http://arxiv.org/abs/2504.03563v1)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03438v1-b31b1b.svg)](http://arxiv.org/abs/2504.03438v1)|null|
+|**2025-04-07**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03438v2-b31b1b.svg)](http://arxiv.org/abs/2504.03438v2)|null|
 |**2025-04-04**|**Verification of Autonomous Neural Car Control with KeYmaera X**|Enguerrand Prebet et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03272v1-b31b1b.svg)](http://arxiv.org/abs/2504.03272v1)|null|
-|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03164v1-b31b1b.svg)](http://arxiv.org/abs/2504.03164v1)|null|
+|**2025-04-07**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03164v2-b31b1b.svg)](http://arxiv.org/abs/2504.03164v2)|null|
 |**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02918v1-b31b1b.svg)](http://arxiv.org/abs/2504.02918v1)|null|
 |**2025-04-04**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02737v2-b31b1b.svg)](http://arxiv.org/abs/2504.02737v2)|null|
 |**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02450v1-b31b1b.svg)](http://arxiv.org/abs/2504.02450v1)|null|
