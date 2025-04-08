@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-04-07, **Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**, Wenzhao Tang et.al., Paper: [http://arxiv.org/abs/2504.05249v1](http://arxiv.org/abs/2504.05249v1)
+- 2025-04-07, **Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**, Yu Min Park et.al., Paper: [http://arxiv.org/abs/2504.05187v1](http://arxiv.org/abs/2504.05187v1)
+- 2025-04-07, **Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**, Jon Gutiérrez Zaballa et.al., Paper: [http://arxiv.org/abs/2504.05119v1](http://arxiv.org/abs/2504.05119v1)
+- 2025-04-07, **MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2504.05059v1](http://arxiv.org/abs/2504.05059v1)
+- 2025-04-07, **Cloud-Fog Automation: The New Paradigm towards Autonomous Industrial Cyber-Physical Systems**, Jiong Jin et.al., Paper: [http://arxiv.org/abs/2504.04908v1](http://arxiv.org/abs/2504.04908v1)
+- 2025-04-07, **GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**, Yunxiang Liu et.al., Paper: [http://arxiv.org/abs/2504.04862v1](http://arxiv.org/abs/2504.04862v1)
+- 2025-04-07, **Prior2Former -- Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation**, Sebastian Schmidt et.al., Paper: [http://arxiv.org/abs/2504.04841v1](http://arxiv.org/abs/2504.04841v1)
+- 2025-04-07, **Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**, Zhenxing Ming et.al., Paper: [http://arxiv.org/abs/2504.04732v1](http://arxiv.org/abs/2504.04732v1)
+- 2025-04-07, **Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**, Songyang Liu et.al., Paper: [http://arxiv.org/abs/2504.04691v1](http://arxiv.org/abs/2504.04691v1)
+- 2025-04-06, **Targetless LiDAR-Camera Calibration with Anchored 3D Gaussians**, Haebeom Jung et.al., Paper: [http://arxiv.org/abs/2504.04597v1](http://arxiv.org/abs/2504.04597v1)
 - 2025-04-04, **PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**, Kaidong Li et.al., Paper: [http://arxiv.org/abs/2504.03563v1](http://arxiv.org/abs/2504.03563v1)
 - 2025-04-07, **ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**, Sheng Yang et.al., Paper: [http://arxiv.org/abs/2504.03438v2](http://arxiv.org/abs/2504.03438v2)
 - 2025-04-04, **Verification of Autonomous Neural Car Control with KeYmaera X**, Enguerrand Prebet et.al., Paper: [http://arxiv.org/abs/2504.03272v1](http://arxiv.org/abs/2504.03272v1)
