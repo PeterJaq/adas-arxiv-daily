@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-04-08, **Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**, Abinav Kalyanasundaram et.al., Paper: [http://arxiv.org/abs/2504.06105v1](http://arxiv.org/abs/2504.06105v1)
+- 2025-04-08, **PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**, Sriram Mandalika et.al., Paper: [http://arxiv.org/abs/2504.05908v1](http://arxiv.org/abs/2504.05908v1)
+- 2025-04-08, **Momentum Boosted Episodic Memory for Improving Learning in Long-Tailed RL Environments**, Dolton Fernandes et.al., Paper: [http://arxiv.org/abs/2504.05840v1](http://arxiv.org/abs/2504.05840v1)
+- 2025-04-08, **SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2504.05727v1](http://arxiv.org/abs/2504.05727v1), Code: **[https://github.com/HopeYless/SAP-CoPE-Project](https://github.com/HopeYless/SAP-CoPE-Project)**
+- 2025-04-08, **POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2504.05649v1](http://arxiv.org/abs/2504.05649v1)
 - 2025-04-07, **Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**, Wenzhao Tang et.al., Paper: [http://arxiv.org/abs/2504.05249v1](http://arxiv.org/abs/2504.05249v1)
 - 2025-04-07, **Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**, Yu Min Park et.al., Paper: [http://arxiv.org/abs/2504.05187v1](http://arxiv.org/abs/2504.05187v1)
 - 2025-04-07, **Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**, Jon Gutiérrez Zaballa et.al., Paper: [http://arxiv.org/abs/2504.05119v1](http://arxiv.org/abs/2504.05119v1)
