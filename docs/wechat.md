@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-04-09, **MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**, Chang Nie et.al., Paper: [http://arxiv.org/abs/2504.06863v1](http://arxiv.org/abs/2504.06863v1)
+- 2025-04-09, **Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**, Kaifeng Wang et.al., Paper: [http://arxiv.org/abs/2504.06670v1](http://arxiv.org/abs/2504.06670v1)
+- 2025-04-09, **Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**, Nan Peng et.al., Paper: [http://arxiv.org/abs/2504.06647v1](http://arxiv.org/abs/2504.06647v1)
+- 2025-04-09, **CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**, Junrui Zhang et.al., Paper: [http://arxiv.org/abs/2504.06584v1](http://arxiv.org/abs/2504.06584v1)
 - 2025-04-08, **Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**, Abinav Kalyanasundaram et.al., Paper: [http://arxiv.org/abs/2504.06105v1](http://arxiv.org/abs/2504.06105v1)
 - 2025-04-08, **PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**, Sriram Mandalika et.al., Paper: [http://arxiv.org/abs/2504.05908v1](http://arxiv.org/abs/2504.05908v1)
 - 2025-04-08, **Momentum Boosted Episodic Memory for Improving Learning in Long-Tailed RL Environments**, Dolton Fernandes et.al., Paper: [http://arxiv.org/abs/2504.05840v1](http://arxiv.org/abs/2504.05840v1)
