@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07958v1-b31b1b.svg)](http://arxiv.org/abs/2504.07958v1)|null|
+|**2025-04-10**|**RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**|Youngwan Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07603v1-b31b1b.svg)](http://arxiv.org/abs/2504.07603v1)|null|
+|**2025-04-10**|**Enhancements for Developing a Comprehensive AI Fairness Assessment Standard**|Avinash Agarwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07516v1-b31b1b.svg)](http://arxiv.org/abs/2504.07516v1)|null|
+|**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07507v1-b31b1b.svg)](http://arxiv.org/abs/2504.07507v1)|null|
+|**2025-04-10**|**State Estimation Using Particle Filtering in Adaptive Machine Learning Methods: Integrating Q-Learning and NEAT Algorithms with Noisy Radar Measurements**|Wonjin Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07393v1-b31b1b.svg)](http://arxiv.org/abs/2504.07393v1)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06863v1-b31b1b.svg)](http://arxiv.org/abs/2504.06863v1)|null|
 |**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06670v1-b31b1b.svg)](http://arxiv.org/abs/2504.06670v1)|null|
 |**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v2-b31b1b.svg)](http://arxiv.org/abs/2504.06647v2)|null|
