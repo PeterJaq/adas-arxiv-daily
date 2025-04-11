@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06863v1-b31b1b.svg)](http://arxiv.org/abs/2504.06863v1)|null|
 |**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06670v1-b31b1b.svg)](http://arxiv.org/abs/2504.06670v1)|null|
-|**2025-04-09**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v1-b31b1b.svg)](http://arxiv.org/abs/2504.06647v1)|null|
+|**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v2-b31b1b.svg)](http://arxiv.org/abs/2504.06647v2)|null|
 |**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Junrui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06584v1-b31b1b.svg)](http://arxiv.org/abs/2504.06584v1)|null|
 |**2025-04-08**|**Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**|Abinav Kalyanasundaram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06105v1-b31b1b.svg)](http://arxiv.org/abs/2504.06105v1)|null|
 |**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.05908v1-b31b1b.svg)](http://arxiv.org/abs/2504.05908v1)|null|
