@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-04-11, **Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**, Vinal Asodia et.al., Paper: [http://arxiv.org/abs/2504.08704v1](http://arxiv.org/abs/2504.08704v1)
+- 2025-04-11, **TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**, Neil Reichlin et.al., Paper: [http://arxiv.org/abs/2504.08655v1](http://arxiv.org/abs/2504.08655v1)
+- 2025-04-11, **Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**, Mohamed Sabry et.al., Paper: [http://arxiv.org/abs/2504.08551v1](http://arxiv.org/abs/2504.08551v1)
+- 2025-04-11, **Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review**, Jörg Gamerdinger et.al., Paper: [http://arxiv.org/abs/2504.08540v1](http://arxiv.org/abs/2504.08540v1)
+- 2025-04-11, **Road Grip Uncertainty Estimation Through Surface State Segmentation**, Jyri Maanpää et.al., Paper: [http://arxiv.org/abs/2504.08452v1](http://arxiv.org/abs/2504.08452v1)
+- 2025-04-11, **SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis**, Yi Chen et.al., Paper: [http://arxiv.org/abs/2504.08361v1](http://arxiv.org/abs/2504.08361v1)
+- 2025-04-11, **InSPE: Rapid Evaluation of Heterogeneous Multi-Modal Infrastructure Sensor Placement**, Zhaoliang Zheng et.al., Paper: [http://arxiv.org/abs/2504.08240v1](http://arxiv.org/abs/2504.08240v1)
+- 2025-04-11, **VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**, Ziyan Liu et.al., Paper: [http://arxiv.org/abs/2504.08219v1](http://arxiv.org/abs/2504.08219v1)
+- 2025-04-11, **EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**, Minjae Seo et.al., Paper: [http://arxiv.org/abs/2504.08205v1](http://arxiv.org/abs/2504.08205v1)
+- 2025-04-10, **Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**, Yiqiao Li et.al., Paper: [http://arxiv.org/abs/2504.08154v1](http://arxiv.org/abs/2504.08154v1)
 - 2025-04-10, **Detect Anything 3D in the Wild**, Hanxue Zhang et.al., Paper: [http://arxiv.org/abs/2504.07958v1](http://arxiv.org/abs/2504.07958v1)
 - 2025-04-10, **RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**, Youngwan Jin et.al., Paper: [http://arxiv.org/abs/2504.07603v1](http://arxiv.org/abs/2504.07603v1)
 - 2025-04-10, **Enhancements for Developing a Comprehensive AI Fairness Assessment Standard**, Avinash Agarwal et.al., Paper: [http://arxiv.org/abs/2504.07516v1](http://arxiv.org/abs/2504.07516v1)
