@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-04-14, **Decoupled Diffusion Sparks Adaptive Scene Generation**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2504.10485v1](http://arxiv.org/abs/2504.10485v1)
+- 2025-04-14, **Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**, Xiaoshan Zhou et.al., Paper: [http://arxiv.org/abs/2504.10296v1](http://arxiv.org/abs/2504.10296v1)
+- 2025-04-14, **Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**, Jingyun Yang et.al., Paper: [http://arxiv.org/abs/2504.10281v1](http://arxiv.org/abs/2504.10281v1)
+- 2025-04-14, **LMFormer: Lane based Motion Prediction Transformer**, Harsh Yadav et.al., Paper: [http://arxiv.org/abs/2504.10275v1](http://arxiv.org/abs/2504.10275v1)
+- 2025-04-14, **Vision based driving agent for race car simulation environments**, Gergely Bári et.al., Paper: [http://arxiv.org/abs/2504.10266v1](http://arxiv.org/abs/2504.10266v1)
+- 2025-04-14, **Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**, Jiani Ni et.al., Paper: [http://arxiv.org/abs/2504.10007v1](http://arxiv.org/abs/2504.10007v1)
+- 2025-04-14, **Towards Resilient Tracking in Autonomous Vehicles: A Distributionally Robust Input and State Estimation Approach**, Kasra Azizi et.al., Paper: [http://arxiv.org/abs/2504.09974v1](http://arxiv.org/abs/2504.09974v1)
+- 2025-04-13, **FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's Eye View**, Yuting Zhao et.al., Paper: [http://arxiv.org/abs/2504.09535v1](http://arxiv.org/abs/2504.09535v1)
+- 2025-04-13, **ADDT -- A Digital Twin Framework for Proactive Safety Validation in Autonomous Driving Systems**, Bo Yu et.al., Paper: [http://arxiv.org/abs/2504.09461v1](http://arxiv.org/abs/2504.09461v1)
+- 2025-04-12, **Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation**, Hsuan Wei Liao et.al., Paper: [http://arxiv.org/abs/2504.09341v1](http://arxiv.org/abs/2504.09341v1)
 - 2025-04-11, **Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**, Vinal Asodia et.al., Paper: [http://arxiv.org/abs/2504.08704v1](http://arxiv.org/abs/2504.08704v1)
 - 2025-04-11, **TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**, Neil Reichlin et.al., Paper: [http://arxiv.org/abs/2504.08655v1](http://arxiv.org/abs/2504.08655v1)
 - 2025-04-11, **Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**, Mohamed Sabry et.al., Paper: [http://arxiv.org/abs/2504.08551v1](http://arxiv.org/abs/2504.08551v1)
