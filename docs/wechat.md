@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-04-16, **Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**, Yafeng Bu et.al., Paper: [http://arxiv.org/abs/2504.12109v1](http://arxiv.org/abs/2504.12109v1)
+- 2025-04-16, **Contract-based hierarchical control using predictive feasibility value functions**, Felix Berkel et.al., Paper: [http://arxiv.org/abs/2504.12036v1](http://arxiv.org/abs/2504.12036v1)
+- 2025-04-15, **LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation**, Wei-Jer Chang et.al., Paper: [http://arxiv.org/abs/2504.11521v1](http://arxiv.org/abs/2504.11521v1)
+- 2025-04-15, **Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**, Nicolas Baumann et.al., Paper: [http://arxiv.org/abs/2504.11514v1](http://arxiv.org/abs/2504.11514v1)
+- 2025-04-15, **Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**, Hongliang Lu et.al., Paper: [http://arxiv.org/abs/2504.11506v1](http://arxiv.org/abs/2504.11506v1)
 - 2025-04-16, **GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***, Eunsoo Im et.al., Paper: [http://arxiv.org/abs/2504.11014v2](http://arxiv.org/abs/2504.11014v2)
 - 2025-04-15, **Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**, Tonko E. W. Bossen et.al., Paper: [http://arxiv.org/abs/2504.10873v1](http://arxiv.org/abs/2504.10873v1)
 - 2025-04-15, **PatrolVision: Automated License Plate Recognition in the wild**, Anmol Singhal Navya Singhal et.al., Paper: [http://arxiv.org/abs/2504.10810v1](http://arxiv.org/abs/2504.10810v1)

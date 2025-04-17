@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12109v1-b31b1b.svg)](http://arxiv.org/abs/2504.12109v1)|null|
+|**2025-04-16**|**Contract-based hierarchical control using predictive feasibility value functions**|Felix Berkel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12036v1-b31b1b.svg)](http://arxiv.org/abs/2504.12036v1)|null|
+|**2025-04-15**|**LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation**|Wei-Jer Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11521v1-b31b1b.svg)](http://arxiv.org/abs/2504.11521v1)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
+|**2025-04-15**|**Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**|Hongliang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11506v1-b31b1b.svg)](http://arxiv.org/abs/2504.11506v1)|null|
 |**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v2-b31b1b.svg)](http://arxiv.org/abs/2504.11014v2)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10873v1-b31b1b.svg)](http://arxiv.org/abs/2504.10873v1)|null|
 |**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10810v1-b31b1b.svg)](http://arxiv.org/abs/2504.10810v1)|null|
