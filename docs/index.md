@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v1-b31b1b.svg)](http://arxiv.org/abs/2504.11014v1)|null|
+|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v2-b31b1b.svg)](http://arxiv.org/abs/2504.11014v2)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10873v1-b31b1b.svg)](http://arxiv.org/abs/2504.10873v1)|null|
 |**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10810v1-b31b1b.svg)](http://arxiv.org/abs/2504.10810v1)|null|
 |**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10757v1-b31b1b.svg)](http://arxiv.org/abs/2504.10757v1)|null|

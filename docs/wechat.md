@@ -1,8 +1,8 @@
-> Updated on 2025.04.16
+> Updated on 2025.04.17
 
 ## Autonomous_Driving
 
-- 2025-04-15, **GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***, Eunsoo Im et.al., Paper: [http://arxiv.org/abs/2504.11014v1](http://arxiv.org/abs/2504.11014v1)
+- 2025-04-16, **GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***, Eunsoo Im et.al., Paper: [http://arxiv.org/abs/2504.11014v2](http://arxiv.org/abs/2504.11014v2)
 - 2025-04-15, **Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**, Tonko E. W. Bossen et.al., Paper: [http://arxiv.org/abs/2504.10873v1](http://arxiv.org/abs/2504.10873v1)
 - 2025-04-15, **PatrolVision: Automated License Plate Recognition in the wild**, Anmol Singhal Navya Singhal et.al., Paper: [http://arxiv.org/abs/2504.10810v1](http://arxiv.org/abs/2504.10810v1)
 - 2025-04-14, **ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**, Amirhosein Chahe et.al., Paper: [http://arxiv.org/abs/2504.10757v1](http://arxiv.org/abs/2504.10757v1)
