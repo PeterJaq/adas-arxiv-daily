@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12826v1-b31b1b.svg)](http://arxiv.org/abs/2504.12826v1)|null|
+|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12817v1-b31b1b.svg)](http://arxiv.org/abs/2504.12817v1)|null|
+|**2025-04-17**|**Approaching Current Challenges in Developing a Software Stack for Fully Autonomous Driving**|Simon Sagmeister et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12813v1-b31b1b.svg)](http://arxiv.org/abs/2504.12813v1)|null|
+|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12709v1-b31b1b.svg)](http://arxiv.org/abs/2504.12709v1)|null|
+|**2025-04-17**|**Collaborative Perception Datasets for Autonomous Driving: A Review**|Naibang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12696v1-b31b1b.svg)](http://arxiv.org/abs/2504.12696v1)|null|
+|**2025-04-17**|**Two Tasks, One Goal: Uniting Motion and Planning for Excellent End To End Autonomous Driving Performance**|Lin Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12667v1-b31b1b.svg)](http://arxiv.org/abs/2504.12667v1)|null|
 |**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12109v1-b31b1b.svg)](http://arxiv.org/abs/2504.12109v1)|null|
 |**2025-04-16**|**Contract-based hierarchical control using predictive feasibility value functions**|Felix Berkel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12036v1-b31b1b.svg)](http://arxiv.org/abs/2504.12036v1)|null|
 |**2025-04-15**|**LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation**|Wei-Jer Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11521v1-b31b1b.svg)](http://arxiv.org/abs/2504.11521v1)|null|
