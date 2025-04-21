@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-04-18, **LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**, Shanshuai Yuan et.al., Paper: [http://arxiv.org/abs/2504.13596v1](http://arxiv.org/abs/2504.13596v1)
+- 2025-04-18, **Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**, Haoxiang Tian et.al., Paper: [http://arxiv.org/abs/2504.13420v1](http://arxiv.org/abs/2504.13420v1)
+- 2025-04-18, **LangCoop: Collaborative Driving with Language**, Xiangbo Gao et.al., Paper: [http://arxiv.org/abs/2504.13406v1](http://arxiv.org/abs/2504.13406v1), Code: **[https://github.com/taco-group/LangCoop](https://github.com/taco-group/LangCoop)**
+- 2025-04-18, **Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**, Shashank Shriram et.al., Paper: [http://arxiv.org/abs/2504.13399v1](http://arxiv.org/abs/2504.13399v1)
 - 2025-04-17, **UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**, Pengxuan Yang et.al., Paper: [http://arxiv.org/abs/2504.12826v1](http://arxiv.org/abs/2504.12826v1)
 - 2025-04-17, **Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**, Nassim Belmecheri et.al., Paper: [http://arxiv.org/abs/2504.12817v1](http://arxiv.org/abs/2504.12817v1)
 - 2025-04-17, **Approaching Current Challenges in Developing a Software Stack for Fully Autonomous Driving**, Simon Sagmeister et.al., Paper: [http://arxiv.org/abs/2504.12813v1](http://arxiv.org/abs/2504.12813v1)
