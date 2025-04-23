@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-04-22, **RaSCL: Radar to Satellite Crossview Localization**, Blerim Abdullai et.al., Paper: [http://arxiv.org/abs/2504.15899v1](http://arxiv.org/abs/2504.15899v1)
+- 2025-04-22, **MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**, Zhiqiang Wei et.al., Paper: [http://arxiv.org/abs/2504.15888v1](http://arxiv.org/abs/2504.15888v1)
+- 2025-04-22, **Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**, Quentin Herau et.al., Paper: [http://arxiv.org/abs/2504.15776v1](http://arxiv.org/abs/2504.15776v1)
+- 2025-04-22, **Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**, Tobias Demmler et.al., Paper: [http://arxiv.org/abs/2504.15766v1](http://arxiv.org/abs/2504.15766v1)
+- 2025-04-22, **SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**, Manjunath D et.al., Paper: [http://arxiv.org/abs/2504.15728v1](http://arxiv.org/abs/2504.15728v1)
+- 2025-04-22, **RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**, Qichao Liu et.al., Paper: [http://arxiv.org/abs/2504.15541v1](http://arxiv.org/abs/2504.15541v1)
+- 2025-04-21, **Improving Human-AI Coordination through Adversarial Training and Generative Models**, Paresh Chaudhary et.al., Paper: [http://arxiv.org/abs/2504.15457v1](http://arxiv.org/abs/2504.15457v1)
 - 2025-04-20, **Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**, Qinghao Li et.al., Paper: [http://arxiv.org/abs/2504.14747v1](http://arxiv.org/abs/2504.14747v1)
 - 2025-04-20, **SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking**, Shang Zhang et.al., Paper: [http://arxiv.org/abs/2504.14566v1](http://arxiv.org/abs/2504.14566v1)
 - 2025-04-20, **Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**, Linkun Liu et.al., Paper: [http://arxiv.org/abs/2504.14539v1](http://arxiv.org/abs/2504.14539v1)

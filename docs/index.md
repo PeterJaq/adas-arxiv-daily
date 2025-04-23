@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15899v1-b31b1b.svg)](http://arxiv.org/abs/2504.15899v1)|null|
+|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15888v1-b31b1b.svg)](http://arxiv.org/abs/2504.15888v1)|null|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15776v1-b31b1b.svg)](http://arxiv.org/abs/2504.15776v1)|null|
+|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15766v1-b31b1b.svg)](http://arxiv.org/abs/2504.15766v1)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15728v1-b31b1b.svg)](http://arxiv.org/abs/2504.15728v1)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15541v1-b31b1b.svg)](http://arxiv.org/abs/2504.15541v1)|null|
+|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15457v1-b31b1b.svg)](http://arxiv.org/abs/2504.15457v1)|null|
 |**2025-04-20**|**Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**|Qinghao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14747v1-b31b1b.svg)](http://arxiv.org/abs/2504.14747v1)|null|
 |**2025-04-20**|**SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking**|Shang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14566v1-b31b1b.svg)](http://arxiv.org/abs/2504.14566v1)|null|
 |**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14539v1-b31b1b.svg)](http://arxiv.org/abs/2504.14539v1)|null|
