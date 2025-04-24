@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16923v1-b31b1b.svg)](http://arxiv.org/abs/2504.16923v1)|null|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16740v1-b31b1b.svg)](http://arxiv.org/abs/2504.16740v1)|null|
+|**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16548v1-b31b1b.svg)](http://arxiv.org/abs/2504.16548v1)|null|
+|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16526v1-b31b1b.svg)](http://arxiv.org/abs/2504.16526v1)|null|
+|**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16397v1-b31b1b.svg)](http://arxiv.org/abs/2504.16397v1)|null|
+|**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16377v1-b31b1b.svg)](http://arxiv.org/abs/2504.16377v1)|null|
+|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16368v1-b31b1b.svg)](http://arxiv.org/abs/2504.16368v1)|null|
 |**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15899v1-b31b1b.svg)](http://arxiv.org/abs/2504.15899v1)|null|
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15888v1-b31b1b.svg)](http://arxiv.org/abs/2504.15888v1)|null|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15776v1-b31b1b.svg)](http://arxiv.org/abs/2504.15776v1)|null|

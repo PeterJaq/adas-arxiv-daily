@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
+- 2025-04-23, **Gaussian Splatting is an Effective Data Generator for 3D Object Detection**, Farhad G. Zanjani et.al., Paper: [http://arxiv.org/abs/2504.16740v1](http://arxiv.org/abs/2504.16740v1)
+- 2025-04-23, **Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**, Lirui Guo et.al., Paper: [http://arxiv.org/abs/2504.16548v1](http://arxiv.org/abs/2504.16548v1)
+- 2025-04-23, **Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**, Michael Foster et.al., Paper: [http://arxiv.org/abs/2504.16526v1](http://arxiv.org/abs/2504.16526v1)
+- 2025-04-23, **Circinus: Efficient Query Planner for Compound ML Serving**, Banruo Liu et.al., Paper: [http://arxiv.org/abs/2504.16397v1](http://arxiv.org/abs/2504.16397v1)
+- 2025-04-23, **SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**, Qu Weiming et.al., Paper: [http://arxiv.org/abs/2504.16377v1](http://arxiv.org/abs/2504.16377v1)
+- 2025-04-23, **Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**, Linhua Kong et.al., Paper: [http://arxiv.org/abs/2504.16368v1](http://arxiv.org/abs/2504.16368v1)
 - 2025-04-22, **RaSCL: Radar to Satellite Crossview Localization**, Blerim Abdullai et.al., Paper: [http://arxiv.org/abs/2504.15899v1](http://arxiv.org/abs/2504.15899v1)
 - 2025-04-22, **MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**, Zhiqiang Wei et.al., Paper: [http://arxiv.org/abs/2504.15888v1](http://arxiv.org/abs/2504.15888v1)
 - 2025-04-22, **Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**, Quentin Herau et.al., Paper: [http://arxiv.org/abs/2504.15776v1](http://arxiv.org/abs/2504.15776v1)
