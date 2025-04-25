@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17534v1-b31b1b.svg)](http://arxiv.org/abs/2504.17534v1)|null|
+|**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17418v1-b31b1b.svg)](http://arxiv.org/abs/2504.17418v1)|null|
+|**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17399v1-b31b1b.svg)](http://arxiv.org/abs/2504.17399v1)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17371v1-b31b1b.svg)](http://arxiv.org/abs/2504.17371v1)|null|
+|**2025-04-24**|**Improving Human-Autonomous Vehicle Interaction in Complex Systems**|Robert Kaufman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17170v1-b31b1b.svg)](http://arxiv.org/abs/2504.17170v1)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16923v1-b31b1b.svg)](http://arxiv.org/abs/2504.16923v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16740v1-b31b1b.svg)](http://arxiv.org/abs/2504.16740v1)|null|
 |**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16548v1-b31b1b.svg)](http://arxiv.org/abs/2504.16548v1)|null|
