@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18448v1-b31b1b.svg)](http://arxiv.org/abs/2504.18448v1)|null|
+|**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18439v1-b31b1b.svg)](http://arxiv.org/abs/2504.18439v1)|null|
+|**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18190v1-b31b1b.svg)](http://arxiv.org/abs/2504.18190v1)|null|
+|**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18112v1-b31b1b.svg)](http://arxiv.org/abs/2504.18112v1)|null|
+|**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18010v1-b31b1b.svg)](http://arxiv.org/abs/2504.18010v1)|null|
+|**2025-04-24**|**Virtual Roads, Smarter Safety: A Digital Twin Framework for Mixed Autonomous Traffic Safety Analysis**|Hao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17968v1-b31b1b.svg)](http://arxiv.org/abs/2504.17968v1)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17838v1-b31b1b.svg)](http://arxiv.org/abs/2504.17838v1)|null|
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17534v1-b31b1b.svg)](http://arxiv.org/abs/2504.17534v1)|null|
 |**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17418v1-b31b1b.svg)](http://arxiv.org/abs/2504.17418v1)|null|
 |**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17399v1-b31b1b.svg)](http://arxiv.org/abs/2504.17399v1)|null|
