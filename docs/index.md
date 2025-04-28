@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 
 ## Autonomous_Driving
 
@@ -11,12 +11,12 @@ layout: default
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17534v1-b31b1b.svg)](http://arxiv.org/abs/2504.17534v1)|null|
 |**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17418v1-b31b1b.svg)](http://arxiv.org/abs/2504.17418v1)|null|
 |**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17399v1-b31b1b.svg)](http://arxiv.org/abs/2504.17399v1)|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17371v1-b31b1b.svg)](http://arxiv.org/abs/2504.17371v1)|null|
+|**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17371v2-b31b1b.svg)](http://arxiv.org/abs/2504.17371v2)|null|
 |**2025-04-24**|**Improving Human-Autonomous Vehicle Interaction in Complex Systems**|Robert Kaufman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17170v1-b31b1b.svg)](http://arxiv.org/abs/2504.17170v1)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16923v1-b31b1b.svg)](http://arxiv.org/abs/2504.16923v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16740v1-b31b1b.svg)](http://arxiv.org/abs/2504.16740v1)|null|
 |**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16548v1-b31b1b.svg)](http://arxiv.org/abs/2504.16548v1)|null|
-|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16526v1-b31b1b.svg)](http://arxiv.org/abs/2504.16526v1)|null|
+|**2025-04-25**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16526v2-b31b1b.svg)](http://arxiv.org/abs/2504.16526v2)|null|
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16397v1-b31b1b.svg)](http://arxiv.org/abs/2504.16397v1)|null|
 |**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16377v1-b31b1b.svg)](http://arxiv.org/abs/2504.16377v1)|null|
 |**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16368v1-b31b1b.svg)](http://arxiv.org/abs/2504.16368v1)|null|
