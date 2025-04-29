@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20041v1-b31b1b.svg)](http://arxiv.org/abs/2504.20041v1)|null|
+|**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20004v1-b31b1b.svg)](http://arxiv.org/abs/2504.20004v1)|null|
+|**2025-04-28**|**The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**|Rupert Polley et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19722v1-b31b1b.svg)](http://arxiv.org/abs/2504.19722v1)|null|
+|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19706v1-b31b1b.svg)](http://arxiv.org/abs/2504.19706v1)|null|
+|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19580v1-b31b1b.svg)](http://arxiv.org/abs/2504.19580v1)|null|
+|**2025-04-28**|**Lifecycle Management of Optical Networks with Dynamic-Updating Digital Twin: A Hybrid Data-Driven and Physics-Informed Approach**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19564v1-b31b1b.svg)](http://arxiv.org/abs/2504.19564v1)|null|
+|**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19557v1-b31b1b.svg)](http://arxiv.org/abs/2504.19557v1)|null|
+|**2025-04-27**|**Stability analysis of dilaton-inspired scalar field within the geometrical trinity of gravity**|Youri Carloni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19245v1-b31b1b.svg)](http://arxiv.org/abs/2504.19245v1)|null|
+|**2025-04-27**|**CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19223v1-b31b1b.svg)](http://arxiv.org/abs/2504.19223v1)|null|
+|**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19186v1-b31b1b.svg)](http://arxiv.org/abs/2504.19186v1)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18448v1-b31b1b.svg)](http://arxiv.org/abs/2504.18448v1)|null|
 |**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18439v1-b31b1b.svg)](http://arxiv.org/abs/2504.18439v1)|null|
 |**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18190v1-b31b1b.svg)](http://arxiv.org/abs/2504.18190v1)|null|
