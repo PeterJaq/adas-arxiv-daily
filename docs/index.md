@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20763v1-b31b1b.svg)](http://arxiv.org/abs/2504.20763v1)|null|
+|**2025-04-29**|**Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**|Kazuma Nonomura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20542v1-b31b1b.svg)](http://arxiv.org/abs/2504.20542v1)|null|
+|**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20383v1-b31b1b.svg)](http://arxiv.org/abs/2504.20383v1)|null|
+|**2025-04-28**|**Fault Detection and Human Intervention in Vehicle Platooning: A Multi-Model Framework**|Farid Mafi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20209v1-b31b1b.svg)](http://arxiv.org/abs/2504.20209v1)|null|
+|**2025-04-28**|**AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**|Weihao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20187v1-b31b1b.svg)](http://arxiv.org/abs/2504.20187v1)|null|
+|**2025-04-28**|**Cybersecurity for Autonomous Vehicles**|Sai varun reddy Bhemavarapu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20180v1-b31b1b.svg)](http://arxiv.org/abs/2504.20180v1)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20041v1-b31b1b.svg)](http://arxiv.org/abs/2504.20041v1)|null|
 |**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20004v1-b31b1b.svg)](http://arxiv.org/abs/2504.20004v1)|null|
 |**2025-04-28**|**The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**|Rupert Polley et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19722v1-b31b1b.svg)](http://arxiv.org/abs/2504.19722v1)|null|

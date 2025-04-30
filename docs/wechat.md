@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-04-29, **Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**, Yanzhe Hu et.al., Paper: [http://arxiv.org/abs/2504.20763v1](http://arxiv.org/abs/2504.20763v1)
+- 2025-04-29, **Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**, Kazuma Nonomura et.al., Paper: [http://arxiv.org/abs/2504.20542v1](http://arxiv.org/abs/2504.20542v1)
+- 2025-04-29, **Neural Stereo Video Compression with Hybrid Disparity Compensation**, Shiyin Jiang et.al., Paper: [http://arxiv.org/abs/2504.20383v1](http://arxiv.org/abs/2504.20383v1)
+- 2025-04-28, **Fault Detection and Human Intervention in Vehicle Platooning: A Multi-Model Framework**, Farid Mafi et.al., Paper: [http://arxiv.org/abs/2504.20209v1](http://arxiv.org/abs/2504.20209v1)
+- 2025-04-28, **AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**, Weihao Sun et.al., Paper: [http://arxiv.org/abs/2504.20187v1](http://arxiv.org/abs/2504.20187v1)
+- 2025-04-28, **Cybersecurity for Autonomous Vehicles**, Sai varun reddy Bhemavarapu et.al., Paper: [http://arxiv.org/abs/2504.20180v1](http://arxiv.org/abs/2504.20180v1)
 - 2025-04-28, **Learning Streaming Video Representation via Multitask Training**, Yibin Yan et.al., Paper: [http://arxiv.org/abs/2504.20041v1](http://arxiv.org/abs/2504.20041v1)
 - 2025-04-28, **Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**, Jing Wang et.al., Paper: [http://arxiv.org/abs/2504.20004v1](http://arxiv.org/abs/2504.20004v1)
 - 2025-04-28, **The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**, Rupert Polley et.al., Paper: [http://arxiv.org/abs/2504.19722v1](http://arxiv.org/abs/2504.19722v1)
