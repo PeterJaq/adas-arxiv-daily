@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21853v1-b31b1b.svg)](http://arxiv.org/abs/2504.21853v1)|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21699v1-b31b1b.svg)](http://arxiv.org/abs/2504.21699v1)|null|
+|**2025-04-29**|**Composite Safety Potential Field for Highway Driving Risk Assessment**|Dachuan Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21158v1-b31b1b.svg)](http://arxiv.org/abs/2504.21158v1)|null|
+|**2025-04-29**|**Automated Parking Trajectory Generation Using Deep Reinforcement Learning**|Zheyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21071v1-b31b1b.svg)](http://arxiv.org/abs/2504.21071v1)|null|
 |**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20763v1-b31b1b.svg)](http://arxiv.org/abs/2504.20763v1)|null|
 |**2025-04-29**|**Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**|Kazuma Nonomura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20542v1-b31b1b.svg)](http://arxiv.org/abs/2504.20542v1)|null|
 |**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20383v1-b31b1b.svg)](http://arxiv.org/abs/2504.20383v1)|null|

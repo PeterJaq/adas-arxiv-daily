@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-04-30, **A Survey of Interactive Generative Video**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2504.21853v1](http://arxiv.org/abs/2504.21853v1)
+- 2025-04-30, **REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**, Abu Mohammed Raisuddin et.al., Paper: [http://arxiv.org/abs/2504.21699v1](http://arxiv.org/abs/2504.21699v1)
+- 2025-04-29, **Composite Safety Potential Field for Highway Driving Risk Assessment**, Dachuan Zuo et.al., Paper: [http://arxiv.org/abs/2504.21158v1](http://arxiv.org/abs/2504.21158v1)
+- 2025-04-29, **Automated Parking Trajectory Generation Using Deep Reinforcement Learning**, Zheyu Zhang et.al., Paper: [http://arxiv.org/abs/2504.21071v1](http://arxiv.org/abs/2504.21071v1)
 - 2025-04-29, **Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**, Yanzhe Hu et.al., Paper: [http://arxiv.org/abs/2504.20763v1](http://arxiv.org/abs/2504.20763v1)
 - 2025-04-29, **Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**, Kazuma Nonomura et.al., Paper: [http://arxiv.org/abs/2504.20542v1](http://arxiv.org/abs/2504.20542v1)
 - 2025-04-29, **Neural Stereo Video Compression with Hybrid Disparity Compensation**, Shiyin Jiang et.al., Paper: [http://arxiv.org/abs/2504.20383v1](http://arxiv.org/abs/2504.20383v1)
