@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00515v1-b31b1b.svg)](http://arxiv.org/abs/2505.00515v1)|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00511v1-b31b1b.svg)](http://arxiv.org/abs/2505.00511v1)|null|
+|**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00507v1-b31b1b.svg)](http://arxiv.org/abs/2505.00507v1)|null|
+|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00404v1-b31b1b.svg)](http://arxiv.org/abs/2505.00404v1)|null|
+|**2025-05-01**|**FedEMA: Federated Exponential Moving Averaging with Negative Entropy Regularizer in Autonomous Driving**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00318v1-b31b1b.svg)](http://arxiv.org/abs/2505.00318v1)|null|
+|**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00284v1-b31b1b.svg)](http://arxiv.org/abs/2505.00284v1)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00156v1-b31b1b.svg)](http://arxiv.org/abs/2505.00156v1)|null|
+|**2025-04-30**|**Routing functions for parameter space decomposition to describe stability landscapes of ecological models**|Joseph Cummings et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00128v1-b31b1b.svg)](http://arxiv.org/abs/2505.00128v1)|null|
 |**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21853v1-b31b1b.svg)](http://arxiv.org/abs/2504.21853v1)|null|
 |**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21699v1-b31b1b.svg)](http://arxiv.org/abs/2504.21699v1)|null|
 |**2025-04-29**|**Composite Safety Potential Field for Highway Driving Risk Assessment**|Dachuan Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21158v1-b31b1b.svg)](http://arxiv.org/abs/2504.21158v1)|null|
