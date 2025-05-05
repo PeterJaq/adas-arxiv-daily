@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-05-02, **Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**, Matěj Boxan et.al., Paper: [http://arxiv.org/abs/2505.01339v1](http://arxiv.org/abs/2505.01339v1)
+- 2025-05-02, **Multi-Objective Reinforcement Learning for Water Management**, Zuzanna Osika et.al., Paper: [http://arxiv.org/abs/2505.01094v1](http://arxiv.org/abs/2505.01094v1)
+- 2025-05-02, **LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**, Jiahuan Long et.al., Paper: [http://arxiv.org/abs/2505.00980v1](http://arxiv.org/abs/2505.00980v1)
+- 2025-05-02, **Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2505.00972v1](http://arxiv.org/abs/2505.00972v1)
+- 2025-05-01, **Efficient On-Chip Implementation of 4D Radar-Based 3D Object Detection on Hailo-8L**, Woong-Chan Byun et.al., Paper: [http://arxiv.org/abs/2505.00757v1](http://arxiv.org/abs/2505.00757v1)
 - 2025-05-01, **Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**, Mingxing Peng et.al., Paper: [http://arxiv.org/abs/2505.00515v1](http://arxiv.org/abs/2505.00515v1)
 - 2025-05-01, **Inconsistency-based Active Learning for LiDAR Object Detection**, Esteban Rivera et.al., Paper: [http://arxiv.org/abs/2505.00511v1](http://arxiv.org/abs/2505.00511v1)
 - 2025-05-01, **HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**, Esteban Rivera et.al., Paper: [http://arxiv.org/abs/2505.00507v1](http://arxiv.org/abs/2505.00507v1)
