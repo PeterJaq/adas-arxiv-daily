@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Shangzhe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02228v1-b31b1b.svg)](http://arxiv.org/abs/2505.02228v1)|null|
+|**2025-05-04**|**Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**|Alexey Nekrasov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02148v1-b31b1b.svg)](http://arxiv.org/abs/2505.02148v1)|null|
+|**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
+|**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
+|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01893v1-b31b1b.svg)](http://arxiv.org/abs/2505.01893v1)|null|
+|**2025-05-03**|**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**|Vladimir Frants et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01882v1-b31b1b.svg)](http://arxiv.org/abs/2505.01882v1)|null|
+|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
+|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01821v1-b31b1b.svg)](http://arxiv.org/abs/2505.01821v1)|null|
+|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01729v1-b31b1b.svg)](http://arxiv.org/abs/2505.01729v1)|null|
+|**2025-05-03**|**T-REX: Vision-Based System for Autonomous Leaf Detection and Grasp Estimation**|Srecharan Selvam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01654v1-b31b1b.svg)](http://arxiv.org/abs/2505.01654v1)|null|
 |**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01339v1-b31b1b.svg)](http://arxiv.org/abs/2505.01339v1)|null|
 |**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01094v1-b31b1b.svg)](http://arxiv.org/abs/2505.01094v1)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00980v1-b31b1b.svg)](http://arxiv.org/abs/2505.00980v1)|null|
