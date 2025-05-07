@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-05-06, **Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**, Faizan M. Tariq et.al., Paper: [http://arxiv.org/abs/2505.03695v1](http://arxiv.org/abs/2505.03695v1)
+- 2025-05-06, **Moral Testing of Autonomous Driving Systems**, Wenbing Tang et.al., Paper: [http://arxiv.org/abs/2505.03683v1](http://arxiv.org/abs/2505.03683v1)
+- 2025-05-06, **CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**, Huawei Sun et.al., Paper: [http://arxiv.org/abs/2505.03679v1](http://arxiv.org/abs/2505.03679v1)
+- 2025-05-06, **Coop-WD: Cooperative Perception with Weighting and Denoising for Robust V2V Communication**, Chenguang Liu et.al., Paper: [http://arxiv.org/abs/2505.03528v1](http://arxiv.org/abs/2505.03528v1)
+- 2025-05-06, **RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**, Keyu Chen et.al., Paper: [http://arxiv.org/abs/2505.03344v1](http://arxiv.org/abs/2505.03344v1)
+- 2025-05-06, **Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**, Kanghyun Jo et.al., Paper: [http://arxiv.org/abs/2505.03315v1](http://arxiv.org/abs/2505.03315v1)
+- 2025-05-06, **3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**, Andrew Caunes et.al., Paper: [http://arxiv.org/abs/2505.03300v1](http://arxiv.org/abs/2505.03300v1)
+- 2025-05-06, **RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.03238v1](http://arxiv.org/abs/2505.03238v1)
+- 2025-05-06, **RADE: Learning Risk-Adjustable Driving Environment via Multi-Agent Conditional Diffusion**, Jiawei Wang et.al., Paper: [http://arxiv.org/abs/2505.03178v1](http://arxiv.org/abs/2505.03178v1)
+- 2025-05-06, **Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**, Guillermo Roque et.al., Paper: [http://arxiv.org/abs/2505.03174v1](http://arxiv.org/abs/2505.03174v1)
 - 2025-05-04, **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**, Shangzhe Li et.al., Paper: [http://arxiv.org/abs/2505.02228v1](http://arxiv.org/abs/2505.02228v1)
 - 2025-05-04, **Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**, Alexey Nekrasov et.al., Paper: [http://arxiv.org/abs/2505.02148v1](http://arxiv.org/abs/2505.02148v1)
 - 2025-05-04, **DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**, Xinmeng Hou et.al., Paper: [http://arxiv.org/abs/2505.02123v1](http://arxiv.org/abs/2505.02123v1)
