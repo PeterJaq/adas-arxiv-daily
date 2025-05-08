@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04526v1-b31b1b.svg)](http://arxiv.org/abs/2505.04526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davin-qi530/dfvo)**|
+|**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04438v1-b31b1b.svg)](http://arxiv.org/abs/2505.04438v1)|null|
+|**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
+|**2025-05-07**|**Verification of Digital Twins using Classical and Statistical Model Checking**|Raghavendran Gunasekaran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04322v1-b31b1b.svg)](http://arxiv.org/abs/2505.04322v1)|null|
+|**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04231v1-b31b1b.svg)](http://arxiv.org/abs/2505.04231v1)|null|
+|**2025-05-07**|**Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**|Xuyang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04046v1-b31b1b.svg)](http://arxiv.org/abs/2505.04046v1)|null|
 |**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03695v1-b31b1b.svg)](http://arxiv.org/abs/2505.03695v1)|null|
 |**2025-05-06**|**Moral Testing of Autonomous Driving Systems**|Wenbing Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03683v1-b31b1b.svg)](http://arxiv.org/abs/2505.03683v1)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03679v1-b31b1b.svg)](http://arxiv.org/abs/2505.03679v1)|null|
