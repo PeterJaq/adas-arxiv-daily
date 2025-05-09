@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
+- 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
+- 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
+- 2025-05-08, **PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**, Elad Feldman et.al., Paper: [http://arxiv.org/abs/2505.05183v1](http://arxiv.org/abs/2505.05183v1)
+- 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
+- 2025-05-08, **DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions**, Shashank Agnihotri et.al., Paper: [http://arxiv.org/abs/2505.05091v1](http://arxiv.org/abs/2505.05091v1), Code: **[https://github.com/shashankskagnihotri/benchmarking_robustness](https://github.com/shashankskagnihotri/benchmarking_robustness)**
+- 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
 - 2025-05-07, **DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**, Qi Zhou et.al., Paper: [http://arxiv.org/abs/2505.04526v1](http://arxiv.org/abs/2505.04526v1), Code: **[https://github.com/davin-qi530/dfvo](https://github.com/davin-qi530/dfvo)**
 - 2025-05-07, **Do We Still Need to Work on Odometry for Autonomous Driving?**, Cedric Le Gentil et.al., Paper: [http://arxiv.org/abs/2505.04438v1](http://arxiv.org/abs/2505.04438v1)
 - 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
