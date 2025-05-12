@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
+- 2025-05-09, **Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**, Francesco Prignoli et.al., Paper: [http://arxiv.org/abs/2505.05933v1](http://arxiv.org/abs/2505.05933v1)
+- 2025-05-08, **Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**, Mohamed-Khalil Bouzidi et.al., Paper: [http://arxiv.org/abs/2505.05638v1](http://arxiv.org/abs/2505.05638v1)
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)

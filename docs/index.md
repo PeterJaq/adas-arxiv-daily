@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06218v1-b31b1b.svg)](http://arxiv.org/abs/2505.06218v1)|null|
+|**2025-05-09**|**Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**|Francesco Prignoli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05933v1-b31b1b.svg)](http://arxiv.org/abs/2505.05933v1)|null|
+|**2025-05-08**|**Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**|Mohamed-Khalil Bouzidi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05638v1-b31b1b.svg)](http://arxiv.org/abs/2505.05638v1)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05474v1-b31b1b.svg)](http://arxiv.org/abs/2505.05474v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05240v1-b31b1b.svg)](http://arxiv.org/abs/2505.05240v1)|null|
 |**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05223v1-b31b1b.svg)](http://arxiv.org/abs/2505.05223v1)|null|
