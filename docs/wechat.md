@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
+- 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
+- 2025-05-12, **Ranking-aware Continual Learning for LiDAR Place Recognition**, Xufei Wang et.al., Paper: [http://arxiv.org/abs/2505.07198v1](http://arxiv.org/abs/2505.07198v1)
+- 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1)
+- 2025-05-11, **Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**, Seokjun Kwon et.al., Paper: [http://arxiv.org/abs/2505.06951v1](http://arxiv.org/abs/2505.06951v1)
+- 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
+- 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
+- 2025-05-10, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v1](http://arxiv.org/abs/2505.06780v1)
+- 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
+- 2025-05-10, **TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**, Marius Baden et.al., Paper: [http://arxiv.org/abs/2505.06743v1](http://arxiv.org/abs/2505.06743v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-09, **Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**, Francesco Prignoli et.al., Paper: [http://arxiv.org/abs/2505.05933v1](http://arxiv.org/abs/2505.05933v1)
 - 2025-05-08, **Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**, Mohamed-Khalil Bouzidi et.al., Paper: [http://arxiv.org/abs/2505.05638v1](http://arxiv.org/abs/2505.05638v1)
