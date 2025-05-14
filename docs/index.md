@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 
 ## Autonomous_Driving
 
@@ -15,7 +15,7 @@ layout: default
 |**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06951v1-b31b1b.svg)](http://arxiv.org/abs/2505.06951v1)|null|
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06875v1-b31b1b.svg)](http://arxiv.org/abs/2505.06875v1)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06856v1-b31b1b.svg)](http://arxiv.org/abs/2505.06856v1)|null|
-|**2025-05-10**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06780v1-b31b1b.svg)](http://arxiv.org/abs/2505.06780v1)|null|
+|**2025-05-13**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06780v2-b31b1b.svg)](http://arxiv.org/abs/2505.06780v2)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06746v1-b31b1b.svg)](http://arxiv.org/abs/2505.06746v1)|null|
 |**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06743v1-b31b1b.svg)](http://arxiv.org/abs/2505.06743v1)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06218v1-b31b1b.svg)](http://arxiv.org/abs/2505.06218v1)|null|

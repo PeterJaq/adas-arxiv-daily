@@ -1,4 +1,4 @@
-> Updated on 2025.05.13
+> Updated on 2025.05.14
 
 ## Autonomous_Driving
 
@@ -9,7 +9,7 @@
 - 2025-05-11, **Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**, Seokjun Kwon et.al., Paper: [http://arxiv.org/abs/2505.06951v1](http://arxiv.org/abs/2505.06951v1)
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
-- 2025-05-10, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v1](http://arxiv.org/abs/2505.06780v1)
+- 2025-05-13, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v2](http://arxiv.org/abs/2505.06780v2)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-10, **TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**, Marius Baden et.al., Paper: [http://arxiv.org/abs/2505.06743v1](http://arxiv.org/abs/2505.06743v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
