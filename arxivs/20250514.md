@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08725v1-b31b1b.svg)](http://arxiv.org/abs/2505.08725v1)|null|
+|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08724v1-b31b1b.svg)](http://arxiv.org/abs/2505.08724v1)|null|
+|**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08404v1-b31b1b.svg)](http://arxiv.org/abs/2505.08404v1)|null|
+|**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08295v1-b31b1b.svg)](http://arxiv.org/abs/2505.08295v1)|null|
+|**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08264v1-b31b1b.svg)](http://arxiv.org/abs/2505.08264v1)|null|
+|**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08228v1-b31b1b.svg)](http://arxiv.org/abs/2505.08228v1)|null|
+|**2025-05-12**|**Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**|Luu Tung Hai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08101v1-b31b1b.svg)](http://arxiv.org/abs/2505.08101v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hysonlab/pointdistill)**|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v1-b31b1b.svg)](http://arxiv.org/abs/2505.07634v1)|null|
 |**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07417v1-b31b1b.svg)](http://arxiv.org/abs/2505.07417v1)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07198v1-b31b1b.svg)](http://arxiv.org/abs/2505.07198v1)|null|
