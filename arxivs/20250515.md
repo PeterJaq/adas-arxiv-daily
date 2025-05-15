@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09427v1-b31b1b.svg)](http://arxiv.org/abs/2505.09427v1)|null|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09422v1-b31b1b.svg)](http://arxiv.org/abs/2505.09422v1)|null|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09406v1-b31b1b.svg)](http://arxiv.org/abs/2505.09406v1)|null|
+|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09356v1-b31b1b.svg)](http://arxiv.org/abs/2505.09356v1)|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09315v1-b31b1b.svg)](http://arxiv.org/abs/2505.09315v1)|null|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09305v1-b31b1b.svg)](http://arxiv.org/abs/2505.09305v1)|null|
+|**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09092v1-b31b1b.svg)](http://arxiv.org/abs/2505.09092v1)|null|
+|**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
+|**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08999v1-b31b1b.svg)](http://arxiv.org/abs/2505.08999v1)|null|
+|**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08854v1-b31b1b.svg)](http://arxiv.org/abs/2505.08854v1)|null|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08725v1-b31b1b.svg)](http://arxiv.org/abs/2505.08725v1)|null|
 |**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08724v1-b31b1b.svg)](http://arxiv.org/abs/2505.08724v1)|null|
 |**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08404v1-b31b1b.svg)](http://arxiv.org/abs/2505.08404v1)|null|
