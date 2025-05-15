@@ -1,4 +1,4 @@
-> Updated on 2025.05.14
+> Updated on 2025.05.15
 
 ## Autonomous_Driving
 
@@ -9,7 +9,7 @@
 - 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
 - 2025-05-13, **Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**, Unai Gurbindo et.al., Paper: [http://arxiv.org/abs/2505.08228v1](http://arxiv.org/abs/2505.08228v1)
 - 2025-05-12, **Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**, Luu Tung Hai et.al., Paper: [http://arxiv.org/abs/2505.08101v1](http://arxiv.org/abs/2505.08101v1), Code: **[https://github.com/hysonlab/pointdistill](https://github.com/hysonlab/pointdistill)**
-- 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
+- 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-12, **Ranking-aware Continual Learning for LiDAR Place Recognition**, Xufei Wang et.al., Paper: [http://arxiv.org/abs/2505.07198v1](http://arxiv.org/abs/2505.07198v1)
 - 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1)
