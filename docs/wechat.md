@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-05-15, **Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**, Ningyuan Yang et.al., Paper: [http://arxiv.org/abs/2505.10482v1](http://arxiv.org/abs/2505.10482v1)
+- 2025-05-15, **Inferring Driving Maps by Deep Learning-based Trail Map Extraction**, Michael Hubbertz et.al., Paper: [http://arxiv.org/abs/2505.10258v1](http://arxiv.org/abs/2505.10258v1)
+- 2025-05-15, **Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks**, Guangjin Pan et.al., Paper: [http://arxiv.org/abs/2505.10134v1](http://arxiv.org/abs/2505.10134v1)
+- 2025-05-15, **Application of YOLOv8 in monocular downward multiple Car Target detection**, Shijie Lyu et.al., Paper: [http://arxiv.org/abs/2505.10016v1](http://arxiv.org/abs/2505.10016v1)
 - 2025-05-15, **SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**, Achref Doula et.al., Paper: [http://arxiv.org/abs/2505.09427v2](http://arxiv.org/abs/2505.09427v2)
 - 2025-05-14, **MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2505.09422v1](http://arxiv.org/abs/2505.09422v1)
 - 2025-05-14, **FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**, Yue Wen et.al., Paper: [http://arxiv.org/abs/2505.09406v1](http://arxiv.org/abs/2505.09406v1)
