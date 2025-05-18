@@ -1,4 +1,4 @@
-> Updated on 2025.05.17
+> Updated on 2025.05.18
 
 ## Autonomous_Driving
 
@@ -11,7 +11,7 @@
 - 2025-05-14, **FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**, Yue Wen et.al., Paper: [http://arxiv.org/abs/2505.09406v1](http://arxiv.org/abs/2505.09406v1)
 - 2025-05-14, **APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**, Srinivas Ravuri et.al., Paper: [http://arxiv.org/abs/2505.09356v1](http://arxiv.org/abs/2505.09356v1), Code: **[https://github.com/gt-arc/apr-transformer](https://github.com/gt-arc/apr-transformer)**
 - 2025-05-14, **TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**, Xuefeng Jiang et.al., Paper: [http://arxiv.org/abs/2505.09315v1](http://arxiv.org/abs/2505.09315v1)
-- 2025-05-15, **Embodied Intelligent Industrial Robotics: Concepts and Techniques**, Chaoran Zhang et.al., Paper: [http://arxiv.org/abs/2505.09305v2](http://arxiv.org/abs/2505.09305v2)
+- 2025-05-15, **Embodied Intelligent Industrial Robotics: Concepts and Techniques**, Chaoran Zhang et.al., Paper: [http://arxiv.org/abs/2505.09305v2](http://arxiv.org/abs/2505.09305v2), Code: **[https://github.com/jackyzengl/eiir](https://github.com/jackyzengl/eiir)**
 - 2025-05-14, **OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**, Yuhang Wang et.al., Paper: [http://arxiv.org/abs/2505.09092v1](http://arxiv.org/abs/2505.09092v1), Code: **[https://github.com/openlka/openlka](https://github.com/openlka/openlka)**
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
 - 2025-05-13, **Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**, Wei-Long Tian et.al., Paper: [http://arxiv.org/abs/2505.08999v1](http://arxiv.org/abs/2505.08999v1), Code: **[https://github.com/pgao-lab/amga](https://github.com/pgao-lab/amga)**

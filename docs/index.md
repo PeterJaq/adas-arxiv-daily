@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 
 ## Autonomous_Driving
 
@@ -17,7 +17,7 @@ layout: default
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09406v1-b31b1b.svg)](http://arxiv.org/abs/2505.09406v1)|null|
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09356v1-b31b1b.svg)](http://arxiv.org/abs/2505.09356v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gt-arc/apr-transformer)**|
 |**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09315v1-b31b1b.svg)](http://arxiv.org/abs/2505.09315v1)|null|
-|**2025-05-15**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09305v2-b31b1b.svg)](http://arxiv.org/abs/2505.09305v2)|null|
+|**2025-05-15**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09305v2-b31b1b.svg)](http://arxiv.org/abs/2505.09305v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackyzengl/eiir)**|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09092v1-b31b1b.svg)](http://arxiv.org/abs/2505.09092v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openlka/openlka)**|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08999v1-b31b1b.svg)](http://arxiv.org/abs/2505.08999v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgao-lab/amga)**|
