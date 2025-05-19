@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-05-16, **REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2505.11474v1](http://arxiv.org/abs/2505.11474v1)
+- 2025-05-16, **LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**, Mingxing Peng et.al., Paper: [http://arxiv.org/abs/2505.11247v1](http://arxiv.org/abs/2505.11247v1)
+- 2025-05-16, **Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.11116v1](http://arxiv.org/abs/2505.11116v1)
+- 2025-05-16, **A Multi-modal Fusion Network for Terrain Perception Based on Illumination Aware**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2505.11066v1](http://arxiv.org/abs/2505.11066v1)
+- 2025-05-15, **GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**, Lingjun Zhao et.al., Paper: [http://arxiv.org/abs/2505.10685v1](http://arxiv.org/abs/2505.10685v1)
 - 2025-05-15, **Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**, Ningyuan Yang et.al., Paper: [http://arxiv.org/abs/2505.10482v1](http://arxiv.org/abs/2505.10482v1)
 - 2025-05-15, **Inferring Driving Maps by Deep Learning-based Trail Map Extraction**, Michael Hubbertz et.al., Paper: [http://arxiv.org/abs/2505.10258v1](http://arxiv.org/abs/2505.10258v1)
 - 2025-05-15, **Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks**, Guangjin Pan et.al., Paper: [http://arxiv.org/abs/2505.10134v1](http://arxiv.org/abs/2505.10134v1), Code: **[https://github.com/guangjinpan/lwlm](https://github.com/guangjinpan/lwlm)**

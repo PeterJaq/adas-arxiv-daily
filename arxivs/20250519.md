@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11474v1-b31b1b.svg)](http://arxiv.org/abs/2505.11474v1)|null|
+|**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11247v1-b31b1b.svg)](http://arxiv.org/abs/2505.11247v1)|null|
+|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11116v1-b31b1b.svg)](http://arxiv.org/abs/2505.11116v1)|null|
+|**2025-05-16**|**A Multi-modal Fusion Network for Terrain Perception Based on Illumination Aware**|Rui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11066v1-b31b1b.svg)](http://arxiv.org/abs/2505.11066v1)|null|
+|**2025-05-15**|**GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**|Lingjun Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10685v1-b31b1b.svg)](http://arxiv.org/abs/2505.10685v1)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10482v1-b31b1b.svg)](http://arxiv.org/abs/2505.10482v1)|null|
 |**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10258v1-b31b1b.svg)](http://arxiv.org/abs/2505.10258v1)|null|
 |**2025-05-15**|**Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks**|Guangjin Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10134v1-b31b1b.svg)](http://arxiv.org/abs/2505.10134v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guangjinpan/lwlm)**|
