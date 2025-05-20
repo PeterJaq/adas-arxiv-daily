@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-05-19, **DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**, Yehao Liu et.al., Paper: [http://arxiv.org/abs/2505.13266v1](http://arxiv.org/abs/2505.13266v1)
+- 2025-05-19, **Neurosymbolic Diffusion Models**, Emile van Krieken et.al., Paper: [http://arxiv.org/abs/2505.13138v1](http://arxiv.org/abs/2505.13138v1)
+- 2025-05-19, **VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**, Aditya Taparia et.al., Paper: [http://arxiv.org/abs/2505.12715v1](http://arxiv.org/abs/2505.12715v1)
+- 2025-05-19, **TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**, Lihong Chen et.al., Paper: [http://arxiv.org/abs/2505.12670v1](http://arxiv.org/abs/2505.12670v1)
+- 2025-05-19, **Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2505.12661v1](http://arxiv.org/abs/2505.12661v1)
+- 2025-05-18, **A Survey of Attacks on Large Language Models**, Wenrui Xu et.al., Paper: [http://arxiv.org/abs/2505.12567v1](http://arxiv.org/abs/2505.12567v1)
+- 2025-05-18, **Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions**, Albert Zhao et.al., Paper: [http://arxiv.org/abs/2505.12327v1](http://arxiv.org/abs/2505.12327v1)
+- 2025-05-18, **Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**, Hongbiao Zhu et.al., Paper: [http://arxiv.org/abs/2505.12311v1](http://arxiv.org/abs/2505.12311v1)
+- 2025-05-18, **SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2505.12246v1](http://arxiv.org/abs/2505.12246v1)
+- 2025-05-18, **Sentience Quest: Towards Embodied, Emotionally Adaptive, Self-Evolving, Ethically Aligned Artificial General Intelligence**, David Hanson et.al., Paper: [http://arxiv.org/abs/2505.12229v1](http://arxiv.org/abs/2505.12229v1)
 - 2025-05-16, **REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2505.11474v1](http://arxiv.org/abs/2505.11474v1)
 - 2025-05-16, **LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**, Mingxing Peng et.al., Paper: [http://arxiv.org/abs/2505.11247v1](http://arxiv.org/abs/2505.11247v1)
 - 2025-05-16, **Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.11116v1](http://arxiv.org/abs/2505.11116v1)

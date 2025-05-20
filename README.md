@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13266v1-b31b1b.svg)](http://arxiv.org/abs/2505.13266v1)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13138v1-b31b1b.svg)](http://arxiv.org/abs/2505.13138v1)|null|
+|**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12715v1-b31b1b.svg)](http://arxiv.org/abs/2505.12715v1)|null|
+|**2025-05-19**|**TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**|Lihong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12670v1-b31b1b.svg)](http://arxiv.org/abs/2505.12670v1)|null|
+|**2025-05-19**|**Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**|Tanmay Vilas Samak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12661v1-b31b1b.svg)](http://arxiv.org/abs/2505.12661v1)|null|
+|**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12567v1-b31b1b.svg)](http://arxiv.org/abs/2505.12567v1)|null|
+|**2025-05-18**|**Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions**|Albert Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12327v1-b31b1b.svg)](http://arxiv.org/abs/2505.12327v1)|null|
+|**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12311v1-b31b1b.svg)](http://arxiv.org/abs/2505.12311v1)|null|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12246v1-b31b1b.svg)](http://arxiv.org/abs/2505.12246v1)|null|
+|**2025-05-18**|**Sentience Quest: Towards Embodied, Emotionally Adaptive, Self-Evolving, Ethically Aligned Artificial General Intelligence**|David Hanson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12229v1-b31b1b.svg)](http://arxiv.org/abs/2505.12229v1)|null|
 |**2025-05-16**|**REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11474v1-b31b1b.svg)](http://arxiv.org/abs/2505.11474v1)|null|
 |**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11247v1-b31b1b.svg)](http://arxiv.org/abs/2505.11247v1)|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11116v1-b31b1b.svg)](http://arxiv.org/abs/2505.11116v1)|null|
