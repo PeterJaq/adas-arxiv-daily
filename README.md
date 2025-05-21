@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Explaining Unreliable Perception in Automated Driving: A Fuzzy-based Monitoring Approach**|Aniket Salvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14407v1-b31b1b.svg)](http://arxiv.org/abs/2505.14407v1)|null|
+|**2025-05-20**|**Local Minima Prediction using Dynamic Bayesian Filtering for UGV Navigation in Unstructured Environments**|Seung Hun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14337v1-b31b1b.svg)](http://arxiv.org/abs/2505.14337v1)|null|
+|**2025-05-20**|**D4+: Emergent Adversarial Driving Maneuvers with Approximate Functional Optimization**|Diego Ortiz Barbosa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13942v1-b31b1b.svg)](http://arxiv.org/abs/2505.13942v1)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13872v1-b31b1b.svg)](http://arxiv.org/abs/2505.13872v1)|null|
+|**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13856v1-b31b1b.svg)](http://arxiv.org/abs/2505.13856v1)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13817v1-b31b1b.svg)](http://arxiv.org/abs/2505.13817v1)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13266v1-b31b1b.svg)](http://arxiv.org/abs/2505.13266v1)|null|
 |**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13138v1-b31b1b.svg)](http://arxiv.org/abs/2505.13138v1)|null|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12715v1-b31b1b.svg)](http://arxiv.org/abs/2505.12715v1)|null|
