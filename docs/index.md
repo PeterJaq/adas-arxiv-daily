@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 
 ## Autonomous_Driving
 
@@ -15,7 +15,7 @@ layout: default
 |**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13856v1-b31b1b.svg)](http://arxiv.org/abs/2505.13856v1)|null|
 |**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13817v1-b31b1b.svg)](http://arxiv.org/abs/2505.13817v1)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13266v1-b31b1b.svg)](http://arxiv.org/abs/2505.13266v1)|null|
-|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13138v1-b31b1b.svg)](http://arxiv.org/abs/2505.13138v1)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13138v1-b31b1b.svg)](http://arxiv.org/abs/2505.13138v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HEmile/neurosymbolic-diffusion)**|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12715v1-b31b1b.svg)](http://arxiv.org/abs/2505.12715v1)|null|
 |**2025-05-19**|**TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**|Lihong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12670v1-b31b1b.svg)](http://arxiv.org/abs/2505.12670v1)|null|
 |**2025-05-19**|**Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**|Tanmay Vilas Samak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12661v1-b31b1b.svg)](http://arxiv.org/abs/2505.12661v1)|null|

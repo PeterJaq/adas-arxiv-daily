@@ -1,4 +1,4 @@
-> Updated on 2025.05.21
+> Updated on 2025.05.22
 
 ## Autonomous_Driving
 
@@ -9,7 +9,7 @@
 - 2025-05-20, **SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**, Ruqin Zhou et.al., Paper: [http://arxiv.org/abs/2505.13856v1](http://arxiv.org/abs/2505.13856v1)
 - 2025-05-20, **InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**, Feng Li et.al., Paper: [http://arxiv.org/abs/2505.13817v1](http://arxiv.org/abs/2505.13817v1)
 - 2025-05-19, **DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**, Yehao Liu et.al., Paper: [http://arxiv.org/abs/2505.13266v1](http://arxiv.org/abs/2505.13266v1)
-- 2025-05-19, **Neurosymbolic Diffusion Models**, Emile van Krieken et.al., Paper: [http://arxiv.org/abs/2505.13138v1](http://arxiv.org/abs/2505.13138v1)
+- 2025-05-19, **Neurosymbolic Diffusion Models**, Emile van Krieken et.al., Paper: [http://arxiv.org/abs/2505.13138v1](http://arxiv.org/abs/2505.13138v1), Code: **[https://github.com/HEmile/neurosymbolic-diffusion](https://github.com/HEmile/neurosymbolic-diffusion)**
 - 2025-05-19, **VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**, Aditya Taparia et.al., Paper: [http://arxiv.org/abs/2505.12715v1](http://arxiv.org/abs/2505.12715v1)
 - 2025-05-19, **TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**, Lihong Chen et.al., Paper: [http://arxiv.org/abs/2505.12670v1](http://arxiv.org/abs/2505.12670v1)
 - 2025-05-19, **Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2505.12661v1](http://arxiv.org/abs/2505.12661v1)
