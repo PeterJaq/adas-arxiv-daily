@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|null|
+|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v1-b31b1b.svg)](http://arxiv.org/abs/2505.16938v1)|null|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16912v1-b31b1b.svg)](http://arxiv.org/abs/2505.16912v1)|null|
+|**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16807v1-b31b1b.svg)](http://arxiv.org/abs/2505.16807v1)|null|
+|**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
+|**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16524v1-b31b1b.svg)](http://arxiv.org/abs/2505.16524v1)|null|
+|**2025-05-22**|**Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models**|Augusto Luis Ballardini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16498v1-b31b1b.svg)](http://arxiv.org/abs/2505.16498v1)|null|
+|**2025-05-22**|**Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16394v1-b31b1b.svg)](http://arxiv.org/abs/2505.16394v1)|null|
+|**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Yansong Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16377v1-b31b1b.svg)](http://arxiv.org/abs/2505.16377v1)|null|
+|**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16278v1-b31b1b.svg)](http://arxiv.org/abs/2505.16278v1)|null|
 |**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15793v2-b31b1b.svg)](http://arxiv.org/abs/2505.15793v2)|null|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15703v1-b31b1b.svg)](http://arxiv.org/abs/2505.15703v1)|null|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15564v1-b31b1b.svg)](http://arxiv.org/abs/2505.15564v1)|null|
