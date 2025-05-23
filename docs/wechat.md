@@ -1,8 +1,8 @@
-> Updated on 2025.05.22
+> Updated on 2025.05.23
 
 ## Autonomous_Driving
 
-- 2025-05-21, **HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**, Zhiwen Chen et.al., Paper: [http://arxiv.org/abs/2505.15793v1](http://arxiv.org/abs/2505.15793v1)
+- 2025-05-22, **HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**, Zhiwen Chen et.al., Paper: [http://arxiv.org/abs/2505.15793v2](http://arxiv.org/abs/2505.15793v2)
 - 2025-05-21, **HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**, Xiaodong Mei et.al., Paper: [http://arxiv.org/abs/2505.15703v1](http://arxiv.org/abs/2505.15703v1)
 - 2025-05-21, **TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**, Hossein Hassani et.al., Paper: [http://arxiv.org/abs/2505.15564v1](http://arxiv.org/abs/2505.15564v1)
 - 2025-05-21, **seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**, Andrew Caunes et.al., Paper: [http://arxiv.org/abs/2505.15545v1](http://arxiv.org/abs/2505.15545v1), Code: **[https://github.com/andrewcaunes/ia4markings](https://github.com/andrewcaunes/ia4markings)**
@@ -10,7 +10,7 @@
 - 2025-05-21, **Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**, Ryota Soga et.al., Paper: [http://arxiv.org/abs/2505.15412v1](http://arxiv.org/abs/2505.15412v1)
 - 2025-05-21, **RIS Beam Calibration for ISAC Systems: Modeling and Performance Analysis**, Mengting Li et.al., Paper: [http://arxiv.org/abs/2505.15403v1](http://arxiv.org/abs/2505.15403v1)
 - 2025-05-21, **Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2505.15304v1](http://arxiv.org/abs/2505.15304v1)
-- 2025-05-21, **AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2505.15298v1](http://arxiv.org/abs/2505.15298v1)
+- 2025-05-22, **AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2505.15298v2](http://arxiv.org/abs/2505.15298v2)
 - 2025-05-21, **Learning-based Autonomous Oversteer Control and Collision Avoidance**, Seokjun Lee et.al., Paper: [http://arxiv.org/abs/2505.15275v1](http://arxiv.org/abs/2505.15275v1)
 - 2025-05-20, **Explaining Unreliable Perception in Automated Driving: A Fuzzy-based Monitoring Approach**, Aniket Salvi et.al., Paper: [http://arxiv.org/abs/2505.14407v1](http://arxiv.org/abs/2505.14407v1)
 - 2025-05-20, **Local Minima Prediction using Dynamic Bayesian Filtering for UGV Navigation in Unstructured Environments**, Seung Hun Lee et.al., Paper: [http://arxiv.org/abs/2505.14337v1](http://arxiv.org/abs/2505.14337v1)
