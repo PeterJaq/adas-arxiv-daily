@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-05-23, **Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**, Li Zhong et.al., Paper: [http://arxiv.org/abs/2505.18039v1](http://arxiv.org/abs/2505.18039v1)
+- 2025-05-23, **Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**, Bálint Gyevnár et.al., Paper: [http://arxiv.org/abs/2505.17801v1](http://arxiv.org/abs/2505.17801v1)
+- 2025-05-23, **TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving**, Yanping Fu et.al., Paper: [http://arxiv.org/abs/2505.17771v1](http://arxiv.org/abs/2505.17771v1)
+- 2025-05-23, **RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**, Ozsel Kilinc et.al., Paper: [http://arxiv.org/abs/2505.17732v1](http://arxiv.org/abs/2505.17732v1)
+- 2025-05-23, **SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain**, Jiawei Zhou et.al., Paper: [http://arxiv.org/abs/2505.17727v1](http://arxiv.org/abs/2505.17727v1)
+- 2025-05-23, **SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data**, Dong-Hee Kim et.al., Paper: [http://arxiv.org/abs/2505.17695v1](http://arxiv.org/abs/2505.17695v1)
+- 2025-05-23, **FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**, Shuang Zeng et.al., Paper: [http://arxiv.org/abs/2505.17685v1](http://arxiv.org/abs/2505.17685v1)
+- 2025-05-23, **Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**, Xiaolong Tang et.al., Paper: [http://arxiv.org/abs/2505.17659v1](http://arxiv.org/abs/2505.17659v1)
+- 2025-05-23, **Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**, Masataka Kobayashi et.al., Paper: [http://arxiv.org/abs/2505.17582v1](http://arxiv.org/abs/2505.17582v1)
+- 2025-05-23, **Autonomous Circular Drift Control for 4WD-4WS Vehicles Without Precomputed Drifting Equilibrium**, Yue Xiao et.al., Paper: [http://arxiv.org/abs/2505.17487v1](http://arxiv.org/abs/2505.17487v1)
 - 2025-05-22, **Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**, Moru Liu et.al., Paper: [http://arxiv.org/abs/2505.16985v1](http://arxiv.org/abs/2505.16985v1), Code: **[https://github.com/mona4399/featuremixing](https://github.com/mona4399/featuremixing)**
 - 2025-05-22, **NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**, NovelSeek Team et.al., Paper: [http://arxiv.org/abs/2505.16938v1](http://arxiv.org/abs/2505.16938v1)
 - 2025-05-22, **UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**, Desiree Fisker et.al., Paper: [http://arxiv.org/abs/2505.16912v1](http://arxiv.org/abs/2505.16912v1)
