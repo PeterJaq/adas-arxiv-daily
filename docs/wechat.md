@@ -1,11 +1,11 @@
-> Updated on 2025.05.25
+> Updated on 2025.05.26
 
 ## Autonomous_Driving
 
-- 2025-05-22, **Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**, Moru Liu et.al., Paper: [http://arxiv.org/abs/2505.16985v1](http://arxiv.org/abs/2505.16985v1)
+- 2025-05-22, **Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**, Moru Liu et.al., Paper: [http://arxiv.org/abs/2505.16985v1](http://arxiv.org/abs/2505.16985v1), Code: **[https://github.com/mona4399/featuremixing](https://github.com/mona4399/featuremixing)**
 - 2025-05-22, **NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**, NovelSeek Team et.al., Paper: [http://arxiv.org/abs/2505.16938v1](http://arxiv.org/abs/2505.16938v1)
 - 2025-05-22, **UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**, Desiree Fisker et.al., Paper: [http://arxiv.org/abs/2505.16912v1](http://arxiv.org/abs/2505.16912v1)
-- 2025-05-22, **Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**, Zhuoran Li et.al., Paper: [http://arxiv.org/abs/2505.16807v1](http://arxiv.org/abs/2505.16807v1)
+- 2025-05-22, **Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**, Zhuoran Li et.al., Paper: [http://arxiv.org/abs/2505.16807v1](http://arxiv.org/abs/2505.16807v1), Code: **[https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)**
 - 2025-05-22, **SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2505.16805v1](http://arxiv.org/abs/2505.16805v1)
 - 2025-05-22, **CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**, Huitong Yang et.al., Paper: [http://arxiv.org/abs/2505.16524v1](http://arxiv.org/abs/2505.16524v1)
 - 2025-05-22, **Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models**, Augusto Luis Ballardini et.al., Paper: [http://arxiv.org/abs/2505.16498v1](http://arxiv.org/abs/2505.16498v1)
