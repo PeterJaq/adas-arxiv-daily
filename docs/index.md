@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**|Yixin Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20223v1-b31b1b.svg)](http://arxiv.org/abs/2505.20223v1)|null|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20024v1-b31b1b.svg)](http://arxiv.org/abs/2505.20024v1)|null|
 |**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19939v1-b31b1b.svg)](http://arxiv.org/abs/2505.19939v1)|null|
 |**2025-05-26**|**Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**|Nagito Saito et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19846v1-b31b1b.svg)](http://arxiv.org/abs/2505.19846v1)|null|

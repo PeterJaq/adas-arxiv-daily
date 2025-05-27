@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving
 
+- 2025-05-26, **Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**, Yixin Cui et.al., Paper: [http://arxiv.org/abs/2505.20223v1](http://arxiv.org/abs/2505.20223v1)
 - 2025-05-26, **ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**, Xueyi Liu et.al., Paper: [http://arxiv.org/abs/2505.20024v1](http://arxiv.org/abs/2505.20024v1)
 - 2025-05-26, **Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**, Ran Yu et.al., Paper: [http://arxiv.org/abs/2505.19939v1](http://arxiv.org/abs/2505.19939v1)
 - 2025-05-26, **Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**, Nagito Saito et.al., Paper: [http://arxiv.org/abs/2505.19846v1](http://arxiv.org/abs/2505.19846v1)
