@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22499v1-b31b1b.svg)](http://arxiv.org/abs/2505.22499v1)|null|
+|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22461v1-b31b1b.svg)](http://arxiv.org/abs/2505.22461v1)|null|
+|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22421v1-b31b1b.svg)](http://arxiv.org/abs/2505.22421v1)|null|
+|**2025-05-28**|**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**|Xinyu Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22067v1-b31b1b.svg)](http://arxiv.org/abs/2505.22067v1)|null|
+|**2025-05-28**|**Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**|Manchao Bao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22025v1-b31b1b.svg)](http://arxiv.org/abs/2505.22025v1)|null|
+|**2025-05-28**|**LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**|Chenfeng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21914v1-b31b1b.svg)](http://arxiv.org/abs/2505.21914v1)|null|
+|**2025-05-28**|**An Optimistic Algorithm for online CMDPS with Anytime Adversarial Constraints**|Jiahui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21841v1-b31b1b.svg)](http://arxiv.org/abs/2505.21841v1)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21457v1-b31b1b.svg)](http://arxiv.org/abs/2505.21457v1)|null|
 |**2025-05-27**|**A first look at ROS~2 applications written in asynchronous Rust**|Martin Škoudlil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21323v1-b31b1b.svg)](http://arxiv.org/abs/2505.21323v1)|null|
 |**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21049v1-b31b1b.svg)](http://arxiv.org/abs/2505.21049v1)|null|
