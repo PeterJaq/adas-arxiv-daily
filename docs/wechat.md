@@ -1,11 +1,11 @@
-> Updated on 2025.05.29
+> Updated on 2025.05.30
 
 ## Autonomous_Driving
 
 - 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1)
-- 2025-05-28, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v1](http://arxiv.org/abs/2505.22499v1)
-- 2025-05-28, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v1](http://arxiv.org/abs/2505.22461v1)
-- 2025-05-28, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v1](http://arxiv.org/abs/2505.22421v1)
+- 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
+- 2025-05-29, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v2](http://arxiv.org/abs/2505.22461v2)
+- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2)
 - 2025-05-28, **From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**, Xinyu Xia et.al., Paper: [http://arxiv.org/abs/2505.22067v1](http://arxiv.org/abs/2505.22067v1)
 - 2025-05-28, **Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**, Manchao Bao et.al., Paper: [http://arxiv.org/abs/2505.22025v1](http://arxiv.org/abs/2505.22025v1)
 - 2025-05-28, **LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**, Chenfeng Wei et.al., Paper: [http://arxiv.org/abs/2505.21914v1](http://arxiv.org/abs/2505.21914v1)
