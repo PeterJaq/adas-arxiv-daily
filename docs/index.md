@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23757v1-b31b1b.svg)](http://arxiv.org/abs/2505.23757v1)|null|
+|**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23612v1-b31b1b.svg)](http://arxiv.org/abs/2505.23612v1)|null|
+|**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23275v1-b31b1b.svg)](http://arxiv.org/abs/2505.23275v1)|null|
+|**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23249v1-b31b1b.svg)](http://arxiv.org/abs/2505.23249v1)|null|
+|**2025-05-29**|**HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**|Bin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23129v1-b31b1b.svg)](http://arxiv.org/abs/2505.23129v1)|null|
+|**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23115v1-b31b1b.svg)](http://arxiv.org/abs/2505.23115v1)|null|
 |**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|null|
 |**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22499v2-b31b1b.svg)](http://arxiv.org/abs/2505.22499v2)|null|
 |**2025-05-29**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22461v2-b31b1b.svg)](http://arxiv.org/abs/2505.22461v2)|null|

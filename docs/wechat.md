@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1)
+- 2025-05-29, **Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2505.23612v1](http://arxiv.org/abs/2505.23612v1)
+- 2025-05-29, **Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23275v1](http://arxiv.org/abs/2505.23275v1)
+- 2025-05-29, **Context-Aware Semantic Communication for the Wireless Networks**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23249v1](http://arxiv.org/abs/2505.23249v1)
+- 2025-05-29, **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, Bin Wang et.al., Paper: [http://arxiv.org/abs/2505.23129v1](http://arxiv.org/abs/2505.23129v1)
+- 2025-05-29, **Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**, Yunshen Wang et.al., Paper: [http://arxiv.org/abs/2505.23115v1](http://arxiv.org/abs/2505.23115v1)
 - 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1)
 - 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
 - 2025-05-29, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v2](http://arxiv.org/abs/2505.22461v2)
