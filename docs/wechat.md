@@ -2,16 +2,16 @@
 
 ## Autonomous_Driving
 
-- 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1)
+- 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1), Code: **[https://github.com/ahydchh/impromptu-vla](https://github.com/ahydchh/impromptu-vla)**
 - 2025-05-29, **Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2505.23612v1](http://arxiv.org/abs/2505.23612v1)
 - 2025-05-29, **Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23275v1](http://arxiv.org/abs/2505.23275v1)
 - 2025-05-29, **Context-Aware Semantic Communication for the Wireless Networks**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23249v1](http://arxiv.org/abs/2505.23249v1)
 - 2025-05-29, **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, Bin Wang et.al., Paper: [http://arxiv.org/abs/2505.23129v1](http://arxiv.org/abs/2505.23129v1)
 - 2025-05-29, **Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**, Yunshen Wang et.al., Paper: [http://arxiv.org/abs/2505.23115v1](http://arxiv.org/abs/2505.23115v1)
-- 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1)
+- 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1), Code: **[https://github.com/epfl-ml4ed/interpretcc](https://github.com/epfl-ml4ed/interpretcc)**
 - 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
 - 2025-05-29, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v2](http://arxiv.org/abs/2505.22461v2)
-- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2)
+- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2), Code: **[https://github.com/antonioo-c/geodrive](https://github.com/antonioo-c/geodrive)**
 - 2025-05-28, **From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**, Xinyu Xia et.al., Paper: [http://arxiv.org/abs/2505.22067v1](http://arxiv.org/abs/2505.22067v1)
 - 2025-05-28, **Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**, Manchao Bao et.al., Paper: [http://arxiv.org/abs/2505.22025v1](http://arxiv.org/abs/2505.22025v1)
 - 2025-05-28, **LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**, Chenfeng Wei et.al., Paper: [http://arxiv.org/abs/2505.21914v1](http://arxiv.org/abs/2505.21914v1)
