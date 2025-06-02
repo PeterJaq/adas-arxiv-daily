@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2025-05-30, **Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**, Tajamul Ashraf et.al., Paper: [http://arxiv.org/abs/2505.24876v1](http://arxiv.org/abs/2505.24876v1)
+- 2025-05-30, **NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**, Xuzhi Wang et.al., Paper: [http://arxiv.org/abs/2505.24634v1](http://arxiv.org/abs/2505.24634v1)
+- 2025-05-30, **SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**, Yuqi Fan et.al., Paper: [http://arxiv.org/abs/2505.24390v1](http://arxiv.org/abs/2505.24390v1)
+- 2025-05-30, **Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**, Roger Ferrod et.al., Paper: [http://arxiv.org/abs/2505.24361v1](http://arxiv.org/abs/2505.24361v1)
+- 2025-05-30, **DTR: Delaunay Triangulation-based Racing for Scaled Autonomous Racing**, Luca Tognoni et.al., Paper: [http://arxiv.org/abs/2505.24320v1](http://arxiv.org/abs/2505.24320v1)
+- 2025-05-30, **ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**, Yongming Chen et.al., Paper: [http://arxiv.org/abs/2505.24317v1](http://arxiv.org/abs/2505.24317v1)
+- 2025-05-30, **S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**, Yichen Xie et.al., Paper: [http://arxiv.org/abs/2505.24139v1](http://arxiv.org/abs/2505.24139v1)
+- 2025-05-29, **Towards Understanding The Calibration Benefits of Sharpness-Aware Minimization**, Chengli Tan et.al., Paper: [http://arxiv.org/abs/2505.23866v1](http://arxiv.org/abs/2505.23866v1)
 - 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1), Code: **[https://github.com/ahydchh/impromptu-vla](https://github.com/ahydchh/impromptu-vla)**
 - 2025-05-29, **Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**, Jianbo Zhao et.al., Paper: [http://arxiv.org/abs/2505.23612v1](http://arxiv.org/abs/2505.23612v1)
 - 2025-05-29, **Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2505.23275v1](http://arxiv.org/abs/2505.23275v1)
