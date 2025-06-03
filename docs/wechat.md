@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2025-05-30, **Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**, Tajamul Ashraf et.al., Paper: [http://arxiv.org/abs/2505.24876v1](http://arxiv.org/abs/2505.24876v1)
-- 2025-05-30, **NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**, Xuzhi Wang et.al., Paper: [http://arxiv.org/abs/2505.24634v1](http://arxiv.org/abs/2505.24634v1)
+- 2025-06-02, **NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**, Xuzhi Wang et.al., Paper: [http://arxiv.org/abs/2505.24634v2](http://arxiv.org/abs/2505.24634v2)
 - 2025-05-30, **SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**, Yuqi Fan et.al., Paper: [http://arxiv.org/abs/2505.24390v1](http://arxiv.org/abs/2505.24390v1)
 - 2025-05-30, **Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**, Roger Ferrod et.al., Paper: [http://arxiv.org/abs/2505.24361v1](http://arxiv.org/abs/2505.24361v1)
 - 2025-05-30, **DTR: Delaunay Triangulation-based Racing for Scaled Autonomous Racing**, Luca Tognoni et.al., Paper: [http://arxiv.org/abs/2505.24320v1](http://arxiv.org/abs/2505.24320v1)

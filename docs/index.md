@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24876v1-b31b1b.svg)](http://arxiv.org/abs/2505.24876v1)|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24634v1-b31b1b.svg)](http://arxiv.org/abs/2505.24634v1)|null|
+|**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24634v2-b31b1b.svg)](http://arxiv.org/abs/2505.24634v2)|null|
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24390v1-b31b1b.svg)](http://arxiv.org/abs/2505.24390v1)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24361v1-b31b1b.svg)](http://arxiv.org/abs/2505.24361v1)|null|
 |**2025-05-30**|**DTR: Delaunay Triangulation-based Racing for Scaled Autonomous Racing**|Luca Tognoni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24320v1-b31b1b.svg)](http://arxiv.org/abs/2505.24320v1)|null|
