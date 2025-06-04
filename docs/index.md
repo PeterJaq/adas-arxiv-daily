@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.03134v1-b31b1b.svg)](http://arxiv.org/abs/2506.03134v1)|null|
+|**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02932v1-b31b1b.svg)](http://arxiv.org/abs/2506.02932v1)|null|
+|**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02922v1-b31b1b.svg)](http://arxiv.org/abs/2506.02922v1)|null|
+|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02914v1-b31b1b.svg)](http://arxiv.org/abs/2506.02914v1)|null|
+|**2025-06-03**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02882v1-b31b1b.svg)](http://arxiv.org/abs/2506.02882v1)|null|
+|**2025-06-03**|**Hierarchical Question-Answering for Driving Scene Understanding Using Vision-Language Models**|Safaa Abdullahi Moallim Mohamud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02615v1-b31b1b.svg)](http://arxiv.org/abs/2506.02615v1)|null|
+|**2025-06-03**|**BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**|Weiduo Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02587v1-b31b1b.svg)](http://arxiv.org/abs/2506.02587v1)|null|
+|**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02580v1-b31b1b.svg)](http://arxiv.org/abs/2506.02580v1)|null|
+|**2025-06-03**|**HiLO: High-Level Object Fusion for Autonomous Driving using Transformers**|Timo Osterburg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02554v1-b31b1b.svg)](http://arxiv.org/abs/2506.02554v1)|null|
+|**2025-06-03**|**RoadFormer : Local-Global Feature Fusion for Road Surface Classification in Autonomous Driving**|Tianze Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02358v1-b31b1b.svg)](http://arxiv.org/abs/2506.02358v1)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24876v1-b31b1b.svg)](http://arxiv.org/abs/2505.24876v1)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24634v2-b31b1b.svg)](http://arxiv.org/abs/2505.24634v2)|null|
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24390v1-b31b1b.svg)](http://arxiv.org/abs/2505.24390v1)|null|
