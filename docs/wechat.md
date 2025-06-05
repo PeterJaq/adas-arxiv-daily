@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2025-06-04, **Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**, Chengdong Wu et.al., Paper: [http://arxiv.org/abs/2506.04040v1](http://arxiv.org/abs/2506.04040v1)
+- 2025-06-04, **Fast Non-Line-of-Sight Transient Data Simulation and an Open Benchmark Dataset**, Yingjie Shi et.al., Paper: [http://arxiv.org/abs/2506.03747v1](http://arxiv.org/abs/2506.03747v1)
+- 2025-06-04, **An Open-source Capping Machine Suitable for Confined Spaces**, Francisco Munguia-Galeano et.al., Paper: [http://arxiv.org/abs/2506.03743v1](http://arxiv.org/abs/2506.03743v1)
+- 2025-06-04, **Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**, Li Zeqiao et.al., Paper: [http://arxiv.org/abs/2506.03568v1](http://arxiv.org/abs/2506.03568v1)
 - 2025-06-03, **Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**, Weiqing Xiao et.al., Paper: [http://arxiv.org/abs/2506.03134v1](http://arxiv.org/abs/2506.03134v1)
 - 2025-06-03, **Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02932v1](http://arxiv.org/abs/2506.02932v1)
 - 2025-06-03, **Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02922v1](http://arxiv.org/abs/2506.02922v1)
