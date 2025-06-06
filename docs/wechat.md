@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-06-05, **VideoMolmo: Spatio-Temporal Grounding Meets Pointing**, Ghazi Shazan Ahmad et.al., Paper: [http://arxiv.org/abs/2506.05336v1](http://arxiv.org/abs/2506.05336v1)
+- 2025-06-05, **Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**, Nan Wang et.al., Paper: [http://arxiv.org/abs/2506.05280v1](http://arxiv.org/abs/2506.05280v1)
+- 2025-06-05, **Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**, Yuzhi Huang et.al., Paper: [http://arxiv.org/abs/2506.05175v1](http://arxiv.org/abs/2506.05175v1)
+- 2025-06-05, **Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots**, Tianxin Hu et.al., Paper: [http://arxiv.org/abs/2506.04752v1](http://arxiv.org/abs/2506.04752v1)
+- 2025-06-05, **Energy Consumption Optimization for Autonomous Vehicles via Positive Control Input Minimization**, Andreas Hadjigeorgiou et.al., Paper: [http://arxiv.org/abs/2506.04685v1](http://arxiv.org/abs/2506.04685v1)
+- 2025-06-05, **Real-Time LPV-Based Non-Linear Model Predictive Control for Robust Trajectory Tracking in Autonomous Vehicles**, Nitish Kumar et.al., Paper: [http://arxiv.org/abs/2506.04684v1](http://arxiv.org/abs/2506.04684v1)
+- 2025-06-05, **Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth**, Jinyoung Jun et.al., Paper: [http://arxiv.org/abs/2506.04612v1](http://arxiv.org/abs/2506.04612v1)
 - 2025-06-04, **Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**, Chengdong Wu et.al., Paper: [http://arxiv.org/abs/2506.04040v1](http://arxiv.org/abs/2506.04040v1)
 - 2025-06-04, **Fast Non-Line-of-Sight Transient Data Simulation and an Open Benchmark Dataset**, Yingjie Shi et.al., Paper: [http://arxiv.org/abs/2506.03747v1](http://arxiv.org/abs/2506.03747v1)
 - 2025-06-04, **An Open-source Capping Machine Suitable for Confined Spaces**, Francisco Munguia-Galeano et.al., Paper: [http://arxiv.org/abs/2506.03743v1](http://arxiv.org/abs/2506.03743v1)
