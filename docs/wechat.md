@@ -1,16 +1,16 @@
-> Updated on 2025.06.05
+> Updated on 2025.06.06
 
 ## Autonomous_Driving
 
 - 2025-06-04, **Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**, Chengdong Wu et.al., Paper: [http://arxiv.org/abs/2506.04040v1](http://arxiv.org/abs/2506.04040v1)
 - 2025-06-04, **Fast Non-Line-of-Sight Transient Data Simulation and an Open Benchmark Dataset**, Yingjie Shi et.al., Paper: [http://arxiv.org/abs/2506.03747v1](http://arxiv.org/abs/2506.03747v1)
 - 2025-06-04, **An Open-source Capping Machine Suitable for Confined Spaces**, Francisco Munguia-Galeano et.al., Paper: [http://arxiv.org/abs/2506.03743v1](http://arxiv.org/abs/2506.03743v1)
-- 2025-06-04, **Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**, Li Zeqiao et.al., Paper: [http://arxiv.org/abs/2506.03568v1](http://arxiv.org/abs/2506.03568v1)
+- 2025-06-05, **Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**, Li Zeqiao et.al., Paper: [http://arxiv.org/abs/2506.03568v2](http://arxiv.org/abs/2506.03568v2)
 - 2025-06-03, **Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**, Weiqing Xiao et.al., Paper: [http://arxiv.org/abs/2506.03134v1](http://arxiv.org/abs/2506.03134v1)
 - 2025-06-03, **Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02932v1](http://arxiv.org/abs/2506.02932v1)
 - 2025-06-03, **Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02922v1](http://arxiv.org/abs/2506.02922v1)
 - 2025-06-03, **Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**, Yechi Ma et.al., Paper: [http://arxiv.org/abs/2506.02914v1](http://arxiv.org/abs/2506.02914v1)
-- 2025-06-03, **GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**, Sohyun Lee et.al., Paper: [http://arxiv.org/abs/2506.02882v1](http://arxiv.org/abs/2506.02882v1)
+- 2025-06-05, **GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**, Sohyun Lee et.al., Paper: [http://arxiv.org/abs/2506.02882v2](http://arxiv.org/abs/2506.02882v2)
 - 2025-06-03, **Hierarchical Question-Answering for Driving Scene Understanding Using Vision-Language Models**, Safaa Abdullahi Moallim Mohamud et.al., Paper: [http://arxiv.org/abs/2506.02615v1](http://arxiv.org/abs/2506.02615v1)
 - 2025-06-03, **BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**, Weiduo Yuan et.al., Paper: [http://arxiv.org/abs/2506.02587v1](http://arxiv.org/abs/2506.02587v1)
 - 2025-06-03, **V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2506.02580v1](http://arxiv.org/abs/2506.02580v1)
