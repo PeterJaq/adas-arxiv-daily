@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05336v1-b31b1b.svg)](http://arxiv.org/abs/2506.05336v1)|null|
-|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05280v1-b31b1b.svg)](http://arxiv.org/abs/2506.05280v1)|null|
+|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05280v2-b31b1b.svg)](http://arxiv.org/abs/2506.05280v2)|null|
 |**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05175v1-b31b1b.svg)](http://arxiv.org/abs/2506.05175v1)|null|
 |**2025-06-05**|**Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots**|Tianxin Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.04752v1-b31b1b.svg)](http://arxiv.org/abs/2506.04752v1)|null|
 |**2025-06-05**|**Energy Consumption Optimization for Autonomous Vehicles via Positive Control Input Minimization**|Andreas Hadjigeorgiou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.04685v1-b31b1b.svg)](http://arxiv.org/abs/2506.04685v1)|null|
