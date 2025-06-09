@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06218v1-b31b1b.svg)](http://arxiv.org/abs/2506.06218v1)|null|
+|**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06128v1-b31b1b.svg)](http://arxiv.org/abs/2506.06128v1)|null|
+|**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06077v1-b31b1b.svg)](http://arxiv.org/abs/2506.06077v1)|null|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05917v1-b31b1b.svg)](http://arxiv.org/abs/2506.05917v1)|null|
+|**2025-06-06**|**Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**|Yesheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05810v1-b31b1b.svg)](http://arxiv.org/abs/2506.05810v1)|null|
+|**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Yuhan Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05667v1-b31b1b.svg)](http://arxiv.org/abs/2506.05667v1)|null|
+|**2025-06-05**|**Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**|Vlastimil Martinek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05542v1-b31b1b.svg)](http://arxiv.org/abs/2506.05542v1)|null|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05336v1-b31b1b.svg)](http://arxiv.org/abs/2506.05336v1)|null|
 |**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05280v2-b31b1b.svg)](http://arxiv.org/abs/2506.05280v2)|null|
 |**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05175v1-b31b1b.svg)](http://arxiv.org/abs/2506.05175v1)|null|
