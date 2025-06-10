@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-06-09, **ZeroVO: Visual Odometry with Minimal Assumptions**, Lei Lai et.al., Paper: [http://arxiv.org/abs/2506.08005v1](http://arxiv.org/abs/2506.08005v1)
+- 2025-06-09, **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2506.07826v1](http://arxiv.org/abs/2506.07826v1)
+- 2025-06-09, **SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**, Xuemei Chen et.al., Paper: [http://arxiv.org/abs/2506.07737v1](http://arxiv.org/abs/2506.07737v1)
+- 2025-06-09, **Generate Realistic Test Scenes for V2X Communication Systems**, An Guo et.al., Paper: [http://arxiv.org/abs/2506.07419v1](http://arxiv.org/abs/2506.07419v1)
+- 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416v1](http://arxiv.org/abs/2506.07416v1)
+- 2025-06-09, **UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**, Pablo Moraes et.al., Paper: [http://arxiv.org/abs/2506.07348v1](http://arxiv.org/abs/2506.07348v1)
+- 2025-06-08, **Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**, Ni Ding et.al., Paper: [http://arxiv.org/abs/2506.07188v1](http://arxiv.org/abs/2506.07188v1)
+- 2025-06-08, **Improving Traffic Signal Data Quality for the Waymo Open Motion Dataset**, Xintao Yan et.al., Paper: [http://arxiv.org/abs/2506.07150v1](http://arxiv.org/abs/2506.07150v1)
+- 2025-06-08, **Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**, Zhican Wang et.al., Paper: [http://arxiv.org/abs/2506.07069v1](http://arxiv.org/abs/2506.07069v1)
+- 2025-06-08, **UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**, Wentao Zhao et.al., Paper: [http://arxiv.org/abs/2506.07013v1](http://arxiv.org/abs/2506.07013v1)
 - 2025-06-06, **STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**, Christian Fruhwirth-Reisinger et.al., Paper: [http://arxiv.org/abs/2506.06218v1](http://arxiv.org/abs/2506.06218v1)
 - 2025-06-06, **CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**, Peter Lengyel et.al., Paper: [http://arxiv.org/abs/2506.06128v1](http://arxiv.org/abs/2506.06128v1)
 - 2025-06-06, **Self driving algorithm for an active four wheel drive racecar**, Gergely Bari et.al., Paper: [http://arxiv.org/abs/2506.06077v1](http://arxiv.org/abs/2506.06077v1)
