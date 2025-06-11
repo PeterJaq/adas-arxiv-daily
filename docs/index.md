@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09042v1-b31b1b.svg)](http://arxiv.org/abs/2506.09042v1)|null|
+|**2025-06-10**|**Causality-aware Safety Testing for Autonomous Driving Systems**|Wenbing Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08688v1-b31b1b.svg)](http://arxiv.org/abs/2506.08688v1)|null|
+|**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08541v1-b31b1b.svg)](http://arxiv.org/abs/2506.08541v1)|null|
+|**2025-06-10**|**Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**|Nihal Acharya Adde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08533v1-b31b1b.svg)](http://arxiv.org/abs/2506.08533v1)|null|
+|**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08482v1-b31b1b.svg)](http://arxiv.org/abs/2506.08482v1)|null|
+|**2025-06-10**|**Diffusion Models for Safety Validation of Autonomous Driving Systems**|Juanran Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08459v1-b31b1b.svg)](http://arxiv.org/abs/2506.08459v1)|null|
+|**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
+|**2025-06-09**|**Scaling Laws of Motion Forecasting and Planning -- A Technical Report**|Mustafa Baniodeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08228v1-b31b1b.svg)](http://arxiv.org/abs/2506.08228v1)|null|
+|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08149v1-b31b1b.svg)](http://arxiv.org/abs/2506.08149v1)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08005v1-b31b1b.svg)](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07826v1-b31b1b.svg)](http://arxiv.org/abs/2506.07826v1)|null|
 |**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07737v1-b31b1b.svg)](http://arxiv.org/abs/2506.07737v1)|null|

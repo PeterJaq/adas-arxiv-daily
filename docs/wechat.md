@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2025-06-10, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042v1](http://arxiv.org/abs/2506.09042v1)
+- 2025-06-10, **Causality-aware Safety Testing for Autonomous Driving Systems**, Wenbing Tang et.al., Paper: [http://arxiv.org/abs/2506.08688v1](http://arxiv.org/abs/2506.08688v1)
+- 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
+- 2025-06-10, **Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2506.08533v1](http://arxiv.org/abs/2506.08533v1)
+- 2025-06-10, **One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**, Xingshuo Han et.al., Paper: [http://arxiv.org/abs/2506.08482v1](http://arxiv.org/abs/2506.08482v1)
+- 2025-06-10, **Diffusion Models for Safety Validation of Autonomous Driving Systems**, Juanran Wang et.al., Paper: [http://arxiv.org/abs/2506.08459v1](http://arxiv.org/abs/2506.08459v1)
+- 2025-06-10, **Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**, Ira Ceka et.al., Paper: [http://arxiv.org/abs/2506.08311v1](http://arxiv.org/abs/2506.08311v1)
+- 2025-06-09, **Scaling Laws of Motion Forecasting and Planning -- A Technical Report**, Mustafa Baniodeh et.al., Paper: [http://arxiv.org/abs/2506.08228v1](http://arxiv.org/abs/2506.08228v1)
+- 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
 - 2025-06-09, **ZeroVO: Visual Odometry with Minimal Assumptions**, Lei Lai et.al., Paper: [http://arxiv.org/abs/2506.08005v1](http://arxiv.org/abs/2506.08005v1)
 - 2025-06-09, **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2506.07826v1](http://arxiv.org/abs/2506.07826v1)
 - 2025-06-09, **SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**, Xuemei Chen et.al., Paper: [http://arxiv.org/abs/2506.07737v1](http://arxiv.org/abs/2506.07737v1)
