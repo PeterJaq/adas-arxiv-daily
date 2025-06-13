@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10567v1-b31b1b.svg)](http://arxiv.org/abs/2506.10567v1)|null|
+|**2025-06-12**|**Resilience through Automated Adaptive Configuration for Distribution and Replication**|Scott D. Stoller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10248v1-b31b1b.svg)](http://arxiv.org/abs/2506.10248v1)|null|
+|**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10242v1-b31b1b.svg)](http://arxiv.org/abs/2506.10242v1)|null|
+|**2025-06-11**|**Model Predictive Control-Based Optimal Energy Management of Autonomous Electric Vehicles Under Cold Temperatures**|Shanthan Kumar Padisala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10221v1-b31b1b.svg)](http://arxiv.org/abs/2506.10221v1)|null|
+|**2025-06-11**|**Exploring Topological and Localization Phenomena in SSH Chains under Generalized AAH Modulation: A Computational Approach**|Souvik Ghosh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10195v1-b31b1b.svg)](http://arxiv.org/abs/2506.10195v1)|null|
+|**2025-06-11**|**Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems**|Filip Cano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10192v1-b31b1b.svg)](http://arxiv.org/abs/2506.10192v1)|null|
+|**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10145v1-b31b1b.svg)](http://arxiv.org/abs/2506.10145v1)|null|
 |**2025-06-11**|**From Theory to Practice: Advancing Multi-Robot Path Planning Algorithms and Applications**|Teng Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09914v1-b31b1b.svg)](http://arxiv.org/abs/2506.09914v1)|null|
 |**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09881v1-b31b1b.svg)](http://arxiv.org/abs/2506.09881v1)|null|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09800v1-b31b1b.svg)](http://arxiv.org/abs/2506.09800v1)|null|
