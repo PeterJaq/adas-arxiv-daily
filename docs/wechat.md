@@ -11,7 +11,7 @@
 - 2025-06-11, **Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems**, Filip Cano et.al., Paper: [http://arxiv.org/abs/2506.10192v1](http://arxiv.org/abs/2506.10192v1)
 - 2025-06-11, **RoCA: Robust Cross-Domain End-to-End Autonomous Driving**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2506.10145v1](http://arxiv.org/abs/2506.10145v1)
 - 2025-06-11, **From Theory to Practice: Advancing Multi-Robot Path Planning Algorithms and Applications**, Teng Guo et.al., Paper: [http://arxiv.org/abs/2506.09914v1](http://arxiv.org/abs/2506.09914v1)
-- 2025-06-11, **Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2506.09881v1](http://arxiv.org/abs/2506.09881v1)
+- 2025-06-11, **Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2506.09881v1](http://arxiv.org/abs/2506.09881v1), Code: **[https://github.com/anonymouse-9c53tp182bvz/vireo](https://github.com/anonymouse-9c53tp182bvz/vireo)**
 - 2025-06-11, **Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2506.09800v1](http://arxiv.org/abs/2506.09800v1)
 - 2025-06-11, **R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**, Maurice Brunner et.al., Paper: [http://arxiv.org/abs/2506.09629v1](http://arxiv.org/abs/2506.09629v1)
 - 2025-06-11, **ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**, Giacomo Rosin et.al., Paper: [http://arxiv.org/abs/2506.09626v1](http://arxiv.org/abs/2506.09626v1)
