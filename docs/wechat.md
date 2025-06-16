@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2025-06-13, **Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**, Zhipeng Bao et.al., Paper: [http://arxiv.org/abs/2506.11842v1](http://arxiv.org/abs/2506.11842v1)
+- 2025-06-13, **Vision-based Lifting of 2D Object Detections for Automated Driving**, Hendrik Königshof et.al., Paper: [http://arxiv.org/abs/2506.11839v1](http://arxiv.org/abs/2506.11839v1)
+- 2025-06-13, **Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**, Filippo Bragato et.al., Paper: [http://arxiv.org/abs/2506.11804v1](http://arxiv.org/abs/2506.11804v1)
+- 2025-06-13, **An Empirical study on LLM-based Log Retrieval for Software Engineering Metadata Management**, Simin Sun et.al., Paper: [http://arxiv.org/abs/2506.11659v1](http://arxiv.org/abs/2506.11659v1)
+- 2025-06-13, **Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2506.11526v1](http://arxiv.org/abs/2506.11526v1)
+- 2025-06-13, **Resolve Highway Conflict in Multi-Autonomous Vehicle Controls with Local State Attention**, Xuan Duy Ta et.al., Paper: [http://arxiv.org/abs/2506.11445v1](http://arxiv.org/abs/2506.11445v1)
+- 2025-06-13, **FocalAD: Local Motion Planning for End-to-End Autonomous Driving**, Bin Sun et.al., Paper: [http://arxiv.org/abs/2506.11419v1](http://arxiv.org/abs/2506.11419v1)
+- 2025-06-12, **Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2506.11234v1](http://arxiv.org/abs/2506.11234v1)
 - 2025-06-12, **QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2506.10977v1](http://arxiv.org/abs/2506.10977v1)
 - 2025-06-12, **LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**, Hongbeen Park et.al., Paper: [http://arxiv.org/abs/2506.10567v1](http://arxiv.org/abs/2506.10567v1)
 - 2025-06-12, **Resilience through Automated Adaptive Configuration for Distribution and Replication**, Scott D. Stoller et.al., Paper: [http://arxiv.org/abs/2506.10248v1](http://arxiv.org/abs/2506.10248v1)
