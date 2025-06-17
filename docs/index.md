@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 ## Autonomous_Driving
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-06-13**|**Resolve Highway Conflict in Multi-Autonomous Vehicle Controls with Local State Attention**|Xuan Duy Ta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11445v1-b31b1b.svg)](http://arxiv.org/abs/2506.11445v1)|null|
 |**2025-06-13**|**FocalAD: Local Motion Planning for End-to-End Autonomous Driving**|Bin Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11419v1-b31b1b.svg)](http://arxiv.org/abs/2506.11419v1)|null|
 |**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11234v1-b31b1b.svg)](http://arxiv.org/abs/2506.11234v1)|null|
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuosc19/quadricformer)**|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10567v1-b31b1b.svg)](http://arxiv.org/abs/2506.10567v1)|null|
 |**2025-06-12**|**Resilience through Automated Adaptive Configuration for Distribution and Replication**|Scott D. Stoller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10248v1-b31b1b.svg)](http://arxiv.org/abs/2506.10248v1)|null|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10242v1-b31b1b.svg)](http://arxiv.org/abs/2506.10242v1)|null|
