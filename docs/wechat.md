@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-06-16, **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**, Zewei Zhou et.al., Paper: [http://arxiv.org/abs/2506.13757v1](http://arxiv.org/abs/2506.13757v1)
+- 2025-06-16, **Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**, Martino Gulisano et.al., Paper: [http://arxiv.org/abs/2506.13622v1](http://arxiv.org/abs/2506.13622v1)
+- 2025-06-16, **X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2506.13558v1](http://arxiv.org/abs/2506.13558v1)
+- 2025-06-16, **RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**, Yueru Luo et.al., Paper: [http://arxiv.org/abs/2506.13553v1](http://arxiv.org/abs/2506.13553v1)
+- 2025-06-16, **COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2506.13260v1](http://arxiv.org/abs/2506.13260v1)
+- 2025-06-16, **STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**, Jiamin Wang et.al., Paper: [http://arxiv.org/abs/2506.13138v1](http://arxiv.org/abs/2506.13138v1)
+- 2025-06-15, **Bridging Data-Driven and Physics-Based Models: A Consensus Multi-Model Kalman Filter for Robust Vehicle State Estimation**, Farid Mafi et.al., Paper: [http://arxiv.org/abs/2506.12862v1](http://arxiv.org/abs/2506.12862v1)
+- 2025-06-15, **Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**, Zhilin Lin et.al., Paper: [http://arxiv.org/abs/2506.12735v1](http://arxiv.org/abs/2506.12735v1)
+- 2025-06-14, **Mapping Neural Signals to Agent Performance, A Step Towards Reinforcement Learning from Neural Feedback**, Julia Santaniello et.al., Paper: [http://arxiv.org/abs/2506.12636v1](http://arxiv.org/abs/2506.12636v1)
+- 2025-06-13, **Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**, Boris Ivanovic et.al., Paper: [http://arxiv.org/abs/2506.12251v1](http://arxiv.org/abs/2506.12251v1)
 - 2025-06-13, **Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**, Zhipeng Bao et.al., Paper: [http://arxiv.org/abs/2506.11842v1](http://arxiv.org/abs/2506.11842v1)
 - 2025-06-13, **Vision-based Lifting of 2D Object Detections for Automated Driving**, Hendrik Königshof et.al., Paper: [http://arxiv.org/abs/2506.11839v1](http://arxiv.org/abs/2506.11839v1)
 - 2025-06-13, **Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**, Filippo Bragato et.al., Paper: [http://arxiv.org/abs/2506.11804v1](http://arxiv.org/abs/2506.11804v1)
