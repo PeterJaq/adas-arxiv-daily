@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-06-17, **Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**, Chengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2506.14762v1](http://arxiv.org/abs/2506.14762v1)
+- 2025-06-17, **NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**, Ren Xin et.al., Paper: [http://arxiv.org/abs/2506.14589v1](http://arxiv.org/abs/2506.14589v1)
+- 2025-06-17, **Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2506.14502v1](http://arxiv.org/abs/2506.14502v1)
+- 2025-06-17, **ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**, Fanzhi Zeng et.al., Paper: [http://arxiv.org/abs/2506.14299v1](http://arxiv.org/abs/2506.14299v1)
+- 2025-06-17, **Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**, Weiming Zhang et.al., Paper: [http://arxiv.org/abs/2506.14271v1](http://arxiv.org/abs/2506.14271v1)
+- 2025-06-17, **Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**, Xiaohui Jiang et.al., Paper: [http://arxiv.org/abs/2506.14243v1](http://arxiv.org/abs/2506.14243v1)
+- 2025-06-17, **KDMOS:Knowledge Distillation for Motion Segmentation**, Chunyu Cao et.al., Paper: [http://arxiv.org/abs/2506.14130v1](http://arxiv.org/abs/2506.14130v1)
+- 2025-06-17, **A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**, Yupeng Zhou et.al., Paper: [http://arxiv.org/abs/2506.14100v1](http://arxiv.org/abs/2506.14100v1)
+- 2025-06-17, **Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**, Sanjeda Akter et.al., Paper: [http://arxiv.org/abs/2506.14096v1](http://arxiv.org/abs/2506.14096v1)
+- 2025-06-16, **FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**, Daniel Montoya et.al., Paper: [http://arxiv.org/abs/2506.14008v1](http://arxiv.org/abs/2506.14008v1)
 - 2025-06-16, **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**, Zewei Zhou et.al., Paper: [http://arxiv.org/abs/2506.13757v1](http://arxiv.org/abs/2506.13757v1)
 - 2025-06-16, **Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**, Martino Gulisano et.al., Paper: [http://arxiv.org/abs/2506.13622v1](http://arxiv.org/abs/2506.13622v1)
 - 2025-06-16, **X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2506.13558v1](http://arxiv.org/abs/2506.13558v1)
