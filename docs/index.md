@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15610v1-b31b1b.svg)](http://arxiv.org/abs/2506.15610v1)|null|
+|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|null|
+|**2025-06-18**|**An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**|Homa Nikbakht et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15045v1-b31b1b.svg)](http://arxiv.org/abs/2506.15045v1)|null|
+|**2025-06-17**|**Mixed Traffic: A Perspective from Long Duration Autonomy**|Filippos Tzortzoglou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15004v1-b31b1b.svg)](http://arxiv.org/abs/2506.15004v1)|null|
 |**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14762v1-b31b1b.svg)](http://arxiv.org/abs/2506.14762v1)|null|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14589v1-b31b1b.svg)](http://arxiv.org/abs/2506.14589v1)|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14589v1-b31b1b.svg)](http://arxiv.org/abs/2506.14589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rex-sys-hk/netroller)**|
 |**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14502v1-b31b1b.svg)](http://arxiv.org/abs/2506.14502v1)|null|
 |**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14299v1-b31b1b.svg)](http://arxiv.org/abs/2506.14299v1)|null|
 |**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14271v1-b31b1b.svg)](http://arxiv.org/abs/2506.14271v1)|null|
