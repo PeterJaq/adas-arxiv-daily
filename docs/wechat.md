@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610v1](http://arxiv.org/abs/2506.15610v1)
-- 2025-06-18, **MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**, Leonid Ivanov et.al., Paper: [http://arxiv.org/abs/2506.15313v1](http://arxiv.org/abs/2506.15313v1)
+- 2025-06-18, **MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**, Leonid Ivanov et.al., Paper: [http://arxiv.org/abs/2506.15313v1](http://arxiv.org/abs/2506.15313v1), Code: **[https://github.com/livanoff/mapfm](https://github.com/livanoff/mapfm)**
 - 2025-06-18, **An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**, Homa Nikbakht et.al., Paper: [http://arxiv.org/abs/2506.15045v1](http://arxiv.org/abs/2506.15045v1)
 - 2025-06-17, **Mixed Traffic: A Perspective from Long Duration Autonomy**, Filippos Tzortzoglou et.al., Paper: [http://arxiv.org/abs/2506.15004v1](http://arxiv.org/abs/2506.15004v1)
 - 2025-06-17, **Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**, Chengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2506.14762v1](http://arxiv.org/abs/2506.14762v1)
