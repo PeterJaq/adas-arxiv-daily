@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-06-20, **Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**, Ke Li et.al., Paper: [http://arxiv.org/abs/2506.17101v1](http://arxiv.org/abs/2506.17101v1)
+- 2025-06-20, **A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**, Hanlin Wu et.al., Paper: [http://arxiv.org/abs/2506.17004v1](http://arxiv.org/abs/2506.17004v1)
+- 2025-06-20, **ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC**, Takahiro Ishikawa-Aso et.al., Paper: [http://arxiv.org/abs/2506.16882v1](http://arxiv.org/abs/2506.16882v1)
+- 2025-06-20, **Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**, Halit Eris et.al., Paper: [http://arxiv.org/abs/2506.16876v1](http://arxiv.org/abs/2506.16876v1)
+- 2025-06-20, **DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**, Weitao Zhou et.al., Paper: [http://arxiv.org/abs/2506.16720v1](http://arxiv.org/abs/2506.16720v1)
+- 2025-06-20, **DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches**, Yun Xing et.al., Paper: [http://arxiv.org/abs/2506.16690v1](http://arxiv.org/abs/2506.16690v1)
+- 2025-06-19, **DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty**, Nicolas Samson et.al., Paper: [http://arxiv.org/abs/2506.16593v1](http://arxiv.org/abs/2506.16593v1)
+- 2025-06-19, **How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**, Mei Qi Tang et.al., Paper: [http://arxiv.org/abs/2506.16531v1](http://arxiv.org/abs/2506.16531v1)
+- 2025-06-19, **AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios**, Yunhao Hou et.al., Paper: [http://arxiv.org/abs/2506.16371v1](http://arxiv.org/abs/2506.16371v1)
+- 2025-06-19, **Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**, Yiou Huang et.al., Paper: [http://arxiv.org/abs/2506.16336v1](http://arxiv.org/abs/2506.16336v1)
 - 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610v1](http://arxiv.org/abs/2506.15610v1)
 - 2025-06-18, **MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**, Leonid Ivanov et.al., Paper: [http://arxiv.org/abs/2506.15313v1](http://arxiv.org/abs/2506.15313v1), Code: **[https://github.com/livanoff/mapfm](https://github.com/livanoff/mapfm)**
 - 2025-06-18, **An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**, Homa Nikbakht et.al., Paper: [http://arxiv.org/abs/2506.15045v1](http://arxiv.org/abs/2506.15045v1)
