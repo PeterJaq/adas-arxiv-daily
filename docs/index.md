@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**|Ke Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17101v1-b31b1b.svg)](http://arxiv.org/abs/2506.17101v1)|null|
+|**2025-06-23**|**Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**|Ke Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17101v2-b31b1b.svg)](http://arxiv.org/abs/2506.17101v2)|null|
 |**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17004v1-b31b1b.svg)](http://arxiv.org/abs/2506.17004v1)|null|
 |**2025-06-20**|**ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC**|Takahiro Ishikawa-Aso et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16882v1-b31b1b.svg)](http://arxiv.org/abs/2506.16882v1)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
