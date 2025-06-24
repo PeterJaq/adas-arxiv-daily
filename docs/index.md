@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18798v1-b31b1b.svg)](http://arxiv.org/abs/2506.18798v1)|null|
+|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18785v1-b31b1b.svg)](http://arxiv.org/abs/2506.18785v1)|null|
+|**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18737v1-b31b1b.svg)](http://arxiv.org/abs/2506.18737v1)|null|
+|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18725v1-b31b1b.svg)](http://arxiv.org/abs/2506.18725v1)|null|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18682v1-b31b1b.svg)](http://arxiv.org/abs/2506.18682v1)|null|
+|**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18472v1-b31b1b.svg)](http://arxiv.org/abs/2506.18472v1)|null|
+|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18304v1-b31b1b.svg)](http://arxiv.org/abs/2506.18304v1)|null|
+|**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
+|**2025-06-22**|**Coherent Track-Before-Detect**|Mingchao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18177v1-b31b1b.svg)](http://arxiv.org/abs/2506.18177v1)|null|
+|**2025-06-22**|**Bayesian Multiobject Tracking With Neural-Enhanced Motion and Measurement Models**|Shaoxiu Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18124v1-b31b1b.svg)](http://arxiv.org/abs/2506.18124v1)|null|
 |**2025-06-23**|**Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**|Ke Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17101v2-b31b1b.svg)](http://arxiv.org/abs/2506.17101v2)|null|
 |**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17004v1-b31b1b.svg)](http://arxiv.org/abs/2506.17004v1)|null|
 |**2025-06-20**|**ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC**|Takahiro Ishikawa-Aso et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16882v1-b31b1b.svg)](http://arxiv.org/abs/2506.16882v1)|null|
