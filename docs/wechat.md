@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-06-24, **Unified Vision-Language-Action Model**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2506.19850v1](http://arxiv.org/abs/2506.19850v1)
+- 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769v1](http://arxiv.org/abs/2506.19769v1)
+- 2025-06-24, **Integrated Balanced and Staggered Routing in Autonomous Mobility-on-Demand Systems**, Antonio Coppola et.al., Paper: [http://arxiv.org/abs/2506.19722v1](http://arxiv.org/abs/2506.19722v1)
+- 2025-06-24, **PEVLM: Parallel Encoding for Vision-Language Models**, Letian Kang et.al., Paper: [http://arxiv.org/abs/2506.19651v1](http://arxiv.org/abs/2506.19651v1)
+- 2025-06-24, **Self-Supervised Multimodal NeRF for Autonomous Driving**, Gaurav Sharma et.al., Paper: [http://arxiv.org/abs/2506.19615v1](http://arxiv.org/abs/2506.19615v1)
+- 2025-06-24, **SceneCrafter: Controllable Multi-View Driving Scene Editing**, Zehao Zhu et.al., Paper: [http://arxiv.org/abs/2506.19488v1](http://arxiv.org/abs/2506.19488v1)
+- 2025-06-24, **AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**, Xiangbo Gao et.al., Paper: [http://arxiv.org/abs/2506.19283v1](http://arxiv.org/abs/2506.19283v1)
 - 2025-06-23, **OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2506.18798v1](http://arxiv.org/abs/2506.18798v1)
 - 2025-06-23, **SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2506.18785v1](http://arxiv.org/abs/2506.18785v1)
 - 2025-06-23, **USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**, Shanliang Yao et.al., Paper: [http://arxiv.org/abs/2506.18737v1](http://arxiv.org/abs/2506.18737v1)

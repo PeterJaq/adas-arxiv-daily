@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19850v1-b31b1b.svg)](http://arxiv.org/abs/2506.19850v1)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
+|**2025-06-24**|**Integrated Balanced and Staggered Routing in Autonomous Mobility-on-Demand Systems**|Antonio Coppola et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19722v1-b31b1b.svg)](http://arxiv.org/abs/2506.19722v1)|null|
+|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19651v1-b31b1b.svg)](http://arxiv.org/abs/2506.19651v1)|null|
+|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19615v1-b31b1b.svg)](http://arxiv.org/abs/2506.19615v1)|null|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19488v1-b31b1b.svg)](http://arxiv.org/abs/2506.19488v1)|null|
+|**2025-06-24**|**AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**|Xiangbo Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19283v1-b31b1b.svg)](http://arxiv.org/abs/2506.19283v1)|null|
 |**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18798v1-b31b1b.svg)](http://arxiv.org/abs/2506.18798v1)|null|
 |**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18785v1-b31b1b.svg)](http://arxiv.org/abs/2506.18785v1)|null|
 |**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18737v1-b31b1b.svg)](http://arxiv.org/abs/2506.18737v1)|null|
