@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-06-25, **Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**, Soheyb Ribouh et.al., Paper: [http://arxiv.org/abs/2506.20597v1](http://arxiv.org/abs/2506.20597v1)
+- 2025-06-25, **Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation**, Rachel Luo et.al., Paper: [http://arxiv.org/abs/2506.20553v1](http://arxiv.org/abs/2506.20553v1)
+- 2025-06-25, **Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**, Yitong Quan et.al., Paper: [http://arxiv.org/abs/2506.20550v1](http://arxiv.org/abs/2506.20550v1)
+- 2025-06-25, **Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**, Wenbin Gan et.al., Paper: [http://arxiv.org/abs/2506.20531v1](http://arxiv.org/abs/2506.20531v1)
+- 2025-06-25, **From 2D to 3D Cognition: A Brief Survey of General World Models**, Ningwei Xie et.al., Paper: [http://arxiv.org/abs/2506.20134v1](http://arxiv.org/abs/2506.20134v1)
 - 2025-06-24, **Unified Vision-Language-Action Model**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2506.19850v1](http://arxiv.org/abs/2506.19850v1)
 - 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769v1](http://arxiv.org/abs/2506.19769v1)
 - 2025-06-24, **Integrated Balanced and Staggered Routing in Autonomous Mobility-on-Demand Systems**, Antonio Coppola et.al., Paper: [http://arxiv.org/abs/2506.19722v1](http://arxiv.org/abs/2506.19722v1)
