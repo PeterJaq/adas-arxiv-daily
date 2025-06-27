@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21547v1-b31b1b.svg)](http://arxiv.org/abs/2506.21547v1)|null|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21520v1-b31b1b.svg)](http://arxiv.org/abs/2506.21520v1)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21260v1-b31b1b.svg)](http://arxiv.org/abs/2506.21260v1)|null|
+|**2025-06-26**|**Out-of-Distribution Semantic Occupancy Prediction**|Yuheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21185v1-b31b1b.svg)](http://arxiv.org/abs/2506.21185v1)|null|
+|**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21121v1-b31b1b.svg)](http://arxiv.org/abs/2506.21121v1)|null|
+|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21041v1-b31b1b.svg)](http://arxiv.org/abs/2506.21041v1)|null|
+|**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20969v1-b31b1b.svg)](http://arxiv.org/abs/2506.20969v1)|null|
+|**2025-06-25**|**Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher**|Tomas Gallo Aquino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20834v1-b31b1b.svg)](http://arxiv.org/abs/2506.20834v1)|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20597v1-b31b1b.svg)](http://arxiv.org/abs/2506.20597v1)|null|
 |**2025-06-25**|**Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation**|Rachel Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20553v1-b31b1b.svg)](http://arxiv.org/abs/2506.20553v1)|null|
 |**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20550v1-b31b1b.svg)](http://arxiv.org/abs/2506.20550v1)|null|
