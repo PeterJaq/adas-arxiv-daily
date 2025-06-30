@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-06-27, **ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**, Bavo Lesy et.al., Paper: [http://arxiv.org/abs/2506.22174v1](http://arxiv.org/abs/2506.22174v1)
+- 2025-06-27, **Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**, Ruthvik Bokkasam et.al., Paper: [http://arxiv.org/abs/2506.22111v1](http://arxiv.org/abs/2506.22111v1)
+- 2025-06-27, **BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**, Zipei Ma et.al., Paper: [http://arxiv.org/abs/2506.22099v1](http://arxiv.org/abs/2506.22099v1)
+- 2025-06-27, **Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**, Shengyue Yao et.al., Paper: [http://arxiv.org/abs/2506.22068v1](http://arxiv.org/abs/2506.22068v1)
+- 2025-06-27, **Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**, Chuheng Wei et.al., Paper: [http://arxiv.org/abs/2506.21885v1](http://arxiv.org/abs/2506.21885v1)
+- 2025-06-26, **The DevSafeOps Dilemma: A Systematic Literature Review on Rapidity in Safe Autonomous Driving Development and Operation**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2506.21693v1](http://arxiv.org/abs/2506.21693v1)
 - 2025-06-26, **SAM4D: Segment Anything in Camera and LiDAR Streams**, Jianyun Xu et.al., Paper: [http://arxiv.org/abs/2506.21547v1](http://arxiv.org/abs/2506.21547v1)
 - 2025-06-26, **MADrive: Memory-Augmented Driving Scene Modeling**, Polina Karpikova et.al., Paper: [http://arxiv.org/abs/2506.21520v1](http://arxiv.org/abs/2506.21520v1)
 - 2025-06-26, **DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**, Munish Monga et.al., Paper: [http://arxiv.org/abs/2506.21260v1](http://arxiv.org/abs/2506.21260v1)

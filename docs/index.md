@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22174v1-b31b1b.svg)](http://arxiv.org/abs/2506.22174v1)|null|
+|**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22111v1-b31b1b.svg)](http://arxiv.org/abs/2506.22111v1)|null|
+|**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22099v1-b31b1b.svg)](http://arxiv.org/abs/2506.22099v1)|null|
+|**2025-06-27**|**Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**|Shengyue Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22068v1-b31b1b.svg)](http://arxiv.org/abs/2506.22068v1)|null|
+|**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21885v1-b31b1b.svg)](http://arxiv.org/abs/2506.21885v1)|null|
+|**2025-06-26**|**The DevSafeOps Dilemma: A Systematic Literature Review on Rapidity in Safe Autonomous Driving Development and Operation**|Ali Nouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21693v1-b31b1b.svg)](http://arxiv.org/abs/2506.21693v1)|null|
 |**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21547v1-b31b1b.svg)](http://arxiv.org/abs/2506.21547v1)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21520v1-b31b1b.svg)](http://arxiv.org/abs/2506.21520v1)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21260v1-b31b1b.svg)](http://arxiv.org/abs/2506.21260v1)|null|
