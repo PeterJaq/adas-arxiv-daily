@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24113v1-b31b1b.svg)](http://arxiv.org/abs/2506.24113v1)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24044v1-b31b1b.svg)](http://arxiv.org/abs/2506.24044v1)|null|
+|**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23999v1-b31b1b.svg)](http://arxiv.org/abs/2506.23999v1)|null|
+|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23995v1-b31b1b.svg)](http://arxiv.org/abs/2506.23995v1)|null|
+|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23982v1-b31b1b.svg)](http://arxiv.org/abs/2506.23982v1)|null|
+|**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
+|**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23771v1-b31b1b.svg)](http://arxiv.org/abs/2506.23771v1)|null|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23523v1-b31b1b.svg)](http://arxiv.org/abs/2506.23523v1)|null|
+|**2025-06-30**|**Reducing Motion Sickness in Passengers of Autonomous Personal Mobility Vehicles by Presenting a Driving Path**|Yuya Ide et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23457v1-b31b1b.svg)](http://arxiv.org/abs/2506.23457v1)|null|
+|**2025-06-30**|**From Large-scale Audio Tagging to Real-Time Explainable Emergency Vehicle Sirens Detection**|Stefano Giacomelli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23437v1-b31b1b.svg)](http://arxiv.org/abs/2506.23437v1)|null|
 |**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22174v1-b31b1b.svg)](http://arxiv.org/abs/2506.22174v1)|null|
 |**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22111v1-b31b1b.svg)](http://arxiv.org/abs/2506.22111v1)|null|
 |**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22099v1-b31b1b.svg)](http://arxiv.org/abs/2506.22099v1)|null|

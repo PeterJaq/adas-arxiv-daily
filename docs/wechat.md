@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113v1](http://arxiv.org/abs/2506.24113v1)
+- 2025-06-30, **A Survey on Vision-Language-Action Models for Autonomous Driving**, Sicong Jiang et.al., Paper: [http://arxiv.org/abs/2506.24044v1](http://arxiv.org/abs/2506.24044v1)
+- 2025-06-30, **Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**, Zeyu Han et.al., Paper: [http://arxiv.org/abs/2506.23999v1](http://arxiv.org/abs/2506.23999v1)
+- 2025-06-30, **STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2506.23995v1](http://arxiv.org/abs/2506.23995v1)
+- 2025-06-30, **StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**, Ruiyang Hao et.al., Paper: [http://arxiv.org/abs/2506.23982v1](http://arxiv.org/abs/2506.23982v1)
+- 2025-06-30, **ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2506.23960v1](http://arxiv.org/abs/2506.23960v1)
+- 2025-06-30, **Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2506.23771v1](http://arxiv.org/abs/2506.23771v1)
+- 2025-06-30, **Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**, Tuong Do et.al., Paper: [http://arxiv.org/abs/2506.23523v1](http://arxiv.org/abs/2506.23523v1)
+- 2025-06-30, **Reducing Motion Sickness in Passengers of Autonomous Personal Mobility Vehicles by Presenting a Driving Path**, Yuya Ide et.al., Paper: [http://arxiv.org/abs/2506.23457v1](http://arxiv.org/abs/2506.23457v1)
+- 2025-06-30, **From Large-scale Audio Tagging to Real-Time Explainable Emergency Vehicle Sirens Detection**, Stefano Giacomelli et.al., Paper: [http://arxiv.org/abs/2506.23437v1](http://arxiv.org/abs/2506.23437v1)
 - 2025-06-27, **ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**, Bavo Lesy et.al., Paper: [http://arxiv.org/abs/2506.22174v1](http://arxiv.org/abs/2506.22174v1)
 - 2025-06-27, **Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**, Ruthvik Bokkasam et.al., Paper: [http://arxiv.org/abs/2506.22111v1](http://arxiv.org/abs/2506.22111v1)
 - 2025-06-27, **BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**, Zipei Ma et.al., Paper: [http://arxiv.org/abs/2506.22099v1](http://arxiv.org/abs/2506.22099v1)
