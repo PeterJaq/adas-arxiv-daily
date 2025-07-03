@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01801v1-b31b1b.svg)](http://arxiv.org/abs/2507.01801v1)|null|
+|**2025-07-02**|**ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**|Kai Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01735v1-b31b1b.svg)](http://arxiv.org/abs/2507.01735v1)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01504v1-b31b1b.svg)](http://arxiv.org/abs/2507.01504v1)|null|
+|**2025-07-02**|**What Really Matters for Robust Multi-Sensor HD Map Construction?**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01484v1-b31b1b.svg)](http://arxiv.org/abs/2507.01484v1)|null|
+|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01367v1-b31b1b.svg)](http://arxiv.org/abs/2507.01367v1)|null|
+|**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01308v1-b31b1b.svg)](http://arxiv.org/abs/2507.01308v1)|null|
+|**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01284v1-b31b1b.svg)](http://arxiv.org/abs/2507.01284v1)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01264v1-b31b1b.svg)](http://arxiv.org/abs/2507.01264v1)|null|
+|**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.00980v1-b31b1b.svg)](http://arxiv.org/abs/2507.00980v1)|null|
+|**2025-07-01**|**SafeMap: Robust HD Map Construction from Incomplete Observations**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.00861v1-b31b1b.svg)](http://arxiv.org/abs/2507.00861v1)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24113v1-b31b1b.svg)](http://arxiv.org/abs/2506.24113v1)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24044v1-b31b1b.svg)](http://arxiv.org/abs/2506.24044v1)|null|
 |**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23999v1-b31b1b.svg)](http://arxiv.org/abs/2506.23999v1)|null|
