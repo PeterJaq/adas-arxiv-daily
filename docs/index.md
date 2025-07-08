@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05260v1-b31b1b.svg)](http://arxiv.org/abs/2507.05260v1)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05251v1-b31b1b.svg)](http://arxiv.org/abs/2507.05251v1)|null|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05227v1-b31b1b.svg)](http://arxiv.org/abs/2507.05227v1)|null|
+|**2025-07-07**|**Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05098v1-b31b1b.svg)](http://arxiv.org/abs/2507.05098v1)|null|
+|**2025-07-07**|**SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**|Mengwei Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04822v1-b31b1b.svg)](http://arxiv.org/abs/2507.04822v1)|null|
+|**2025-07-07**|**Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**|Giwon Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04790v1-b31b1b.svg)](http://arxiv.org/abs/2507.04790v1)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04587v1-b31b1b.svg)](http://arxiv.org/abs/2507.04587v1)|null|
+|**2025-07-06**|**A Data-Driven Novelty Score for Diverse In-Vehicle Data Recording**|Philipp Reis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04529v1-b31b1b.svg)](http://arxiv.org/abs/2507.04529v1)|null|
+|**2025-07-06**|**MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**|Zhendong Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04509v1-b31b1b.svg)](http://arxiv.org/abs/2507.04509v1)|null|
+|**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04503v1-b31b1b.svg)](http://arxiv.org/abs/2507.04503v1)|null|
 |**2025-07-03**|**MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**|Shivam Chaubey et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.02438v1-b31b1b.svg)](http://arxiv.org/abs/2507.02438v1)|null|
 |**2025-07-03**|**A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**|Maryem Fadili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.02430v1-b31b1b.svg)](http://arxiv.org/abs/2507.02430v1)|null|
 |**2025-07-03**|**DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**|Maximilian Zipfl et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.02400v1-b31b1b.svg)](http://arxiv.org/abs/2507.02400v1)|null|
