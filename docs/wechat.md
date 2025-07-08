@@ -1,4 +1,4 @@
-> Updated on 2025.07.07
+> Updated on 2025.07.08
 
 ## Autonomous_Driving
 
@@ -7,7 +7,7 @@
 - 2025-07-03, **DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**, Maximilian Zipfl et.al., Paper: [http://arxiv.org/abs/2507.02400v1](http://arxiv.org/abs/2507.02400v1)
 - 2025-07-03, **A Vehicle-in-the-Loop Simulator with AI-Powered Digital Twins for Testing Automated Driving Controllers**, Zengjie Zhang et.al., Paper: [http://arxiv.org/abs/2507.02313v1](http://arxiv.org/abs/2507.02313v1)
 - 2025-07-03, **FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model**, Jiangxia Chen et.al., Paper: [http://arxiv.org/abs/2507.02250v1](http://arxiv.org/abs/2507.02250v1)
-- 2025-07-03, **CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2507.02245v1](http://arxiv.org/abs/2507.02245v1)
+- 2025-07-04, **CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2507.02245v2](http://arxiv.org/abs/2507.02245v2)
 - 2025-07-02, **AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**, Bin Rao et.al., Paper: [http://arxiv.org/abs/2507.01801v1](http://arxiv.org/abs/2507.01801v1)
 - 2025-07-02, **ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**, Kai Chen et.al., Paper: [http://arxiv.org/abs/2507.01735v1](http://arxiv.org/abs/2507.01735v1)
 - 2025-07-02, **Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**, Robert Aufschläger et.al., Paper: [http://arxiv.org/abs/2507.01504v1](http://arxiv.org/abs/2507.01504v1)
