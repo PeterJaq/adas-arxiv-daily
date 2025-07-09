@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06072v1-b31b1b.svg)](http://arxiv.org/abs/2507.06072v1)|null|
+|**2025-07-08**|**TigAug: Data Augmentation for Testing Traffic Light Detection in Autonomous Driving Systems**|You Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05932v1-b31b1b.svg)](http://arxiv.org/abs/2507.05932v1)|null|
+|**2025-07-08**|**Towards Solar Altitude Guided Scene Illumination**|Samed Doğan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05812v1-b31b1b.svg)](http://arxiv.org/abs/2507.05812v1)|null|
+|**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Yuhang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05754v1-b31b1b.svg)](http://arxiv.org/abs/2507.05754v1)|null|
+|**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05710v1-b31b1b.svg)](http://arxiv.org/abs/2507.05710v1)|null|
+|**2025-07-08**|**Electrostatically Controlled Pyrophototronic Effect Enabled Accident Alert System using a Strain-Polarized WS2 Phototransistor**|Poulomi Chakrabarty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05705v1-b31b1b.svg)](http://arxiv.org/abs/2507.05705v1)|null|
+|**2025-07-08**|**Bifurcation in dynamic problems with seasonal succession**|Gonzalo Galiano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05694v1-b31b1b.svg)](http://arxiv.org/abs/2507.05694v1)|null|
+|**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05536v1-b31b1b.svg)](http://arxiv.org/abs/2507.05536v1)|null|
+|**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05376v1-b31b1b.svg)](http://arxiv.org/abs/2507.05376v1)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05260v1-b31b1b.svg)](http://arxiv.org/abs/2507.05260v1)|null|
 |**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05251v1-b31b1b.svg)](http://arxiv.org/abs/2507.05251v1)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05227v1-b31b1b.svg)](http://arxiv.org/abs/2507.05227v1)|null|
