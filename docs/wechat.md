@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2025-07-09, **Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**, Zhiqi Huang et.al., Paper: [http://arxiv.org/abs/2507.06978v1](http://arxiv.org/abs/2507.06978v1)
+- 2025-07-09, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v1](http://arxiv.org/abs/2507.06971v1)
+- 2025-07-09, **Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**, Linyun Gao et.al., Paper: [http://arxiv.org/abs/2507.06907v1](http://arxiv.org/abs/2507.06907v1)
+- 2025-07-09, **SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**, Matthias Zeller et.al., Paper: [http://arxiv.org/abs/2507.06906v1](http://arxiv.org/abs/2507.06906v1)
+- 2025-07-08, **VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**, Shanting Wang et.al., Paper: [http://arxiv.org/abs/2507.06441v1](http://arxiv.org/abs/2507.06441v1)
 - 2025-07-08, **MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**, Tongtong Cheng et.al., Paper: [http://arxiv.org/abs/2507.06072v1](http://arxiv.org/abs/2507.06072v1)
 - 2025-07-08, **TigAug: Data Augmentation for Testing Traffic Light Detection in Autonomous Driving Systems**, You Lu et.al., Paper: [http://arxiv.org/abs/2507.05932v1](http://arxiv.org/abs/2507.05932v1)
 - 2025-07-08, **Towards Solar Altitude Guided Scene Illumination**, Samed Doğan et.al., Paper: [http://arxiv.org/abs/2507.05812v1](http://arxiv.org/abs/2507.05812v1)
