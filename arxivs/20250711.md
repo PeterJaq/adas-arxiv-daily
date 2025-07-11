@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
+|**2025-07-10**|**Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**|Jeonghoon Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07460v1-b31b1b.svg)](http://arxiv.org/abs/2507.07460v1)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06978v1-b31b1b.svg)](http://arxiv.org/abs/2507.06978v1)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v2-b31b1b.svg)](http://arxiv.org/abs/2507.06971v2)|null|
 |**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06907v1-b31b1b.svg)](http://arxiv.org/abs/2507.06907v1)|null|
