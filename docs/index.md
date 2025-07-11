@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06978v1-b31b1b.svg)](http://arxiv.org/abs/2507.06978v1)|null|
-|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v1-b31b1b.svg)](http://arxiv.org/abs/2507.06971v1)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v2-b31b1b.svg)](http://arxiv.org/abs/2507.06971v2)|null|
 |**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06907v1-b31b1b.svg)](http://arxiv.org/abs/2507.06907v1)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06906v1-b31b1b.svg)](http://arxiv.org/abs/2507.06906v1)|null|
 |**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06441v1-b31b1b.svg)](http://arxiv.org/abs/2507.06441v1)|null|
