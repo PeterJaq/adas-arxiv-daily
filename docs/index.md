@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08716v1-b31b1b.svg)](http://arxiv.org/abs/2507.08716v1)|null|
+|**2025-07-11**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v1-b31b1b.svg)](http://arxiv.org/abs/2507.08563v1)|null|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08448v1-b31b1b.svg)](http://arxiv.org/abs/2507.08448v1)|null|
 |**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
 |**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
 |**2025-07-11**|**Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**|Jeonghoon Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07460v2-b31b1b.svg)](http://arxiv.org/abs/2507.07460v2)|null|
