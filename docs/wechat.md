@@ -1,10 +1,10 @@
-> Updated on 2025.07.13
+> Updated on 2025.07.14
 
 ## Autonomous_Driving
 
 - 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
 - 2025-07-10, **MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**, Lu Xu et.al., Paper: [http://arxiv.org/abs/2507.07818v1](http://arxiv.org/abs/2507.07818v1)
-- 2025-07-10, **Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**, Jeonghoon Song et.al., Paper: [http://arxiv.org/abs/2507.07460v1](http://arxiv.org/abs/2507.07460v1)
+- 2025-07-11, **Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**, Jeonghoon Song et.al., Paper: [http://arxiv.org/abs/2507.07460v2](http://arxiv.org/abs/2507.07460v2)
 - 2025-07-09, **Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**, Zhiqi Huang et.al., Paper: [http://arxiv.org/abs/2507.06978v1](http://arxiv.org/abs/2507.06978v1)
 - 2025-07-10, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v2](http://arxiv.org/abs/2507.06971v2)
 - 2025-07-09, **Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**, Linyun Gao et.al., Paper: [http://arxiv.org/abs/2507.06907v1](http://arxiv.org/abs/2507.06907v1)
