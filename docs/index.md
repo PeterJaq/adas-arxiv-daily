@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10500v1-b31b1b.svg)](http://arxiv.org/abs/2507.10500v1)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10376v1-b31b1b.svg)](http://arxiv.org/abs/2507.10376v1)|null|
+|**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10367v1-b31b1b.svg)](http://arxiv.org/abs/2507.10367v1)|null|
+|**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10047v1-b31b1b.svg)](http://arxiv.org/abs/2507.10047v1)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10034v1-b31b1b.svg)](http://arxiv.org/abs/2507.10034v1)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09993v1-b31b1b.svg)](http://arxiv.org/abs/2507.09993v1)|null|
+|**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09915v1-b31b1b.svg)](http://arxiv.org/abs/2507.09915v1)|null|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
+|**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09836v1-b31b1b.svg)](http://arxiv.org/abs/2507.09836v1)|null|
+|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09815v1-b31b1b.svg)](http://arxiv.org/abs/2507.09815v1)|null|
 |**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08716v1-b31b1b.svg)](http://arxiv.org/abs/2507.08716v1)|null|
 |**2025-07-11**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v1-b31b1b.svg)](http://arxiv.org/abs/2507.08563v1)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08448v1-b31b1b.svg)](http://arxiv.org/abs/2507.08448v1)|null|
