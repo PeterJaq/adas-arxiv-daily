@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11540v1-b31b1b.svg)](http://arxiv.org/abs/2507.11540v1)|null|
+|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11531v1-b31b1b.svg)](http://arxiv.org/abs/2507.11531v1)|null|
+|**2025-07-15**|**A Survey on Interpretability in Visual Recognition**|Qiyang Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11099v1-b31b1b.svg)](http://arxiv.org/abs/2507.11099v1)|null|
+|**2025-07-15**|**SMART-Merge Planner: A Safe Merging and Real-Time Motion Planner for Autonomous Highway On-Ramp Merging**|Toktam Mohammadnejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10968v1-b31b1b.svg)](http://arxiv.org/abs/2507.10968v1)|null|
+|**2025-07-14**|**Detecting AI Assistance in Abstract Complex Tasks**|Tyler King et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10761v1-b31b1b.svg)](http://arxiv.org/abs/2507.10761v1)|null|
+|**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10749v1-b31b1b.svg)](http://arxiv.org/abs/2507.10749v1)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10500v1-b31b1b.svg)](http://arxiv.org/abs/2507.10500v1)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10376v1-b31b1b.svg)](http://arxiv.org/abs/2507.10376v1)|null|
 |**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10367v1-b31b1b.svg)](http://arxiv.org/abs/2507.10367v1)|null|

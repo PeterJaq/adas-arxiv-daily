@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-07-15, **Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2507.11540v1](http://arxiv.org/abs/2507.11540v1)
+- 2025-07-15, **Langevin Flows for Modeling Neural Latent Dynamics**, Yue Song et.al., Paper: [http://arxiv.org/abs/2507.11531v1](http://arxiv.org/abs/2507.11531v1)
+- 2025-07-15, **A Survey on Interpretability in Visual Recognition**, Qiyang Wan et.al., Paper: [http://arxiv.org/abs/2507.11099v1](http://arxiv.org/abs/2507.11099v1)
+- 2025-07-15, **SMART-Merge Planner: A Safe Merging and Real-Time Motion Planner for Autonomous Highway On-Ramp Merging**, Toktam Mohammadnejad et.al., Paper: [http://arxiv.org/abs/2507.10968v1](http://arxiv.org/abs/2507.10968v1)
+- 2025-07-14, **Detecting AI Assistance in Abstract Complex Tasks**, Tyler King et.al., Paper: [http://arxiv.org/abs/2507.10761v1](http://arxiv.org/abs/2507.10761v1)
+- 2025-07-14, **RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**, Benjamin Stoler et.al., Paper: [http://arxiv.org/abs/2507.10749v1](http://arxiv.org/abs/2507.10749v1)
 - 2025-07-14, **Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**, Kyungtae Han et.al., Paper: [http://arxiv.org/abs/2507.10500v1](http://arxiv.org/abs/2507.10500v1)
 - 2025-07-14, **Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**, Mohammadhossein Talebi et.al., Paper: [http://arxiv.org/abs/2507.10376v1](http://arxiv.org/abs/2507.10376v1)
 - 2025-07-14, **FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**, Jingwei Xu et.al., Paper: [http://arxiv.org/abs/2507.10367v1](http://arxiv.org/abs/2507.10367v1)
