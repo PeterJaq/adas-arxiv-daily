@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2025-07-16, **MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**, Renjie Li et.al., Paper: [http://arxiv.org/abs/2507.12463v1](http://arxiv.org/abs/2507.12463v1)
+- 2025-07-16, **AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**, Santosh Vasa et.al., Paper: [http://arxiv.org/abs/2507.12414v1](http://arxiv.org/abs/2507.12414v1)
+- 2025-07-16, **EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**, Yubo Hou et.al., Paper: [http://arxiv.org/abs/2507.12263v1](http://arxiv.org/abs/2507.12263v1)
+- 2025-07-16, **LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**, Yuzhou Ji et.al., Paper: [http://arxiv.org/abs/2507.12114v1](http://arxiv.org/abs/2507.12114v1)
+- 2025-07-16, **Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2507.12083v1](http://arxiv.org/abs/2507.12083v1)
+- 2025-07-16, **Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**, Mohammed Hassanin et.al., Paper: [http://arxiv.org/abs/2507.11852v1](http://arxiv.org/abs/2507.11852v1)
 - 2025-07-15, **Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2507.11540v1](http://arxiv.org/abs/2507.11540v1)
 - 2025-07-15, **Langevin Flows for Modeling Neural Latent Dynamics**, Yue Song et.al., Paper: [http://arxiv.org/abs/2507.11531v1](http://arxiv.org/abs/2507.11531v1)
 - 2025-07-15, **A Survey on Interpretability in Visual Recognition**, Qiyang Wan et.al., Paper: [http://arxiv.org/abs/2507.11099v1](http://arxiv.org/abs/2507.11099v1)
