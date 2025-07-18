@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13225v1-b31b1b.svg)](http://arxiv.org/abs/2507.13225v1)|null|
+|**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
+|**2025-07-17**|**Channel-wise Motion Features for Efficient Motion Segmentation**|Riku Inoue et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13082v1-b31b1b.svg)](http://arxiv.org/abs/2507.13082v1)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v1-b31b1b.svg)](http://arxiv.org/abs/2507.12911v1)|null|
+|**2025-07-17**|**FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning**|Jikai Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12800v1-b31b1b.svg)](http://arxiv.org/abs/2507.12800v1)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12762v1-b31b1b.svg)](http://arxiv.org/abs/2507.12762v1)|null|
+|**2025-07-17**|**Domain-Enhanced Dual-Branch Model for Efficient and Interpretable Accident Anticipation**|Yanchen Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12755v1-b31b1b.svg)](http://arxiv.org/abs/2507.12755v1)|null|
+|**2025-07-16**|**Safeguarding Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12568v1-b31b1b.svg)](http://arxiv.org/abs/2507.12568v1)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12463v1-b31b1b.svg)](http://arxiv.org/abs/2507.12463v1)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12414v1-b31b1b.svg)](http://arxiv.org/abs/2507.12414v1)|null|
 |**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12263v1-b31b1b.svg)](http://arxiv.org/abs/2507.12263v1)|null|
