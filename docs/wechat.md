@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2025-07-18, **Preference-based Multi-Objective Reinforcement Learning**, Ni Mu et.al., Paper: [http://arxiv.org/abs/2507.14066v1](http://arxiv.org/abs/2507.14066v1)
+- 2025-07-18, **Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**, Jochen Wulf et.al., Paper: [http://arxiv.org/abs/2507.14034v1](http://arxiv.org/abs/2507.14034v1)
+- 2025-07-18, **Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**, Yujian Mo et.al., Paper: [http://arxiv.org/abs/2507.13899v1](http://arxiv.org/abs/2507.13899v1)
+- 2025-07-18, **Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**, Max van den Hoven et.al., Paper: [http://arxiv.org/abs/2507.13857v1](http://arxiv.org/abs/2507.13857v1)
+- 2025-07-18, **One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**, Haoang Lu et.al., Paper: [http://arxiv.org/abs/2507.13801v1](http://arxiv.org/abs/2507.13801v1)
+- 2025-07-18, **AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**, Yu Yao et.al., Paper: [http://arxiv.org/abs/2507.13729v1](http://arxiv.org/abs/2507.13729v1)
+- 2025-07-18, **Testing Autonomous Driving Systems -- What Really Matters and What Doesn't**, Changwen Li et.al., Paper: [http://arxiv.org/abs/2507.13661v1](http://arxiv.org/abs/2507.13661v1)
+- 2025-07-17, **CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction**, Sirui Wang et.al., Paper: [http://arxiv.org/abs/2507.13425v1](http://arxiv.org/abs/2507.13425v1)
 - 2025-07-17, **Signal Temporal Logic Compliant Co-design of Planning and Control**, Manas Sashank Juvvi et.al., Paper: [http://arxiv.org/abs/2507.13225v1](http://arxiv.org/abs/2507.13225v1)
 - 2025-07-17, **Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**, Arian Mousakhan et.al., Paper: [http://arxiv.org/abs/2507.13162v1](http://arxiv.org/abs/2507.13162v1)
 - 2025-07-17, **Channel-wise Motion Features for Efficient Motion Segmentation**, Riku Inoue et.al., Paper: [http://arxiv.org/abs/2507.13082v1](http://arxiv.org/abs/2507.13082v1)
