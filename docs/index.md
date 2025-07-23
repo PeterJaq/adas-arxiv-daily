@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16743v1-b31b1b.svg)](http://arxiv.org/abs/2507.16743v1)|null|
+|**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16725v1-b31b1b.svg)](http://arxiv.org/abs/2507.16725v1)|null|
+|**2025-07-22**|**A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**|Lorenzo Gentilini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16621v1-b31b1b.svg)](http://arxiv.org/abs/2507.16621v1)|null|
+|**2025-07-22**|**Distributed Oscillatory Guidance for Formation Flight of Fixed-Wing Drones**|Yang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16458v1-b31b1b.svg)](http://arxiv.org/abs/2507.16458v1)|null|
+|**2025-07-22**|**VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**|Kai Deng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16443v1-b31b1b.svg)](http://arxiv.org/abs/2507.16443v1)|null|
+|**2025-07-22**|**Autonomous Dominant Resource Fairness for Blockchain Ecosystems**|Serdar Metin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16350v1-b31b1b.svg)](http://arxiv.org/abs/2507.16350v1)|null|
+|**2025-07-22**|**A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**|Yifan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16177v1-b31b1b.svg)](http://arxiv.org/abs/2507.16177v1)|null|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15601v1-b31b1b.svg)](http://arxiv.org/abs/2507.15601v1)|null|
 |**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15518v1-b31b1b.svg)](http://arxiv.org/abs/2507.15518v1)|null|
 |**2025-07-21**|**Robots for Kiwifruit Harvesting and Pollination**|Jamie Bell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15484v1-b31b1b.svg)](http://arxiv.org/abs/2507.15484v1)|null|

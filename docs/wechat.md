@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2025-07-22, **Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**, Keneni W. Tesema et.al., Paper: [http://arxiv.org/abs/2507.16743v1](http://arxiv.org/abs/2507.16743v1)
+- 2025-07-22, **RAVine: Reality-Aligned Evaluation for Agentic Search**, Yilong Xu et.al., Paper: [http://arxiv.org/abs/2507.16725v1](http://arxiv.org/abs/2507.16725v1)
+- 2025-07-22, **A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**, Lorenzo Gentilini et.al., Paper: [http://arxiv.org/abs/2507.16621v1](http://arxiv.org/abs/2507.16621v1)
+- 2025-07-22, **Distributed Oscillatory Guidance for Formation Flight of Fixed-Wing Drones**, Yang Xu et.al., Paper: [http://arxiv.org/abs/2507.16458v1](http://arxiv.org/abs/2507.16458v1)
+- 2025-07-22, **VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2507.16443v1](http://arxiv.org/abs/2507.16443v1)
+- 2025-07-22, **Autonomous Dominant Resource Fairness for Blockchain Ecosystems**, Serdar Metin et.al., Paper: [http://arxiv.org/abs/2507.16350v1](http://arxiv.org/abs/2507.16350v1)
+- 2025-07-22, **A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2507.16177v1](http://arxiv.org/abs/2507.16177v1)
 - 2025-07-21, **Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**, Huiling Yang et.al., Paper: [http://arxiv.org/abs/2507.15601v1](http://arxiv.org/abs/2507.15601v1)
 - 2025-07-21, **HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**, Sizhou Chen et.al., Paper: [http://arxiv.org/abs/2507.15518v1](http://arxiv.org/abs/2507.15518v1)
 - 2025-07-21, **Robots for Kiwifruit Harvesting and Pollination**, Jamie Bell et.al., Paper: [http://arxiv.org/abs/2507.15484v1](http://arxiv.org/abs/2507.15484v1)
