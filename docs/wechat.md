@@ -1,4 +1,4 @@
-> Updated on 2025.07.22
+> Updated on 2025.07.23
 
 ## Autonomous_Driving
 
@@ -7,7 +7,7 @@
 - 2025-07-21, **Robots for Kiwifruit Harvesting and Pollination**, Jamie Bell et.al., Paper: [http://arxiv.org/abs/2507.15484v1](http://arxiv.org/abs/2507.15484v1)
 - 2025-07-21, **VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2507.15266v1](http://arxiv.org/abs/2507.15266v1)
 - 2025-07-20, **CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**, Pan Hu et.al., Paper: [http://arxiv.org/abs/2507.14903v1](http://arxiv.org/abs/2507.14903v1)
-- 2025-07-19, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v1](http://arxiv.org/abs/2507.14456v1)
+- 2025-07-22, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v2](http://arxiv.org/abs/2507.14456v2)
 - 2025-07-18, **Preference-based Multi-Objective Reinforcement Learning**, Ni Mu et.al., Paper: [http://arxiv.org/abs/2507.14066v1](http://arxiv.org/abs/2507.14066v1)
 - 2025-07-18, **Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**, Jochen Wulf et.al., Paper: [http://arxiv.org/abs/2507.14034v1](http://arxiv.org/abs/2507.14034v1)
 - 2025-07-18, **Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**, Yujian Mo et.al., Paper: [http://arxiv.org/abs/2507.13899v1](http://arxiv.org/abs/2507.13899v1)

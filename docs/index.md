@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 
 ## Autonomous_Driving
 
@@ -13,7 +13,7 @@ layout: default
 |**2025-07-21**|**Robots for Kiwifruit Harvesting and Pollination**|Jamie Bell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15484v1-b31b1b.svg)](http://arxiv.org/abs/2507.15484v1)|null|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15266v1-b31b1b.svg)](http://arxiv.org/abs/2507.15266v1)|null|
 |**2025-07-20**|**CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**|Pan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14903v1-b31b1b.svg)](http://arxiv.org/abs/2507.14903v1)|null|
-|**2025-07-19**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v1-b31b1b.svg)](http://arxiv.org/abs/2507.14456v1)|null|
+|**2025-07-22**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v2-b31b1b.svg)](http://arxiv.org/abs/2507.14456v2)|null|
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14066v1-b31b1b.svg)](http://arxiv.org/abs/2507.14066v1)|null|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14034v1-b31b1b.svg)](http://arxiv.org/abs/2507.14034v1)|null|
 |**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13899v1-b31b1b.svg)](http://arxiv.org/abs/2507.13899v1)|null|
