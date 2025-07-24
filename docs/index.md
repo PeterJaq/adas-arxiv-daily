@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17722v1-b31b1b.svg)](http://arxiv.org/abs/2507.17722v1)|null|
+|**2025-07-23**|**Reusing Attention for One-stage Lane Topology Understanding**|Yang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17617v1-b31b1b.svg)](http://arxiv.org/abs/2507.17617v1)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17596v1-b31b1b.svg)](http://arxiv.org/abs/2507.17596v1)|null|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17479v1-b31b1b.svg)](http://arxiv.org/abs/2507.17479v1)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17455v1-b31b1b.svg)](http://arxiv.org/abs/2507.17455v1)|null|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Joobin Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17418v1-b31b1b.svg)](http://arxiv.org/abs/2507.17418v1)|null|
+|**2025-07-23**|**DeMo++: Motion Decoupling for Autonomous Driving**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17342v1-b31b1b.svg)](http://arxiv.org/abs/2507.17342v1)|null|
+|**2025-07-23**|**JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction**|Fangze Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17152v1-b31b1b.svg)](http://arxiv.org/abs/2507.17152v1)|null|
+|**2025-07-23**|**HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**|Mandar Pitale et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17118v1-b31b1b.svg)](http://arxiv.org/abs/2507.17118v1)|null|
+|**2025-07-22**|**SDGOCC: Semantic and Depth-Guided Bird's-Eye View Transformation for 3D Multimodal Occupancy Prediction**|Zaipeng Duan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.17083v1-b31b1b.svg)](http://arxiv.org/abs/2507.17083v1)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16743v1-b31b1b.svg)](http://arxiv.org/abs/2507.16743v1)|null|
 |**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16725v1-b31b1b.svg)](http://arxiv.org/abs/2507.16725v1)|null|
 |**2025-07-22**|**A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**|Lorenzo Gentilini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16621v1-b31b1b.svg)](http://arxiv.org/abs/2507.16621v1)|null|

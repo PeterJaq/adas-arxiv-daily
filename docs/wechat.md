@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2025-07-23, **BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**, Malsha Ashani Mahawatta Dona et.al., Paper: [http://arxiv.org/abs/2507.17722v1](http://arxiv.org/abs/2507.17722v1)
+- 2025-07-23, **Reusing Attention for One-stage Lane Topology Understanding**, Yang Li et.al., Paper: [http://arxiv.org/abs/2507.17617v1](http://arxiv.org/abs/2507.17617v1)
+- 2025-07-23, **PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**, Maciej K. Wozniak et.al., Paper: [http://arxiv.org/abs/2507.17596v1](http://arxiv.org/abs/2507.17596v1)
+- 2025-07-23, **SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**, Chuang Chen et.al., Paper: [http://arxiv.org/abs/2507.17479v1](http://arxiv.org/abs/2507.17479v1)
+- 2025-07-23, **VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**, Sania Waheed et.al., Paper: [http://arxiv.org/abs/2507.17455v1](http://arxiv.org/abs/2507.17455v1)
+- 2025-07-23, **Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**, Joobin Jin et.al., Paper: [http://arxiv.org/abs/2507.17418v1](http://arxiv.org/abs/2507.17418v1)
+- 2025-07-23, **DeMo++: Motion Decoupling for Autonomous Driving**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2507.17342v1](http://arxiv.org/abs/2507.17342v1)
+- 2025-07-23, **JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction**, Fangze Lin et.al., Paper: [http://arxiv.org/abs/2507.17152v1](http://arxiv.org/abs/2507.17152v1)
+- 2025-07-23, **HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**, Mandar Pitale et.al., Paper: [http://arxiv.org/abs/2507.17118v1](http://arxiv.org/abs/2507.17118v1)
+- 2025-07-22, **SDGOCC: Semantic and Depth-Guided Bird's-Eye View Transformation for 3D Multimodal Occupancy Prediction**, Zaipeng Duan et.al., Paper: [http://arxiv.org/abs/2507.17083v1](http://arxiv.org/abs/2507.17083v1)
 - 2025-07-22, **Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**, Keneni W. Tesema et.al., Paper: [http://arxiv.org/abs/2507.16743v1](http://arxiv.org/abs/2507.16743v1)
 - 2025-07-22, **RAVine: Reality-Aligned Evaluation for Agentic Search**, Yilong Xu et.al., Paper: [http://arxiv.org/abs/2507.16725v1](http://arxiv.org/abs/2507.16725v1)
 - 2025-07-22, **A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**, Lorenzo Gentilini et.al., Paper: [http://arxiv.org/abs/2507.16621v1](http://arxiv.org/abs/2507.16621v1)
